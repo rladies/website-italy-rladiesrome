@@ -1,0 +1,14 @@
+{
+  "hash": "43d2a0e97e36298cd7b8a0694da0b46a",
+  "result": {
+    "markdown": "---\ntitle: \"RLadies Quarto\"\nsubtitle: \"Mine Cetinkaya-Rundel\"\ndate: 2023-02-13\nimage: \"feb23.png\"\nimage-alt: \"\"\ndescription: \"Mine Cetinkaya-Rundel\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n{{% youtube \"lV-vUI--Pv0&t=3s\" %}}\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

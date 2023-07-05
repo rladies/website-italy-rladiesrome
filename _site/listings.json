@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/talks/talks2023.html",
+    "items": [
+      "/talks/meetup/june302023/index.html",
+      "/talks/meetup/june122023/index.html",
+      "/talks/meetup/may172023/index.html",
+      "/talks/meetup/apr222023/index.html",
+      "/talks/meetup/mar222023/index.html",
+      "/talks/meetup/feb132023/index.html",
+      "/talks/meetup/jan242023/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/intro/index.html"
+    ]
+  }
+]

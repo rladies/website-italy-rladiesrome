@@ -1,0 +1,24 @@
+---
+title: "RLadies Quarto"
+subtitle: "Mine Cetinkaya-Rundel"
+date: 2023-02-13
+image: "feb132023.png"
+image-alt: ""
+description: "In this video you'll learn about Quarto"
+categories:
+  - quarto
+---
+
+`Registered Attendees (86)`
+
+February 2023 speaker is [`Mine Çetinkaya-Rundel`](https://mine-cr.com/), Professor of the Practice at `Duke University` and Developer Educator at [`Posit PBC`](https://posit.co/). Her work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, and student-centered learning. She is also involved in the `OpenIntro project`, co-authoring four open-source introductory statistics textbooks, and is a Fellow of the ASA and Elected Member of the ISI.
+
+In the talk, she introduces [`Quarto`](https://quarto.org/), an open-source publishing system that is designed for scientific and technical content. Built on top of the R Markdown ecosystem, it provides a unified and extended platform for publishing technical content. She will be discussing and demonstrating how she uses Quarto for authoring, teaching, and collaborating.
+
+{{< video https://www.youtube.com/watch?v=lV-vUI–Pv0&t=6s >}}
+
+If you're interested in learning more about Quarto and how it can be used for technical publishing, be sure to check out the talk at https://youtu.be/p7Hxu4coDl8.
+
+More about Quarto: [quarto-tip-a-day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
+
+Material of the talk: [quarto-rladies-rome](https://github.com/mine-cetinkaya-rundel/quarto-rladies-rome)

@@ -1,0 +1,34 @@
+---
+title: "One Health and the Politics of Coronaviruses"
+subtitle: "Dr. Laura Kahn"
+date: 2023-06-30
+image: "june302023.png"
+image-alt: ""
+description: "In this video, you'll learn about the latest updates in the dynamic field of the One Health Initiative."
+categories:
+  - open questions
+  - health
+---
+
+`Registered Attendees (29)`
+
+June 30, 2023 speaker is [`Dr. Laura Kahn`](https://www.linkedin.com/in/laura-kahn-79b01510/).
+
+If you're a researcher involved in improving `public health` or interested in the fascinating world of `zoonotic diseases`, you won't want to miss the enlightening talk by `Dr. Laura Kahn`.
+
+In this video [Dr. Laura Kahn](https://twitter.com/LauraKahn1), physician, author, and educator, will share her latest research findings and insights from her upcoming book `One Health and the Politics of Coronaviruses`. With her extensive experience and dedication to transforming global health approaches, Dr. Kahn's work has significantly contributed to the development of the `One Health Initiative`. She spent nearly 20 years as a research scholar at the Program on Science and Global Security at Princeton University School of Public and International Affairs, where her innovative work laid the groundwork for this important initiative.
+
+{{< video https://www.youtube.com/watch?v=rK1zOcAsdXw&t=4s >}}
+
+Gain a deeper understanding of the interconnectedness between human, animal, and environmental health, particularly in relation to emerging zoonotic diseases like coronaviruses. Dr. Kahn's expertise and groundbreaking research shed light on this crucial topic, offering valuable insights and thought-provoking perspectives. To further explore the subject, we recommend visiting the One Health Initiative website (<http://www.onehealthinitiative.com>) for additional resources and information. Don't miss out on this opportunity to expand your knowledge and contribute to the advancement of public health. Watch the recording now and join the conversation!
+
+#OneHealth \| #PublicHealth \| #ZoonoticDiseases \| #KnowledgeSharing
+
+Material of the talk: [One Health and the Politics of Coronavirus](https://github.com/rladies/meetup-presentations_rome/blob/main/events/2023/intro_presentation/material/KAHN_RLadies_06_30_2023.pdf)
+
+To follow `Dr. Laura Kahn`:
+
+-   BIO: <https://thebulletin.org/biography/laura-h-kahn/>
+-   Twitter: <https://twitter.com/LauraKahn1> and <https://twitter.com/OneHealthNews>
+-   LinkedIn: <https://www.linkedin.com/in/laura-kahn-79b01510/>
+-   WebSite: <https://onehealthinitiative.com/>

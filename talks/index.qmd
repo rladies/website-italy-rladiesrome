@@ -1,0 +1,19 @@
+---
+title: "Talks"
+listing:
+  contents: none
+  sort: "date desc"
+  type: grid
+  image-height: "200"
+  categories: false
+page-layout: full
+title-block-banner: false
+---
+
+We are thrilled to share with you the exciting talks that `R-Ladies Rome` has hosted since January. We have had the pleasure of hosting amazing speakers who have shared their knowledge and insights on various topics related to `R programming`.
+
+`Julia Silge` kicked off the year with a talk on `MLOps with Vetiver`, followed by `Mine Cetinkaya-Rundel`'s presentation on `RLadies Quarto`. `Isabella Velasquez` then shared with us `What's new in the tidyverse`, and `Jacqueline Buros and Federica Gazzelloni` wrapped up the series with a talk on `Modeling infectious diseases`.
+
+And we are excited to add a man to our list `Jon Harmon` who talked us about time zone adjustments with `Why I Hate Summer Time: Coordinating a Global Community of Learners`. Finally, our first half of the year concludes with the latest events `Data Science Best Practices` featuring `Dr. Simina Boca` and `One Health and the Politics of Coronaviruses` with `Dr. Laura Kahn`.
+
+We are grateful to all our speakers for sharing their expertise, and to our community for their engagement and support. If you missed any of these talks, you can find the presentation materials on our website or ask for more information at [rome\@rladies.org](mailto:rome@rladies.org){.email}. Stay tuned for more exciting events and speakers in the future!

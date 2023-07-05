@@ -1,0 +1,14 @@
+{
+  "hash": "166e451ae3da94761903e5900e13a32a",
+  "result": {
+    "markdown": "---\ntitle: \"Modeling infectious diseases\"\nsubtitle: \"Jacqueline Buros & Federica Gazzelloni\"\ndate: 2023-04-22\nimage: \"apr23.png\"\nimage-alt: \"\"\ndescription: \"Jacqueline Buros & Federica Gazzelloni\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n{{% youtube \"-3mcwchd-w4&t=110s\" %}}\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+---
+title: "R-Ladies Rome"
+subtitle: "Learning Network: A collaborative network for knowledge sharing and skill-building"
+---
+
+> `Welcome to R-Ladies Rome`, local chapter of `R-Ladies Global`, an organization that promotes gender diversity in the R programming community worldwide. Our community is designed to develop our members' R skills and knowledge through social, collaborative learning and sharing, supporting minority identity access to STEM skills and careers, the Free Software Movement, and contributing to the global R community.
+
+At [R-Ladies Rome](https://www.meetup.com/rladies-rome/), we welcome members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking, and expert up-skilling. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in working with R. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.
+
+Our community meets regularly in person or virtually to learn about the [R programming language](https://www.r-project.org/about.html), algorithms, and advanced tools. We organize `events` such as `workshops`, `meetups`, and `conferences` to teach R programming skills, share knowledge and experiences, and build a community of R users. We also provide `training` and `development opportunities` for our members, including `online courses`, `mentorship programs`, and other resources to help members improve their R programming `skills`.
+
+`R-Ladies Rome` is committed to research and advocacy efforts related to gender diversity in the R community. We conduct surveys, publish reports, and advocate for policies and practices that promote gender diversity and inclusion. We also provide a platform for our members to share their experiences and contribute to the global R community.
+
+[Join us today](https://www.meetup.com/rladies-rome/) and become a part of our supportive community of R users. You can access our presentations, R scripts, and projects on our GitHub account and follow us on Twitter to stay up to date about [R-Ladies news](https://twitter.com/RLadiesRome). Remember, there is no cost or charge to participate in any of our R-Ladies communities around the world.

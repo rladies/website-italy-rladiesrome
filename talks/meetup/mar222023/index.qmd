@@ -1,0 +1,35 @@
+---
+title: "What's new in the tidyverse"
+subtitle: "Isabella Velasquez"
+date: 2023-03-22
+image: "mar222023.png"
+image-alt: ""
+description: "In this video you'll learn the recent updates in the TidyVerse ecosystem"
+categories:
+  - R updates
+  - tidyverse
+---
+
+`Registered Attendees (78)`
+
+March 2023 speaker is [`Isabella Velasquez`](https://github.com/ivelasq), R enthusiast who first learned the programming language during her MSc in Analytics. She has experience in data analysis, research, and developing infrastructure to support the use of data. Currently, she works on the `Posit (formerly RStudio)` Marketing team, creating content to support and strengthen data science teams.
+
+In the talk, she covers the numerous updates and new features added to the [`tidyverse`](https://www.tidyverse.org/blog/), everything from the latest string-separating functions to new joins, and show you how these updates can make your life as a data scientist more streamlined and intuitive.
+
+{{< video https://www.youtube.com/watch?v=QgjRe8uorL8&t=4225s >}}
+
+If you're an R user, you're probably familiar with the tidyverse - a collection of packages that have transformed the way we handle data wrangling, visualization, and analysis.
+
+The `tidyverse` is a collection of open-source R packages designed for data science. It was `developed by Hadley Wickham` and his team at `RStudio`, and it includes packages for data manipulation, visualization, modeling, and programming.
+
+The tidyverse emphasizes a consistent and intuitive syntax, making it easier for users to work with data and create reproducible analyses. Some of the most popular packages in the tidyverse include dplyr, `ggplot2`, `tidyr`, and `purrr.` Overall, the tidyverse has become a widely-used and powerful tool for data scientists and analysts working with R.
+
+Material of the talk: [Whats New in the Tidyverse](https://ivelasq.github.io/2023-03-22_whats-new-in-the-tidyverse/)
+
+To follow `Isabella Velasquez`:
+
+-   WebSite/Blog: <https://ivelasq.rbind.io/>
+-   GitHub: <https://github.com/ivelasq>
+-   Twitter: <https://twitter.com/ivelasq3>
+-   LinkedIn: <https://www.linkedin.com/in/ivelasq/>
+-   Mastodon: [https://fosstodon.org/\@ivelasq3](https://fosstodon.org/@ivelasq3){.uri}

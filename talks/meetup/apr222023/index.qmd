@@ -1,0 +1,26 @@
+---
+title: "Modeling infectious diseases"
+subtitle: "Jacqueline Buros & Federica Gazzelloni"
+date: 2023-04-22
+image: "apr222023.png"
+image-alt: ""
+description: "In this video you'll learn about modeling"
+categories:
+  - modeling
+  - rstan
+---
+
+`Registered Attendees (37)` in Partnership with [`R-Ladies NYC`](https://www.meetup.com/rladies-newyork/events/292673996/) `Registered Attendees (39)`
+
+April 2023 speakers are [`Jacqueline Buros`](https://scholar.google.com/citations?user=O_AWJTwAAAAJ&hl=en), experienced in biostatistics and bioinformatics, she is the author of the `survivalstan` package and a contributor to the rstanarm package, and [`Federica Gazzelloni`](https://federicagazzelloni.netlify.app/), independent researcher and statistician, author the `Oregonfrogs` package.
+
+In this talk a deterministic and a Bayesian version of the SIR model is presented.
+
+{{< video https://www.youtube.com/watch?v=-3mcwchd-w4&t=110s >}}
+
+The `deterministic SIR` model is a mathematical model used to understand the spread of infectious diseases in a population, assuming that the population is homogeneous and the disease spreads at a constant rate. The `Bayesian SIR` model, on the other hand, incorporates uncertainty and variability in the model parameters, allowing for more accurate predictions and better decision-making. It uses Bayesian inference to estimate the probability distribution of the model parameters, given the observed data.
+
+Material of the talk:
+
+-   [deterministic-sir-model-with-r](https://fgazzelloni.quarto.pub/deterministic-sir-model-with-r/)
+-   [r-ladies-sir-model](https://github.com/jburos/r-ladies-sir-model)

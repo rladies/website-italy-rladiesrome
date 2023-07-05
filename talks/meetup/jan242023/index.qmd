@@ -1,0 +1,24 @@
+---
+title: "MLOps with vetiver"
+subtitle: "Julia Silge"
+date: 2023-01-24
+image: "jan242023.png"
+image-alt: ""
+description: "In this video you'll learn what Machine learning operations (MLOps) is"
+categories:
+  - modeling
+---
+
+`Registered Attendees (53)`
+
+January 2023 speaker is [`Julia Silge`](https://juliasilge.com/), data scientist and software engineer at [`Posit PBC`](https://posit.co/), with a PhD in astrophysics. Julia is an author, international keynote speaker, and practitioner in data analysis and machine learning.
+
+In the talk, she covers the challenges of `deploying and maintaining machine learning models` and introduces the principles of MLOps. She also discusses the various tasks and components involved in MLOps and demonstrates how to get started with [`vetiver`](https://rstudio.github.io/vetiver-r/), a framework for MLOps tasks in R. The video provides a great resource for those interested in learning more about MLOps and how to implement it in their own projects.
+
+{{< video https://www.youtube.com/watch?v=PPB-iG8SexE&t=14s >}}
+
+The process of training a machine learning or statistical model is well understood by many data scientists. However, the task of `creating a strategy to deploy and maintain that model` can be overwhelming. This is where `Machine Learning Operations (MLOps)` comes in.
+
+MLOps is a set of principles and practices that can be used to create a practical strategy for deploying and maintaining machine learning models.
+
+Material of the talk: [mlops-r-ladies-rome](https://juliasilge.github.io/mlops-r-ladies-rome/)

@@ -1,0 +1,28 @@
+---
+title: "Data Science Best Practices"
+subtitle: "Simina Boca"
+date: 2023-06-12
+image: "june122023.png"
+image-alt: ""
+description: "In this video you'll find the intro presentation of the Data Science Best Practices event. To see the recording please contact <rome@rladies.org>"
+categories:
+  - best practices
+---
+
+`Registered Attendees (66)`
+
+June 12, 2023 speaker is Dr. [`Simina Boca`](https://www.linkedin.com/in/simina-boca-6131a539/), statistician and data scientist who has experience in both academia and industry. She has worked in the analysis of omics data, population genetics, precision medicine, and early-phase drug development. Dr. Boca has taught courses and presented tutorials using R and has developed a number of R packages. She was a co-organizer for R-Ladies DC in 2021 and 2022.
+
+During her presentation, Dr. Boca discussed the different stages of `data analysis`, offering `expert advice` on how to effectively organize and manage `data science projects`. She also delved into the importance of `reproducible research`, highlighting key principles and `best practices` for ensuring that research could be replicated and verified.
+
+{{< video https://www.youtube.com/watch?v=jSsU5uvbV6o&t=42s >}}
+
+But that wasn't all! Dr. Boca provided an introduction to exploratory data analysis, discussing basic principles and techniques for visualizing and analyzing data. Attendees gained valuable insights into the process of data analysis, as well as practical tips and strategies for managing data science projects and conducting reproducible research.
+
+Request full Recording and the Material of the talk: [rome\@rladies.org](mailto:rome@rladies.org){.email}
+
+To follow Dr.Simina Boca:
+
+-   GitHub: [\@SiminaB](https://github.com/SiminaB)
+-   Twitter: [\@siminaboca](https://twitter.com/siminaboca)
+-   LinkedIn: <https://www.linkedin.com/in/simina-boca-6131a539/>

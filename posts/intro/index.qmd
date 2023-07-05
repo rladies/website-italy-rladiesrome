@@ -1,0 +1,37 @@
+---
+title: "Introduction"
+subtitle: "Welcome to R-Ladies Rome Blog!"
+date: 2023-05-14
+image: "logo.png"
+image-alt: ""
+description: "Social Networks"
+---
+
+We are excited to announce that `R-Ladies Rome` has expanded its online presence by opening social accounts on `Twitter`, `LinkedIn`, and `Mastodon`.
+
+As a local chapter of R-Ladies Global, our mission is to promote gender diversity in the R community and provide a safe and supportive space for minority gender R enthusiasts to learn, grow, and contribute to the R community.
+
+With our new social media accounts, we hope to connect with more people interested in working with R, share our events and activities, and engage with the larger R community.
+
+`Follow us` on `Twitter at @rladiesrome`, connect with us on `LinkedIn at @R-Ladies Rome`, and join us on `Mastodon at @rladiesrome@fosstodon.org` to stay up to date with our latest news and events.
+
+<center>
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+Welcome to R-Ladies Rome Twitter account. This is a local chapter of @RLadiesGlobal. We meet once a month for talking about data analytics, visualizations, and modeling with R.
+
+To become a member: \<a href="https://www.meetup.com/rladies-rome/</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>
+
+</p>
+
+--- R-Ladies Rome (@rladiesrome) <a href="https://twitter.com/RLadiesRome/status/1575625486742364161">Sep 30, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+</center>

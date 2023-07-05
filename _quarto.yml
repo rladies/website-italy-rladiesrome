@@ -1,0 +1,63 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  open-graph: true
+  twitter-card:
+    creator: "@fgazzelloni"
+    site: "@rladiesrome"
+  title: "R-Ladies Rome"
+  site-url: "https://www.meetup.com/rladies-rome/" 
+  repo-url: https://github.com/rladies/meetup-presentations_rome 
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By R-Ladies Rome, 2023"
+  
+  sidebar:
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://rladies.org
+        text: "rladies.org"
+      - icon: github
+        href: https://github.com/rladies/meetup-presentations_rome
+        text: "meetup-presentations_rome"
+      - icon: twitter
+        href: https://twitter.com/rladiesrome
+        text: "R-Ladies Rome Twitter" 
+        
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - about.qmd  
+      - blog.qmd
+      - section: 
+          talks/index.qmd
+        contents: 
+          - talks/talks2023.qmd 
+        
+        
+format:
+  html:
+    theme: 
+      light: pulse
+      dark: darkly
+    code-copy: true
+    code-overflow: wrap
+    toc: true  
+    fontsize: 1.1em
+    linestretch: 1.7  
+    css: styles.css
+
+editor: visual
+
+
+

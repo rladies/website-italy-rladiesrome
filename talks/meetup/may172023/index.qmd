@@ -1,0 +1,33 @@
+---
+title: "Why I Hate Summer Time: Coordinating a Global Community of Learners"
+subtitle: "Jon Harmon"
+date: 2023-05-17
+image: "may172023.png"
+image-alt: ""
+description: "In this video you'll learn about time zone differences"
+categories:
+  - best practices
+---
+
+`Registered Attendees (38)`
+
+May 2023 speaker is [`Jon Harmon`](https://www.linkedin.com/in/jonthegeek/), dedicated leader who runs the [R4DS Online Learning Community](https://r4ds.io) to help others improve their R skills. He provides a supportive and collaborative environment for R learners of all skill levels to learn and grow through book clubs and question-answering. Jon is also a freelance R package developer who uses his expertise to help others in the community develop their own R packages and improve their coding skills.
+
+In this talk, `Jon Harmon` shares valuable insights and practical tips for managing time zones and scheduling events for a global audience. As the Chief Community Manager of R4DS Online Learning Community, Jon drew from his experience of leading a global community of R enthusiasts at all skill levels, working together to improve their abilities. Attendees had the opportunity to learn from Jon's leadership and guidance, network with other R learners and experts, and enhance their understanding of time zones and R. It was an incredible opportunity not to be missed!
+
+{{< video https://www.youtube.com/watch?v=E68Cf8BWl30&t=2s >}}
+
+`Time zone changing time` issues can be a major challenge when scheduling events for a global audience. With different time zones, daylight saving time changes, and varying work schedules, it can be difficult to find a time that works for everyone. This can lead to confusion, missed meetings, and frustration for both organizers and attendees. In his talk, Jon Harmon provided valuable insights and practical tips for managing time zones and scheduling events to help overcome these challenges. Attendees learned how to navigate time zone differences, `avoid scheduling conflicts`, and ensure that everyone is on the same page when it comes to meeting times.
+
+Material of the talk:
+
+-   <https://r4ds.io/rladiesrome202305>
+
+Follow Jon:
+
+-   LinkedIn: <https://www.linkedin.com/in/jonthegeek/>
+-   GitHub: <https://github.com/jonthegeek>
+-   Mastodon: [https://fosstodon.org/\@jonthegeek](https://fosstodon.org/@jonthegeek){.uri}
+-   Twitter: [\@JonTheGeek](https://twitter.com/JonTheGeek)
+-   Twitter: [\@R4DScommunity](https://twitter.com/R4DScommunity)
+-   <https://www.rfordatasci.com/>

@@ -1,0 +1,14 @@
+{
+  "hash": "502f983b2fe648dd2cbbfadb0399dc50",
+  "result": {
+    "markdown": "---\ntitle: \"MLOps with vetiver\"\nsubtitle: \"Julia Silge\"\ndate: 2023-01-24\nimage: \"jan23.png\"\nimage-alt: \"\"\ndescription: \"Julia Silge\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n{{% youtube \"PPB-iG8SexE\" %}}\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
