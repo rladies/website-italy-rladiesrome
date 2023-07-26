@@ -1,0 +1,23 @@
+---
+title: "Exciting Talks at R-Ladies Rome: First Half of the Year"
+subtitle: "Welcome to R-Ladies Rome Blog!"
+date: "2023-07-26"
+image: "firsthalf.png"
+image-alt: ""
+description: "Inspiring Insights and Knowledge Sharing in R Programming"
+---
+
+We are thrilled to look back at the `first half of the year` and share the exciting talks that `R-Ladies Rome` has hosted. It has been an incredible journey, filled with amazing speakers who have shared their knowledge and insights on various topics related to `R programming`.
+
+The year kicked off with [Julia Silge](https://juliasilge.com/)'s captivating talk on [MLOps with Vetiver](https://juliasilge.github.io/mlops-r-ladies-rome), followed by [Mine Cetinkaya-Rundel](https://mine-cr.com/)'s informative presentation on [RLadies Quarto](https://github.com/mine-cetinkaya-rundel/quarto-rladies-rome). [Isabella Velasquez](https://github.com/ivelasq) then took the stage and shared with us [What's new in the tidyverse](https://github.com/ivelasq/2023-03-22_whats-new-in-the-tidyverse). Our series of inspiring talks continued with [Jacqueline Buros](https://www.meetup.com/rladies-rome/events/292629944/) and [Federica Gazzelloni](https://federicagazzelloni.netlify.app/) wrapping up the initial set of events with a thought-provoking discussion on [Deterministic modeling of infectious diseases](https://fgazzelloni.quarto.pub/deterministic-sir-model-with-r/) and [Bayesian modeling of infectious diseases](https://github.com/jburos/r-ladies-sir-model).
+
+As we continued to grow, we were excited to welcome [Jon Harmon](https://twitter.com/JonTheGeek), the first male speaker, who engaged us with his talk on time zone adjustments and his insightful presentation titled "[Why I Hate Summer Time: Coordinating a Global Community of Learners](https://r4ds.io/rladiesrome202305)."
+
+But we didn't stop there! The first half of the year concluded with two more exciting events. We had the privilege of hosting [Dr. Simina Boca](https://www.linkedin.com/in/simina-boca-6131a539/), who shared her expertise on [Data Science Best Practices](rome@rladies.org). Additionally, [Dr. Laura Kahn](https://www.linkedin.com/in/laura-kahn-79b01510/) enlightened us with her talk on "[One Health and the Politics of Coronaviruses](https://github.com/rladies/meetup-presentations_rome/blob/main/events/2023/intro_presentation/material/KAHN_RLadies_06_30_2023.pdf)."
+
+We are incredibly grateful to all our speakers for their passion and dedication in sharing their expertise with our community. Their talks have enriched our knowledge and inspired us to continue exploring the vast world of R programming.
+
+To those who missed any of these enlightening talks, fear not! You can find the presentation materials on our website. If you have any inquiries or want more information, don't hesitate to reach out to us at <rome@rladies.org>.
+
+The first half of the year has been phenomenal, but we are just getting started! Stay tuned for more exciting events and speakers in the future. Together, we will continue to foster a vibrant community that supports and empowers each other in the world of `R programming`.
+
