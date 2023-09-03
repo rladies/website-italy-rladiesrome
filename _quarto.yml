@@ -9,6 +9,7 @@ website:
     site: "@rladiesrome"
   title: "R-Ladies Rome"
   site-url: "https://www.meetup.com/rladies-rome/" 
+  google-analytics: "G-8BDX0D3T1M"
   repo-url: https://github.com/rladies/meetup-presentations_rome 
   repo-actions: [edit, issue]
   
@@ -30,6 +31,9 @@ website:
       - icon: twitter
         href: https://twitter.com/rladiesrome
         text: "R-Ladies Rome Twitter" 
+      - icon: mastodon
+        href: https://fosstodon.org/@rladiesrome  
+        text: "R-Ladies Rome mastodon" 
         
     style: "docked"
     search: true
@@ -43,6 +47,7 @@ website:
           talks/index.qmd
         contents: 
           - talks/talks2023.qmd 
+      - sponsors.qmd    
         
         
 format:
@@ -56,6 +61,7 @@ format:
     fontsize: 1.1em
     linestretch: 1.7  
     css: styles.css
+    link-external-newwindow: true
 
 editor: visual
 

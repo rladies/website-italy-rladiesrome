@@ -1,0 +1,54 @@
+---
+title: "R/Bioconductor Watch Party @RLadiesRome - in person"
+subtitle: "RLadies Rome Team"
+date: 2023-08-28
+image: "08282023.png"
+image-alt: ""
+description: "This video is a summary of all is done at the in person event in Rome at The Department of Statistics of La Sapienza University"
+categories:
+  - Bioconductor
+  - BiocManager
+  - R Packages
+---
+
+`Registered Attendees (10)`
+
+August 28, 2023 speaker is [Federica Gazzelloni](https://federicagazzelloni.netlify.app/) on behalf of [R-Ladies Rome](https://rladiesrome.quarto.pub/website)
+
+**Missed Our Thrilling Bioconductor Watch Party? Catch it on YouTube!**
+
+If you couldn't make it to our R/Bioconductor Watch Party, don't worry; we've got you covered! The event was a smashing success, and now you have the chance to experience it from the comfort of your screen.
+
+🔥 **You Shouldn't Miss This Recording!**
+
+**Cutting-Edge Talks:** Dive into the latest developments in bioinformatics, data science, and R programming. We watched selected talks from the Bioconductor Conference 2023, covering a wide range of captivating topics. (Full list of talks here: [BioC23 Playlist on YouTube](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS))
+
+**Flexible Viewing:** Whether you're a night owl or an early bird, you can watch the recording at your convenience. Pause, rewind, and take notes as you explore the world of bioinformatics.
+
+{{< video https://www.youtube.com/watch?v=i1IoNiKJNk8&t=518s >}}
+
+Here is the list of the selected talks, you can watch the full version here:
+
+-   Keynote, JJ Allaire: [Reproducible Manuscripts with Quarto](https://www.youtube.com/watch?v=0wB4K08ui4c&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=11&t=0s)
+
+-   Short Talks: Spatial Transcriptomics [SPAMMER: Spatial Analysis of Multi-omics Measurements in R](https://www.youtube.com/watch?v=sphsm5cvfDQ&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=18&t=0s)
+
+-   Short Talks: Infrastructure [rworkflows: taming the Wild West of R packages](https://www.youtube.com/watch?v=qdwbJOpVsvU&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=4&t=0s)
+
+-   Short Talks: [Single cell Model-based Dimensionality Reduction for Single-cell RNA-seq with Generalized Bilinear Models](https://www.youtube.com/watch?v=zcUMq9ZAOnw&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=33&t=0s)
+
+-   Workshop: Package demo: [Epidemiology for Bioinformaticians](https://www.youtube.com/watch?v=g1tlahrF7DM&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=24&t=0s)
+
+-   Workshop: Package demo: [Differential Expression Analysis using Limma and qsvaR](https://www.youtube.com/watch?v=k1Z-2woYGHQ&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=38&t=0s)
+
+-   Workshop: Package demo: [Tidy genomic and transcriptomic single cell analyses](https://www.youtube.com/watch?v=ecRdmHwEC7M&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS&index=36&t=0s)
+
+## Material of the Event
+
+Intro presentation: [welcome-to-r-ladies-rome August 2023](https://rladiesrome.quarto.pub/welcome-to-r-ladies-rome/)
+
+Event presentation: [rbioconductor-watch-party](https://rladiesrome.quarto.pub/rbioconductor-watch-party/)
+
+Hands-on Material: [--\> Go to workshop.bioconductor.org](workshop.bioconductor.org)
+
+#Bioconductor \| #rstats \| #DataScience \| #KnowledgeSharing \| #opensource \| #onlinelearning \| #RStudio \| #PositCloud \| #RGalaxi

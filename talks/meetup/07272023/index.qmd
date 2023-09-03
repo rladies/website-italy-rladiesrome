@@ -1,0 +1,44 @@
+---
+title: "Mastering R: An Intensive Crash Course for Data Enthusiasts!"
+subtitle: "RLadies Rome Team"
+date: 2023-07-27
+image: "07272023.png"
+image-alt: ""
+description: "In this video we'll introduce R and guide you through the steps for analyzing data from the #TidyTuesday project."
+categories:
+  - R Courses
+  - tidyverse
+  - tidytuesday
+---
+
+`Registered Attendees (102)`
+
+July 27, 2023 speaker is [Federica Gazzelloni](https://federicagazzelloni.netlify.app/) on behalf of [R-Ladies Rome](https://rladiesrome.quarto.pub/website)
+
+Join us for an exhilarating journey through the world of data analysis with our `Mastering R: An Intensive Crash Course for Data Enthusiasts!`. This intensive and engaging video is the first of a series of tailored courses for data enthusiasts looking to harness the power of `R programming` for their data analysis and visualization needs.
+
+This crash course covers everything you need to know starting from the basics and progressing to advanced concepts. You will learn the ins and outs of `R programming`, including loading and manipulating data, creating stunning visualizations with `{ggplot2}`, and exploring the powerful capabilities of `{tidyverse}` and `{tidytuesdayR}` meta packages. The course also showcases the seamless integration of `RStudio IDE` into `Posit.Cloud Workspace`, providing an efficient and user-friendly environment for your data analysis projects.
+
+{{< video https://www.youtube.com/watch?v=WG21XyzwKu0&t=2683s >}}
+
+
+For those starting with R, there are several valuable resources available to kickstart your journey. One essential resource is [R for Data Science](https://r4ds.had.co.nz/) by `Hadley Wickham` and `Garrett Grolemund`, a comprehensive and beginner-friendly book that covers the fundamentals of R and data analysis using the `Tidyverse` framework. Another great resource is the [RStudio Education website](https://education.rstudio.com/learn/) which offers free tutorials and webinars to help learners get acquainted with R and its functionalities.
+
+Online platforms such as `Coursera` offer interactive R courses taught by experts, making it easier to learn at one's own pace. 
+
+Lastly, the R community is rich with forums like [Stack Overflow](https://stackoverflow.com/) and [R-Ladies](rladies.org), where users can seek help, share insights, and collaborate with other `R enthusiasts`. Embracing these resources will provide a solid foundation for newcomers to start their exciting journey with `R`.
+
+#RCrash | #rstats | #tidytuesday | #KnowledgeSharing | #opensource | #onlinelearning | #RStudio | #PositCloud
+
+
+Material of the course: [--> Go to our Posit.Cloud Workspace](https://posit.cloud/spaces/393298/join?access_code=JBFywQxui8vIu7kP399uv_YsuDnYlrfH-kwgyvLK)
+
+More resources: 
+
+- To gain more information about how to use Posit.Cloud please have a look here: [Posit Cloud Essentials: Getting Started](https://www.youtube.com/watch?v=-fzwm4ZhVQQ)
+
+- Or if you'd like to use `RStudio` directly on your machine, install it from here: <https://posit.co/download/rstudio-desktop/>
+
+- To ask for help join `R4DS community` slack: <https://www.rfordatasci.com/>
+
+

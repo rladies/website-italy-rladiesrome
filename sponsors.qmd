@@ -1,0 +1,23 @@
+---
+title: "Sponsor"
+---
+
+## Introducing Our New Sponsor: `R Consortium`
+
+We are thrilled to announce our latest partnership with `R Consortium`, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.
+
+![](images/rconsortium.png){fig-align="center" width="418"}
+
+## Why R Consortium?
+
+R Consortium's mission aligns perfectly with our goals at R-Ladies Rome. They provide essential support to projects and initiatives that enhance R's capabilities and accessibility. By partnering with R Consortium, we're strengthening our commitment to empowering data enthusiasts, promoting R programming, and fostering a vibrant community.
+
+## What This Means for You
+
+This partnership brings numerous benefits to our community. We'll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we'll continue to grow, learn, and share knowledge within the R programming ecosystem.
+
+We're grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.
+
+Let's embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here's to a bright future of learning, innovation, and community-building!
+
+#RConsortium #RProgramming #DataScience #CommunityBuilding

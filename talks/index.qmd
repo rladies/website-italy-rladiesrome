@@ -16,7 +16,7 @@ We hope you've had a fantastic first half of the year with us at `R-Ladies Rome`
 
 🚀 **Mastering R: An Intensive Crash Course for Data Enthusiasts!** 🚀
 
-To kick things off, we are thrilled to announce our flagship event, "Mastering R: An Intensive Crash Course for Data Enthusiasts!" This comprehensive crash course is designed to empower data enthusiasts of all levels to become R masters. Whether you're a beginner or a seasoned R user, this course will take your skills to the next level. Stay tuned for the course schedule and registration details coming soon!
+To kick things off, we are thrilled to announce our flagship event, "Mastering R: An Intensive Crash Course for Data Enthusiasts!" This comprehensive crash course is designed to empower data enthusiasts of all levels to become R masters. Whether you're a beginner or a seasoned R user, this course will take your skills to the next level. Stay tuned for the course video recording and materials coming soon!
 
 🔬 **R/Bioconductor Watch Party for BioC 2023** 🔬
 
@@ -30,6 +30,6 @@ As always, we are grateful for your continued engagement and support in our comm
 
 Stay tuned for more updates on these events and more exciting surprises as we embark on the second half of the year together. Let's make it a memorable and knowledge-filled journey!
 
-We are grateful to all our speakers for sharing their expertise, and to our community for their engagement and support. If you missed any of these talks, you can find the presentation materials on our website or ask for more information at [rome\@rladies.org](mailto:rome@rladies.org){.email}. 
+We are grateful to all our speakers for sharing their expertise, and to our community for their engagement and support. If you missed any of these talks, you can find the presentation materials on our website or ask for more information at [rome\@rladies.org](mailto:rome@rladies.org){.email}.
 
 Thank you for being a part of R-Ladies Rome, and we look forward to sharing this amazing journey with you. 🌟
