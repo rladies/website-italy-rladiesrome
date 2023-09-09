@@ -5,7 +5,7 @@ website:
   #image: images/logo.png
   favicon: images/rladiesrome-favicon.png
   site-url: https://rladiesrome.quarto.pub/website/
-  repo-url: https://github.com/rladies/meetup-presentations_rome
+  repo-url: https://github.com/rladies/website-italy-rladiesrome
   google-analytics: "G-8BDX0D3T1M"
   repo-actions: [edit, issue]
   
