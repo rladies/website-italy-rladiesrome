@@ -107,7 +107,7 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../rlr.css">
 <meta property="og:title" content="Blog posts">
 <meta property="og:description" content="Have a look at the latest blog posts of `R-Ladies Rome`">
 </head>
@@ -150,7 +150,7 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
   </li>  
         <li>
     <a class="dropdown-item" href="../talks/2023/index.html">
- <span class="dropdown-text">2023: Events and Highlights</span></a>
+ <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
   </li>
@@ -235,7 +235,7 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../talks/index.html" class="sidebar-item-text sidebar-link">Overview</a>
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">Talks</a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -243,7 +243,12 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../talks/2023/index.html" class="sidebar-item-text sidebar-link">2023: Events and Highlights</a>
+  <a href="../talks/index.html" class="sidebar-item-text sidebar-link">Overview</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../talks/2023/index.html" class="sidebar-item-text sidebar-link">2023</a>
   </div>
 </li>
       </ul>
@@ -594,7 +599,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/https:\/\/rladiesrome\.quarto\.pub\/website\//);
+      var filterRegex = new RegExp(/https:\/\/quartopub\.com\/sites\/rladiesrome\/website/);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

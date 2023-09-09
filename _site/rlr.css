@@ -4,7 +4,7 @@
 .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 #quarto-header {
@@ -33,7 +33,7 @@
 
 /*-- font styles --*/
 .body {
-  font-size: 2rem;
+  font-size: 1.3rem;
   font-weight: 400;
   color: black;
   letter-spacing: normal;

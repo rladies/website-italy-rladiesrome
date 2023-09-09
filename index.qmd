@@ -5,7 +5,7 @@ image: images/rladiesmap.png
 image-alt: "R-Ladies Global Map"
 about:
   template: jolla
-  image-width: 35em
+  image-width: 30em
   # links: 
   #   - text: "Introduction"
   #     href: introduction.qmd
@@ -42,12 +42,12 @@ format: html
   
 </style>
 ```
-::: {style="margin-top: 10px; font-size: 4em; color: #572455;"}
+::: {style="margin-top: 10px; font-size: 3em; color: #572455;"}
 Welcome to R-Ladies Rome
 :::
 
 ::: {#hero-heading}
-![](images/rconsortium.png)
+![](images/rconsortium.png){width="500px"}
 :::
 
 
