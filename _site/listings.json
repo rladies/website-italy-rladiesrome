@@ -15,7 +15,17 @@
   },
   {
     "listing": "/talks/index.html",
-    "items": []
+    "items": [
+      "/talks/2023/meetup/08282023/index.html",
+      "/talks/2023/meetup/07272023/index.html",
+      "/talks/2023/meetup/06302023/index.html",
+      "/talks/2023/meetup/06122023/index.html",
+      "/talks/2023/meetup/05172023/index.html",
+      "/talks/2023/meetup/04222023/index.html",
+      "/talks/2023/meetup/03222023/index.html",
+      "/talks/2023/meetup/02132023/index.html",
+      "/talks/2023/meetup/01242023/index.html"
+    ]
   },
   {
     "listing": "/talks/talks2023.html",
@@ -32,10 +42,65 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/talks/2023/meetup/08282023/index.html",
+      "/talks/2023/meetup/07272023/index.html",
+      "/blog/posts/072023/index.html",
+      "/talks/2023/meetup/06302023/index.html",
+      "/talks/2023/meetup/06122023/index.html",
+      "/talks/2023/meetup/05172023/index.html",
+      "/blog/posts/052023/index.html",
+      "/talks/2023/meetup/04222023/index.html",
+      "/talks/2023/meetup/03222023/index.html",
+      "/talks/2023/meetup/02132023/index.html",
+      "/talks/2023/meetup/01242023/index.html"
+    ]
+  },
+  {
+    "listing": "/tutorials/index.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/072023/index.html",
       "/posts/intro/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/072023/index.html",
+      "/blog/posts/052023/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/2023/index.html",
+    "items": [
+      "/talks/2023/meetup/08282023/index.html",
+      "/talks/2023/meetup/07272023/index.html",
+      "/talks/2023/meetup/06302023/index.html",
+      "/talks/2023/meetup/06122023/index.html",
+      "/talks/2023/meetup/05172023/index.html",
+      "/talks/2023/meetup/04222023/index.html",
+      "/talks/2023/meetup/03222023/index.html",
+      "/talks/2023/meetup/02132023/index.html",
+      "/talks/2023/meetup/01242023/index.html"
+    ]
+  },
+  {
+    "listing": "/ultimate.html",
+    "items": [
+      "/talks/CopyOftalks2023.html",
+      "/tutorials/tutorials2023.html"
+    ]
+  },
+  {
+    "listing": "/latest-content.html",
+    "items": [
+      "/talks/CopyOftalks2023.html",
+      "/tutorials/tutorials2023.html"
     ]
   }
 ]

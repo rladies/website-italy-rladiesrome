@@ -1,0 +1,104 @@
+website:
+  page-navigation: true
+  reader-mode: true
+  open-graph: true
+  #image: images/logo.png
+  favicon: images/rladiesrome-favicon.png
+  site-url: https://rladiesrome.quarto.pub/website/
+  repo-url: https://github.com/rladies/meetup-presentations_rome
+  google-analytics: "G-8BDX0D3T1M"
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    left: |
+      Copyright &copy; CC-By R-Ladies Rome, 2023
+    center:   
+      - icon: globe
+        href: https://rladies.org
+      #- icon: meetup
+      #  href: https://www.meetup.com/rladies-rome
+      - icon: github
+        href: https://github.com/rladies/meetup-presentations_rome
+      - icon: twitter
+        href: https://twitter.com/rladiesrome
+      - icon: mastodon
+        href: https://fosstodon.org/@rladiesrome  
+      - icon: youtube
+        href: https://www.youtube.com/@rladiesrome
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rladiesrome
+    right: |
+      This page is built with ❤️ and [Quarto](https://quarto.org/)
+    
+  navbar:
+    title: "R-Ladies Rome"
+    background: "#572455"
+    logo: images/logo.png
+    search: true
+    
+    right: 
+      - text: "About"
+        file: about.qmd
+      - icon: globe
+        href: https://rladies.org
+      #- icon: meetup
+      #  href: https://www.meetup.com/rladies-rome
+      - icon: github
+        href: https://github.com/rladies/meetup-presentations_rome
+      - icon: twitter
+        href: https://twitter.com/rladiesrome
+      - icon: mastodon
+        href: https://fosstodon.org/@rladiesrome  
+      - icon: youtube
+        href: https://www.youtube.com/@rladiesrome
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rladiesrome
+        
+    left:
+      - text: "Introduction"
+        file: introduction.qmd
+      - text: "Blog"
+        file: blog/index.qmd
+      - text: "Talks"
+        menu:
+          - talks/index.qmd
+          - talks/2023/index.qmd
+  
+  
+  sidebar:
+    #logo: "images/logo.png"
+    #pinned: true
+    #align: center
+    #tools: 
+    #  - icon: globe
+    #    href: https://rladies.org
+    #    text: "rladies.org"
+    #  - icon: github
+    #    href: https://github.com/rladies/meetup-presentations_rome
+    #    text: "meetup-presentations_rome"
+    #  - icon: twitter
+    #    href: https://twitter.com/rladiesrome
+    #    text: "R-Ladies Rome Twitter" 
+    #  - icon: mastodon
+    #    href: https://fosstodon.org/@rladiesrome  
+    #    text: "R-Ladies Rome mastodon" 
+    #  - icon: youtube
+    #    href: https://www.youtube.com/@rladiesrome
+    #  - icon: linkedin
+    #    href: https://www.linkedin.com/company/rladiesrome  
+        
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: Introduction
+        href: introduction.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - section: "Talks"
+        contents:
+          - talks/index.qmd
+          - talks/2023/index.qmd
+      - about.qmd    
+      - sponsors.qmd    
+ 

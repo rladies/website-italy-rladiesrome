@@ -1,5 +1,6 @@
 ---
 title: "2023"
+subtitle: "Events and Highlights"
 listing:
   contents: meetup
   sort: "date desc"
@@ -8,4 +9,5 @@ listing:
   categories: true
 page-layout: full
 title-block-banner: false
+sidebar: true
 ---
