@@ -1,11 +1,10 @@
 ---
-title: ""
 backgroundcolor: ""
 image: images/rladiesmap.png
 image-alt: "R-Ladies Global Map"
 about:
   template: jolla
-  image-width: 30em
+  image-width: 25em
   # links: 
   #   - text: "Introduction"
   #     href: introduction.qmd
@@ -34,20 +33,29 @@ format: html
 
 ```{=html}
 <style>
-  body {
-  background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
+body {
+  background-image: url('https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
 }
-  
 </style>
 ```
+
+
 ::: {style="margin-top: 10px; font-size: 3em; color: #572455;"}
 Welcome to R-Ladies Rome
 :::
 
+::: {style="font-size: 1.2em; color: #f0eeeb;"}
+Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.
+:::
+
+<center>
+<a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/button.png" alt="Become a Member" height="60"></a>
+</center>
+
 ::: {#hero-heading}
-![](images/rconsortium.png){width="500px"}
+![](images/rconsortium.png){width="300px"}
 :::
 
 
