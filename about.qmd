@@ -8,7 +8,7 @@ subtitle: "Who we are, where we are from, and what we do"
 ## `R-Ladies Rome` organizers:
 
 ::: columns
-::: {.column width="47.5%"}
+::: {.column width="33%"}
 [Federica Gazzelloni](https://federicagazzelloni.netlify.app/) experienced statistician and actuary with a passion for data visualization and modeling.\n
 
 <center>
@@ -18,16 +18,26 @@ subtitle: "Who we are, where we are from, and what we do"
 </center>
 :::
 
-::: {.column width="5%"}
+::: {.column width="0.5%"}
 :::
 
-::: {.column width="47.5%"}
+::: {.column width="33%"}
 [Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) experienced marketing manager with a background in various industry sectors across global markets.\n
 
 <center>
 
 ![Katie Wood](images/organizers_picts/katiewood.png){width="40%"}
 
+</center>
+:::
+
+::: {.column width="0.5%"}
+:::
+
+::: {.column width="33%"}
+[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) statistician and actuary, professional risk manager, and expert in the energy sector.<p><br> </p>
+<center>
+![Francesca Picone](images/organizers_picts/francescapicone.png){width="40%"}
 </center>
 :::
 :::
