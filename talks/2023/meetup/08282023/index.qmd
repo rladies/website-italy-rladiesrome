@@ -45,7 +45,7 @@ Here is the list of the selected talks, you can watch the full version here:
 
 ## Material of the Event
 
-Intro presentation: [welcome-to-r-ladies-rome August 2023](https://rladiesrome.quarto.pub/welcome-to-r-ladies-rome/)
+Intro presentation: [welcome-to-r-ladies-rome August 2023](https://rladiesrome.quarto.pub/august282023)
 
 Event presentation: [rbioconductor-watch-party](https://rladiesrome.quarto.pub/rbioconductor-watch-party/)
 
