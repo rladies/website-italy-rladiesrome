@@ -5,6 +5,8 @@
   padding-top: 0;
   padding-bottom: 0;
   font-size: 1.1em;
+  font-family: "Monaco", monospace;
+  letter-spacing: normal;
 }
 
 #quarto-header {
@@ -20,9 +22,10 @@
 
 /*-- sidebar --*/
 .sidebar {
-  font-size: .875rem;
-  font-weight: 500;
-  text-transform: uppercase;
+  font-size: 0.874rem;
+  font-weight: 400;
+  font-family: "Monaco", monospace;
+  letter-spacing: normal;
   margin-bottom: 0.5rem;
   margin-top: 0.3rem;
   border-bottom: 0;
@@ -35,6 +38,7 @@
 .body {
   font-size: 1.3rem;
   font-weight: 400;
+  font-family: "Monaco", monospace;
   color: black;
   letter-spacing: normal;
 }

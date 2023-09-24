@@ -2,6 +2,7 @@
   {
     "listing": "/talks/2023/index.html",
     "items": [
+      "/talks/2023/meetup/09222023/index.html",
       "/talks/2023/meetup/08282023/index.html",
       "/talks/2023/meetup/07272023/index.html",
       "/talks/2023/meetup/06302023/index.html",
@@ -16,6 +17,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/talks/2023/meetup/09222023/index.html",
       "/talks/2023/meetup/08282023/index.html",
       "/talks/2023/meetup/07272023/index.html",
       "/blog/posts/072023/index.html",

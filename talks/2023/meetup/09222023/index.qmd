@@ -1,0 +1,60 @@
+---
+title: "Mastering R II: The Journey Continues"
+subtitle: "RLadies Rome Team"
+date: 2023-09-22
+image: "09222023.png"
+image-alt: ""
+description: "In this video, we dive into the features of R, for analysing insurance data, make visualizations, and look at first line of modeling, to eventually produce a report."
+categories:
+  - R Courses
+  - Insurance data
+  - tidyverse
+---
+
+`Registered Attendees (50)`
+
+September 22, 2023 speaker is [Federica Gazzelloni](https://federicagazzelloni.netlify.app/) on behalf of [R-Ladies Rome](https://rladiesrome.quarto.pub/website)
+
+
+Welcome to our second session, where we embark on an exciting journey into the world of `R programming` for `data analysis`, `visualization`, and `modeling`. R is a robust and versatile tool that's tailor-made for statisticians, data analysts, and data scientists like yourself.
+
+In this recording, we take a deep dive into the capabilities of R, using `insurance data` as our backdrop. We explore how to analyze this data, create visualizations, and take our first steps into the world of modeling, all leading to the production of insightful `reports`.
+
+{{< video https://www.youtube.com/watch?v=7Q9RGCXw6_c&t=2992s >}}
+
+Whether you're just starting with R or have some prior experience, this second crash course is designed to help you master the fundamentals and unleash the potential of this powerful language.
+
+Feel free to enjoy the recording at your own pace. Pause, rewind, and replay as you delve into the fascinating world of data analysis with R. 
+
+If you have any questions or would like to share your assignments, please don't hesitate to reach out to us at `rome[at]rladies[dot]org`.
+
+For course materials, you can access them here:
+
+- Material of the course: [--> Go to our Posit.Cloud Workspace](https://posit.cloud/spaces/393298/join?access_code=JBFywQxui8vIu7kP399uv_YsuDnYlrfH-kwgyvLK)
+
+- `{CASdataset}` collection of Insurance datasets: To install the package, simply use the following R code:
+
+```{r}
+#| eval: false
+options(timeout = 6000)
+install.packages("CASdatasets", 
+                 repos = "http://cas.uqam.ca/pub/")
+library(CASdataset)
+```
+
+We also recommended the book `"Statistical Foundations of Actuarial Learning and its Applications"` by M. V. Wüthrich and M. Merz for Actuarial investigations.
+
+To get more familiar with Posit.Cloud, check out the `Posit Cloud Essentials series` [here](https://www.youtube.com/watch?v=-fzwm4ZhVQQ)).
+
+We used Posit.Cloud for this course, but if you prefer to `install R` directly on your machine, you can follow the instructions [here](https://posit.co/download/rstudio-desktop/).
+
+For `additional help and resources`, don't forget to explore the `R4DS community` at <https://www.rfordatasci.com/> and read the `R for Data Science - R4DS Book` by Hadley Wickham [https://r4ds.had.co.nz/].
+
+
+For those starting with R, have a look at our previous course: [Mastering R: An Intensive Crash Course for Data Enthusiasts!](https://rladiesrome.quarto.pub/website/talks/2023/meetup/07272023/)
+
+
+> Enjoy your journey with R, and happy data analyzing!
+
+#RCrash | #rstats | #tidyverse | #KnowledgeSharing | #opensource | #onlinelearning | #RStudio | #PositCloud
+

@@ -10,10 +10,10 @@ format:
     code-overflow: wrap
     code-link: true
     toc: true  
-    fontsize: 1.2em
+    #fontsize: 1.2em
     linestretch: 1.7  
     css: rlr.css
-    link-external-newwindow: true
+    link-external-newwindow: false
     citations-hover: true
     footnotes-hover: true
 

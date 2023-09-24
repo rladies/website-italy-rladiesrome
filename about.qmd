@@ -3,13 +3,13 @@ title: "About"
 subtitle: "Who we are, where we are from, and what we do"
 ---
 
-[R-Ladies](https://rladies.org/) began as a meetup group in San Francisco in 2012 when `Gabriela de Queiroz` founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, `R-Ladies Global` was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 218 chapters in 29 countries and over 3943 events contributing to promote gender diversity in the `R community`.
+[R-Ladies](https://rladies.org/) began as a meetup group in San Francisco in 2012 when `Gabriela de Queiroz` founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, `R-Ladies Global` was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 219 chapters in 63 countries and over 3943 events contributing to promote gender diversity in the `R community`.
 
 ## `R-Ladies Rome` organizers:
 
 ::: columns
 ::: {.column width="33%"}
-[Federica Gazzelloni](https://federicagazzelloni.netlify.app/) experienced statistician and actuary with a passion for data visualization and modeling.\n
+[Federica Gazzelloni](https://federicagazzelloni.netlify.app/) Lead organizer statistician and actuary with a passion for data visualization and modeling.\n
 
 <center>
 
@@ -22,7 +22,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="33%"}
-[Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) experienced marketing manager with a background in various industry sectors across global markets.\n
+[Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) Co-organizer marketing manager with a background in various industry sectors across global markets.\n
 
 <center>
 
@@ -35,10 +35,14 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="33%"}
-[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) statistician and actuary, professional risk manager, and expert in the energy sector.<p><br> </p>
+[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector.\n
+
 <center>
+
 ![Francesca Picone](images/organizers_picts/francescapicone.png){width="40%"}
+
 </center>
+
 :::
 :::
 
