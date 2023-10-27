@@ -1,0 +1,24 @@
+---
+title: "In-Person Reunion: A Memorable Meetup for R-Ladies Rome Organizers"
+subtitle: "Welcome to R-Ladies Rome Blog!"
+date: "2023-10-21"
+image: "20231021meet&greet.jpeg"
+image-alt: ""
+description: "Inspiring Insights and Knowledge Sharing in R Programming"
+---
+
+
+
+We've got some exciting news to share with you all! The R-Ladies Rome organizers recently had a wonderful get-together in the heart of Rome. It was a special day where we came together for the first time in a long while and enjoyed some quality time with each other.
+
+![R-Ladies Rome Organizers: from the left Francesca Picone, Federica Gazzelloni, Katie Jane Wood](20231021meet&greet.jpeg)
+
+The day was all about connecting and having a great time. We met at `La Fiorentina` in `Prati`, a lovely spot in Rome, where we relaxed while enjoying an aperitif.
+
+This meetup was not just a simple gathering; it was a chance for us to finally met in person, strengthen our team spirit and enjoy each other's company. 
+
+We chatted about our plans for the future, shared ideas for upcoming events, and discussed how we can continue to make `R-Ladies Rome` an even more welcoming community.
+
+We talked about the `latest trends in data science`, cool tricks with R programming, and `shared stories of our experiences in the field`. Our in-person get-together was a reminder of the strength of our community and the many possibilities that lie ahead.
+
+We can't wait to share more with you in the coming days and months. Keep an eye out for our future events and activities. `We're looking forward to having you with us on this fantastic journey!`

@@ -17,6 +17,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/posts/102023/index.html",
       "/talks/2023/meetup/09222023/index.html",
       "/talks/2023/meetup/08282023/index.html",
       "/talks/2023/meetup/07272023/index.html",
@@ -34,6 +35,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/102023/index.html",
       "/blog/posts/072023/index.html",
       "/blog/posts/052023/index.html"
     ]
