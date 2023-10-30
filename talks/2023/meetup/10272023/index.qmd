@@ -1,0 +1,47 @@
+---
+title: "Career Development Talk"
+subtitle: "RLadies Rome Team Members"
+date: 2023-10-27
+image: "10272023.png"
+image-alt: ""
+description: "In this video, we dive into the intricate world of data science career paths and explore the diverse experiences and insights shared by professionals in the field."
+categories:
+  - Career Talk
+  - Talk
+---
+  
+
+`Registered Attendees (21)`
+
+October 27, 2023 speakers are [R-Ladies Rome](https://rladiesrome.quarto.pub/website) [Organizers](https://rladiesrome.quarto.pub/website/about.html) and Members
+
+
+
+Welcome to our **`Career Development Talk`**, we're all about sharing experiences about our data science and statistics career journeys. Our latest video offers a glimpse into diverse career paths within these fields.
+
+**Small Group, Big Conversations**
+
+While our gathering may have been small in numbers, the quality of our conversation was anything but. We dove deep into the world of academic statistics careers, sparking a fascinating dialogue that was brimming with invaluable insights and shared experiences.
+
+**What You Can Expect**
+
+In this video, you'll have the opportunity to:
+
+- **Gain Career Advice**: Discover the tips and strategies shared by professionals who've navigated the diverse landscape of data science and statistics careers.
+
+- **Hear Personal Stories**: Get an insider's perspective as our participants recount their own unique journeys.
+
+- **Learn from Academic Statistics Professionals**: Dive into the academic side of statistics and explore the various paths you can take in this fascinating sector.
+
+
+🎬 `Watch the Video Now`
+
+Ready to explore this treasure trove of career insights and experiences? Simply click the link below to access the video:
+
+{{< video https://www.youtube.com/watch?v=b3d5xd81QCc&t=608s >}}
+
+**Stay Connected**
+
+We believe that learning and growth are ongoing processes. So, make sure to keep the conversation going and stay connected with us for more engaging discussions, knowledge sharing, and exciting updates on the horizon. `Join us on this rewarding journey of discovery!`
+
+#DataScience #StatisticsCareers #CareerDevelopment #RLadiesRome #LearningTogether
