@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-11-10">
+<meta name="description" content="In this video, Dr.&nbsp;Cédric Scherer shares profound insights and practical tips to elevate your data visualization game. From decoding the power of typography in ggplot to employing code-first methodologies for transparency and reproducibility, he blends analytical expertise with design finesse.">
 
-<title>index</title>
+<title>(Even More) Exciting Data Visualizations with ggplot2 Extensions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/rladiesrome-favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../../images/rladiesrome-favicon.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -62,35 +63,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8BDX0D3T1M"></script>
 
 <script type="text/javascript">
@@ -102,9 +74,13 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
 </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="rlr.css">
+<link rel="stylesheet" href="../../../../rlr.css">
+<meta property="og:title" content="(Even More) Exciting Data Visualizations with ggplot2 Extensions">
+<meta property="og:description" content="In this video, Dr. Cédric Scherer shares profound insights and practical tips to elevate your data visualization game.">
+<meta property="og:image" content="https://quartopub.com/sites/rladiesrome/website/talks/2023/meetup/11102023/11102023.png">
+<meta property="og:image:height" content="681">
+<meta property="og:image:width" content="1200">
 </head>
 
 <body class="nav-fixed">
@@ -114,10 +90,10 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../images/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../../index.html">
     <span class="navbar-title">R-Ladies Rome</span>
     </a>
   </div>
@@ -127,11 +103,11 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./introduction.html">
+    <a class="nav-link" href="../../../../introduction.html">
  <span class="menu-text">Introduction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html">
+    <a class="nav-link" href="../../../../blog/index.html">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -140,11 +116,11 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-talks">    
         <li>
-    <a class="dropdown-item" href="./talks/index.html">
+    <a class="dropdown-item" href="../../../../talks/index.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./talks/2023/index.html">
+    <a class="dropdown-item" href="../../../../talks/2023/index.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
@@ -152,7 +128,7 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="../../../../about.html">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -200,132 +176,63 @@ gtag('config', 'G-8BDX0D3T1M', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">(Even More) Exciting Data Visualizations with ggplot2 Extensions</h1>
+<p class="subtitle lead">Cédric Scherer</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Data Visualization</div>
+    <div class="quarto-category">ggplot2</div>
+    <div class="quarto-category">Talk</div>
+  </div>
+  </div>
 
-
-<style>
-body {
-  background-image: url('https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-</style>
-<div style="margin-top: 10px; font-size: 3em; color: #572455;">
-<p>Welcome to R-Ladies Rome</p>
-</div>
-<div style="font-size: 1.2em; color: #f0eeeb;">
-<p>Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.</p>
-</div>
-<center>
-<a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/button.png" alt="Become a Member" height="60"></a>
-</center>
-<div class="quarto-about-jolla column-page">
-  <img src="images/rladiesmap.png" class="about-image
-  round " style="height: 25em; width: 25em;">
- <div id="hero-heading">
-<p><img src="images/rconsortium.png" class="img-fluid" width="300"></p>
-</div>  
-</div>
-
-<div style="border-bottom: 2px solid #f0eeeb;">
-
-</div>
-<div style="font-size: 3em; color: #f0eeeb;">
-<p>Latest content</p>
+<div>
+  <div class="description">
+    In this video, Dr.&nbsp;Cédric Scherer shares profound insights and practical tips to elevate your data visualization game. From decoding the power of typography in ggplot to employing code-first methodologies for transparency and reproducibility, he blends analytical expertise with design finesse.
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 10, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p><code>Registered Attendees (223)</code></p>
+<p>November 11, 2023 speakers are <a href="https://www.cedricscherer.com/">Dr.&nbsp;Cédric Scherer</a> data visualization designer, consultant, and educator with a mission to empower his clients and workshop attendees in crafting engaging and effective data graphics. As a graduated ecologist, Cédric brings a wealth of experience in hypothesis-driven research, data manipulation, statistical analysis, and model development.</p>
+<p>In this talk, Cédric will provide an overview of the world of <code>ggplot2 extension packages</code> and illustrate their usage and benefits by walking you through some <code>examples of more advanced data visualizations</code> and less common chart types.</p>
+<p>🎬 <code>Watch the Video Now</code></p>
+<p>🚀 Explore the secrets behind creating visually striking figures and discover how Cédric navigates complex social data challenges.</p>
+<p>Simply click the link below to access the video:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/ngkhOhp5qU4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Creating effective and easily accessible data visualizations, R users can create highly customized graphics without the need for post-processing — and a huge number of extension packages allows you to create even more exciting visualizations and improve your workflow.</p>
+<p>Material of the talk: - <code>Presentation</code>: <a href="https://z3tt.github.io/exciting-extensions/slides.html#/title-slide" class="uri">https://z3tt.github.io/exciting-extensions/slides.html#/title-slide</a> - <code>Code</code>: <a href="https://cedricscherer.com/codes/exciting-extensions.R" class="uri">https://cedricscherer.com/codes/exciting-extensions.R</a></p>
+<p>#DataScience #StatisticsCareers #CareerDevelopment #RLadiesRome #LearningTogether</p>
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Data Visualization,ggplot2,Talk" data-listing-date-sort="1699570800000" data-listing-file-modified-sort="1699731204002" data-listing-reading-time-sort="0.845">
-<a href="./talks/2023/meetup/11102023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./talks/2023/meetup/11102023/11102023.png" class="thumbnail-image card-img" style="height: 200;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-(Even More) Exciting Data Visualizations with ggplot2 Extensions
-</h5>
-<div class="card-text listing-description">
-In this video, Dr.&nbsp;Cédric Scherer shares profound insights and practical tips to elevate your data visualization game. From decoding the power of typography in ggplot to…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Nov 10, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1698793200000" data-listing-file-modified-sort="1698663663806" data-listing-reading-time-sort="1.175">
-<a href="./blog/posts/112023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./blog/posts/112023/112023.png" class="thumbnail-image card-img" style="height: 200;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-A Look Back at Our Recent Events: Welcoming the Data Visualization Month
-</h5>
-<div class="card-text listing-description">
-Inspiring Insights and Knowledge Sharing in R Programming
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Nov 1, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Career Talk,Talk" data-listing-date-sort="1698357600000" data-listing-file-modified-sort="1698661227844" data-listing-reading-time-sort="1.13">
-<a href="./talks/2023/meetup/10272023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./talks/2023/meetup/10272023/10272023.png" class="thumbnail-image card-img" style="height: 200;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Career Development Talk
-</h5>
-<div class="card-text listing-description">
-In this video, we dive into the intricate world of data science career paths and explore the diverse experiences and insights shared by professionals in the field.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Oct 27, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -461,6 +368,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -623,5 +537,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

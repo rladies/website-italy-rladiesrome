@@ -1,0 +1,36 @@
+---
+title: "(Even More) Exciting Data Visualizations with ggplot2 Extensions"
+subtitle: "Cédric Scherer"
+date: 2023-11-10
+image: "11102023.png"
+image-alt: ""
+description: "In this video, Dr. Cédric Scherer shares profound insights and practical tips to elevate your data visualization game. From decoding the power of typography in ggplot to employing code-first methodologies for transparency and reproducibility, he blends analytical expertise with design finesse."
+categories:
+  - Data Visualization
+  - ggplot2
+  - Talk
+---
+  
+
+`Registered Attendees (223)`
+
+November 11, 2023 speakers are [Dr. Cédric Scherer](https://www.cedricscherer.com/) data visualization designer, consultant, and educator with a mission to empower his clients and workshop attendees in crafting engaging and effective data graphics. As a graduated ecologist, Cédric brings a wealth of experience in hypothesis-driven research, data manipulation, statistical analysis, and model development.
+
+In this talk, Cédric will provide an overview of the world of `ggplot2 extension packages` and illustrate their usage and benefits by walking you through some `examples of more advanced data visualizations` and less common chart types.
+
+🎬 `Watch the Video Now`
+
+🚀 Explore the secrets behind creating visually striking figures and discover how Cédric navigates complex social data challenges. 
+
+Simply click the link below to access the video:
+
+{{< video https://youtu.be/ngkhOhp5qU4 >}}
+
+Creating effective and easily accessible data visualizations, R users can create highly customized graphics without the need for post-processing — and a huge number of extension packages allows you to create even more exciting visualizations and improve your workflow.
+
+
+Material of the talk:
+- `Presentation`: <https://z3tt.github.io/exciting-extensions/slides.html#/title-slide>
+- `Code`: <https://cedricscherer.com/codes/exciting-extensions.R>
+
+#DataScience #StatisticsCareers #CareerDevelopment #RLadiesRome #LearningTogether
