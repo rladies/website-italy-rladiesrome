@@ -1,0 +1,36 @@
+---
+title: "Ten tips for better text: typography meets ggplot and friends"
+subtitle: "Cara Thompson"
+date: 2023-11-30
+image: "https://secure.meetupstatic.com/photos/event/7/3/8/2/600_517049570.webp?w=750"
+image-alt: ""
+description: "In this video, Cara Thompson shares profound insights and practical tips to elevate your data visualization skills. The talk explored various aspects of data storytelling, emphasizing the optimal use of text, colors, and dynamic content."
+categories:
+  - Data Visualization
+  - ggplot2
+  - Talk
+---
+  
+
+`Registered Attendees (98)`
+
+November 30, 2023 speakers are [Cata Thompson](https://www.cararthompson.com) data visualisation consultant with an academic background, specialising in helping research teams and data-driven organisations turn their data insights into to clear and compelling visualisations.
+
+
+Dive into the world of impactful data visualization, and text customization. In this engaging session, Cara shared valuable insights and practical coding tips to enhance your data visualizations in R. 
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click the link below to access the video:
+
+{{< video https://www.youtube.com/watch?v=ZC6GdgzBs88&t=3858s >}}
+
+Explore the art and science of data visualization with R-Ladies Rome! 
+The talk explored various aspects of data storytelling, emphasizing the optimal use of text, colors, and dynamic content. Whether you're a beginner or an experienced R user, this event provided a wealth of knowledge to elevate your skills. 
+
+Material of the talk:
+- `Presentation`: <https://www.cararthompson.com/talks/rladiesrome-ten-tips-for-better-dataviz-text/>
+
+
+#DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether

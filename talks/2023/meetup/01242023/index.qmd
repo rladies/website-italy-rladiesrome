@@ -2,7 +2,7 @@
 title: "MLOps with vetiver"
 subtitle: "Julia Silge"
 date: 2023-01-24
-image: "jan242023.png"
+image: "https://secure.meetupstatic.com/photos/event/5/8/8/600_509581416.webp?w=750"
 image-alt: ""
 description: "In this video you'll learn what Machine learning operations (MLOps) is"
 categories:

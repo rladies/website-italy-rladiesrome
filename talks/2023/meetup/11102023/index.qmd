@@ -2,7 +2,7 @@
 title: "(Even More) Exciting Data Visualizations with ggplot2 Extensions"
 subtitle: "Cédric Scherer"
 date: 2023-11-10
-image: "11102023.png"
+image: "https://secure.meetupstatic.com/photos/event/a/9/d/600_516842717.webp?w=750"
 image-alt: ""
 description: "In this video, Dr. Cédric Scherer shares profound insights and practical tips to elevate your data visualization game. From decoding the power of typography in ggplot to employing code-first methodologies for transparency and reproducibility, he blends analytical expertise with design finesse."
 categories:
@@ -14,7 +14,7 @@ categories:
 
 `Registered Attendees (223)`
 
-November 11, 2023 speakers are [Dr. Cédric Scherer](https://www.cedricscherer.com/) data visualization designer, consultant, and educator with a mission to empower his clients and workshop attendees in crafting engaging and effective data graphics. As a graduated ecologist, Cédric brings a wealth of experience in hypothesis-driven research, data manipulation, statistical analysis, and model development.
+November 10, 2023 speakers are [Dr. Cédric Scherer](https://www.cedricscherer.com/) data visualization designer, consultant, and educator with a mission to empower his clients and workshop attendees in crafting engaging and effective data graphics. As a graduated ecologist, Cédric brings a wealth of experience in hypothesis-driven research, data manipulation, statistical analysis, and model development.
 
 In this talk, Cédric will provide an overview of the world of `ggplot2 extension packages` and illustrate their usage and benefits by walking you through some `examples of more advanced data visualizations` and less common chart types.
 
@@ -33,4 +33,4 @@ Material of the talk:
 - `Presentation`: <https://z3tt.github.io/exciting-extensions/slides.html#/title-slide>
 - `Code`: <https://cedricscherer.com/codes/exciting-extensions.R>
 
-#DataScience #StatisticsCareers #CareerDevelopment #RLadiesRome #LearningTogether
+#DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether

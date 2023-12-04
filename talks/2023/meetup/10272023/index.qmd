@@ -2,7 +2,7 @@
 title: "Career Development Talk"
 subtitle: "RLadies Rome Team Members"
 date: 2023-10-27
-image: "10272023.png"
+image: "https://www.meetup.com/rladies-rome/events/296789709/"
 image-alt: ""
 description: "In this video, we dive into the intricate world of data science career paths and explore the diverse experiences and insights shared by professionals in the field."
 categories:

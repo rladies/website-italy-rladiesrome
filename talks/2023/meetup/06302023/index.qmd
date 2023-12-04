@@ -2,7 +2,7 @@
 title: "One Health and the Politics of Coronaviruses"
 subtitle: "Dr. Laura Kahn"
 date: 2023-06-30
-image: "june302023.png"
+image: "06302023.png"
 image-alt: ""
 description: "In this video, you'll learn about the latest updates in the dynamic field of the One Health Initiative."
 categories:

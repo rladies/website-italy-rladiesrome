@@ -2,7 +2,7 @@
 title: "Mastering R: An Intensive Crash Course for Data Enthusiasts!"
 subtitle: "RLadies Rome Team"
 date: 2023-07-27
-image: "07272023.png"
+image: "https://secure.meetupstatic.com/photos/event/2/2/9/600_514200553.webp?w=750"
 image-alt: ""
 description: "In this video we'll introduce R and guide you through the steps for analyzing data from the #TidyTuesday project."
 categories:

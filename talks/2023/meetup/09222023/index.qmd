@@ -2,7 +2,7 @@
 title: "Mastering R II: The Journey Continues"
 subtitle: "RLadies Rome Team"
 date: 2023-09-22
-image: "09222023.png"
+image: "https://secure.meetupstatic.com/photos/event/a/0/a/6/600_515441126.webp?w=750"
 image-alt: ""
 description: "In this video, we dive into the features of R, for analysing insurance data, make visualizations, and look at first line of modeling, to eventually produce a report."
 categories:

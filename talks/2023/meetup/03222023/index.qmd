@@ -2,7 +2,7 @@
 title: "What's new in the tidyverse"
 subtitle: "Isabella Velasquez"
 date: 2023-03-22
-image: "mar222023.png"
+image: "https://secure.meetupstatic.com/photos/event/2/a/c/600_510660684.webp?w=750"
 image-alt: ""
 description: "In this video you'll learn the recent updates in the TidyVerse ecosystem"
 categories:

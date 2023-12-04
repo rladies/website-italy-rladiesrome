@@ -2,7 +2,7 @@
 title: "Why I Hate Summer Time: Coordinating a Global Community of Learners"
 subtitle: "Jon Harmon"
 date: 2023-05-17
-image: "may172023.png"
+image: "https://secure.meetupstatic.com/photos/event/b/a/1/7/600_512387639.webp?w=750"
 image-alt: ""
 description: "In this video you'll learn about time zone differences"
 categories:

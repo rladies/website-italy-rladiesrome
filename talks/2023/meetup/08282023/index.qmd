@@ -2,7 +2,7 @@
 title: "R/Bioconductor Watch Party @RLadiesRome - in person"
 subtitle: "RLadies Rome Team"
 date: 2023-08-28
-image: "08282023.png"
+image: "https://secure.meetupstatic.com/photos/event/4/8/2/f/600_515358479.webp?w=750"
 image-alt: ""
 description: "This video is a summary of all is done at the in person event in Rome at The Department of Statistics of La Sapienza University"
 categories:

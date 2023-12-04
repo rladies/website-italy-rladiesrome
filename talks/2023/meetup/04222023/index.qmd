@@ -2,7 +2,7 @@
 title: "Modeling infectious diseases"
 subtitle: "Jacqueline Buros & Federica Gazzelloni"
 date: 2023-04-22
-image: "apr222023.png"
+image: "https://secure.meetupstatic.com/photos/event/7/f/d/c/600_511832732.webp?w=750"
 image-alt: ""
 description: "In this video you'll learn about modeling"
 categories:

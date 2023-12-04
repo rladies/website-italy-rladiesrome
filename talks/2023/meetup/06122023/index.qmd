@@ -2,7 +2,7 @@
 title: "Data Science Best Practices"
 subtitle: "Simina Boca"
 date: 2023-06-12
-image: "june122023.png"
+image: "https://secure.meetupstatic.com/photos/event/1/a/8/b/600_512946795.webp?w=750"
 image-alt: ""
 description: "In this video you'll find the intro presentation of the Data Science Best Practices event. To see the recording please contact <rome@rladies.org>"
 categories:

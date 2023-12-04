@@ -2,7 +2,7 @@
 title: "RLadies Quarto"
 subtitle: "Mine Cetinkaya-Rundel"
 date: 2023-02-13
-image: "feb132023.png"
+image: "https://secure.meetupstatic.com/photos/event/6/7/f/0/600_509606608.webp?w=750"
 image-alt: ""
 description: "In this video you'll learn about Quarto"
 categories:

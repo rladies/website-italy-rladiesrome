@@ -51,7 +51,7 @@ Part of R-Ladies Global, organization designed to develop the R skills and knowl
 :::
 
 <center>
-<a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/button.png" alt="Become a Member" height="60"></a>
+<a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/subscribe.png" alt="Become a Member" height="60"></a>
 </center>
 
 ::: {#hero-heading}
