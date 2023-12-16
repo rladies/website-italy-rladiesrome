@@ -1,0 +1,44 @@
+---
+title: "Data Visualization Practice Session - in Italian/English"
+subtitle: "R-Ladies Rome"
+date: 2023-12-15
+image: "https://secure.meetupstatic.com/photos/event/9/8/5/9/600_517719001.webp?w=750"
+image-alt: ""
+description: "In this video you'll have the opportunity to apply the knowledge gained under the guidance of industry professionals. This is a chance to refine your skills, ask questions, and share experiences."
+categories:
+  - Data Visualization
+  - ggplot2
+  - Practice
+---
+  
+
+`Registered Attendees (21)`
+
+December 15, 2023 speakers is [Federica Gazzelloni](https://www.linkedin.com/in/federicagazzelloni/) certified `Carpentries Instructor`
+
+
+🎬Get ready for a hands-on experience! 🔥
+
+After two fantastic sessions with data visualization experts, it's time to put your skills into practice! 
+
+During this session, we used the `Gapminder` dataset to produce an insightful `scatterplot.` The entire session was live-coding, providing you with real-time examples and allowing for interactive Q&A. The culmination of our efforts was the creation and release of a PNG, demonstrating the practical application of the concepts covered.
+
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click the link below to access the video:
+
+{{< video https://youtu.be/sLxp-ZhwMbE >}}
+
+In this video you'll have the opportunity to apply the knowledge gained under the guidance of industry professionals. This is a chance to refine your skills, ask questions, and share experiences.
+
+Material:
+
+- GitHub repo: <https://github.com/Fgazzelloni/RLR_DataViz-Practice/>
+- Data: <https://cran.r-project.org/web/packages/gapminder/vignettes/gapminder.html>
+- Draw_key: <https://ggplot2.tidyverse.org/reference/draw_key.html>
+- {ggtext}: <https://cran.r-project.org/web/packages/ggtext/vignettes/theme_elements.html>
+
+
+#DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether #hands-on

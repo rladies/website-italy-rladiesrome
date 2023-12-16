@@ -1,1 +1,1 @@
-Sitemap: https://rladiesrome.quarto.pub/website/sitemap.xml
+Sitemap: https://quartopub.com/sites/rladiesrome/website/sitemap.xml
