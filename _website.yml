@@ -65,6 +65,7 @@ website:
         menu:
           - talks/index.qmd
           - talks/2023/index.qmd
+          - talks/2024/index.qmd
   
   
   sidebar:

@@ -21,6 +21,13 @@
     "text": "What This Means for You\nThis partnership brings numerous benefits to our community. We’ll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we’ll continue to grow, learn, and share knowledge within the R programming ecosystem.\nWe’re grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.\nLet’s embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here’s to a bright future of learning, innovation, and community-building!\n#RConsortium #RProgramming #DataScience #CommunityBuilding"
   },
   {
+    "objectID": "talks/2024/index.html",
+    "href": "talks/2024/index.html",
+    "title": "2024",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "talks/2023/index.html",
     "href": "talks/2023/index.html",
     "title": "2023",
@@ -81,7 +88,7 @@
     "href": "talks/2023/meetup/12152023/index.html",
     "title": "Data Visualization Practice Session - in Italian/English",
     "section": "",
-    "text": "Registered Attendees (21)\nDecember 15, 2023 speakers is Federica Gazzelloni certified Carpentries Instructor\n🎬Get ready for a hands-on experience! 🔥\nAfter two fantastic sessions with data visualization experts, it’s time to put your skills into practice!\nDuring this session, we used the Gapminder dataset to produce an insightful scatterplot. The entire session was live-coding, providing you with real-time examples and allowing for interactive Q&A. The culmination of our efforts was the creation and release of a PNG, demonstrating the practical application of the concepts covered.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click the link below to access the video:\n\nIn this video you’ll have the opportunity to apply the knowledge gained under the guidance of industry professionals. This is a chance to refine your skills, ask questions, and share experiences.\nMaterial:\n\nGitHub repo: https://github.com/Fgazzelloni/RLR_DataViz-Practice/\nData: https://cran.r-project.org/web/packages/gapminder/vignettes/gapminder.html\nDraw_key: https://ggplot2.tidyverse.org/reference/draw_key.html\n{ggtext}: https://cran.r-project.org/web/packages/ggtext/vignettes/theme_elements.html\n\n#DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether #hands-on"
+    "text": "Registered Attendees (21)\nDecember 15, 2023 speaker is Federica Gazzelloni certified Carpentries Instructor\n🎬Get ready for a hands-on experience! 🔥\nAfter two fantastic sessions with data visualization experts, it’s time to put your skills into practice!\nDuring this session, we used the Gapminder dataset to produce an insightful scatterplot. The entire session was live-coding, providing you with real-time examples and allowing for interactive Q&A. The culmination of our efforts was the creation and release of a PNG, demonstrating the practical application of the concepts covered.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click the link below to access the video:\n\nIn this video you’ll have the opportunity to apply the knowledge gained under the guidance of industry professionals. This is a chance to refine your skills, ask questions, and share experiences.\nMaterial:\n\nGitHub repo: https://github.com/Fgazzelloni/RLR_DataViz-Practice/\nData: https://cran.r-project.org/web/packages/gapminder/vignettes/gapminder.html\nDraw_key: https://ggplot2.tidyverse.org/reference/draw_key.html\n{ggtext}: https://cran.r-project.org/web/packages/ggtext/vignettes/theme_elements.html\n\n#DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether #hands-on"
   },
   {
     "objectID": "talks/2023/meetup/07272023/index.html",
