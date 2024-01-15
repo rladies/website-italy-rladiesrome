@@ -5,15 +5,45 @@ subtitle: "Who we are, where we are from, and what we do"
 
 [R-Ladies](https://rladies.org/) began as a meetup group in San Francisco in 2012 when `Gabriela de Queiroz` founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, `R-Ladies Global` was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 219 chapters in 63 countries and over 3943 events contributing to promote gender diversity in the `R community`.
 
-## `R-Ladies Rome` organizers:
+## Lead organizer:
 
 ::: columns
-::: {.column width="33%"}
-[Federica Gazzelloni](https://federicagazzelloni.netlify.app/) Lead organizer statistician and actuary with a passion for data visualization and modeling.\n
+::: {.column width="60%"}
+[Federica Gazzelloni](https://federicagazzelloni.netlify.app/) serves as the Lead Organizer for our chapter, bringing her expertise as a statistician and actuary to the forefront. Passionate about data visualization and modeling, she dedicates her efforts to curating and maintaining the chapter's website and social media presence. Beyond local initiatives, Federica collaborates with fellow R-Ladies organizers, contributing to the planning and execution of joint events. (September 2022 to Present)
+:::
+
+::: {.column width="40%"}
+<center>
+![Federica Gazzelloni](images/organizers_picts/federicagazzelloni.png){width="60%"}
+</center>
+:::
+:::
+
+## Co-organizers
+::: columns
+
+::: {.column width="60%"}
+[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to Present)\n
+:::
+
+::: {.column width="40%"}
+<center>
+![Francesca Picone](images/organizers_picts/francescapicone.png){width="60%"}
+</center>
+:::
+
+:::
+
+#### Former Co-organizers
+
+::: columns
+
+::: {.column width="45%"}
+[Nina Deliu](https://web.uniroma1.it/memotef/users/deliu-nina) Co-Organizer Researcher and Assistant Professor in Statistics at *La Sapienza University of Rome*. (September 2022 to February 2023)\n
 
 <center>
 
-![Federica Gazzelloni](images/organizers_picts/federicagazzelloni.png){width="40%"}
+![Nina Deliu](images/organizers_picts/ninadeliu.png){width="40%"}
 
 </center>
 :::
@@ -21,8 +51,8 @@ subtitle: "Who we are, where we are from, and what we do"
 ::: {.column width="0.5%"}
 :::
 
-::: {.column width="33%"}
-[Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) Co-organizer marketing manager with a background in various industry sectors across global markets.\n
+::: {.column width="45%"}
+[Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) Co-organizer marketing manager with a background in various industry sectors across global markets. (March 2023	to September 2023)\n
 
 <center>
 
@@ -31,23 +61,11 @@ subtitle: "Who we are, where we are from, and what we do"
 </center>
 :::
 
-::: {.column width="0.5%"}
 :::
 
-::: {.column width="33%"}
-[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector.\n
-
-<center>
-
-![Francesca Picone](images/organizers_picts/francescapicone.png){width="40%"}
-
-</center>
-
-:::
-:::
 
 To get in touch with R-Ladies Rome, you can email us at [rome\@rladies.org](mailto:rome@rladies.org){.email}, follow us on Twitter at [\@rladiesrome](https://twitter.com/RLadiesRome), and check out our GitHub account at [meetup-presentations_rome](https://www.meetup.com/rladies-rome/). We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.
 
 We have a [code of conduct](https://rladies.org/coc/) that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.
 
-### Sponsored by {{< fa regular registered size=Large label=r-consortium >}} **Consortium**
+### [Sponsored by {{< fa regular registered size=Large label=r-consortium >}} **Consortium**](https://www.r-consortium.org/)

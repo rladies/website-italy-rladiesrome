@@ -1,0 +1,249 @@
+---
+title: "One-Year of Events: What's happend at R-Ladies Rome"
+subtitle: "Welcome to R-Ladies Rome Blog!"
+date: "2024-01-07"
+image: "012024.png"
+image-alt: ""
+description: "Inspiring Insights and Knowledge Sharing in R Programming"
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+joins <- read.csv("data/R-Ladies Rome Group Joins.csv")
+rsvp<- read_csv("data/R-Ladies Rome RSVPs.csv")
+active <- read_csv("data/R-Ladies Rome Total and Active Members.csv")
+
+data <- joins %>%
+  rename(joins=value)%>%
+  mutate(date=as.Date(date,"%Y-%m-%d"))%>%
+  full_join(rsvp%>%
+              rename(rsvp=value)%>%
+              mutate(date=as.Date(date,"%Y-%m-%d")),
+            by="date")%>%
+  full_join(active%>%
+              mutate(date=as.Date(date,"%Y-%m-%d")),
+            by="date")%>%
+  distinct()%>%
+  arrange(date)%>%
+  complete(date = seq.Date(min(date), max(date), by = "day")) %>%
+  fill(c("total","active"), .direction = "down")%>%
+  mutate(joins=ifelse(is.na(joins),0,joins),
+         rsvp=ifelse(is.na(rsvp),0,rsvp),
+         tot=(cumsum(joins)),
+         tot=ifelse(is.na(tot),joins,tot),.after=joins)%>%
+  mutate(year=year(date),
+         month=month(date),.after = date)%>%
+  filter(!year==2024)
+
+# write_csv(data,"data/rladiesrome_data.csv")
+```
+
+
+# Overview
+
+As we bid farewell to 2023, it's time to look back and celebrate the incredible journey of `R-Ladies Rome`. This year has been marked by `empowerment`, `collaboration`, and `growth` within our vibrant community. 
+
+::: {.callout icon=false}
+Let's take a moment to reflect on the milestones, events, and connections that made this year special.
+:::
+
+### Community Growth and Collaboration
+
+Throughout the year, our community grew stronger. Members engaged in passionate discussions, shared their experiences, and collaborated on projects. We strengthened our ties with other R-Ladies chapters worldwide and explored opportunities for joint events.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+data %>%
+  filter(year==2023)%>%
+  pivot_longer(cols = c("total","active"))%>%
+  ggplot()+
+  geom_line(aes(date,value,group=name,color=name),
+            lwd=1.5,
+            key_glyph = "timeseries")+
+  scale_color_manual(values=c("#88398a","#ff66c4"),
+                     labels=c("active"="Active","total"="Total"))+
+  guides(color=guide_legend(reverse = T))+
+  labs(title="Community Dynamics: Total vs Active Members",
+       x="",y="Count",
+       caption = "DataSource: Meetup - R-Ladies Rome | Graphics: Federica Gazzelloni")+
+  theme_minimal()+
+  theme(text=element_text(color="#88398a",face="bold"),
+        plot.title = element_text(size=16),
+        legend.position = c(0.45,0.8),
+        legend.title = element_blank(),
+        legend.key.size = unit(25,units = "pt"),
+        legend.direction = "horizontal")
+
+# ggsave("~/Documents/R/R_general_resources/R-Ladies/RLadiesRome/website-italy-rladiesrome/blog/posts/012024/012024.png", bg="white",width = 6,height = 4)
+```
+
+::: {.callout-tip icon=false}
+
+## Thank You!
+
+R-Ladies Rome expresses gratitude to all our members, speakers, and partners who contributed to the success of our community in 2023. As we celebrate the achievements of the past year, we eagerly anticipate the opportunities and connections that await us in the upcoming year. Here's to a thriving and empowering 2024 for R-Ladies Rome! 🌟
+:::
+
+
+### A Year of Diversity and Inclusion
+
+One of our primary goals at R-Ladies Rome is to foster an inclusive environment. Throughout 2023, we hosted numerous events focused on diversity in tech, creating spaces where everyone, regardless of background or experience level, felt welcome. From web technology workshops to interactive coding sessions, we embraced the richness that diverse perspectives bring to our community.
+
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| eval: false
+data%>%
+  select(date,year,month,joins,tot)%>%
+  group_by(year,month)%>%
+  summarize(mean=mean(joins),
+            sd=sd(joins))%>%
+  ggplot(aes(factor(month),mean,group=month))+
+geom_violin(fill="#88398a",color="#ff66c4")+
+    labs(title="Community Dynamics:\nJoiners activity by month (Year 2023)",
+       x="",y="",
+       caption = "DataSource: Meetup - R-Ladies Rome | Graphics: Federica Gazzelloni")+
+  theme_minimal()+
+  theme(text=element_text(color="#88398a",face="bold"),
+        plot.title = element_text(size=16),
+        legend.position = c(0.45,0.8),
+        legend.title = element_blank(),
+        legend.key.size = unit(25,units = "pt"),
+        legend.direction = "horizontal")
+```
+
+::: {.callout-tip icon=false}
+
+## Rate of Change
+
+To calculate the rate of change consider the initial and final values, and the formula for percentage change is:
+
+$$\text{Percentage Change} = \left( \frac{\text{Final Value} - \text{Initial Value}}{\text{Initial Value}} \right) \times 100$$
+
+:::
+
+```{r}
+#| eval: false
+#| echo: false
+data %>%
+   select(year,joins)%>%
+  group_by(year)%>%
+  summarise(total_joiners=sum(joins))
+```
+
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+circles <- data.frame(
+  x0 = rep(c(1,2.5),each=2),
+  y0 = rep(1,each=4),
+  r = rep(c(0.4,0.5), 1)
+)
+
+data %>%
+   select(month,joins)%>%
+  group_by(month)%>%
+  summarise(total_joiners=sum(joins))%>%
+  mutate(lag=lag(total_joiners),
+         lag=ifelse(is.na(lag),0,lag),
+         rate_of_change=round(((total_joiners-lag)/lag)*100,2),
+         rate_of_change=ifelse(is.infinite(rate_of_change),0,rate_of_change))%>%
+  map_dfr(mean)%>%
+  ggplot()+
+  ggforce::geom_circle(aes(x0 = x0, y0 = y0, r = r),
+                       fill="#88398a",
+                       color="#ff66c4",
+                       data = circles)+
+  geom_text(aes(x=1,y=1,
+                label=paste("New Joiners\n",round(total_joiners),"+")),
+            family = "Roboto Condensed",face="bold",size=5.5)+
+   geom_text(aes(x=2.5,y=1,
+                label=paste("Rate of Change","\n+",rate_of_change,"%")),
+             family = "Roboto Condensed",face="bold",size=5.5)+
+labs(caption="Monthly Average values\nDataSource: Meetup - R-Ladies Rome | Graphics: Federica Gazzelloni")+
+  xlim(0,3)+
+  ylim(0,2)+
+  coord_fixed()+
+  theme_void(base_family = "Roboto Condensed")+
+  theme(plot.caption = element_text(hjust = 0.5,size=12))
+```
+
+---
+
+
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| eval: false
+data %>%
+group_by(year)%>%
+  select(year,joins)%>%
+  mutate(joins=ifelse(is.na(joins),0,joins),
+         tot=cumsum(joins),
+         diff=c(0,diff(tot)),
+         prop=round(joins/tot,2),
+         rate=round((diff/lag(tot))*100,2),
+         rate=ifelse(is.na(rate),0,rate))%>%
+  filter(!rate==0)%>%
+  summarise(mean(rate))
+```
+
+
+### Tech Talks and Workshops
+
+Our calendar was packed with enlightening tech talks and hands-on workshops. Renowned speakers and experts shared their knowledge on data visualization, statistics, and R programming. These events not only provided valuable insights but also showcased the vast possibilities that technology offers.
+
+### Data Visualization Month
+
+November was an exciting month as we delved deep into the world of data visualization. With two remarkable events featuring experts like Cédric Scherer and Cara Thompson, we explored the art and science of transforming data stories into engaging visual narratives. The live-coding sessions and Q&A interactions made this month a highlight of our year.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+data%>%
+  filter(year==2023)%>%
+  mutate(month=as.integer(month))%>%
+  ggplot()+
+  geom_col(aes(factor(month),rsvp),fill="#88398a",color="#88398a")+
+  labs(title="Community Dynamics: RSVP by Month (Year 2023)",
+       x="Time(Month)",y="Count",
+       caption = "DataSource: Meetup - R-Ladies Rome | Graphics: Federica Gazzelloni")+
+  theme_minimal()+
+  theme(text=element_text(color="#88398a",face="bold"),
+        plot.title = element_text(size=16),
+        legend.position = c(0.45,0.8),
+        legend.title = element_blank(),
+        legend.key.size = unit(25,units = "pt"),
+        legend.direction = "horizontal")
+```
+
+
+### Empowering Women in Tech
+
+Empowering women in technology has been a core focus for R-Ladies Rome. We organized events specifically designed to support and uplift women in the tech field. From networking sessions to skill showcases, these gatherings aimed to create a supportive community for women in various tech-related professions.
+
+
+
+### Looking Forward to 2024
+
+As we close the chapter on 2023, we're excited about the possibilities that 2024 holds. With a commitment to continuous learning, collaboration, and empowerment, R-Ladies Rome is poised to embark on another year of growth and impact.
+
+
+
+
+
+
+
