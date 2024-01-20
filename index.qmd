@@ -63,7 +63,7 @@ Part of R-Ladies Global, organization designed to develop the R skills and knowl
 </center>
 
 ::: {#hero-heading}
-![](images/rconsortium.png){width="300px"}
+![](images/rconsortium-removebg.png){width="300px"}
 :::
 
 
