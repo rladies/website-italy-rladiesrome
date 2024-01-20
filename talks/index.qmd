@@ -13,27 +13,3 @@ sidebar: true
 ---
 
 
-**Embracing the Final Months of 2023: A Sneak Peek into November and Beyond**
-
-As we navigate the last leg of 2023, we're thrilled to unveil our plans for `November and beyond`. The upcoming months promise a mix of excitement, `learning`, and `cross-border collaboration`, making it a fitting finale to a year full of growth and exploration.
-
-**November: Data Visualization Extravaganza 📊**
-
-`November` is all about `data visualization` at `R-Ladies Rome`. We're diving deep into the art of turning raw data into compelling visuals, and we can't wait to explore the world of charts, graphs, and infographics with you. Two fantastic events are in store to help you master the craft and discover the power of storytelling through data. It's an opportunity you don't want to miss!
-
-**December: Joining Forces with R-Ladies Paris 🌍**
-
-While December still holds some secrets, we're eager to share one exciting plan. We're in discussions to team up with our friends at `R-Ladies Paris` for a `special joint event`. It's a chance to connect, exchange ideas, and `expand our horizons with a broader international perspective`. Keep an eye out for updates as we unveil the details of this collaborative event.
-
-**A Year of Growth and Learning 🌱**
-
-Looking back, this year has been a remarkable journey for `R-Ladies Rome`. We've organized a wide array of events, from talks and workshops to coding sessions and panel discussions. Our focus on R programming, data science, and statistics has created a thriving environment for `knowledge-sharing and empowerment`.
-
-As we reflect on the incredible year we've had, we want to `express our deepest gratitude` to our speakers, our dedicated organizers, and, of course, our vibrant community. Your active engagement, thoughtful questions, and inspiring discussions have shaped the `R-Ladies Rome community` and made it what it is today.
-
-
-`Stay tuned` for more updates on these events and more exciting surprises as we embark on the second half of the year together. Let's make it a memorable and knowledge-filled journey!
-
-We are grateful to all our speakers for sharing their expertise, and to our community for their engagement and support. If you missed any of these talks, you can find the presentation materials on our website or ask for more information at [rome@rladies.org](mailto:rome@rladies.org){.email}.
-
-> `Thank you for being a part of R-Ladies Rome, and we look forward to sharing this amazing journey with you.` 🌟

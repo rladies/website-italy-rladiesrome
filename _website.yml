@@ -11,7 +11,7 @@ website:
   
   page-footer:
     left: |
-      Copyright &copy; CC-By R-Ladies Rome, 2023
+      Copyright &copy; CC-By [Federica Gazzelloni](https://github.com/Fgazzelloni) @R-Ladies Rome, 2023
     center:   
       - icon: globe
         href: https://rladies.org
@@ -102,6 +102,7 @@ website:
         contents:
           - talks/index.qmd
           - talks/2023/index.qmd
+          - talks/2024/index.qmd
       - about.qmd    
       - sponsors.qmd    
  

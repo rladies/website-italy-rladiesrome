@@ -1,6 +1,4 @@
 - source: project
   quarto-pub:
-    - id: abb15230-d037-41fb-8566-eb91af6e2e32
-      url: 'https://quartopub.com/sites/fgazzelloni/r-ladies-rome'
     - id: 886f402c-f977-4f82-ad9e-a528bf6deba8
       url: 'https://quartopub.com/sites/rladiesrome/website'

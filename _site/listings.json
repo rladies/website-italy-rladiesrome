@@ -1,7 +1,9 @@
 [
   {
     "listing": "/talks/2024/index.html",
-    "items": []
+    "items": [
+      "/talks/2024/meetup/01162024/index.html"
+    ]
   },
   {
     "listing": "/talks/2023/index.html",
@@ -25,6 +27,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/talks/2024/meetup/01162024/index.html",
       "/blog/posts/012024/index.html",
       "/talks/2023/meetup/12152023/index.html",
       "/talks/2023/meetup/11302023/index.html",

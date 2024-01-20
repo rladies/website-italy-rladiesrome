@@ -27,7 +27,7 @@ During this session, we used the `Gapminder` dataset to produce an insightful `s
 Missed the live session? Don't worry! 
 
  🎬 `Watch the Video Now`
-Simply click the link below to access the video:
+Simply click on the video below to watch it:
 
 {{< video https://youtu.be/sLxp-ZhwMbE >}}
 

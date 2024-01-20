@@ -1,0 +1,43 @@
+---
+title: "Introduction to Reproducible Publications with Quarto"
+subtitle: "R-Ladies Rome & R-Ladies Paris"
+date: 2024-01-16
+image: "https://secure.meetupstatic.com/photos/event/d/5/8/c/600_518334668.webp?w=750"
+image-alt: ""
+description: "Event in partnership with R-Ladies Paris. First event of 2024 carpentry-style quarto introductory workshop with lecture and demos alternating with hands-on exercises."
+categories:
+  - Reproducibility
+  - Quarto
+  - Hands-on
+---
+  
+
+`Registered Attendees (76)`
+
+January 16, 2024 speaker is [Torin White](https://www.linkedin.com/in/torinwhite/) certified `Carpentries Instructor`
+
+
+🎬 Get ready for a hands-on experience! 🔥
+
+Dive into the world of `Quarto`, the innovative open-source publishing system developed by `Posit`! In this engaging workshop recording, discover how Quarto extends the capabilities of R Markdown, offering a versatile tool for `crafting scientific and technical publications`. Whether you're a seasoned user of RStudio or Jupyter Notebooks, Quarto empowers you to seamlessly blend narrative text with code, creating impactful reports, academic articles, books, and web pages.
+
+Our speaker is `Dr. Torin White` lead data scientist in the Research IT group at the `University of Illinois Chicago` in the United States. 
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://youtu.be/hgpL-sppw7E >}}
+
+
+Material:
+
+- Github repository: [https://github.com/UCSBCarpentry/Quarto-Project-Example](https://github.com/UCSBCarpentry/Quarto-Project-Example)
+- and this part of [The Carpentries](https://carpentries.org/index.html) lesson: [https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-Quarto/03-quarto-documents/index.html](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-Quarto/03-quarto-documents/index.html)
+
+
+Explore key topics such as an introduction to Quarto documents, effective techniques for writing and styling narrative text, and integrating R code flawlessly into a publication-ready document. For an optimal experience, a basic understanding of the RStudio environment is recommended.
+
+
+#DataScience #Reproducibility #Quarto #RLadiesRome #LearningTogether #hands-on

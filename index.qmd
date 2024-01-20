@@ -4,7 +4,7 @@ image: images/rladiesmap.png
 image-alt: "R-Ladies Global Map"
 about:
   template: jolla
-  image-width: 25em
+  image-width: 45em #25
   # links: 
   #   - text: "Introduction"
   #     href: introduction.qmd
@@ -20,6 +20,7 @@ listing:
     contents: 
     - /blog/posts
     - /talks/2023/meetup
+    - /talks/2024/meetup
     sort: "date desc"
     type: grid
     image-height: "200"

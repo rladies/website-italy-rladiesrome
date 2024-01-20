@@ -11,3 +11,16 @@ page-layout: full
 title-block-banner: false
 sidebar: true
 ---
+
+
+A Year of Growth and Learning 🌱
+
+Looking back, this year has been a remarkable journey for R-Ladies Rome. We’ve organized a wide array of events, from talks and workshops to coding sessions and panel discussions. Our focus on `R programming`, `data science`, and `statistics` has created a thriving environment for knowledge-sharing and empowerment.
+
+As we reflect on the incredible year we’ve had, we want to express our deepest gratitude to our speakers, our dedicated organizers, and, of course, our vibrant community. Your active engagement, thoughtful questions, and inspiring discussions have shaped the R-Ladies Rome community and made it what it is today.
+
+We are grateful to all our speakers for sharing their expertise, and to our community for their engagement and support. If you missed any of these talks, you can find the presentation materials on our website or ask for more information at [rome@rladies.org](rome@rladies.org).
+
+Stay tuned for more updates on these events and more exciting surprises as we embark on the second half of the year together. Let’s make it a memorable and knowledge-filled journey!
+
+> Thank you for being a part of R-Ladies Rome, and we look forward to sharing this amazing journey with you. 🌟

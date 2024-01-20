@@ -22,7 +22,7 @@ In this talk, Cédric will provide an overview of the world of `ggplot2 extensio
 
 🚀 Explore the secrets behind creating visually striking figures and discover how Cédric navigates complex social data challenges. 
 
-Simply click the link below to access the video:
+Simply click on the video below to watch it:
 
 {{< video https://youtu.be/ngkhOhp5qU4 >}}
 
