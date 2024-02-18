@@ -5,19 +5,19 @@ subtitle: "Learning Network: A collaborative network for knowledge sharing and s
 
 > `Welcome to R-Ladies Rome`, local chapter of `R-Ladies Global`, an organization that promotes gender diversity in the R programming community worldwide. Our community is designed to develop our members' R skills and knowledge through social, collaborative learning and sharing, supporting minority identity access to STEM skills and careers, the Free Software Movement, and contributing to the global R community.
 
-
 ::: columns
 ::: {.column width="33%"}
 ![R-Ladies Global](images/rladiesglobal.png)
 :::
+
 ::: {.column width="33%"}
 ![R-Ladies Rome](images/logo.png)
 :::
+
 ::: {.column width="33%"}
 ![R-Consortium](images/rconsortium2.png)
 :::
 :::
-
 
 At [R-Ladies Rome](https://www.meetup.com/rladies-rome/), we welcome members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking, and expert up-skilling. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in working with R. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.
 

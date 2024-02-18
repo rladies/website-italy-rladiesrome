@@ -10,6 +10,87 @@ subtitle: "What is going on at `R-Ladies Rome`"
 page-layout: full
 title-block-banner: false
 sidebar: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+**Introducing 2024 Exciting New Event Series at R-Ladies Rome**
 
+R-Ladies Rome is thrilled to kick off an exciting new event series,
+showcasing a diverse range of topics and expert speakers from the R
+community. With our mission of fostering learning and collaboration, we
+are dedicated to providing engaging sessions that empower women in data
+science and beyond. Let's take a look at what's in store for the first
+half of the year!
+
+**January: Introduction to Reproducible Publications with Quarto**
+
+Our inaugural event featured Dr. [Torin
+White](https://www.linkedin.com/in/torinwhite/), who provided valuable
+insights into creating reproducible documents using Quarto. Attendees
+learned essential techniques for combining code, analysis, and narrative
+to enhance their research projects.
+
+**February: Building a Chatbot with OpenAI, Shiny & R**
+
+Next up, we are excited to partner with the [TunisR User
+Group](https://www.meetup.com/tunis-r-user-group/) for an interactive
+workshop on building chatbots with OpenAI and Shiny. Led by [James
+Wade](https://www.linkedin.com/in/james-h-wade/), participants will
+explore the possibilities of conversational AI and learn how to develop
+their own chatbot applications.
+
+**February: Unraveling the Mysteries of Debugging in R**
+
+Join us for a session with [Shannon
+Pileggi](https://www.linkedin.com/in/shannon-m-pileggi/) as she shares
+essential tips and techniques for debugging R code. Whether you're a
+beginner or an experienced R user, this workshop will equip you with the
+skills to troubleshoot and resolve common programming errors.
+
+**March: Exploring the Vetiver and Pins Packages**
+
+In March, [Isabel
+Zimmerman](https://www.linkedin.com/in/isabel-zimmerman/) will lead a
+discussion on the Vetiver and Pins packages, offering valuable insights
+into their applications and functionalities. Don't miss this opportunity
+to dive deep into these powerful tools for data management and
+visualization.
+
+**April: Causal Inference Talk with Jennifer Hill**
+
+We are excited to partner with [R-Ladies
+NYC](https://www.meetup.com/rladies-newyork/) for a talk on causal
+inference by [Jennifer
+Hill](https://www.linkedin.com/in/jennifer-hill-0a419310/). Gain a
+deeper understanding of causal analysis methods and their applications
+in data science and research.
+
+**May: An Evening with Dr. Hadley Wickham**
+
+Save the date for a special event with [Dr. Hadley
+Wickham](https://www.linkedin.com/in/hadleywickham/), renowned R
+developer and author. Stay tuned for more details on this exclusive
+session with one of the leading figures in the R community.
+
+**June: Exploring rOpenSci with Yanina Bellini Saibene**
+
+Join us as we delve into the world of [rOpenSci](https://ropensci.org/)
+with [Yanina Bellini Saibene](https://www.linkedin.com/in/yabellini/).
+Learn about the latest developments and tools for open and reproducible
+research in R.
+
+**August: Openescapes with Julia Stewart Lowndes**
+
+In August, we are thrilled to welcome [Julia Stewart
+Lowndes](https://www.linkedin.com/in/julia-stewart-lowndes/) for a
+discussion on [Nasa-Openescapes](https://nasa-openscapes.github.io/).
+Discover how to promote open and inclusive practices in your research
+projects and collaborations.
+
+Stay tuned for more exciting events and collaborations as we continue
+our journey of learning and empowerment at **R-Ladies Rome**!
+
+*Have questions or suggestions for future events? Feel free to reach out
+to us!*

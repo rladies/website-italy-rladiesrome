@@ -1,0 +1,65 @@
+---
+title: "Former Co-Organizers"
+subtitle: "Who we are, where we are from, and what we do"
+---
+
+
+
+::: columns
+
+::: {.column width="45%"}
+`Meet & Greet October 2023`. First time we met in person for talking about the Chapter and the events. Nice to see you here!
+<center>
+![](organizers_picts/20231021meet&greet.jpeg)
+</center>
+:::
+
+::: {.column width="0.5%"}
+:::
+
+
+::: {.column width="45%"}
+[Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n
+
+<center>
+![Francesca Picone](organizers_picts/francescapicone.png){width="60%"}
+</center>
+
+:::
+
+:::
+
+
+::: columns
+
+::: {.column width="45%"}
+[Nina Deliu](https://web.uniroma1.it/memotef/users/deliu-nina) Co-Organizer Researcher and Assistant Professor in Statistics at *La Sapienza University of Rome*. (September 2022 to February 2023)\n
+
+<center>
+
+![Nina Deliu](organizers_picts/ninadeliu.png){width="40%"}
+
+</center>
+:::
+
+::: {.column width="0.5%"}
+:::
+
+::: {.column width="45%"}
+[Katie Wood](https://www.linkedin.com/in/katie-wood-omca%E2%84%A2-92060817/) Co-organizer marketing manager with a background in various industry sectors across global markets. (March 2023	to September 2023)\n
+
+<center>
+
+![Katie Wood](organizers_picts/katiewood.png){width="40%"}
+
+</center>
+:::
+
+:::
+
+
+To get in touch with R-Ladies Rome, you can email us at [rome\@rladies.org](mailto:rome@rladies.org){.email}, follow us on Twitter at [\@rladiesrome](https://twitter.com/RLadiesRome), and check out our GitHub account at [meetup-presentations_rome](https://www.meetup.com/rladies-rome/). We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.
+
+We have a [code of conduct](https://rladies.org/coc/) that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.
+
+### [Sponsored by {{< fa regular registered size=Large label=r-consortium >}} **Consortium**](https://www.r-consortium.org/)

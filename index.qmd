@@ -32,12 +32,10 @@ title-block-banner: true
 format: html
 ---
 
-
 ```{r}
 #| echo: false
 # https://www.pexels.com/search/pink/
 ```
-
 
 ```{=html}
 <style>
@@ -47,9 +45,7 @@ format: html
     background-repeat: no-repeat;
   }
 </style>
-
 ```
-
 ::: {style="margin-top: 10px; font-size: 3em; color: #572455;"}
 Welcome to R-Ladies Rome
 :::
@@ -58,20 +54,15 @@ Welcome to R-Ladies Rome
 Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.
 :::
 
-<center>
-<a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/subscribe.png" alt="Become a Member" height="60"></a>
-</center>
+<center><a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/subscribe.png" alt="Become a Member" height="60"/></a></center>
 
 ::: {#hero-heading}
 ![](images/rconsortium-removebg.png){width="300px"}
 :::
 
-
-:::{style="border-bottom: 2px solid #f5f5f5;"}
+::: {style="border-bottom: 2px solid #f5f5f5;"}
 :::
 
 ::: {style="font-size: 3em; color: #572455;"}
 Latest content
 :::
-
-
