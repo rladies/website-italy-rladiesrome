@@ -30,7 +30,7 @@ website:
       - icon: instagram
         href: https://www.instagram.com/rladiesrome/
     right: |
-      This page is built with ❤️ and [Quarto](https://quarto.org/)
+      This website is built with ❤️ and [Quarto](https://quarto.org/)
     
   navbar:
     title: "R-Ladies Rome"

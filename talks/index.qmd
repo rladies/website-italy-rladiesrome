@@ -49,7 +49,7 @@ essential tips and techniques for debugging R code. Whether you're a
 beginner or an experienced R user, this workshop will equip you with the
 skills to troubleshoot and resolve common programming errors.
 
-**March: Exploring the Vetiver and Pins Packages**
+**March: Extending the data science workflow: {vetiver} and {pins}**
 
 In March, [Isabel
 Zimmerman](https://www.linkedin.com/in/isabel-zimmerman/) will lead a
@@ -57,6 +57,10 @@ discussion on the Vetiver and Pins packages, offering valuable insights
 into their applications and functionalities. Don't miss this opportunity
 to dive deep into these powerful tools for data management and
 visualization.
+
+**April: R for geospatial data science and public health surveillance**
+
+Geospatial health data play a crucial role in informing public health and policy by revealing geographic and temporal patterns, identifying risk factors, and detecting outbreaks swiftly. In this talk, **Paula Moraga**, Assistant Professor of Statistics at KAUST, will provide an overview of R packages and statistical methods for geospatial data analysis and health surveillance, addressing data biases and availability issues. She'll showcase how R facilitates communication and dissemination, enabling broad access to data and informing the development and implementation of effective health policies globally.
 
 **April: Causal Inference Talk with Jennifer Hill**
 

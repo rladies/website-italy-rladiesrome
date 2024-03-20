@@ -1,0 +1,41 @@
+---
+title: "Debugging in R"
+subtitle: "R-Ladies Rome presents"
+date: 2024-02-20
+image: "https://secure.meetupstatic.com/photos/event/2/2/4/4/600_518648772.webp?w=750"
+image-alt: ""
+description: "First sole event of 2024! Whether you're new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your skills."
+categories:
+  - Debugging
+  - Hands-on
+---
+  
+
+`Registered Attendees (85)`
+
+February 20, 2024 speaker is [Shannon Pileggi](https://www.linkedin.com/in/shannon-m-pileggi/) `Lead Data Scientist` at The Prostate Cancer Clinical Trials Consortium
+
+
+🎬 Get ready for a Debugging hands-on experience! 🔥
+
+Dive into the world of `Debugging in R` with this interactive Workshop exclusively designed for women in technology. It covers various topics including code troubleshooting tips, essential debugging functions (`traceback()`, `browser()`, `debug()`, and more). You'll gain insights into effective debugging strategies, best practices, and tips to degbug code in R.
+
+Our speaker is `Dr. Shannon Pileggi` Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium and a member of the `R-Ladies Global` team.
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://www.youtube.com/watch?v=BkEWV4gjZjI >}}
+
+
+Material:
+
+- Slides: [https://shannonpileggi.github.io/debugging-2hr/#/title-slide](https://shannonpileggi.github.io/debugging-2hr/#/title-slide)
+- Posit.cloud Workshop [https://posit.cloud/spaces/434909/join?access_code=7t8IP5pBzXMsTtAMiGdXQftqOlrBcxrf98svmhBj](https://posit.cloud/spaces/434909/join?access_code=7t8IP5pBzXMsTtAMiGdXQftqOlrBcxrf98svmhBj) 
+
+
+Debugging functions in R are pivotal in data science because they allow us to identify and fix errors in our code efficiently. By understanding how to use the debugging functions, data scientists can diagnose issues, locate where they occur in the code, and implement solutions. This not only helps streamline the development process but also ensures the accuracy and reliability of our analyses. 
+
+#DataScience #Debugging #RStudio #RLadiesRome #LearningTogether #hands-on
