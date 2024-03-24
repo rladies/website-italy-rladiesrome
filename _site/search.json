@@ -113,16 +113,11 @@
     "text": "Registered Attendees (85)\nFebruary 20, 2024 speaker is Shannon Pileggi Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium\n🎬 Get ready for a Debugging hands-on experience! 🔥\nDive into the world of Debugging in R with this interactive Workshop exclusively designed for women in technology. It covers various topics including code troubleshooting tips, essential debugging functions (traceback(), browser(), debug(), and more). You’ll gain insights into effective debugging strategies, best practices, and tips to degbug code in R.\nOur speaker is Dr. Shannon Pileggi Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium and a member of the R-Ladies Global team.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click on the video below to watch it:\n\nMaterial:\n\nSlides: https://shannonpileggi.github.io/debugging-2hr/#/title-slide\nPosit.cloud Workshop https://posit.cloud/spaces/434909/join?access_code=7t8IP5pBzXMsTtAMiGdXQftqOlrBcxrf98svmhBj\n\nDebugging functions in R are pivotal in data science because they allow us to identify and fix errors in our code efficiently. By understanding how to use the debugging functions, data scientists can diagnose issues, locate where they occur in the code, and implement solutions. This not only helps streamline the development process but also ensures the accuracy and reliability of our analyses.\n#DataScience #Debugging #RStudio #RLadiesRome #LearningTogether #hands-on"
   },
   {
-    "objectID": "talks/2024/index.html",
-    "href": "talks/2024/index.html",
-    "title": "2024",
+    "objectID": "talks/2024/meetup/01162024/index.html",
+    "href": "talks/2024/meetup/01162024/index.html",
+    "title": "Introduction to Reproducible Publications with Quarto",
     "section": "",
-    "text": "Debugging in R\n\n\n\nDebugging\n\n\nHands-on\n\n\n\nFirst sole event of 2024! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Reproducible Publications with Quarto\n\n\n\nReproducibility\n\n\nQuarto\n\n\nHands-on\n\n\n\nEvent in partnership with R-Ladies Paris. First event of 2024 carpentry-style quarto introductory workshop with lecture and demos alternating with hands-on exercises.\n\n\n\n\n\n\nJan 16, 2024\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Introduction",
-      "Talks",
-      "2024"
-    ]
+    "text": "Registered Attendees (76)\nJanuary 16, 2024 speaker is Torin White certified Carpentries Instructor\n🎬 Get ready for a hands-on experience! 🔥\nDive into the world of Quarto, the innovative open-source publishing system developed by Posit! In this engaging workshop recording, discover how Quarto extends the capabilities of R Markdown, offering a versatile tool for crafting scientific and technical publications. Whether you’re a seasoned user of RStudio or Jupyter Notebooks, Quarto empowers you to seamlessly blend narrative text with code, creating impactful reports, academic articles, books, and web pages.\nOur speaker is Dr. Torin White lead data scientist in the Research IT group at the University of Illinois Chicago in the United States.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click on the video below to watch it:\n\nMaterial:\n\nGithub repository: https://github.com/UCSBCarpentry/Quarto-Project-Example\nand this part of The Carpentries lesson: https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-Quarto/03-quarto-documents/index.html\n\nExplore key topics such as an introduction to Quarto documents, effective techniques for writing and styling narrative text, and integrating R code flawlessly into a publication-ready document. For an optimal experience, a basic understanding of the RStudio environment is recommended.\n#DataScience #Reproducibility #Quarto #RLadiesRome #LearningTogether #hands-on"
   },
   {
     "objectID": "sponsors.html",
@@ -169,11 +164,23 @@
     ]
   },
   {
-    "objectID": "talks/2024/meetup/01162024/index.html",
-    "href": "talks/2024/meetup/01162024/index.html",
-    "title": "Introduction to Reproducible Publications with Quarto",
+    "objectID": "talks/2024/index.html",
+    "href": "talks/2024/index.html",
+    "title": "2024",
     "section": "",
-    "text": "Registered Attendees (76)\nJanuary 16, 2024 speaker is Torin White certified Carpentries Instructor\n🎬 Get ready for a hands-on experience! 🔥\nDive into the world of Quarto, the innovative open-source publishing system developed by Posit! In this engaging workshop recording, discover how Quarto extends the capabilities of R Markdown, offering a versatile tool for crafting scientific and technical publications. Whether you’re a seasoned user of RStudio or Jupyter Notebooks, Quarto empowers you to seamlessly blend narrative text with code, creating impactful reports, academic articles, books, and web pages.\nOur speaker is Dr. Torin White lead data scientist in the Research IT group at the University of Illinois Chicago in the United States.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click on the video below to watch it:\n\nMaterial:\n\nGithub repository: https://github.com/UCSBCarpentry/Quarto-Project-Example\nand this part of The Carpentries lesson: https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-Quarto/03-quarto-documents/index.html\n\nExplore key topics such as an introduction to Quarto documents, effective techniques for writing and styling narrative text, and integrating R code flawlessly into a publication-ready document. For an optimal experience, a basic understanding of the RStudio environment is recommended.\n#DataScience #Reproducibility #Quarto #RLadiesRome #LearningTogether #hands-on"
+    "text": "Extending the data science workflow: {vetiver} and {pins}\n\n\n\nMLOps\n\n\nHands-on\n\n\nModeling\n\n\n\nWelcome to our March event! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDebugging in R\n\n\n\nDebugging\n\n\nHands-on\n\n\n\nFirst sole event of 2024! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Reproducible Publications with Quarto\n\n\n\nReproducibility\n\n\nQuarto\n\n\nHands-on\n\n\n\nEvent in partnership with R-Ladies Paris. First event of 2024 carpentry-style quarto introductory workshop with lecture and demos alternating with hands-on exercises.\n\n\n\n\n\n\nJan 16, 2024\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2024"
+    ]
+  },
+  {
+    "objectID": "talks/2024/meetup/03222024/index.html",
+    "href": "talks/2024/meetup/03222024/index.html",
+    "title": "Extending the data science workflow: {vetiver} and {pins}",
+    "section": "",
+    "text": "Registered Attendees (68)\nMarch 22, 2024 speaker is Isabel Zimmerman software engineer at Posit, PBC (formerly RStudio).\n🎬 Get ready for a MLOps hands-on experience! 🔥\nThe event focused on Machine Learning Operations (MLOps) with powerful tools like the {vetiver} and {pins}, providing insights into essential concepts and tools for bridging the gap between data analysis and model deployment, such as deploying models as API endpoints and monitoring model decay. The discussion highlighted the transformative potential of MLOps in driving impactful data-driven solutions, emphasizing practical applications and real-world scenarios.\nOur speaker isIsabel Zimmerman software engineer at Posit, PBC (formerly RStudio) her works primarily focus on tools for MLOps tasks. She also serves as the current Editor in Chief at pyOpenSci.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click on the video below to watch it:\n\nOverall, MLOps is critical for maximizing the value and impact of machine learning initiatives within organizations, ensuring that models are deployed effectively, monitored closely, and maintained efficiently throughout their lifecycle.\nMaterial:\n\nPresentation: https://www.isabelizimm.me/talk-extending-ds-workflow-rladies/\nRStudioConf2022 talk: https://www.isabelizimm.me/talks/rstudioconf2022/\nVetiver website: https://vetiver.rstudio.com/\n\n#DataScience #Modelling #MLOps #RLadiesRome #LearningTogether #hands-on"
   },
   {
     "objectID": "talks/2023/index.html",
@@ -274,7 +281,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Welcome to R-Ladies Rome\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDebugging in R\n\n\nFirst sole event of 2024! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Reproducible Publications with Quarto\n\n\nEvent in partnership with R-Ladies Paris. First event of 2024 carpentry-style quarto introductory workshop with lecture and demos alternating with hands-on exercises.\n\n\n\n\n\n\nJan 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne-Year of Events: What’s happend at R-Ladies Rome\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJan 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to R-Ladies Rome\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtending the data science workflow: {vetiver} and {pins}\n\n\nWelcome to our March event! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nDebugging in R\n\n\nFirst sole event of 2024! Whether you’re new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your…\n\n\n\n\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Reproducible Publications with Quarto\n\n\nEvent in partnership with R-Ladies Paris. First event of 2024 carpentry-style quarto introductory workshop with lecture and demos alternating with hands-on exercises.\n\n\n\n\n\n\nJan 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/072023/index.html",

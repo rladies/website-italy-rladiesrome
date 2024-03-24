@@ -1,0 +1,44 @@
+---
+title: "Extending the data science workflow: {vetiver} and {pins}"
+subtitle: "R-Ladies Rome presents"
+date: 2024-03-22
+image: "https://secure.meetupstatic.com/photos/event/5/f/7/1/600_519264433.webp?w=750"
+image-alt: ""
+description: "Welcome to our March event! Whether you're new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your skills."
+categories:
+  - MLOps
+  - Hands-on
+  - Modeling
+---
+  
+
+`Registered Attendees (68)`
+
+March 22, 2024 speaker is [Isabel Zimmerman](https://www.linkedin.com/in/isabel-zimmerman/) software engineer at Posit, PBC (formerly RStudio).
+
+
+🎬 Get ready for a MLOps hands-on experience! 🔥
+
+The event focused on Machine Learning Operations (MLOps) with powerful tools like the `{vetiver}` and `{pins}`, providing insights into essential concepts and tools for bridging the gap between data analysis and model deployment, such as deploying models as API endpoints and monitoring model decay. The discussion highlighted the transformative potential of MLOps in driving impactful data-driven solutions, emphasizing practical applications and real-world scenarios. 
+
+Our speaker is` Isabel Zimmerman` software engineer at Posit, PBC (formerly RStudio) her works primarily focus on tools for MLOps tasks. She also serves as the current Editor in Chief at pyOpenSci.
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://youtu.be/i7sjeafdFqI >}}
+
+Overall, MLOps is critical for maximizing the value and impact of machine learning initiatives within organizations, ensuring that models are deployed effectively, monitored closely, and maintained efficiently throughout their lifecycle.
+
+Material: 
+
+- Presentation: <https://www.isabelizimm.me/talk-extending-ds-workflow-rladies/>
+- RStudioConf2022 talk: <https://www.isabelizimm.me/talks/rstudioconf2022/>
+- Vetiver website: <https://vetiver.rstudio.com/>
+
+
+
+
+#DataScience #Modelling #MLOps #RLadiesRome #LearningTogether #hands-on
