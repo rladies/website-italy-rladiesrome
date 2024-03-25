@@ -21,7 +21,7 @@ March 22, 2024 speaker is [Isabel Zimmerman](https://www.linkedin.com/in/isabel-
 
 The event focused on Machine Learning Operations (MLOps) with powerful tools like the `{vetiver}` and `{pins}`, providing insights into essential concepts and tools for bridging the gap between data analysis and model deployment, such as deploying models as API endpoints and monitoring model decay. The discussion highlighted the transformative potential of MLOps in driving impactful data-driven solutions, emphasizing practical applications and real-world scenarios. 
 
-Our speaker is` Isabel Zimmerman` software engineer at Posit, PBC (formerly RStudio) her works primarily focus on tools for MLOps tasks. She also serves as the current Editor in Chief at pyOpenSci.
+Our speaker is` Isabel Zimmerman` software engineer at Posit, PBC (formerly RStudio) whose work primarily focuses on developing tools for MLOps tasks. Additionally, she serves as the current Editor-in-Chief at pyOpenSci.
 
 Missed the live session? Don't worry! 
 
