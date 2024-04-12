@@ -1,1 +1,1 @@
-Sitemap: https://rladiesrome.quarto.pub/website/sitemap.xml
+Sitemap: https://shimmering-stardust-48a46f.netlify.app/sitemap.xml

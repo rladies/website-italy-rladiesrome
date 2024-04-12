@@ -29,7 +29,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="60%"}
-[Rafaela Ribeiro](https://www.linkedin.com/in/rafaelagrlucas/) Organizer. I am a Master's student in Cardiology (UFRGS - Brazil) - Bacharel in Nutrition (UFPel - Brazil). Interested in Epidemiology and Data Science applied to Public Health.
+[Rafaela Ribeiro](https://www.linkedin.com/in/rafaelagrlucas/) Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master's degree in progress in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n
 :::
 
 ::: {.column width="40%"}
@@ -41,11 +41,11 @@ subtitle: "Who we are, where we are from, and what we do"
 
 To get in touch with R-Ladies Rome, you can email us at [rome\@rladies.org](mailto:rome@rladies.org){.email}, follow us on Twitter at [\@rladiesrome](https://twitter.com/RLadiesRome), and check out our GitHub account at [meetup-presentations_rome](https://www.meetup.com/rladies-rome/). We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.
 
-------------------------------------
+------------------------------------------------------------------------
 
 ![](organizers_picts/background.png){fig-align="center" width="439"}
 
----------------------------------------------------
+------------------------------------------------------------------------
 
 We have a [code of conduct](https://rladies.org/coc/) that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.
 

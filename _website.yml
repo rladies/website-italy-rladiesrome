@@ -4,7 +4,7 @@ website:
   open-graph: true
   #image: images/logo.png
   favicon: images/rladiesrome-favicon.png
-  site-url: https://rladiesrome.quarto.pub/website/
+  site-url: https://rladiesrome.org
   repo-url: https://github.com/rladies/website-italy-rladiesrome
   google-analytics: "G-8BDX0D3T1M"
   repo-actions: [edit, issue]
