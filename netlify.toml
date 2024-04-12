@@ -1,2 +1,8 @@
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
+
+[[redirects]]
+  from = "https://rladiesrome.quarto.pub/website"
+  to = "https://rladiesrome.org"
+  status = 301
+  force = true
