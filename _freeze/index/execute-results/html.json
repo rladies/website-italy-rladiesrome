@@ -1,0 +1,15 @@
+{
+  "hash": "1ac06ba88ae28624ed9eff852e9d781f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nbackgroundcolor: \"\"\nimage: images/world-map.png\nimage-alt: \"R-Ladies Global Map\"\nabout:\n  template: marquee\n  #image-width: 35em #25\n  # links: \n  #   - text: \"Introduction\"\n  #     href: introduction.qmd\n  #   - text: \"About\"  \n  #     file: about.qmd\n  #   - text: \"Talks\"  \n  #     file: talks/index.qmd\n  id: hero-heading  \n    \nsidebar: false\n\nlisting:\n    contents: \n    - /blog/posts\n    - /talks/2023/meetup\n    - /talks/2024/meetup\n    sort: \"date desc\"\n    type: grid\n    image-height: \"200\"\n    max-items: 3\n    categories: false\n      \npage-layout: full\ntitle-block-banner: true\nformat: html\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n::: {style=\"margin-top: 10px; font-size: 3em; color: #572455;\"}\nWelcome to R-Ladies Rome\n:::\n\n::: {style=\"font-size: 1.2em; color: #a68ba5;\"}\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.\n:::\n\n<center><a href=\"https://www.meetup.com/rladies-rome/\" target=\"_blank\"><img src=\"images/subscribe.png\" alt=\"Become a Member\" height=\"60\"/></a></center>\n\n<center>\n::: {#hero-heading}\n![](images/rconsortium-removebg.png){width=\"300px\"}\n:::\n</center>\n::: {style=\"border-bottom: 2px solid #f5f5f5;\"}\n:::\n\n::: {style=\"font-size: 3em; color: #572455;\"}\nLatest content\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
