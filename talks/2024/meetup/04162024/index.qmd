@@ -1,0 +1,58 @@
+---
+title: "R for geospatial data science and public health surveillance"
+subtitle: "R-Ladies Rome presents"
+date: 2024-04-16
+image: "https://secure.meetupstatic.com/photos/event/d/7/0/f/600_519955055.webp?w=750"
+image-alt: ""
+description: "Welcome to our April event! Join us for an engaging session with Dr. Paula Moraga, Assistant Professor of Statistics at KAUST, as she shares her insights and expertise in this domain. Don't miss this opportunity to learn from a leading expert and explore the transformative potential of R in disease surveillance modeling!"
+
+categories:
+  - spatial
+  - disease survelliance 
+  - modeling
+---
+  
+
+`Registered Attendees (152)`
+
+April 16, 2024 speaker is [Dr. Paula Moraga](https://www.paulamoraga.com), Assistant Professor of Statistics at KAUST.
+
+
+🎬 Get ready for an engaging journey through disease surveillance modeling! 🔥
+
+In today's data-driven world, the convergence of geospatial data science and public health surveillance has become increasingly vital. Leveraging advanced analytical tools and methodologies is essential in identifying patterns, trends, and potential risks to public health. Recently, we hosted an illuminating event that delved into the transformative potential of R in this domain.
+
+**Missed the live session? Don't worry!**
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://youtu.be/dYNlzid-eqU >}}
+
+Our event brought together seasoned experts and enthusiasts alike to explore the intersection of R, geospatial data science, and public health surveillance. From understanding spatial patterns to detecting outbreaks and assessing health disparities, the applications of R in this field are vast and impactful.
+
+The recording of this event offers a unique opportunity to gain insights from leading practitioners in the field. Whether you're a data scientist, public health professional, or simply intrigued by the potential of data-driven approaches in addressing global health challenges, this recording is a must-watch.
+
+**Where to Find Resources**
+
+For those eager to delve deeper into the world of R for geospatial data science and public health surveillance, there are abundant resources available. Online platforms, such as [Coursera](https://www.coursera.org/), Udemy, DataCamp, LinkedIn Learning, and Kaggle, offer a plethora of tutorials, courses, and documentation tailored to beginners and advanced users alike. 
+
+Additionally, exploring relevant R packages, such as [`{INLA}`](https://www.r-inla.org/) and [`{spdep}`](https://r-spatial.github.io/spdep/index.html), can provide hands-on experience in analyzing and visualizing geospatial data. Don't hesitate to join online communities and forums dedicated to R and public health, where you can connect with like-minded individuals and exchange knowledge and insights.
+
+**Material:**
+
+- Presentation: <https://www.paulamoraga.com/presentation/>
+- GitHub: <https://github.com/Paula-Moraga>
+- Books:
+  - [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-geospatial-info/)
+  - [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny ](https://www.paulamoraga.com/book-geospatial-info/)
+
+
+**Conclusion**
+
+In conclusion, the recording of our recent event offers a gateway to unlocking the potential of R in geospatial data science and public health surveillance. By watching this recording and exploring additional resources, you can embark on a journey of discovery and contribute to the advancement of public health efforts worldwide.
+
+Stay tuned for future events and opportunities to delve deeper into the fascinating intersection of data science and public health. Together, we can harness the power of data to create positive change and improve health outcomes for all.
+
+
+#DataScience #Modelling #RLadiesRome #LearningTogether #R #GeospatialDataScience #PublicHealth #Surveillance #EventRecording #LearningResources #DataAnalysis #DataVisualization
