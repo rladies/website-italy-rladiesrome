@@ -1,0 +1,48 @@
+---
+title: "R in Production: An Evening with Dr. Hadley Wickham"
+subtitle: "R-Ladies Rome & R-Ladies NYC presents"
+date: 2024-04-16
+image: "hhttps://secure.meetupstatic.com/photos/event/2/8/7/c/600_521050364.webp?w=750"
+image-alt: ""
+description: "Welcome to our May event! Join us for an engaging session with Dr. Hadley Wickham, Chief Scientist at Posit PBC (formerly RStudio). Explore the challenges and best practices for deploying R solutions in real-world production environments, from effective code structuring to ensuring scalability and reliability."
+
+categories:
+  - Production
+  - Web Scraping 
+  - Best Practices
+---
+  
+
+`Registered Attendees (200)`
+
+May 24, 2024 speaker is [Dr. Hadley Wickham](https://hadley.nz/), Chief Scientist at Posit PBC (formerly RStudio).
+
+
+🎬 Dive into this inspiring talk! 🔥
+
+While we explored 'R in Production' with Dr. Hadley Wickham. 
+
+In collaboration with R-Ladies NYC, we fostered a dynamic networking environment, setting the stage for insightful discussions and connections. Before delving into the main talk, attendees engaged in lively exchanges, building camaraderie and sharing experiences. 
+
+As the session unfolded, Hadley inspired us with expertise, navigating the challenges and best practices of deploying R solutions in real-world scenarios. We delved into web scraping and tasted the challenges of real-time changes, all while outlining the principles when working in production: not one time, not one computer, not just me. 
+
+The event culminated in an engaging Q&A session, offering attendees the opportunity to ask about key concepts and gain further insights. 
+
+**Missed the live session? Don't worry!**
+
+ 🎬 `Watch the recording now to embark on a transformative journey into the realm of 'R in Production'!`
+ 
+Simply click on the video below to watch it:
+
+{{< video https://youtu.be/Rk7HRNaO0W0 >}}
+
+
+**Material:**
+
+- [Dr. Hadley Wickham's website](https://hadley.nz/)
+- [https://github.com/hadley/available-work](https://github.com/hadley/available-work)
+- [https://github.com/hadley/web-scraping](https://github.com/hadley/web-scraping)
+
+
+As organizations increasingly rely on data-driven decision-making, the ability to extract and analyze data from the web becomes essential for informing business strategies, market research, competitive analysis, and more. Incorporating web scraping into production-level R workflows enables practitioners to automate data collection processes, streamline data acquisition pipelines, and leverage timely insights for informed decision-making. 
+

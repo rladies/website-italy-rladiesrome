@@ -1,10 +1,9 @@
 /.quarto/
-/_site/
+_site
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
 .DS_Store
-Copy*.*
-.html$
+/*.*.html$
 rlr.scss
