@@ -1,8 +1,8 @@
 ---
 title: "R in Production: An Evening with Dr. Hadley Wickham"
 subtitle: "R-Ladies Rome & R-Ladies NYC presents"
-date: 2024-04-16
-image: "hhttps://secure.meetupstatic.com/photos/event/2/8/7/c/600_521050364.webp?w=750"
+date: 2024-05-24
+image: "https://secure.meetupstatic.com/photos/event/2/8/7/c/600_521050364.webp?w=750"
 image-alt: ""
 description: "Welcome to our May event! Join us for an engaging session with Dr. Hadley Wickham, Chief Scientist at Posit PBC (formerly RStudio). Explore the challenges and best practices for deploying R solutions in real-world production environments, from effective code structuring to ensuring scalability and reliability."
 
