@@ -1,21 +1,16 @@
 ---
-backgroundcolor: ""
+title: </script><p class= "multipleStrings" >
+backgroundcolor: "rgba(87,36,85, 0.01)"
 image: images/world-map.png
 image-alt: "R-Ladies Global Map"
+title-block-style: "plain"
+title-block-banner: 'rgba(87,36,85, 0.1)'
+title-block-banner-color: "#572455"
 about:
   template: marquee
-  #image-width: 35em #25
-  # links: 
-  #   - text: "Introduction"
-  #     href: introduction.qmd
-  #   - text: "About"  
-  #     file: about.qmd
-  #   - text: "Talks"  
-  #     file: talks/index.qmd
   id: hero-heading  
-    
 sidebar: false
-
+page-layout: full
 listing:
     contents: 
     - /blog/posts
@@ -26,10 +21,11 @@ listing:
     image-height: "200"
     max-items: 3
     categories: false
-      
-page-layout: full
-title-block-banner: true
-format: html
+format:
+  html:
+    include-in-header: 
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">      
 ---
 
 ```{r}
@@ -49,12 +45,12 @@ format: html
 ```
 
 
-::: {style="margin-top: 10px; font-size: 3em; color: #572455;"}
-Welcome to R-Ladies Rome
+::: {style="margin-top: 10px; font-size: 3em; color: #572455; font-weight: bold; text-align: center;"}
+Welcome to R-Ladies Rome! 🩷
 :::
 
 ::: {style="font-size: 1.2em; color: #a68ba5;"}
-Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for minority identities. We are proud members of both the Free Software Movement and the global R community.
+Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sposored by The R Consortium and The Linux Foundation. 
 :::
 
 <center><a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/subscribe.png" alt="Become a Member" height="60"/></a></center>
@@ -70,3 +66,25 @@ Part of R-Ladies Global, organization designed to develop the R skills and knowl
 ::: {style="font-size: 3em; color: #572455;"}
 Latest content
 :::
+
+```{=html}
+<style>
+  .multipleStrings {
+    font-size: 25px; 
+  }
+</style>
+
+<script>
+  new TypeIt(".multipleStrings", {
+    strings: [
+      "Explore our community dedicated to promoting inclusivity in the R programming world 🌍",
+      "Discover events, resources, and projects that empower women in technology 💪",
+      "Join us in our mission and enjoy your journey with us! 🚀"
+    ],
+    breakLines: false,
+    loop: true,
+    speed: 50
+  }).go();
+</script>
+```
+

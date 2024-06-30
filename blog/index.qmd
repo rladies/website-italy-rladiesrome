@@ -1,12 +1,12 @@
 ---
-title: "Blog posts"
-subtitle: "Have a look at the latest blog posts of `R-Ladies Rome`"
+title: "Blog Posts 🗞️"
+subtitle: "Have a look at the latest Blog Posts of `R-Ladies Rome`"
 listing:
   contents: posts
   sort: "date desc"
   type: grid
   image-height: "200"
-  categories: true
+  categories: false
 page-layout: full
 title-block-banner: false
 sidebar: true

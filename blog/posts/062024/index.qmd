@@ -1,0 +1,40 @@
+---
+title: "Women in Technology: Web Development Workshop | Building a Website in R"
+subtitle: "Welcome to R-Ladies Rome Blog!"
+date: "2024-06-28"
+image: "062024.png"
+image-alt: ""
+description: "Inspiring Insights and Knowledge Sharing in R Programming"
+---
+
+**Greetings, R-Ladies!** 💞
+
+We are excited to recap the fantastic experience we had at our recent `Women in Technology Web Development Workshop`. This event was a celebration of learning, creativity, and community as we delved into the world of web development using R.
+
+The event was held in partnership with **[R-Ladies NYC](https://www.meetup.com/rladies-newyork/)**, enriching our community collaboration and ensuring a diverse and inclusive learning environment. It was a fantastic opportunity to delve into the world of web development and R programming.
+
+The workshop kicked off with an engaging introduction, setting the stage for an interactive and hands-on session. Participants from diverse backgrounds came together to explore the steps of building a website using R. Guided by a varieties of resources, our attendees navigated through the process with enthusiasm and curiosity.
+
+**Highlights of the Workshop:**
+
+1. **Interactive Learning:** The workshop fostered a collaborative environment where everyone learned from basic concepts to advanced techniques; we covered a wide spectrum of web development principles with `Quarto.`
+
+2. **Hands-On Experience:** Participants had the opportunity to apply their newfound knowledge immediately. Through practical example and guided tutorials, they created their own websites step by step.
+
+3. **Building a Fabulous Website:** By the end of the workshop, each participant successfully crafted a stunning website using R. We are proud to showcase their creativity and achievement.
+
+**Material fo the Workshop:**
+
+Check out the final version of the websites created during the workshop, and we encourage you to explore the code in the GitHub repository as a starting point to make your own:
+
+- **Final version of the WebSite**: 👉[My Website in R & Quarto](https://fgazzelloni.quarto.pub/my-website-in-r--quarto/)
+
+- **Code**: 👉[GitHub repository](https://github.com/Fgazzelloni/building_a_website_in_r) 
+
+**Recording Availability:**
+
+**Missed the workshop?** Don't worry! We will soon release the recording of the event so you can catch up on all the insightful sessions and tutorials. Stay tuned to [@rladiesrome YouTube Channel](https://www.youtube.com/@rladiesrome) to access the recording once it's available.
+
+Thank you to everyone who joined us for this enriching event. Your enthusiasm and dedication truly made it a success. We look forward to continuing our journey of learning and empowerment together.
+
+**Until next time!**

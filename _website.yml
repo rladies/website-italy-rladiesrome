@@ -37,7 +37,7 @@ website:
     background: "#572455"
     logo: images/logo.png
     search: true
-    
+    back-to-top-navigation: true
     right: 
       - text: "About"
         menu: 

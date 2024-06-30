@@ -1,0 +1,60 @@
+---
+title: "Building a Website in R"
+subtitle: "R-Ladies Rome & R-Ladies NYC"
+date: 2024-06-28
+image: "https://secure.meetupstatic.com/photos/event/9/c/6/4/600_521680036.webp?w=750"
+image-alt: ""
+description: "Event in partnership with R-Ladies NYC. By the end of the tutorial, you'll have a fully functional, personalized website where to showcase your projects and achievements."
+categories:
+  - Web Development
+  - Webiste
+  - Quarto
+  - Hands-on
+---
+  
+
+`Registered Attendees: Rome (66) & NYC (61)`
+
+June 28, 2024 speaker is [Federica Gazzelloni](https://www.linkedin.com/in/federicagazzelloni/) certified `Carpentries Instructor` and `R-Ladies Rome` co-organizer.
+
+
+🎬 Get ready for a hands-on experience! 🔥
+
+The event provided a platform for professional networking, skill-building, and empowerment for women interested in expanding their knowledge in **Web Technology and Open Source tools**. Through practical discussions, attendees had the opportunity to explore the essentials of Quarto, from setting up their development environment to customizing their site’s design and functionality.
+
+By the end of the tutorial, participants had a fully functional, personalized website to showcase their projects and achievements.
+
+Our speaker is `Federica Gazzelloni` lead organizer of R-Ladies Rome. Federica is a certified Carpentries Instructor and passionate advocate for open-source tools and reproducible research practices. She is excited to share her expertise with you, guiding you through the process of creating a website in R using Quarto.
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://www.youtube.com/@rladiesrome >}}
+
+
+Material:
+
+- Github repository: [https://github.com/Fgazzelloni/building_a_website_in_r](https://github.com/Fgazzelloni/building_a_website_in_r)
+- Final version of the Website: [https://fgazzelloni.quarto.pub/my-website-in-r--quarto/](https://fgazzelloni.quarto.pub/my-website-in-r--quarto/)
+
+The Quarto website provides a comprehensive guide that walks you through every step of the process. This guide offers clear instructions on setting up your development environment, customizing your site’s design, and adding functionality tailored to your needs. 
+
+The tutorial is designed to be accessible to beginners, with no prior experience required. By the end of the session, you will have a fully functional website that you can use to showcase your projects and achievements.
+
+**Resources**:
+
+- [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/)
+
+- CSS customization for your website: [https://www.w3schools.com/css/](https://www.w3schools.com/css/) 
+
+- add a background image (change - "pink" with your favorite search topic): [https://www.pexels.com/search/pink/](https://www.pexels.com/search/pink/)
+
+
+
+If you have any questions or need assistance, please don’t hesitate to reach out to Federica at [fede.gazzelloni@gmail.com](mailto:fede.gazzelloni@gmail.com).
+
+
+
+#DataScience #Website #Quarto #RLadiesRome #LearningTogether #hands-on

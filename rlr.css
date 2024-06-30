@@ -6,7 +6,7 @@
   padding-top: 0;
   padding-bottom: 0;
   font-size: 1.1em;
-  font-family: "Monaco", monospace;
+  /*font-family: "Monaco", monospace;*/
   letter-spacing: normal;
 }
 
@@ -43,8 +43,6 @@
   color: black;
   letter-spacing: normal;
 }
-
-
 
 
 /*-- homepage styles --*/

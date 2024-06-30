@@ -1,36 +1,9 @@
 [
   {
-    "listing": "/talks/2024/index.html",
-    "items": [
-      "/talks/2024/meetup/05242024/index.html",
-      "/talks/2024/meetup/04162024/index.html",
-      "/talks/2024/meetup/03222024/index.html",
-      "/talks/2024/meetup/02202024/index.html",
-      "/talks/2024/meetup/01162024/index.html"
-    ]
-  },
-  {
-    "listing": "/talks/2023/index.html",
-    "items": [
-      "/talks/2023/meetup/12152023/index.html",
-      "/talks/2023/meetup/11302023/index.html",
-      "/talks/2023/meetup/11102023/index.html",
-      "/talks/2023/meetup/10272023/index.html",
-      "/talks/2023/meetup/09222023/index.html",
-      "/talks/2023/meetup/08282023/index.html",
-      "/talks/2023/meetup/07272023/index.html",
-      "/talks/2023/meetup/06302023/index.html",
-      "/talks/2023/meetup/06122023/index.html",
-      "/talks/2023/meetup/05172023/index.html",
-      "/talks/2023/meetup/04222023/index.html",
-      "/talks/2023/meetup/03222023/index.html",
-      "/talks/2023/meetup/02132023/index.html",
-      "/talks/2023/meetup/01242023/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/blog/posts/062024/index.html",
+      "/talks/2024/meetup/06282024/index.html",
       "/talks/2024/meetup/05242024/index.html",
       "/talks/2024/meetup/04162024/index.html",
       "/talks/2024/meetup/03222024/index.html",
@@ -58,8 +31,39 @@
     ]
   },
   {
+    "listing": "/talks/2023/index.html",
+    "items": [
+      "/talks/2023/meetup/12152023/index.html",
+      "/talks/2023/meetup/11302023/index.html",
+      "/talks/2023/meetup/11102023/index.html",
+      "/talks/2023/meetup/10272023/index.html",
+      "/talks/2023/meetup/09222023/index.html",
+      "/talks/2023/meetup/08282023/index.html",
+      "/talks/2023/meetup/07272023/index.html",
+      "/talks/2023/meetup/06302023/index.html",
+      "/talks/2023/meetup/06122023/index.html",
+      "/talks/2023/meetup/05172023/index.html",
+      "/talks/2023/meetup/04222023/index.html",
+      "/talks/2023/meetup/03222023/index.html",
+      "/talks/2023/meetup/02132023/index.html",
+      "/talks/2023/meetup/01242023/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/2024/index.html",
+    "items": [
+      "/talks/2024/meetup/06282024/index.html",
+      "/talks/2024/meetup/05242024/index.html",
+      "/talks/2024/meetup/04162024/index.html",
+      "/talks/2024/meetup/03222024/index.html",
+      "/talks/2024/meetup/02202024/index.html",
+      "/talks/2024/meetup/01162024/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/062024/index.html",
       "/blog/posts/012024/index.html",
       "/blog/posts/112023/index.html",
       "/blog/posts/102023/index.html",

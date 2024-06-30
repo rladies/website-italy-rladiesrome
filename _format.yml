@@ -2,7 +2,6 @@ format:
   html:
     highlight-style: github #change text from code chunks to white. 
     smooth-scroll: true
-    # include-in-header: meta.html
     theme: 
       light: pulse
       dark: darkly
