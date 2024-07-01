@@ -5,16 +5,17 @@ format:
     theme: 
       light: pulse
       dark: darkly
-    code-copy: true
-    code-overflow: wrap
-    code-link: true
-    toc: true  
-    #fontsize: 1.2em
-    linestretch: 1.7  
     css: rlr.css
+    toc: true
     link-external-newwindow: false
     citations-hover: true
     footnotes-hover: true
+    code-copy: true
+    code-overflow: wrap
+    code-link: true
+    back-to-top-navigation: true  
+    linestretch: 1.7 
+    #fontsize: 1.2em
 
 editor: visual
 
