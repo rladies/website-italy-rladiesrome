@@ -31,7 +31,7 @@ Missed the live session? Don't worry!
  🎬 `Watch the Video Now`
 Simply click on the video below to watch it:
 
-{{< video https://www.youtube.com/@rladiesrome >}}
+{{< video https://youtu.be/KVMwJvoM9CE >}}
 
 
 Material:
