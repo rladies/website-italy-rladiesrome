@@ -1,43 +1,29 @@
 website:
-  page-navigation: true
-  reader-mode: true
-  open-graph: true
-  #image: images/logo.png
+  title: "R-Ladies Rome Website"
+  description: "Online Learning Resources for R-Ladies Rome"
   favicon: images/rladiesrome-favicon.png
   site-url: https://rladiesrome.org
   repo-url: https://github.com/rladies/website-italy-rladiesrome
-  google-analytics: "G-8BDX0D3T1M"
   repo-actions: [edit, issue]
-  
-  page-footer:
-    left: |
-      Copyright &copy; CC-By [Federica Gazzelloni](https://github.com/Fgazzelloni) @R-Ladies Rome, 2023
-    center:   
-      - icon: globe
-        href: https://rladies.org
-      #- icon: meetup
-      #  href: https://www.meetup.com/rladies-rome
-      - icon: github
-        href: https://github.com/rladies/meetup-presentations_rome
-      - icon: twitter
-        href: https://twitter.com/rladiesrome
-      - icon: mastodon
-        href: https://fosstodon.org/@rladiesrome  
-      - icon: youtube
-        href: https://www.youtube.com/@rladiesrome
-      - icon: linkedin
-        href: https://www.linkedin.com/company/rladiesrome
-      - icon: instagram
-        href: https://www.instagram.com/rladiesrome/
-    right: |
-      This website is built with ❤️ and [Quarto](https://quarto.org/)
-    
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-8BDX0D3T1M"
+    anonymize-ip: true
+  open-graph: 
+    locale: en_US
+  twitter-card:
+    creator: "@rladiesrome"
+  page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
   navbar:
     title: "R-Ladies Rome"
     background: "#572455"
     logo: images/logo.png
     search: true
-    back-to-top-navigation: true
     right: 
       - text: "About"
         menu: 
@@ -57,7 +43,6 @@ website:
         href: https://www.youtube.com/@rladiesrome
       - icon: linkedin
         href: https://www.linkedin.com/company/rladiesrome
-        
     left:
       - text: "Introduction"
         file: introduction.qmd
@@ -68,9 +53,45 @@ website:
           - talks/index.qmd
           - talks/2023/index.qmd
           - talks/2024/index.qmd
-  
-  
+  page-footer:
+    left: |
+      © Copyright &copy; CC-By [Federica Gazzelloni](https://github.com/Fgazzelloni) @R-Ladies Rome. CC-BY-NC 4.0.
+    center:   
+      - icon: globe
+        href: https://rladies.org
+      #- icon: meetup
+      #  href: https://www.meetup.com/rladies-rome
+      - icon: github
+        href: https://github.com/rladies/meetup-presentations_rome
+      - icon: twitter
+        href: https://twitter.com/rladiesrome
+      - icon: mastodon
+        href: https://fosstodon.org/@rladiesrome  
+      - icon: youtube
+        href: https://www.youtube.com/@rladiesrome
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rladiesrome
+      - icon: instagram
+        href: https://www.instagram.com/rladiesrome/
+    right: |
+      This Website is built with ❤️ and [Quarto](https://quarto.org/)
   sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: Introduction
+        href: introduction.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - section: "Talks"
+        contents:
+          - talks/index.qmd
+          - talks/2023/index.qmd
+          - talks/2024/index.qmd
+      - text: About
+        href: about/organizers.qmd    
+      - sponsors.qmd 
     #logo: "images/logo.png"
     #pinned: true
     #align: center
@@ -92,20 +113,5 @@ website:
     #  - icon: linkedin
     #    href: https://www.linkedin.com/company/rladiesrome  
         
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - text: Introduction
-        href: introduction.qmd
-      - text: Blog
-        href: blog/index.qmd
-      - section: "Talks"
-        contents:
-          - talks/index.qmd
-          - talks/2023/index.qmd
-          - talks/2024/index.qmd
-      - text: About
-        href: about/organizers.qmd    
-      - sponsors.qmd    
+      
  
