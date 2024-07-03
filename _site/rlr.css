@@ -21,6 +21,22 @@
 }
 
 
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -40px; 
+  height: 55px;
+}
+
+/*-- Netlify Outfit --*/
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -20px;
+  height: 70%;
+}
+
+
 /*-- sidebar --*/
 .sidebar {
   font-size: 0.874rem;
