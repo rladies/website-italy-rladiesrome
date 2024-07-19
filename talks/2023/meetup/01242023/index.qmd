@@ -6,7 +6,7 @@ image: "https://secure.meetupstatic.com/photos/event/5/8/8/600_509581416.webp?w=
 image-alt: ""
 description: "In this video you'll learn what Machine learning operations (MLOps) is"
 categories:
-  - modeling
+  - Modeling
 ---
 
 `Registered Attendees (53)`

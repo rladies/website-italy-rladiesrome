@@ -6,7 +6,7 @@ image: "https://secure.meetupstatic.com/photos/event/2/a/c/600_510660684.webp?w=
 image-alt: ""
 description: "In this video you'll learn the recent updates in the TidyVerse ecosystem"
 categories:
-  - R updates
+  - R Updates
   - tidyverse
 ---
 

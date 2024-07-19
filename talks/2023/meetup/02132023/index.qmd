@@ -6,7 +6,7 @@ image: "https://secure.meetupstatic.com/photos/event/6/7/f/0/600_509606608.webp?
 image-alt: ""
 description: "In this video you'll learn about Quarto"
 categories:
-  - quarto
+  - Quarto
 ---
 
 `Registered Attendees (86)`

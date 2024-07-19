@@ -7,7 +7,7 @@ image-alt: ""
 description: "In this video, we dive into the features of R, for analysing insurance data, make visualizations, and look at first line of modeling, to eventually produce a report."
 categories:
   - R Courses
-  - Insurance data
+  - Insurance Data
   - tidyverse
 ---
 

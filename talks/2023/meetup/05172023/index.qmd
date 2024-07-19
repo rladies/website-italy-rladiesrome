@@ -6,7 +6,7 @@ image: "https://secure.meetupstatic.com/photos/event/b/a/1/7/600_512387639.webp?
 image-alt: ""
 description: "In this video you'll learn about time zone differences"
 categories:
-  - best practices
+  - Best Practices
 ---
 
 `Registered Attendees (38)`

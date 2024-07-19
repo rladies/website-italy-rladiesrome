@@ -6,8 +6,8 @@ image: "06302023.png"
 image-alt: ""
 description: "In this video, you'll learn about the latest updates in the dynamic field of the One Health Initiative."
 categories:
-  - open questions
-  - health
+  - Open Questions
+  - Health
 ---
 
 `Registered Attendees (29)`

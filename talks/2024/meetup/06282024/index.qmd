@@ -1,17 +1,17 @@
 ---
 title: "Building a Website in R"
 subtitle: "R-Ladies Rome & R-Ladies NYC"
-date: 2024-06-28
+date: "2024-06-28"
 image: "https://secure.meetupstatic.com/photos/event/9/c/6/4/600_521680036.webp?w=750"
 image-alt: ""
-description: "Event in partnership with R-Ladies NYC. By the end of the tutorial, you'll have a fully functional, personalized website where to showcase your projects and achievements."
+description: "Event in partnership with R-Ladies NYC. Learn how to make your own wbsite with Quarto in R."
 categories:
   - Web Development
-  - Webiste
+  - Websites
   - Quarto
   - Hands-on
 ---
-  
+
 
 `Registered Attendees: Rome (66) & NYC (61)`
 
@@ -26,10 +26,10 @@ By the end of the tutorial, participants had a fully functional, personalized we
 
 Our speaker is `Federica Gazzelloni` lead organizer of R-Ladies Rome. Federica is a certified Carpentries Instructor and passionate advocate for open-source tools and reproducible research practices. She is excited to share her expertise with you, guiding you through the process of creating a website in R using Quarto.
 
-Missed the live session? Don't worry! 
+**Missed the live session? Don't worry!** 🤯 
 
  🎬 `Watch the Video Now`
-Simply click on the video below to watch it:
+Simply click on the video below to watch it 👇:
 
 {{< video https://youtu.be/KVMwJvoM9CE >}}
 

@@ -24,16 +24,16 @@
 #title-block-header {
   margin-block-end: 1rem;
   position: relative;
-  margin-top: -40px; 
-  height: 55px;
+  margin-top: 0px; 
+  height: 10%; /*-- 10% of the viewport height --*/
 }
 
 /*-- Netlify Outfit --*/
 .quarto-title-banner {
   margin-block-end: 1rem;
   position: relative;
-  margin-top: -20px;
-  height: 70%;
+  margin-top: 0px;
+  height: 10%; /*-- 70% of the viewport height --*/
 }
 
 

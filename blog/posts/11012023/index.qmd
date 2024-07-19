@@ -2,7 +2,7 @@
 title: "A Look Back at Our Recent Events: Welcoming the Data Visualization Month"
 subtitle: "Welcome to R-Ladies Rome Blog!"
 date: "2023-11-01"
-image: "112023.png"
+image: "11012023.png"
 image-alt: ""
 description: "Inspiring Insights and Knowledge Sharing in R Programming"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "2023"
-subtitle: "Events and Highlights"
+title: "2023: Events and Highlights"
+#subtitle: "Events and Highlights"
 listing:
   contents: meetup
   sort: "date desc"
@@ -10,10 +10,10 @@ listing:
 page-layout: full
 title-block-banner: false
 sidebar: true
+toc: false
 ---
 
-
-A Year of Growth and Learning 🌱
+### A Year of Growth and Learning 🌱
 
 Looking back, this year has been a remarkable journey for R-Ladies Rome. We’ve organized a wide array of events, from talks and workshops to coding sessions and panel discussions. Our focus on `R programming`, `data science`, and `statistics` has created a thriving environment for knowledge-sharing and empowerment.
 

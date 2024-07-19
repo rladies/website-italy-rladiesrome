@@ -1,6 +1,6 @@
 ---
-title: "2024"
-subtitle: "Events and Highlights"
+title: "2024: Events and Highlights"
+#subtitle: "Events and Highlights"
 listing:
   contents: meetup
   sort: "date desc"

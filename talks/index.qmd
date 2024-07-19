@@ -14,7 +14,7 @@ editor:
   markdown: 
     wrap: 72
 ---
-
+\
 **Introducing 2024 Exciting New Event Series at R-Ladies Rome**
 
 R-Ladies Rome is thrilled to kick off an exciting new event series,

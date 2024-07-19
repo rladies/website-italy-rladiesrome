@@ -1,0 +1,21 @@
+/* css styles */
+
+/*-- navbar --*/
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 1.1em;
+  /*font-family: "Monaco", monospace;*/
+  letter-spacing: normal;
+}
+
+
+#quarto-header {
+  border-bottom: 2px solid #f0eeeb;
+}
+
+.navbar-logo {
+  max-height: 180px;
+  width: auto;
+  align-items: baseline;
+}

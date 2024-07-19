@@ -1,0 +1,58 @@
+---
+title: "Quarto Dashboards"
+subtitle: "R-Ladies Rome"
+date: 2024-07-18
+image: "https://secure.meetupstatic.com/photos/event/8/c/b/c/600_522216028.webp?w=750"
+image-alt: ""
+description: "In this talk Isabella Velasquez delved into the realm of Quarto, offering attendees a comprehensive exploration of how to craft dynamic and interactive dashboards."
+categories:
+  - Web Development
+  - Dashboards
+  - Quarto
+---
+
+
+`Registered Attendees (153)`
+
+July 18, 2024 speaker is [Isabella Velasquez](https://www.linkedin.com/in/ivelasq/) 
+
+
+🎬 Empower Your Data Presentations with Quarto Dashboards! 🔥
+
+We recently hosted an enlightening session titled **“Quarto Dashboards,”** guided by the expertise of [Isabella Velasquez](https://ivelasq.rbind.io/). This talk delved into Quarto capabilities, offering attendees a comprehensive exploration of how to craft dynamic and interactive dashboards for data visualization.
+
+Refine your skills by watching this event designed to elevate your proficiency and equip you with practical insights for making compelling data presentations.
+
+Isabella Velasquez is Sr. Product Marketing Manager at Posit PBC, a content strategist, data enthusiast, and author. She is an active member of the R community and contributes to various open-source projects providing valuable tips and strategies. 
+
+**Key Takeaways:**
+
+- **Customization and Design:** Learn how to customize your dashboards to align with your unique style and preferences.
+- **Interactive Elements:** Explore the various interactive elements that can be incorporated into your dashboards to enhance user engagement.
+- **Networking Opportunities:** Connect with like-minded professionals and expand your network within the data science community.
+
+Join us as we continue to empower the community with knowledge and expertise. Stay tuned for more exciting events and opportunities to enhance your skills with R-Ladies Rome!
+
+**Missed the live session? Don't worry!** 🤯 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it 👇:
+
+{{< video https://youtu.be/Kq1hgg2NtE4 >}}
+
+Quarto dashboards offer a versatile and powerful tool for data visualization and presentation. They enable users to create dynamic and interactive dashboards that can effectively communicate complex data insights. With Quarto, developers can leverage a range of customization options to tailor the dashboard’s design and functionality to specific needs, ensuring clarity and impact in data storytelling.
+
+**Material:**
+
+- Presentation: [https://bit.ly/quarto-dashboards](https://bit.ly/quarto-dashboards)
+
+**Follow Isabella Velasquez:**
+
+- Website: <https://ivelasq.rbind.io/>
+- LinkedIn: <https://www.linkedin.com/in/ivelasq/>
+- Twitter: <https://x.com/ivelasq3>
+
+**Resources**:
+
+- [Quarto](https://quarto.org/)
+- <https://quarto.org/docs/dashboards/>

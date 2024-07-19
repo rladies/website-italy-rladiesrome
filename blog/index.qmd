@@ -1,6 +1,6 @@
 ---
 title: "Blog Posts 🗞️"
-subtitle: "Have a look at the latest Blog Posts of `R-Ladies Rome`"
+#subtitle: "Have a look at the latest Blog Posts of `R-Ladies Rome`"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +10,7 @@ listing:
 page-layout: full
 title-block-banner: false
 sidebar: true
+toc: false
 ---
 
+### Have a look at the latest Blog Posts of `R-Ladies Rome`

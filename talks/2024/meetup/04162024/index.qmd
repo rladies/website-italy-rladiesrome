@@ -4,12 +4,11 @@ subtitle: "R-Ladies Rome presents"
 date: 2024-04-16
 image: "https://secure.meetupstatic.com/photos/event/d/7/0/f/600_519955055.webp?w=750"
 image-alt: ""
-description: "Welcome to our April event! Join us for an engaging session with Dr. Paula Moraga, Assistant Professor of Statistics at KAUST, as she shares her insights and expertise in this domain. Don't miss this opportunity to learn from a leading expert and explore the transformative potential of R in disease surveillance modeling!"
-
+description: "Engaging session with Dr. Paula Moraga!"
 categories:
-  - spatial
-  - disease survelliance 
-  - modeling
+  - Spatial
+  - Disease Survelliance 
+  - Modeling
 ---
   
 

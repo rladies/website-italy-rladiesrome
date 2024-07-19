@@ -2,7 +2,7 @@
 title: "One-Year of Events: What's happend at R-Ladies Rome"
 subtitle: "Welcome to R-Ladies Rome Blog!"
 date: "2024-01-07"
-image: "012024.png"
+image: "01072024.png"
 image-alt: ""
 description: "Inspiring Insights and Knowledge Sharing in R Programming"
 ---
