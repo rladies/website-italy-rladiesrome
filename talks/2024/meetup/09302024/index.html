@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-09-30">
+<meta name="description" content="In this video, we dive deep into the data wrangling process using R, offering a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. Whether you’re a beginner or an intermediate R user, this session walks you through essential techniques that are key to any data science or data analysis workflow.">
 
-<title>Overview – R-Ladies Rome Website</title>
+<title>Data Wrangling Practice with R – R-Ladies Rome Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,29 +25,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../talks/2023/index.html" rel="next">
-<link href="../blog/index.html" rel="prev">
-<link href="../images/rladiesrome-favicon.png" rel="icon" type="image/png">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../../images/rladiesrome-favicon.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,15 +103,19 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="../new.css">
-<meta property="og:title" content="Overview – R-Ladies Rome Website">
-<meta property="og:description" content="What is going on at R-Ladies Rome? Check out our upcoming events!">
+<link rel="stylesheet" href="../../../../new.css">
+<meta property="og:title" content="Data Wrangling Practice with R – R-Ladies Rome Website">
+<meta property="og:description" content="In this video, we dive deep into the data wrangling process using R, offering a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. Whether you’re a beginner or an intermediate R user, this session walks you through essential techniques that are key to any data science or data analysis workflow.">
+<meta property="og:image" content="https://secure.meetupstatic.com/photos/event/5/9/5/8/600_523582872.webp?w=750">
 <meta property="og:site_name" content="R-Ladies Rome Website">
 <meta property="og:locale" content="en_US">
-<meta name="twitter:title" content="Overview – R-Ladies Rome Website">
-<meta name="twitter:description" content="What is going on at R-Ladies Rome? Check out our upcoming events!">
+<meta property="og:image:alt" content="Federica Gazzelloni">
+<meta name="twitter:title" content="Data Wrangling Practice with R – R-Ladies Rome Website">
+<meta name="twitter:description" content="In this video, we dive deep into the data wrangling process using R, offering a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. Whether you’re a beginner or an intermediate R user, this session walks you through essential techniques that are key to any data science or data analysis workflow.">
+<meta name="twitter:image" content="https://secure.meetupstatic.com/photos/event/5/9/5/8/600_523582872.webp?w=750">
 <meta name="twitter:creator" content="@rladiesrome">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image:alt" content="Federica Gazzelloni">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar docked nav-fixed">
@@ -121,10 +125,10 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo.png" alt="" class="navbar-logo">
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../images/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../../../index.html">
     <span class="navbar-title">R-Ladies Rome</span>
     </a>
   </div>
@@ -135,11 +139,11 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../introduction.html" aria-current="page"> 
+    <a class="nav-link active" href="../../../../introduction.html" aria-current="page"> 
 <span class="menu-text">Introduction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../blog/index.html"> 
+    <a class="nav-link" href="../../../../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -148,15 +152,15 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-talks">    
         <li>
-    <a class="dropdown-item" href="../talks/index.html">
+    <a class="dropdown-item" href="../../../../talks/index.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../talks/2023/index.html">
+    <a class="dropdown-item" href="../../../../talks/2023/index.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../talks/2024/index.html">
+    <a class="dropdown-item" href="../../../../talks/2024/index.html">
  <span class="dropdown-text">2024</span></a>
   </li>  
     </ul>
@@ -169,11 +173,11 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="../about/organizers.html">
+    <a class="dropdown-item" href="../../../../about/organizers.html">
  <span class="dropdown-text">Organizers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../about/former_organizers.html">
+    <a class="dropdown-item" href="../../../../about/former_organizers.html">
  <span class="dropdown-text">Former Co-Organizers</span></a>
   </li>  
     </ul>
@@ -225,7 +229,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../talks/index.html">Talks</a></li><li class="breadcrumb-item"><a href="../talks/index.html">Overview</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Data Wrangling Practice with R</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -235,7 +239,7 @@ cookieconsent.run({
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -247,40 +251,40 @@ cookieconsent.run({
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../introduction.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../blog/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../blog/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Blog</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Talks</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../talks/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../../talks/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../talks/2023/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../talks/2023/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">2023</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../talks/2024/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../talks/2024/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">2024</span></a>
   </div>
 </li>
@@ -288,13 +292,13 @@ cookieconsent.run({
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../about/organizers.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../about/organizers.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../sponsors.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../../sponsors.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sponsor</span></a>
   </div>
 </li>
@@ -303,23 +307,44 @@ cookieconsent.run({
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#why-data-wrangling-is-essential" id="toc-why-data-wrangling-is-essential" class="nav-link active" data-scroll-target="#why-data-wrangling-is-essential">Why Data Wrangling is Essential</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2024/meetup/09302024/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../talks/index.html">Talks</a></li><li class="breadcrumb-item"><a href="../talks/index.html">Overview</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Overview</h1>
-<p class="subtitle lead">What is going on at <code>R-Ladies Rome</code>? Check out our upcoming events!</p>
+<h1 class="title">Data Wrangling Practice with R</h1>
+<p class="subtitle lead">R-Ladies Rome</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Data Wrangling</div>
+    <div class="quarto-category">Tidyverse</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    In this video, we dive deep into the data wrangling process using R, offering a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. Whether you’re a beginner or an intermediate R user, this session walks you through essential techniques that are key to any data science or data analysis workflow.
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 30, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -329,40 +354,53 @@ cookieconsent.run({
 </header>
 
 
-<p><br>
-<strong>Introducing 2024 Exciting New Event Series at R-Ladies Rome</strong></p>
-<p>R-Ladies Rome is thrilled to kick off an exciting new event series, showcasing a diverse range of topics and expert speakers from the R community. With our mission of fostering learning and collaboration, we are dedicated to providing engaging sessions that empower women in data science and beyond. Let’s take a look at what’s in store for the first half of the year!</p>
-<p><strong>January: Introduction to Reproducible Publications with Quarto</strong></p>
-<p>Our inaugural event featured Dr.&nbsp;<a href="https://www.linkedin.com/in/torinwhite/">Torin White</a>, who provided valuable insights into creating reproducible documents using Quarto. Attendees learned essential techniques for combining code, analysis, and narrative to enhance their research projects.</p>
-<p><strong>February: Building a Chatbot with OpenAI, Shiny &amp; R</strong></p>
-<p>Next up, we are excited to partner with the <a href="https://www.meetup.com/tunis-r-user-group/">TunisR User Group</a> for an interactive workshop on building chatbots with OpenAI and Shiny. Led by <a href="https://www.linkedin.com/in/james-h-wade/">James Wade</a>, participants will explore the possibilities of conversational AI and learn how to develop their own chatbot applications.</p>
-<p><strong>February: Unraveling the Mysteries of Debugging in R</strong></p>
-<p>Join us for a session with <a href="https://www.linkedin.com/in/shannon-m-pileggi/">Shannon Pileggi</a> as she shares essential tips and techniques for debugging R code. Whether you’re a beginner or an experienced R user, this workshop will equip you with the skills to troubleshoot and resolve common programming errors.</p>
-<p><strong>March: Extending the Data Science Workflow: {vetiver} and {pins}</strong></p>
-<p>In March, <a href="https://www.linkedin.com/in/isabel-zimmerman/">Isabel Zimmerman</a> will lead a discussion on the Vetiver and Pins packages, offering valuable insights into their applications and functionalities. Don’t miss this opportunity to dive deep into these powerful tools for data management and visualization.</p>
-<p><strong>April: R for Geospatial Data Science and Public Health Surveillance</strong></p>
-<p>Geospatial health data play a crucial role in informing public health and policy by revealing geographic and temporal patterns, identifying risk factors, and detecting outbreaks swiftly. In this talk, <a href="https://www.paulamoraga.com/">Paula Moraga</a>, Assistant Professor of Statistics at KAUST, will provide an overview of R packages and statistical methods for geospatial data analysis and health surveillance, addressing data biases and availability issues.</p>
-<p><strong>May: R in Production, An Evening with Dr.&nbsp;Hadley Wickham</strong></p>
-<p>Save the date for a special event with <a href="https://www.linkedin.com/in/hadleywickham/">Dr.&nbsp;Hadley Wickham</a>, renowned R developer and author. In collaboration with <a href="https://www.meetup.com/rladiesnyc">R-Ladies NYC</a> this session will be with one of the leading figures in the R community. Dr.&nbsp;Wickham will share his insights on deploying R in production environments and discuss best practices for scaling data science projects.</p>
-<p><strong>June: Building a Website in R</strong></p>
-<p>In collaboration with <a href="https://www.meetup.com/rladiesnyc">R-Ladies NYC</a>, we are excited to present a workshop on building websites in R. Led by <a href="https://www.linkedin.com/in/federicagazzelloni/">Federica Gazzelloni</a>, this session will cover essential tools and techniques for creating interactive web applications using R Markdown and Shiny.</p>
-<p><strong>Mid-July: Quarto Dashboards</strong></p>
-<p>Join us for a session with <a href="https://www.linkedin.com/in/ivelasq/">Isabella Velasquez</a>, who will demonstrate how to create interactive dashboards with Quarto. Learn how to leverage the power of Quarto to build dynamic visualizations and share your insights with others.</p>
-<p><strong>Late-July: Reproducible Environments with Docker</strong></p>
-<p>In this workshop, <a href="https://www.linkedin.com/in/brodriguesco/">Bruno Rodrigues</a> will guide participants through the process of creating reproducible environments using Docker. Gain hands-on experience with Docker containers and learn how to streamline your data science workflows.</p>
-<p><strong>September: Data Wrangling Practice with R</strong></p>
-<p>This hands-on session is lead by <a href="https://federicagazzelloni.com/">Federica Gazzelloni</a>, <strong>R-Ladies Rome</strong> Organizer. Data wrangling offers a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. This session walks you through essential techniques that are key to any data science or data analysis workflow.</p>
-<p><strong>Featuring</strong>:</p>
+<p><code>Registered Attendees (59)</code></p>
+<p>Are you ready to dive into the world of <code>data wrangling</code> and become proficient at cleaning and transforming datasets with <code>R</code>? Whether you’re a beginner or an intermediate user, the recording of the <strong>Data Wrangling with R</strong> session, hosted by <code>R-Ladies Rome</code>, is now available! This engaging workshop provides an in-depth exploration of essential data wrangling techniques, with hands-on exercises to reinforce learning.</p>
+<p><strong>Missed the live session? Don’t worry!</strong> 🤯</p>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to watch it 👇:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/cejCvutHbO0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="why-data-wrangling-is-essential" class="level3">
+<h3 class="anchored" data-anchor-id="why-data-wrangling-is-essential">Why Data Wrangling is Essential</h3>
+<p>In today’s data-driven world, data wrangling is a critical skill for anyone involved in data analysis, data science, or machine learning. The ability to prepare data—transforming it from raw, messy formats into clean and structured datasets—is fundamental for extracting meaningful insights and making data-driven decisions. Without proper data preparation, even the most sophisticated models will produce unreliable results.</p>
+<section id="data-wrangling-typically-involves" class="level4">
+<h4 class="anchored" data-anchor-id="data-wrangling-typically-involves">Data wrangling typically involves</h4>
 <ul>
-<li><p><strong>Exploring rOpenSci with Yanina Bellini Saibene</strong> for a delve into the world of <a href="https://ropensci.org/">rOpenSci</a>.</p></li>
-<li><p><strong>Openescapes with Julia Stewart Lowndes</strong>, we welcome <a href="https://www.linkedin.com/in/julia-stewart-lowndes/">Julia</a> for a discussion on <a href="https://nasa-openscapes.github.io/">Nasa-Openescapes</a>.</p></li>
+<li><code>Cleaning</code>: Identifying and dealing with missing, inconsistent, or duplicate data.</li>
+<li><code>Manipulating</code>: Filtering, selecting, and summarizing data to focus on relevant information.</li>
+<li><code>Transforming</code>: Reshaping datasets into a format that is ideal for analysis or visualization.</li>
 </ul>
-<p><br>
-</p>
-<p>Stay tuned for more exciting events and collaborations as we continue our journey of learning and empowerment at <strong>R-Ladies Rome</strong>!</p>
-<p><em>Have questions or suggestions for future events? Feel free to reach out to us!</em> 👉<a href="mailto:rome@rladies.org" class="email">rome@rladies.org</a></p>
+<p>The <strong>Data Wrangling with R</strong> tutorial was designed to introduce participants to these concepts, with a particular focus on using the tidyverse packages, which are essential for efficient data manipulation in R. Whether you’re new to R or looking to enhance your existing skills, this session covered everything you need to get started with data wrangling.</p>
+</section>
+<section id="key-takeaways-from-the-session" class="level4">
+<h4 class="anchored" data-anchor-id="key-takeaways-from-the-session">Key Takeaways from the Session</h4>
+<ol type="1">
+<li><strong>Tidyverse Essentials</strong>: We explored the tidyverse suite, including key packages like <code>dplyr</code>, <code>tidyr</code>, and <code>readr.</code> These tools streamline the process of reading, cleaning, and transforming data, making them indispensable for any data project.</li>
+<li><strong>Data Import</strong>: Participants learned how to import datasets from various formats, such as CSV and Excel files, and gained tips on exploring the structure of their data using <code>glimpse()</code>, <code>summary()</code>, and other base R functions.</li>
+<li><strong>Data Cleaning</strong>: Techniques for handling missing data and ensuring consistency in data types were thoroughly demonstrated. We practiced using filter(), mutate(), and other functions from the dplyr package to clean datasets.</li>
+<li><strong>Data Transformation</strong>: From reshaping data with <code>pivot_longer()</code> and <code>pivot_wider() t</code>o joining multiple datasets with <code>left_join()</code> and <code>inner_join()</code>, the session provided a comprehensive look at transforming messy data into a tidy format.</li>
+</ol>
+</section>
+<section id="material-of-the-talk" class="level4">
+<h4 class="anchored" data-anchor-id="material-of-the-talk">Material of the Talk</h4>
+<ul>
+<li>Chapter Intro Presentation: <a href="https://rladiesrome.quarto.pub/september302024" class="uri">https://rladiesrome.quarto.pub/september302024</a></li>
+<li>GitHub Repo: <a href="https://github.com/Fgazzelloni/20240930-DWPwR" class="uri">https://github.com/Fgazzelloni/20240930-DWPwR</a></li>
+<li>Tutorial Website: <a href="https://rladiesrome.quarto.pub/data-wrangling-practice-with-r/" class="uri">https://rladiesrome.quarto.pub/data-wrangling-practice-with-r/</a></li>
+</ul>
+</section>
+<section id="more-resources" class="level4">
+<h4 class="anchored" data-anchor-id="more-resources">More Resources</h4>
+<ul>
+<li><a href="https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data">Cardiovascular Disease Dataset on Kaggle</a></li>
+<li><a href="https://www.healthdata.org/">IHME website</a></li>
+<li><a href="https://r4ds.hadley.nz/">R for Data Science</a> by Wickham, H., &amp; Grolemund, G. (2017). O’Reilly Media.</li>
+<li><a href="https://www.tidyverse.org/learn/">Tidyverse</a> Learn Documentation</li>
+<li><a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy Data</a> by Wickham, H. (2014). Journal of Statistical Software, 59(10), 1-23</li>
+</ul>
 
 
+</section>
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -929,18 +967,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation column-page-right">
-  <div class="nav-page nav-page-previous">
-      <a href="../blog/index.html" class="pagination-link" aria-label="Blog">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Blog</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../talks/2023/index.html" class="pagination-link" aria-label="2023">
-        <span class="nav-page-text">2023</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -992,7 +1018,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2024/meetup/09302024/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p>This Website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></p>
 </div>
@@ -1002,5 +1028,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -80,6 +80,10 @@ Join us for a session with [Isabella Velasquez](https://www.linkedin.com/in/ivel
 
 In this workshop, [Bruno Rodrigues](https://www.linkedin.com/in/brodriguesco/) will guide participants through the process of creating reproducible environments using Docker. Gain hands-on experience with Docker containers and learn how to streamline your data science workflows.
 
+**September: Data Wrangling Practice with R**
+
+This hands-on session is lead by [Federica Gazzelloni](https://federicagazzelloni.com/), **R-Ladies Rome** Organizer. Data wrangling offers a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. This session walks you through essential techniques that are key to any data science or data analysis workflow.
+
 **Featuring**:
 
 - **Exploring rOpenSci with Yanina Bellini Saibene** for a delve into the world of [rOpenSci](https://ropensci.org/).

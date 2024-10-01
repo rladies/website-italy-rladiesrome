@@ -1,0 +1,54 @@
+---
+title: "Data Wrangling Practice with R"
+subtitle: "R-Ladies Rome"
+date: 2024-09-30
+image: "https://secure.meetupstatic.com/photos/event/5/9/5/8/600_523582872.webp?w=750"
+image-alt: "Federica Gazzelloni"
+description: "In this video, we dive deep into the data wrangling process using R, offering a practical and comprehensive guide to mastering data cleaning, manipulation, and transformation. Whether you’re a beginner or an intermediate R user, this session walks you through essential techniques that are key to any data science or data analysis workflow."
+categories:
+  - Data Wrangling
+  - Tidyverse
+---
+
+`Registered Attendees (59)`
+
+Are you ready to dive into the world of `data wrangling` and become proficient at cleaning and transforming datasets with `R`? Whether you’re a beginner or an intermediate user, the recording of the **Data Wrangling with R** session, hosted by `R-Ladies Rome`, is now available! This engaging workshop provides an in-depth exploration of essential data wrangling techniques, with hands-on exercises to reinforce learning.
+
+**Missed the live session? Don't worry!** 🤯
+
+🎬 `Watch the Video Now` Simply click on the video below to watch it 👇:
+
+{{< video https://youtu.be/cejCvutHbO0 >}}
+
+### Why Data Wrangling is Essential
+
+In today’s data-driven world, data wrangling is a critical skill for anyone involved in data analysis, data science, or machine learning. The ability to prepare data—transforming it from raw, messy formats into clean and structured datasets—is fundamental for extracting meaningful insights and making data-driven decisions. Without proper data preparation, even the most sophisticated models will produce unreliable results.
+
+#### Data wrangling typically involves
+
+-   `Cleaning`: Identifying and dealing with missing, inconsistent, or duplicate data.
+-   `Manipulating`: Filtering, selecting, and summarizing data to focus on relevant information.
+-   `Transforming`: Reshaping datasets into a format that is ideal for analysis or visualization.
+
+The **Data Wrangling with R** tutorial was designed to introduce participants to these concepts, with a particular focus on using the tidyverse packages, which are essential for efficient data manipulation in R. Whether you’re new to R or looking to enhance your existing skills, this session covered everything you need to get started with data wrangling.
+
+#### Key Takeaways from the Session
+
+1.  **Tidyverse Essentials**: We explored the tidyverse suite, including key packages like `dplyr`, `tidyr`, and `readr.` These tools streamline the process of reading, cleaning, and transforming data, making them indispensable for any data project.
+2.  **Data Import**: Participants learned how to import datasets from various formats, such as CSV and Excel files, and gained tips on exploring the structure of their data using `glimpse()`, `summary()`, and other base R functions.
+3.  **Data Cleaning**: Techniques for handling missing data and ensuring consistency in data types were thoroughly demonstrated. We practiced using filter(), mutate(), and other functions from the dplyr package to clean datasets.
+4.  **Data Transformation**: From reshaping data with `pivot_longer()` and `pivot_wider() t`o joining multiple datasets with `left_join()` and `inner_join()`, the session provided a comprehensive look at transforming messy data into a tidy format.
+
+#### Material of the Talk
+
+-   Chapter Intro Presentation: <https://rladiesrome.quarto.pub/september302024>
+-   GitHub Repo: <https://github.com/Fgazzelloni/20240930-DWPwR>
+-   Tutorial Website: <https://rladiesrome.quarto.pub/data-wrangling-practice-with-r/>
+
+#### More Resources
+
+-   [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data)
+-   [IHME website](https://www.healthdata.org/)
+-   [R for Data Science](https://r4ds.hadley.nz/) by Wickham, H., & Grolemund, G. (2017). O’Reilly Media.
+-   [Tidyverse](https://www.tidyverse.org/learn/) Learn Documentation
+-   [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) by Wickham, H. (2014). Journal of Statistical Software, 59(10), 1-23

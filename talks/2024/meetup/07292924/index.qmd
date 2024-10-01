@@ -1,0 +1,43 @@
+---
+title: "Building Reproducible Pipelines with R, Docker and Nix"
+subtitle: "R-Ladies Rome"
+date: 2024-07-29
+image: "https://secure.meetupstatic.com/photos/event/8/5/e/2/600_522274274.webp?w=750"
+image-alt: ""
+description: "In this talk Dr. Bruno Rodrigues provided valuable insights into creating robust data pipelines, moving away from script-based workflows, and using Docker and Nix for containerization and package management."
+categories:
+  - Reproducibility
+  - Docker
+  - Nix
+---
+
+
+`Registered Attendees (117)`
+
+Second July 2024’s speaker is [**Dr. Bruno Rodrigues**](https://www.brodrigues.co/), **Head of the Statistics Department at the Ministry of Research and Higher Education in Luxembourg**. Before joining the public sector, Dr. Rodrigues gained extensive experience as a data science consultant and research assistant. His expertise spans tools and techniques critical for building robust, reproducible data pipelines.
+
+In this enlightening talk, Dr. Rodrigues delves into essential tools and best practices for developing **reproducible workflows**. He provides a comprehensive overview of moving away from traditional script-based approaches and introduces `Docker` for containerizing analyses and `Nix` for managing packages. By the end of the session, attendees will be equipped with the knowledge to start implementing powerful reproducible pipelines in their own analyses.
+
+**Missed the live session? Don't worry!** 🤯 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it 👇:
+
+{{< video https://youtu.be/0bPMKYi7XRE >}}
+
+Creating reproducible data pipelines can be challenging but is crucial for maintaining the integrity and efficiency of data workflows. This talk aims to demystify the process and offer practical advice for leveraging modern tools to ensure consistency and reliability in data analysis.
+
+Material of the Talk:
+
+- Presentation: <https://is.gd/raps_rladies_rome_2024>
+- GitHub Repo: <https://github.com/b-rodrigues/rladies_rome_repro_2024>
+- Book: <https://raps-with-r.dev/>
+
+More Resources: 
+
+- <https://b-rodrigues.github.io/rix/>
+- <https://books.ropensci.org/targets/>
+- <https://docs.ropensci.org/targets/>
+- <https://rocker-project.org/>
+- <https://github.com/nixos/nixpkgs>
+- <https://podman.io/>
