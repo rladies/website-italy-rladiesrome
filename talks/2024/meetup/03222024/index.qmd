@@ -2,8 +2,8 @@
 title: "Extending the data science workflow: {vetiver} and {pins}"
 subtitle: "R-Ladies Rome presents"
 date: 2024-03-22
-image: "https://secure.meetupstatic.com/photos/event/5/f/7/1/600_519264433.webp?w=750"
-image-alt: ""
+image: "https://secure.meetupstatic.com/photos/event/8/9/f/6/highres_524075318.webp"
+image-alt: "Extending the data science workflow: {vetiver} and {pins}"
 description: "Welcome to our March event! Whether you're new to R programming or a seasoned professional, this interactive session provides valuable tips and strategies to enhance your skills."
 categories:
   - MLOps

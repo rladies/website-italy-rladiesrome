@@ -2,8 +2,8 @@
 title: "Quarto Dashboards"
 subtitle: "R-Ladies Rome"
 date: 2024-07-18
-image: "https://secure.meetupstatic.com/photos/event/8/c/b/c/600_522216028.webp?w=750"
-image-alt: ""
+image: "https://secure.meetupstatic.com/photos/event/8/9/b/f/highres_524075263.webp"
+image-alt: "Quarto Dashboards"
 description: "In this talk Isabella Velasquez delved into the realm of Quarto, offering attendees a comprehensive exploration of how to craft dynamic and interactive dashboards."
 categories:
   - Web Development

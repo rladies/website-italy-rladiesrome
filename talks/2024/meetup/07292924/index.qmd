@@ -2,8 +2,8 @@
 title: "Building Reproducible Pipelines with R, Docker and Nix"
 subtitle: "R-Ladies Rome"
 date: 2024-07-29
-image: "https://secure.meetupstatic.com/photos/event/8/5/e/2/600_522274274.webp?w=750"
-image-alt: ""
+image: "https://secure.meetupstatic.com/photos/event/8/9/9/d/highres_524075229.webp"
+image-alt: "Building Reproducible Pipelines with R, Docker and Nix"
 description: "In this talk Dr. Bruno Rodrigues provided valuable insights into creating robust data pipelines, moving away from script-based workflows, and using Docker and Nix for containerization and package management."
 categories:
   - Reproducibility

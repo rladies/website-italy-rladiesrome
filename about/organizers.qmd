@@ -25,7 +25,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="40%"}
-![Silvana Acosta](https://pbs.twimg.com/profile_images/1748757489766498304/pceRDFY6_400x400.jpg)
+![Silvana Acosta](https://pbs.twimg.com/profile_images/1833449170285285376/-KI3EpH5_400x400.jpg)
 :::
 
 ::: {.column width="60%"}

@@ -8,6 +8,7 @@ description: "In this video, we dive deep into the data wrangling process using 
 categories:
   - Data Wrangling
   - Tidyverse
+  - Best Practices
 ---
 
 `Registered Attendees (59)`
