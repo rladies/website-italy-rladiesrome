@@ -11,7 +11,7 @@ categories:
   - Technology
 ---
 
-`Registered Attendees (40)`
+`Registered Attendees (46)`
 
 On October 30, 2024, we were joined by the esteemed Dr. [Gwynn Gebeyehu](https://www.linkedin.com/in/gwynn-gebeyehu-83694280/) for an enlightening discussion on the impact of open source software (OSS) in the public sector.
 
