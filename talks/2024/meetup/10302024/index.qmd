@@ -1,0 +1,43 @@
+---
+title: "Open Source Software and the Government"
+subtitle: "R-Ladies Rome"
+date: 2024-10-30
+image: "https://secure.meetupstatic.com/photos/event/4/6/a/0/600_524238080.webp?w=750"
+image-alt: "Dr. Gwynn Gebeyehu"
+description: "An insightful talk with Dr. Gwynn Gebeyehu on the role of open source solutions in transforming government operations."
+categories:
+  - Open Source
+  - Government
+  - Technology
+---
+
+`Registered Attendees (40)`
+
+On October 30, 2024, we were joined by the esteemed Dr. [Gwynn Gebeyehu](https://www.linkedin.com/in/gwynn-gebeyehu-83694280/) for an enlightening discussion on the impact of open source software (OSS) in the public sector.
+
+🎬 Discover how open source solutions can revolutionize government operations! 🔍
+
+In this engaging session, `Dr. Gebeyehu` explored the challenges and opportunities presented by OSS, particularly in the realms of machine learning and big data. She highlighted the importance of embracing open source technology to enhance transparency and drive innovation within governmental institutions.
+
+Missed the live session? Don’t worry!
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://youtu.be/WLdoKZexo5w >}}
+
+**Key Takeaways:**
+
+- Understanding the pivotal role of OSS in government.
+- Insights into the challenges of implementing OSS in public institutions.
+- Strategies for leveraging open source technology to enhance public services.
+
+Material:
+
+- [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
+- [Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better Book by Jennifer Pahlka](https://www.recodingamerica.us/)
+- [Presentation]()
+
+Stay tuned for more enlightening sessions with `R-Ladies Rome`!
+
+#OpenSource #Government #Technology #RLadiesRome #LearningTogether #DataScience
