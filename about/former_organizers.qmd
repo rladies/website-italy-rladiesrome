@@ -3,16 +3,14 @@ title: "Former Co-Organizers"
 subtitle: "Who we are, where we are from, and what we do"
 ---
 
-
-
-::: columns
-
+:::: columns
 ::: {.column width="45%"}
-`Meet & Greet October 2023`. First time we met in person for talking about the Chapter and the events. Nice to see you here!
-<center>
-![](organizers_picts/20231021meet&greet.jpeg)
-</center>
+[Silvana Acosta](https://www.linkedin.com/in/silacos/) Organizer. Senior Data Scientist with six years of experience in the fields of data science, finance, and consultancy, analyzing and modelling data.\n
+
+![Silvana Acosta](https://pbs.twimg.com/profile_images/1833449170285285376/-KI3EpH5_400x400.jpg){width="60%"}
 :::
+
+
 
 ::: {.column width="0.5%"}
 :::
@@ -37,7 +35,7 @@ subtitle: "Who we are, where we are from, and what we do"
 
 <center>
 
-![Nina Deliu](organizers_picts/ninadeliu.png){width="40%"}
+![Nina Deliu](organizers_picts/ninadeliu.png){width="60%"}
 
 </center>
 :::
@@ -50,7 +48,7 @@ subtitle: "Who we are, where we are from, and what we do"
 
 <center>
 
-![Katie Wood](organizers_picts/katiewood.png){width="40%"}
+![Katie Wood](organizers_picts/katiewood.png){width="60%"}
 
 </center>
 :::

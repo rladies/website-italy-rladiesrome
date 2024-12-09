@@ -1,0 +1,48 @@
+---
+title: "Openscapes: Forking as a Worldview"
+subtitle: "R-Ladies Rome - Event Recording & Materials"
+date: 2024-11-18
+image: "https://secure.meetupstatic.com/photos/event/1/d/2/8/600_524467464.webp?w=750"
+image-alt: "Julia Stewart Lowndes presenting on the concept of forking in open science"
+description: "Insightful session led by Julia Stewart Lowndes, as she explores the transformative concept of ‘forking’ in the world of open science and its potential to solve big collaborative challenges in government and academia."
+categories:
+  - Open Source
+  - Collaboration
+  - Innovation
+---
+
+Registered Attendees (65-LinkedIn / 35-Meetup)
+
+[Julia Stewart Lowndes](https://www.linkedin.com/in/julia-stewart-lowndes/), Director of [NASA-Openscapes](https://nasa-openscapes.github.io/), led an engaging session on the transformative power of forking in open science. This approach, originally from software development, has evolved into a powerful strategy for tackling collaborative challenges in both government and academia.
+
+🎬 Missed the live session?
+Don’t worry! The recording is now available. Watch it and learn from Julia’s expertise on how forking as a mindset is reshaping collaboration and innovation in science.
+
+🌟 What We Learned
+
+In this session, Julia explained how the concept of forking goes beyond adapting code and has expanded into a worldview that facilitates innovation, credit-sharing, and collective progress. Forking is about adapting resources (like code, documentation, and methodologies) and using them in new, more effective ways while ensuring proper attribution and networking back to the original source.
+
+Key points discussed:
+
+	- Forking as a collaborative tool for the open science community.
+	- The role of NASA-Openscapes in helping teams collaborate and adapt workflows, specifically by migrating them to cloud environments.
+	- How forking empowers scientists to innovate faster and solve big problems more efficiently through shared resources.
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://youtu.be/p4mrA3EkYxI >}}
+
+📚 Event Material
+
+To further explore the concepts discussed in the event, here are some useful resources:
+
+  - [Presentation Slides](https://docs.google.com/presentation/d/1aL0TVFM7xxzTCJoE3tEArDE32wh59wkmBCy6Vcmwvy4/edit#slide=id.g317dfb56d17_0_421)
+  - [Openscapes Community & Resources](https://nasa-openscapes.github.io/news/2024-02-28-github-community-call/)
+  - [Openscapes Publications](https://openscapes.org/media)
+  - [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
+  - [NASA-Openscapes](https://nasa-openscapes.github.io/)
+	
+Julia’s perspective on forking and its significance in open science offered valuable insights for those working in collaborative and data-intensive research projects. This talk is a must-watch for anyone interested in how open science principles are reshaping the future of research and collaboration.
+
+#OpenScience #Innovation #Forking #NASAOpenscapes #Collaboration #RStats #RLadiesRome #LearningTogether
