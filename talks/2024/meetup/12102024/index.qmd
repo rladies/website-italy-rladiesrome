@@ -1,0 +1,47 @@
+---
+title: "Using GitHub Copilot (and Others LLM) with R"
+subtitle: "R-Ladies Rome - Yanina Bellini Saibene"
+date: 2024-12-10
+image: "https://secure.meetupstatic.com/photos/event/9/d/e/0/600_524920416.webp?w=750"
+image-alt: "GitHub Copilot with R-Yanina Bellini Saibene"
+description: "In this session, Yanina Bellini Saibene demonstrates how to integrate GitHub Copilot and other Large Language Models (LLMs) into R programming workflows."
+categories:
+  - AI
+  - Data Science
+  - GitHub Copilot
+	
+---
+
+
+Registered Attendees (146)
+
+In this hands-on session,  [Yanina Bellini Saibene](https://yabellini.netlify.app/), [rOpenSci](https://ropensci.org/) Community Manager, demonstrated how GitHub Copilot can enhance productivity in RStudio, helping users code more efficiently with the assistance of large language models (LLMs). She provided practical examples of data wrangling, R package development, and how these tools can be integrated into your own workflows.
+
+🎬 Missed the live session?
+
+Don’t worry! The recording is now available. Watch it and learn from Yanina’s expertise on how to leverage AI-powered tools to optimize your R programming experience. 
+
+🌟 What We Learned
+
+- How to integrate GitHub Copilot into your RStudio workflow
+- Practical examples of how to use GitHub Copilot for data analysis 
+- How LLMs can speed up coding tasks and support learning.
+
+Additionally, Yanina delved into both the opportunities and challenges that come with incorporating LLMs into educational contexts, offering valuable insights into how these tools can support learning and innovation.
+
+If you’re curious about **how GitHub Copilot can optimize your R programming experience** or want to understand the role of LLMs in data science education, this talk is packed with valuable takeaways.
+
+Don’t miss this chance to learn from one of the leaders in the open science and data science communities. 🎬 Watch the video now and get started with enhancing your R workflow using AI-powered tools.
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://youtu.be/_8LAU1Mauc8 >}}
+
+📚 Event Material
+
+To explore the concepts discussed in the event, here is the material shared by Yanina:
+
+[https://copilotwithr.netlify.app/](https://copilotwithr.netlify.app/)
+
+#AI #DataScience #GitHubCopilot #RStats #OpenScience #LearningTogether #RLadiesRome #TechWorkshop #LLM #MachineLearning
