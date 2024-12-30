@@ -11,3 +11,17 @@ page-layout: full
 title-block-banner: false
 sidebar: true
 ---
+
+### A Year of Connection and Growth 🌟
+
+This year, `R-Ladies Rome` celebrated another fantastic journey of `learning`, `collaboration`, and `empowerment.` From interactive workshops to insightful talks, our events focused on R programming, data science, and technology, fostering a `vibrant community of learners and professionals`.
+
+We extend our heartfelt gratitude to our amazing speakers, including [Hadley Wickham](https://rladiesrome.org/talks/2024/meetup/05242024/) (in collaboration with `R-Ladies NYC`), [Torin White](https://rladiesrome.org/talks/2024/meetup/01162024/) (in collaboration with `R-Ladies Paris`), [Paula Moraga](https://rladiesrome.org/talks/2024/meetup/04162024/), and many more, for sharing their expertise. 
+
+Revisit the highlights of our past events! Relive thought-provoking discussions, hands-on workshops, and inspiring presentations that defined our gatherings. Whether you're a beginner or an experienced R user, there's always something new to discover. Watch the recordings and be inspired by the incredible insights shared by our speakers and community members.
+
+A big thank you to our engaged community for your enthusiasm and support, which made each event truly memorable.
+
+Missed a session or need presentation materials? 📮 Reach out to us at <rome@rladies.org>.
+
+> Let’s carry this energy and passion into 2025 as we continue to learn and grow together. Thank you for being an essential part of R-Ladies Rome! 💜

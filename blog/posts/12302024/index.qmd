@@ -1,0 +1,84 @@
+---
+title: "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟"
+subtitle: "Celebrating 2024 and Looking Ahead to an Exciting 2025"
+date: "2024-12-30"
+image: "12302024.png"
+image-alt: "R-Ladies Rome in Numbers"
+description: "Reflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2024 and share our excitement for the year ahead."
+---
+
+### Reflecting on 2024: A Year of Learning and Growth at R-Ladies Rome 🌟  
+
+As 2024 comes to an end, we look back on a year filled with inspiration, collaboration, and growth. R-Ladies Rome has continued to thrive as a hub for learning, where members from diverse backgrounds come together to explore, share, and grow in their journey with R programming and data science. 
+
+![All 2024 R-Laadies Rome Speakers](all_speakers_2024.png)
+
+#### **A Year of Highlights in Numbers**  
+- **12 incredible events** hosted.  
+- A growing community with **1.2K+ members on Meetup**.  
+- Over **2K RSVPs** from members eager to learn, connect, and grow.  
+- Dozens of expert speakers and workshop leaders from across the globe.  
+
+![R-Ladies Rome in Numbers](stats-2024.png)
+
+This year, we witnessed extraordinary moments that reminded us of the power of community.  
+
+#### **Inspiring Selection of Talks and Hands-On Learning**  
+
+Throughout the year, we explored a variety of fascinating topics:  
+
+- `Reproducible Environments with Docker`: Bruno Rodrigues guided attendees in creating reproducible workflows using Docker.
+- `Building a Website in R`: Federica Gazzelloni led a workshop on using R Markdown and Shiny to build interactive websites.
+- `Quarto Dashboards`: Isabella Velasquez demonstrated creating dynamic dashboards with Quarto, showcasing practical applications.
+- `Extending the Data Science Workflow`: {vetiver} and {pins} - Isabel Zimmerman introduced the applications of the {vetiver} and {pins} packages for enhanced data workflows.
+- `Debugging in R`: Shannon Pileggi shared valuable tips and techniques for troubleshooting and resolving common programming errors.
+
+Each event was an opportunity to learn new skills, gain fresh perspectives, and connect with a global network of R enthusiasts.  
+
+#### **Building a Thriving Community**  
+
+R-Ladies Rome is more than just a series of meetups—it’s a growing, inclusive community where members share ideas, ask questions, and support one another. The energy, engagement, and curiosity of our members have made every event special.  
+
+#### **Gratitude for Our Speakers and Participants**  
+
+We want to `thank our speakers`, who generously shared their knowledge and insights, and our members, whose enthusiasm and participation made this year unforgettable. 
+
+> You are the heart of R-Ladies Rome, and your dedication to learning and collaboration continues to inspire us. THANK YOU 🤗
+
+#### **Looking Ahead to 2025** 
+
+We’re kicking off 2025 with an exciting event featuring **Eli Holder** on **Thursday, January 9th**:  
+
+:::: columns
+
+::: column
+![Eli Holder](eli-holder.png)
+:::
+
+::: column
+
+
+> **Title:** *Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead.*  
+> **Abstract:** Eli will discuss the social impacts of visualizing inequality and public health disparities, drawing on their research into how common dataviz practices can unintentionally promote harmful misbeliefs. The talk will offer actionable solutions to design impactful and responsible visualizations.  
+
+:::
+
+::::
+
+More interesting events to come:
+
+- `Introduction to Bayesian Modeling`: A session that introduced foundational concepts in Bayesian statistics and demonstrated how to apply them using R.
+- `Data Visualization Best Practices`: A workshop on crafting effective visualizations with {ggplot2} and communicating data insights.
+- `Shiny Apps for Interactive Data Exploration:` Learn how to build interactive web apps for data analysis with Shiny.
+- `Machine Learning with {tidymodels}`: Hands-on exploration of machine learning workflows using the tidymodels framework.
+- `Introduction to Time Series Analysis`: Techniques and R tools for analyzing and forecasting time series data.
+
+Stay tuned for more details and join us for what promises to be an insightful session!  
+
+#### **Thank You and Happy Holidays** 
+
+As we wrap up 2024, we want to express our deepest gratitude to everyone who has been part of R-Ladies Rome’s journey. Thank you for your support, engagement, and contributions.  
+
+> Let’s continue learning, growing, and building together in 2025. Happy holidays from all of us at R-Ladies Rome! 🎉  
+
+*Stay connected with us on [our website](https://rladiesrome.org) and social media for updates on upcoming events. We can’t wait to see you in the new year!*  
