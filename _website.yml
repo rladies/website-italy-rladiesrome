@@ -61,6 +61,8 @@ website:
             href: talks/2023/index.qmd
           - text: "2024"
             href: talks/2024/index.qmd
+          - text: "2025"
+            href: talks/2025/index.qmd
   page-footer:
     left: |
       © Copyright &copy; CC-By [Federica Gazzelloni](https://github.com/Fgazzelloni) @R-Ladies Rome. CC-BY-NC 4.0.
@@ -99,6 +101,8 @@ website:
             href: talks/2023/index.qmd
           - text: "2024"
             href: talks/2024/index.qmd
+          - text: "2025"
+            href: talks/2025/index.qmd  
       - text: About
         href: about/organizers.qmd    
       - sponsors.qmd 

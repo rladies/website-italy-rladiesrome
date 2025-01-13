@@ -1,0 +1,15 @@
+---
+title: "2025: Events and Highlights"
+#subtitle: "Events and Highlights"
+listing:
+  contents: meetup
+  sort: "date desc"
+  type: grid
+  image-height: "200"
+  categories: true
+page-layout: full
+title-block-banner: false
+sidebar: true
+---
+
+This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science. 

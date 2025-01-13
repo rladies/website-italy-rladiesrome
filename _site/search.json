@@ -167,6 +167,18 @@
     ]
   },
   {
+    "objectID": "talks/2025/index.html",
+    "href": "talks/2025/index.html",
+    "title": "2025: Events and Highlights",
+    "section": "",
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\n\nNetworking\n\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2025"
+    ]
+  },
+  {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsor",
@@ -209,6 +221,20 @@
       "Introduction",
       "Sponsor"
     ]
+  },
+  {
+    "objectID": "talks/2025/meetup/01092025_EliHolder.html",
+    "href": "talks/2025/meetup/01092025_EliHolder.html",
+    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
+    "section": "",
+    "text": "We’re excited to share that the recording of Eli Holder’s insightful talk, “Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”, is now available on our YouTube channel!\n\n\nIn this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing equitable and expressive visualizations that communicate public health data responsibly.\n\n\n\n📊 Understanding how design choices influence societal beliefs.\n\n🌍 Incorporating equity-oriented approaches in public health data visualization.\n\n🛠 Practical tools and techniques for impactful visual communication.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nEli Holder is a researcher and expert in data visualization, with a focus on the intersection of equity, public health, and data storytelling. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.\n\n\n\nFor those eager to dive deeper into the subject, don’t miss this additional material by Eli Holder, where they expand on the strategies and principles covered in the talk.\n\nStay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!"
+  },
+  {
+    "objectID": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
+    "href": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
+    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
+    "section": "",
+    "text": "We’re excited to share that the recording of Eli Holder’s insightful talk, “Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”, is now available on our YouTube channel!\n\n\nIn this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing equitable and expressive visualizations that communicate public health data responsibly.\n\n\n\n📊 Understanding how design choices influence societal beliefs.\n\n🌍 Incorporating equity-oriented approaches in public health data visualization.\n\n🛠 Practical tools and techniques for impactful visual communication.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nEli Holder is a researcher and expert in data visualization, with a focus on the intersection of equity, public health, and data storytelling. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.\n\n\n\nFor those eager to dive deeper into the subject, don’t miss this additional material by Eli Holder, where they expand on the strategies and principles covered in the talk.\n\nStay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!"
   },
   {
     "objectID": "talks/2024/meetup/04162024/index.html",
