@@ -3,7 +3,7 @@ title: "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can
 subtitle: "Recording Now Available!"
 date: "2025-01-09"
 image: "https://secure.meetupstatic.com/photos/event/9/b/b/8/600_525399864.webp?w=750"
-image-alt: "A representation of public health dashboards and visualization"
+image-alt: "Canva of Eli Holder's Event"
 description: "Eli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations."
 categories: 
    - Data Viz

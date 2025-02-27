@@ -1,0 +1,48 @@
+---
+title: "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive"
+subtitle: "Recording Now Available!"
+date: "2025-02-21"
+image: "https://secure.meetupstatic.com/photos/event/8/d/b/2/600_525876274.webp?w=750"
+image-alt: "Cover for Isabella Velásquez's Talk"
+description: "Isabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive."
+categories: 
+   - Quarto
+   - Open Source
+   - Shinylive
+---
+
+## Catch the Recording: *Interactive R, Python, and Shiny in the Browser*  
+
+We’re excited to share that the recording of [Isabella Velásquez](https://www.linkedin.com/in/ivelasq/)'s insightful talk, **"Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive"**, is now available on our YouTube channel!  
+
+### 🎙 About the Talk  
+In this session, Isabella explores how **Quarto Live** and **Shinylive** allow data practitioners to create interactive **R, Python, and Shiny applications without requiring a server**. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.  
+
+#### Key Takeaways:
+- 🚀 How **Quarto Live** enables interactive code blocks within documents.  
+- 🌐 Running **Shiny applications directly in the browser** with Shinylive.  
+- 🔧 Practical applications for data science, education, and dashboarding.  
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://youtu.be/59DSo_jjTpI >}}  
+
+### 🧑 💼 About the Speaker  
+[Isabella Velásquez](https://www.linkedin.com/in/ivelasq/) is the **Senior Product Marketing Manager at Posit PBC**, where she blends **content strategy, data analysis, and programming** to drive engagement in the data science community. Passionate about **open-source**, she actively contributes to making analytical tools more accessible to everyone.
+
+### Material of the talk
+
+<https://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser>
+
+### 📚 Explore More  
+For additional insights on Quarto Live and Shinylive, check out Isabella's latest materials and tutorials:
+
+- <https://repo.r-wasm.org/>
+- <https://r-universe.dev/search>
+- <https://docs.r-wasm.org/webr/latest/>
+- <https://quarto.org>
+
+---  
+
+Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.  

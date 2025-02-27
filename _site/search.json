@@ -167,16 +167,18 @@
     ]
   },
   {
-    "objectID": "talks/2025/index.html",
-    "href": "talks/2025/index.html",
-    "title": "2025: Events and Highlights",
+    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
+    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
+    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
     "section": "",
-    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\n\nNetworking\n\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
-    "crumbs": [
-      "Introduction",
-      "Talks",
-      "2025"
-    ]
+    "text": "We’re excited to share that the recording of Isabella Velásquez’s insightful talk, “Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”, is now available on our YouTube channel!\n\n\nIn this session, Isabella explores how Quarto Live and Shinylive allow data practitioners to create interactive R, Python, and Shiny applications without requiring a server. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.\n\n\n\n🚀 How Quarto Live enables interactive code blocks within documents.\n\n🌐 Running Shiny applications directly in the browser with Shinylive.\n\n🔧 Practical applications for data science, education, and dashboarding.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nIsabella Velásquez is the Senior Product Marketing Manager at Posit PBC, where she blends content strategy, data analysis, and programming to drive engagement in the data science community. Passionate about open-source, she actively contributes to making analytical tools more accessible to everyone.\n\n\n\nhttps://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser\n\n\n\nFor additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:\n\nhttps://repo.r-wasm.org/\nhttps://r-universe.dev/search\nhttps://docs.r-wasm.org/webr/latest/\nhttps://quarto.org\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+  },
+  {
+    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording-interactive-r-python-and-shiny-in-the-browser",
+    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording-interactive-r-python-and-shiny-in-the-browser",
+    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
+    "section": "",
+    "text": "We’re excited to share that the recording of Isabella Velásquez’s insightful talk, “Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”, is now available on our YouTube channel!\n\n\nIn this session, Isabella explores how Quarto Live and Shinylive allow data practitioners to create interactive R, Python, and Shiny applications without requiring a server. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.\n\n\n\n🚀 How Quarto Live enables interactive code blocks within documents.\n\n🌐 Running Shiny applications directly in the browser with Shinylive.\n\n🔧 Practical applications for data science, education, and dashboarding.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nIsabella Velásquez is the Senior Product Marketing Manager at Posit PBC, where she blends content strategy, data analysis, and programming to drive engagement in the data science community. Passionate about open-source, she actively contributes to making analytical tools more accessible to everyone.\n\n\n\nhttps://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser\n\n\n\nFor additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:\n\nhttps://repo.r-wasm.org/\nhttps://r-universe.dev/search\nhttps://docs.r-wasm.org/webr/latest/\nhttps://quarto.org\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
   },
   {
     "objectID": "sponsors.html",
@@ -220,6 +222,18 @@
     "crumbs": [
       "Introduction",
       "Sponsor"
+    ]
+  },
+  {
+    "objectID": "talks/2025/index.html",
+    "href": "talks/2025/index.html",
+    "title": "2025: Events and Highlights",
+    "section": "",
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\n\nOpen Source\n\n\nShinylive\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\n\nNetworking\n\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2025"
     ]
   },
   {
