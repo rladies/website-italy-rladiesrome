@@ -13,7 +13,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="40%"}
-![Federica Gazzelloni](https://pbs.twimg.com/profile_images/1687053477816471552/onGroPGf_400x400.jpg)
+![Federica Gazzelloni](organizers_picts/federicagazzelloni.jpeg)
 :::
 :::
 
@@ -25,7 +25,7 @@ subtitle: "Who we are, where we are from, and what we do"
 :::
 
 ::: {.column width="40%"}
-![Rafaela Ribeiro](https://pbs.twimg.com/profile_images/1736057785454931968/0QxIh1ae_400x400.jpg)
+![Rafaela Ribeiro](organizers_picts/rafaelaribeiro.jpeg)
 :::
 :::
 

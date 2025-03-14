@@ -11,11 +11,11 @@
 
 
 #quarto-header {
-  border-bottom: 2px solid #f0eeeb;
+  border-bottom: 2px solid #e7e5f9;
 }
 
 .navbar-logo {
-  max-height: 180px;
+  max-height: 80px;
   width: auto;
   align-items: baseline;
 }

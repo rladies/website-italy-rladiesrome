@@ -1,10 +1,10 @@
 website:
-  #announcement: 
-  #  icon: balloon-heart
-  #  dismissable: true
-  #  content: 'Allert! Free tutorials available!'
-  #  type: primary
-  #  position: below-navbar
+  announcement: 
+    icon: balloon-heart
+    dismissable: true
+    content: 'Allert! Free tutorials available!'
+    type: primary
+    position: below-navbar
   title: "R-Ladies Rome Website"
   description: "Online Learning Resources for R-Ladies Rome"
   favicon: images/rladiesrome-favicon.png
@@ -14,7 +14,7 @@ website:
   cookie-consent:
     type: express
     style: headline
-    palette: dark
+    palette: light
   google-analytics:
     tracking-id: "G-8BDX0D3T1M"
     anonymize-ip: true
@@ -24,10 +24,10 @@ website:
     creator: "@rladiesrome"
   page-navigation: true
   back-to-top-navigation: true
-  reader-mode: true
+  #reader-mode: true
   navbar:
-    title: "R-Ladies Rome"
-    background: "#572455"
+    title: "Home"
+    background: "#5c4a7f"
     logo: images/logo.png
     search: true
     right: 
@@ -35,20 +35,21 @@ website:
         menu: 
           - about/organizers.qmd
           - about/former_organizers.qmd
+          - sponsors.qmd
       - icon: globe
         href: https://rladies.org
       #- icon: meetup
       #  href: https://www.meetup.com/rladies-rome
-      - icon: github
-        href: https://github.com/rladies/meetup-presentations_rome
-      - icon: twitter
-        href: https://twitter.com/rladiesrome
-      - icon: mastodon
-        href: https://fosstodon.org/@rladiesrome  
-      - icon: youtube
-        href: https://www.youtube.com/@rladiesrome
-      - icon: linkedin
-        href: https://www.linkedin.com/company/rladiesrome
+    #  - icon: github
+    #    href: https://github.com/rladies/meetup-presentations_rome
+    #  - icon: twitter
+    #    href: https://twitter.com/rladiesrome
+    #  - icon: mastodon
+    #    href: https://fosstodon.org/@rladiesrome  
+    #  - icon: youtube
+    #    href: https://www.youtube.com/@rladiesrome
+    #  - icon: linkedin
+    #    href: https://www.linkedin.com/company/rladiesrome
     left:
       - text: "Introduction"
         file: introduction.qmd
@@ -65,7 +66,7 @@ website:
             href: talks/2025/index.qmd
   page-footer:
     left: |
-      © Copyright &copy; CC-By [Federica Gazzelloni](https://github.com/Fgazzelloni) @R-Ladies Rome. CC-BY-NC 4.0.
+      Copyright © 2015, R-Ladies Rome<br>Designer & Maintainer: [Federica Gazzelloni](https://github.com/Fgazzelloni)<br>Powered by: Quarto & Netlify | CC-BY-NC 4.0.
     center:   
       - icon: globe
         href: https://rladies.org

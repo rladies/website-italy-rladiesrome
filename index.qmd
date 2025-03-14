@@ -1,11 +1,11 @@
 ---
 title: </script><p class= "multipleStrings" >
-backgroundcolor: "rgba(87,36,85, 0.01)"
+backgroundcolor: "#FFFFFF"
 image: images/world-map.png
 image-alt: "R-Ladies Global Map"
 title-block-style: "plain"
-title-block-banner: 'rgba(87,36,85, 0.1)'
-title-block-banner-color: "#572455"
+title-block-banner: '#FFFFFF'
+title-block-banner-color: "#5b5c65"
 about:
   template: marquee
   id: hero-heading  
@@ -46,11 +46,11 @@ format:
 ```
 
 
-::: {style="margin-top: 10px; font-size: 3em; color: #572455; font-weight: bold; text-align: center;"}
-Welcome to R-Ladies Rome! 🩷
+::: {style="margin-top: 10px; font-size: 3em; color: #5b5c65; font-weight: bold; text-align: center;"}
+Welcome to R-Ladies Rome! 🌟
 :::
 
-::: {style="font-size: 1.2em; color: #a68ba5;"}
+::: {style="font-size: 1.2em; color: #5b5c65;"}
 Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sposored by The R Consortium and The Linux Foundation. 
 :::
 
@@ -61,10 +61,10 @@ Part of R-Ladies Global, organization designed to develop the R skills and knowl
 ![](images/rconsortium-removebg.png){width="300px"}
 :::
 </center>
-::: {style="border-bottom: 2px solid #f5f5f5;"}
+::: {style="border-bottom: 2px solid #602b5f;"}
 :::
 
-::: {style="font-size: 3em; color: #572455;"}
+::: {style="font-size: 3em; color: #5b5c65;"}
 Latest content
 :::
 
@@ -74,7 +74,7 @@ Latest content
 <style>
   .multipleStrings {
     font-size: 25px; 
-    text-shadow: 2px 2px 4px #af87b0;
+    text-shadow: 1px 1px 1px #602b5f;
   }
 </style>
 

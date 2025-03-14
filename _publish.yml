@@ -1,7 +1,4 @@
 - source: project
-  quarto-pub:
-    - id: 886f402c-f977-4f82-ad9e-a528bf6deba8
-      url: https://rladiesrome.quarto.pub/website
   netlify:
     - id: e32c31ab-5bec-4112-9765-2c242d781dce
       url: https://rladiesrome.org

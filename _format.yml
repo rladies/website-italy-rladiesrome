@@ -3,8 +3,8 @@ format:
     highlight-style: github #change text from code chunks to white. 
     smooth-scroll: true
     theme: 
-      light: pulse
-      dark: darkly
+      light: flatly
+      #dark: darkly
     css: new.css
     toc: true
     link-external-newwindow: false
