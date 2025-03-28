@@ -1,0 +1,40 @@
+---
+title: "Building a Chatbot with OpenAI, Shiny & R with James Wade | Tunis R User Group & R Ladies Rome"
+subtitle: "R-Ladies Rome presents"
+date: 2024-02-17
+image: "https://secure.meetupstatic.com/photos/event/8/1/9/f/highres_518793183.webp"
+image-alt: ""
+description: "This interactive session empowers you to select a model (gpt-3.5-turbo or gpt-4), define a task/prompt for the model, input a message, and receive a dynamic response. Delve into the world of GPT-powered chatbots and witness the deployment of your own GPT chatbot app by the end of this engaging workshop."
+categories:
+  - Chatbot
+  - Hands-on
+  - AI
+---
+  
+
+`Registered Attendees (50)`
+
+February 17, 2024 speaker is [Dr. James Wade](https://www.youtube.com/@james-h-wade) `Research Scientist`
+
+
+🎬 Get ready for a Debugging hands-on experience! 🔥
+
+Learn the ropes of developing a basic chatbot app using the OpenAI API and Shiny.
+
+This interactive session empowers you to select a model (gpt-3.5-turbo or gpt-4), define a task/prompt for the model, input a message, and receive a dynamic response. Delve into the world of GPT-powered chatbots and witness the deployment of your own GPT chatbot app by the end of this engaging workshop.
+
+Our speaker is `Dr. James Wade` James Wade is a Research Scientist working in the chemicals and materials science industry where he combines the power of data science with chemistry and materials science. His current projects focus on augmenting materials characterization innovations with statistical analysis, machine learning, and data visualization. James enjoys contributing to a growing data science community both in and outside of work and is a passionate advocate of open-source data science.
+
+Missed the live session? Don't worry! 
+
+ 🎬 `Watch the Video Now`
+Simply click on the video below to watch it:
+
+{{< video https://youtu.be/-surae1djIU?si=75jeL7T4Zsel0jSj >}}
+
+
+Material:
+
+- <https://jameshwade.github.io/build-a-chatbot/>
+
+#DataScience #chatbot #RStudio #RLadiesRome #LearningTogether #hands-on #AI

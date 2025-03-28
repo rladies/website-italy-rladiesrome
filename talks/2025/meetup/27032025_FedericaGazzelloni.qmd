@@ -1,0 +1,59 @@
+---
+title: "AI, Actuarial Science, and R: A New Era of Risk Modeling"
+subtitle: "Recording Now Available!"
+date: "2025-03-27"
+image: "https://secure.meetupstatic.com/photos/event/3/9/3/6/600_526814646.webp?w=750"
+image-alt: "Cover for Federica Gazzelloni's Talk"
+description: "Insightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work."
+categories: 
+   - AI
+   - Open Source
+   - Actuarial Science
+---
+
+## Catch the Recording
+
+We’re excited to share that the recording of [Federica Gazzelloni](https://federicagazzelloni.com/)'s insightful talk is now available on our YouTube channel!  
+
+### 🎙 About the Talk  
+In this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.
+
+Explore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency. 
+
+#### Key Takeaways:
+
+- 🚀   AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help
+- 🌐  R provides powerful tools for predictive modeling
+- 🔧  Practical applications span across insurance & risk management
+ 
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://www.youtube.com/watch?v=tah6-upp2qw >}}  
+
+### 🧑 💼 About the Speaker  
+[Federica Gazzelloni](https://federicagazzelloni.com/) is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.
+
+She collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.
+
+### Material of the talk
+
+- GitHub Repo: <https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R>
+- Presentation: <https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/>
+
+### 📚 Explore More  
+For additional insights check out this latest materials and tutorials:
+
+-   [Ethical Use of Artificial Intelligence for Actuaries-September 2019](https://www.soa.org/49bd97/globalassets/assets/files/resources/research-report/2019/ethics-ai.pdf)
+-   [Guidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022](https://humanrights.gov.au/sites/default/files/guidance_resource_ai_-_2022_v7-2_0.pdf)
+-   [Actuaries using data science and artificial intelligence techniques-February 2024](https://actuaries.org.uk/media/g4ymoxep/actuaries-using-data-science-and-artificial-intelligence-techniques.pdf)
+-   [Achieving Fairness in Data-Driven Decision Making-February 2025](https://www.actuaries.digital/2025/02/12/achieving-fairness-in-data-driven-decision-making/)
+-   [Joe Cheng - Summer is Coming: AI for R, Shiny, and Pharma](https://www.youtube.com/watch?v=AfMa1CVUdXU)
+- <https://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/>
+- <https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/>
+
+
+---  
+
+Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.  

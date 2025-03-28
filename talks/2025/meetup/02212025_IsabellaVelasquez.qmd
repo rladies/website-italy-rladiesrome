@@ -11,7 +11,7 @@ categories:
    - Shinylive
 ---
 
-## Catch the Recording: *Interactive R, Python, and Shiny in the Browser*  
+## Catch the Recording 
 
 We’re excited to share that the recording of [Isabella Velásquez](https://www.linkedin.com/in/ivelasq/)'s insightful talk, **"Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive"**, is now available on our YouTube channel!  
 

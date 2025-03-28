@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/talks/2025/index.html",
+    "items": [
+      "/talks/2025/meetup/27032025_FedericaGazzelloni.html",
+      "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
+      "/talks/2025/meetup/01092025_EliHolder.html"
+    ]
+  },
+  {
     "listing": "/talks/2024/index.html",
     "items": [
       "/talks/2024/meetup/12102024/index.html",
@@ -13,14 +21,8 @@
       "/talks/2024/meetup/04162024/index.html",
       "/talks/2024/meetup/03222024/index.html",
       "/talks/2024/meetup/02202024/index.html",
+      "/talks/2024/meetup/1702204/index.html",
       "/talks/2024/meetup/01162024/index.html"
-    ]
-  },
-  {
-    "listing": "/talks/2025/index.html",
-    "items": [
-      "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
-      "/talks/2025/meetup/01092025_EliHolder.html"
     ]
   },
   {
@@ -58,6 +60,7 @@
       "/talks/2024/meetup/04162024/index.html",
       "/talks/2024/meetup/03222024/index.html",
       "/talks/2024/meetup/02202024/index.html",
+      "/talks/2024/meetup/1702204/index.html",
       "/talks/2024/meetup/01162024/index.html",
       "/blog/posts/01072024/index.html",
       "/talks/2023/meetup/12152023/index.html",
