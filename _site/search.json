@@ -176,18 +176,65 @@
     "text": "We’re excited to share that the recording of Eli Holder’s insightful talk, “Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”, is now available on our YouTube channel!\n\n\nIn this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing equitable and expressive visualizations that communicate public health data responsibly.\n\n\n\n📊 Understanding how design choices influence societal beliefs.\n\n🌍 Incorporating equity-oriented approaches in public health data visualization.\n\n🛠 Practical tools and techniques for impactful visual communication.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nEli Holder is a researcher and expert in data visualization, with a focus on the intersection of equity, public health, and data storytelling. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.\n\n\n\nFor those eager to dive deeper into the subject, don’t miss this additional material by Eli Holder, where they expand on the strategies and principles covered in the talk.\n\nStay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!"
   },
   {
-    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
-    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html",
+    "title": "From R to Python: A Gentle Introduction",
     "section": "",
-    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+    "text": "This April 2025, R-Ladies Rome hosted a beginner-friendly workshop titled “From R to Python: A Gentle Introduction”, designed to help R users and beginners take their first steps into the world of Python. This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.\nWhether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun."
   },
   {
-    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
-    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#what-we-covered",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#what-we-covered",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💡 What We Covered",
+    "text": "💡 What We Covered\nDuring the session, we explored:\n\nThe similarities and differences between R and Python\nHow to perform common data analysis tasks in Python\n\nAn introduction to popular Python libraries like pandas, scikit-learn, and seaborn\n\nWe also demoed basic workflows, provided a starter script, and answered audience questions live."
+  },
+  {
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#what-you-said",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#what-you-said",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📊 What You Said",
+    "text": "📊 What You Said\nWe asked participants three short questions using Slido. Here’s what they shared:\n\n🟣 On a scale of 1 to 5, how confident are you with programming languages?\n\n\n\n🟣 What is your favorite programming language?\n\n\n\n🟣 How familiar are you with Python?"
+  },
+  {
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#workshop-materials",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#workshop-materials",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📦 Workshop Materials",
+    "text": "📦 Workshop Materials\nAll workshop materials are freely available:\n\n🎤 Presentation Slides\n\n📖 Workshop Booklet\n\n💻 GitHub Repository\n\nYou’ll find setup instructions, sample datasets, and the Python scripts we used during the event."
+  },
+  {
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#recording",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#recording",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\nYou can rewatch the full event on our YouTube channel:\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\nWhether you missed the event or just want a refresher, it’s all there for you."
+  },
+  {
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📚 Learn More: Python Resources for Beginners",
+    "text": "📚 Learn More: Python Resources for Beginners\nIf you’re ready to keep going, here are some recommended resources:\n\nPython for Data Analysis (Wes McKinney) – The classic book for learning pandas and data wrangling in Python.\nReal Python – A comprehensive site full of beginner tutorials and hands-on examples.\nPython Basics – Simple and direct explanations of core Python concepts.\nDataCamp’s Python tracks – Interactive exercises for data science beginners.\nThe Carpentries Python Lessons – Friendly workshops teaching foundational skills.\nKaggle Python Micro-Course – Great for learning through applied exercises.\n\nIf you prefer video: - Corey Schafer YouTube Channel – Detailed and beginner-friendly. - freeCodeCamp Python course – Full-length intro course, highly rated.\n\n📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning."
+  },
+  {
+    "objectID": "talks/2025/meetup/27042025_FedericaGazzelloni.html#thank-you",
+    "href": "talks/2025/meetup/27042025_FedericaGazzelloni.html#thank-you",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💜 Thank You",
+    "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜"
+  },
+  {
+    "objectID": "talks/2025/index.html",
+    "href": "talks/2025/index.html",
+    "title": "2025: Events and Highlights",
     "section": "",
-    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\n\nOpen Source\n\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\n\nOpen Source\n\n\nShinylive\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\n\nNetworking\n\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2025"
+    ]
   },
   {
     "objectID": "sponsors.html",
@@ -234,16 +281,18 @@
     ]
   },
   {
-    "objectID": "talks/2025/index.html",
-    "href": "talks/2025/index.html",
-    "title": "2025: Events and Highlights",
+    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
     "section": "",
-    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\n\nOpen Source\n\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\n\nOpen Source\n\n\nShinylive\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\n\nNetworking\n\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
-    "crumbs": [
-      "Introduction",
-      "Talks",
-      "2025"
-    ]
+    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+  },
+  {
+    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
+    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "section": "",
+    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
   },
   {
     "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
@@ -412,7 +461,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sposored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\n\n\nReflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2024 and share…\n\n\n\n\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing GitHub Copilot (and Others LLM) with R\n\n\nIn this session, Yanina Bellini Saibene demonstrates how to integrate GitHub Copilot and other Large Language Models (LLMs) into R programming workflows.\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpenscapes: Forking as a Worldview\n\n\nInsightful session led by Julia Stewart Lowndes, as she explores the transformative concept of ‘forking’ in the world of open science and its potential to solve big…\n\n\n\n\n\n\nNov 18, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sposored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "blog/posts/05142023/index.html",

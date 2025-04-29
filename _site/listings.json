@@ -2,6 +2,7 @@
   {
     "listing": "/talks/2025/index.html",
     "items": [
+      "/talks/2025/meetup/27042025_FedericaGazzelloni.html",
       "/talks/2025/meetup/27032025_FedericaGazzelloni.html",
       "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
       "/talks/2025/meetup/01092025_EliHolder.html"
@@ -47,6 +48,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/talks/2025/meetup/27042025_FedericaGazzelloni.html",
+      "/talks/2025/meetup/27032025_FedericaGazzelloni.html",
+      "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
+      "/talks/2025/meetup/01092025_EliHolder.html",
       "/blog/posts/12302024/index.html",
       "/talks/2024/meetup/12102024/index.html",
       "/talks/2024/meetup/11182024/index.html",

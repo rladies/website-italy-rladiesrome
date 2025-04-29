@@ -1,0 +1,81 @@
+---
+title: "From R to Python: A Gentle Introduction"
+subtitle: "Recap & Resources - Recording Now Available!"
+date: "2025-04-27"
+image: "https://secure.meetupstatic.com/photos/event/d/d/c/0/highres_527516768.webp?w=750"
+image-alt: "Cover for Federica Gazzelloni's Workshop on Python"
+categories: 
+    - Python
+---
+
+This April 2025, **R-Ladies Rome** hosted a beginner-friendly workshop titled _“From R to Python: A Gentle Introduction”_, designed to help `R` users and beginners take their first steps into the world of `Python.` This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.
+
+Whether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun.
+
+## 💡 What We Covered
+
+During the session, we explored:
+
+- The **similarities and differences** between R and Python 
+- How to perform **common data analysis tasks** in Python  
+- An introduction to **popular Python libraries** like `pandas`, `scikit-learn`, and `seaborn`  
+
+We also demoed basic workflows, provided a starter script, and answered audience questions live.
+
+## 📊 What You Said
+
+We asked participants three short questions using `Slido.` Here's what they shared:
+
+### 🟣 On a scale of 1 to 5, how confident are you with programming languages? 
+![](images/27042025_q1.png)
+
+### 🟣 What is your favorite programming language?
+![](images/27042025_q2.png)
+
+### 🟣 How familiar are you with Python?
+![](images/27042025_q3.png)
+
+
+## 📦 Workshop Materials
+
+All workshop materials are freely available:
+
+- 🎤 [**Presentation Slides**](https://rladiesrome.quarto.pub/from-r-to-python-a-gentle-introduction/)  
+- 📖 [**Workshop Booklet**](https://fgazzelloni.quarto.pub/from-r-to-python-a-gentle-introduction/)  
+- 💻 [**GitHub Repository**](https://github.com/Fgazzelloni/From-R-to-Python-A-Gentle-Introduction)
+
+You’ll find setup instructions, sample datasets, and the Python scripts we used during the event.
+
+## 🎥 Recording
+
+You can rewatch the full event on our YouTube channel:
+
+🎬 `Watch the Video Now`
+Simply click on the video below to catch up on the discussion:
+
+{{< video https://www.youtube.com/watch?v=PVnTzUIsbAI >}}
+
+Whether you missed the event or just want a refresher, it’s all there for you.
+
+## 📚 Learn More: Python Resources for Beginners
+
+If you're ready to keep going, here are some recommended resources:
+
+- **[Python for Data Analysis (Wes McKinney)](https://wesmckinney.com/book/)** – The classic book for learning `pandas` and data wrangling in Python.
+- **[Real Python](https://realpython.com/)** – A comprehensive site full of beginner tutorials and hands-on examples.
+- **[Python Basics](https://pythonbasics.org/)** – Simple and direct explanations of core Python concepts.
+- **[DataCamp's Python tracks](https://www.datacamp.com/)** – Interactive exercises for data science beginners.
+- **[The Carpentries Python Lessons](https://swcarpentry.github.io/python-novice-gapminder/)** – Friendly workshops teaching foundational skills.
+- **[Kaggle Python Micro-Course](https://www.kaggle.com/learn/python)** – Great for learning through applied exercises.
+
+If you prefer video:
+- **[Corey Schafer YouTube Channel](https://www.youtube.com/c/CoreySchafer)** – Detailed and beginner-friendly.
+- **[freeCodeCamp Python course](https://www.youtube.com/watch?v=rfscVS0vtbw)** – Full-length intro course, highly rated.
+
+> 📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning.
+
+## 💜 Thank You
+
+Thank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!
+
+Stay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜
