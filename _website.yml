@@ -65,6 +65,7 @@ website:
           - text: "2025"
             href: talks/2025/index.qmd
   page-footer:
+    background: "#2c3d50"
     left: |
       Copyright © 2015, R-Ladies Rome<br>Designer & Maintainer: [Federica Gazzelloni](https://github.com/Fgazzelloni)<br>Powered by: Quarto & Netlify | CC-BY-NC 4.0.
     center:   
