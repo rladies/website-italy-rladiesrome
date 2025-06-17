@@ -52,7 +52,7 @@ Welcome to R-Ladies Rome! 🌟
 :::
 
 ::: {style="font-size: 1.2em; color: #5b5c65;"}
-Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sposored by The R Consortium and The Linux Foundation. 
+Part of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation. 
 :::
 
 <center><a href="https://www.meetup.com/rladies-rome/" target="_blank"><img src="images/subscribe.png" alt="Become a Member" height="60"/></a></center>

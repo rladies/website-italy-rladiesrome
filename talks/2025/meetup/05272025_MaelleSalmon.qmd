@@ -1,0 +1,64 @@
+---
+title: "Why Small Git Commits Matter (and How to Make Them!)"
+subtitle: "Recap, Recording, and Resources from Our May 2025 Meetup"
+date: "2025-05-27"
+image: "https://secure.meetupstatic.com/photos/event/5/b/4/f/highres_528083375.webp?w=750"
+image-alt: "Cover for Maëlle Salmon's Git tutorial"
+categories: 
+  - Git
+  - GitHub
+---
+
+This May, **R-Ladies Rome** hosted a remote session featuring Maëlle Salmon: *“Why Small Git Commits Matter (and How to Make Them!)”*. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.  
+
+Whether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others.
+
+## 💡 Key Takeaways
+
+In this session, we explored:
+
+- 🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration
+- 🧠 How to structure your work to commit in logical, meaningful units
+- 🔧 How to fix and refine commit history with tools like `git commit --amend` and `git rebase`
+- 🧪 How to experiment safely using [`saperlipopette`](https://github.com/maelle/saperlipopette), a package for practicing Git workflows in R projects
+- 🎤 Bonus Q&A with community tips, questions, and shared real-world use cases
+
+## 🎥 Watch the Recording
+
+Missed the event? No problem—you can catch the full session on YouTube:
+
+{{< video https://youtu.be/5lCUUk0HZ3U >}}
+
+Don’t forget to like and subscribe to our [R-Ladies Rome YouTube channel](https://www.youtube.com/@rladiesrome)!
+
+## 📦 Materials & Resources
+
+- 🖥️ [**Slides from the talk**](https://rome-git.netlify.app/)
+- ✍️ [**GitHub: Write Better Commits, Build Better Projects**](https://github.blog/developer-skills/github/write-better-commits-build-better-projects/)
+- 🧰 [**Positron Debugging – Lisa M. Mowinckel**](https://drmowinckels.io/blog/2025/positron-debugging/)
+
+For continued learning:
+- 📘 [Pro Git Book (free)](https://git-scm.com/book/en/v2)
+- 🧪 [Git for Data Science](https://www.datacamp.com/community/tutorials/git-for-data-science)
+- 🧭 [GitHub Learning Lab](https://lab.github.com/)
+- 🧾 [GitHub Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+
+## 🧵 Why This Talk Mattered
+
+At R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.
+
+In this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:
+
+> Git is more than a tool—it’s a practice.
+
+She helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects.
+
+## 🤝 Get Involved!
+
+- Want to **speak at a future event**? Drop your email in the comments!
+- Have someone in mind? **Suggest a speaker** you’d love to see.
+- Stay connected on [Meetup](https://www.meetup.com/rladies-rome/), [YouTube](https://www.youtube.com/@rladiesrome), and [GitHub](https://github.com/rladies-rome)
+
+Our events are **free, open-source, and beginner-friendly**. Every month, we share kick-start resources so you can keep learning after the meetup.
+
+Let’s keep learning, coding, and sharing—one small commit at a time. 💜

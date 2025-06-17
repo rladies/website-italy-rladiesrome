@@ -1,0 +1,78 @@
+---
+title: "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV"
+subtitle: "Speaking Many Languages: Finding Power and Joy in R and Python"
+date: "2025-06-16"
+image: "https://secure.meetupstatic.com/photos/event/2/6/7/d/highres_528369853.webp?w=750"
+image-alt: "Cover for INGV's Talk on R and Python"
+categories: 
+    - Python
+    - Networking
+---
+
+🌍 [PyData Roma Capitale](https://pydataroma.python.it/) x `R-Ladies Rome` x `Rome R Users Group` – A Multilingual Meetup at [INGV](https://www.ingv.it/)
+
+This June 2025, **PyData Roma Capitale**, **R-Ladies Rome**, and the **Rome R Users Group** came together for a special meetup at the **Istituto Nazionale di Geofisica e Vulcanologia (INGV)**. 
+
+::: {#fig-ingv layout-ncol=4}
+
+![PyData Roma Capitale](images/16062025_pydata-logo.png){#fig-pydataroma}
+
+![R-Ladies Rome](images/16062025_rladies-logo.png){#fig-rladiesrome}
+
+![Rome R Users Group](images/16062025_rome-logo.png){#fig-romerusersgroup}
+
+![INGV](images/16062025_ingv-logo.png){#fig-ingv}
+
+Rome Data Science Networking Event @ INGV
+:::
+
+The `Rome data science community` gathered for an unforgettable multilingual evening of code, collaboration, and connection —where the languages of `R` and `Python` met in harmony. We kicked off the evening with a warm welcome and introduction to `INGV` and `PyData` by [Vincenzo Ventriglia](https://www.linkedin.com/in/vincenzoventriglia/), who reminded us of the importance of creating spaces where open science, technology, and collaboration intersect. It was the perfect setup for an evening that celebrated the spirit of openness across languages—spoken and programmed alike.
+
+## 🎙️ Opening Talk
+
+### **[Speaking Many Languages: Finding Power and Joy in R and Python](https://speaking-many-languages.my.canva.site/)**
+
+The keynote by [Federica Gazzelloni](https://federicagazzelloni.com/) set the tone for the evening. With a mix of personal story and technical insight, Federica walked us through her journey from choosing between R and Python to embracing both. She shared how learning to “speak” more than one programming language helped her grow as a data scientist and opened new doors for collaboration. Her talk included side-by-side code examples in R and Python that sparked lots of follow-up questions and conversation from the crowd—both online and in-person.
+
+## ⚡ Lightning Talks – Short, Sharp & Full of Insight
+
+The energy kept flowing with a series of lightning talks, each just 5 minutes long, where community members shared projects, tools, and reflections:
+
+- **[Marco Guerra](https://scholar.google.com/citations?user=wFLqT0sAAAAJ&hl=it)** presented "Automatic Detection of Large-Scale Travelling Ionospheric Disturbances using GNSS Data and Image Processing Techniques"
+- **[Massimo Viola](https://www.linkedin.com/in/massimo-viola-1a075a1b8/)** shared insights on "A custom TreeQL Python-based Web Service for Database Access"
+- **[Federico Palma](https://www.linkedin.com/in/palmafederico/)** illustrated "Normalized Semantic Chunker" 
+- **[Egon Ferri](https://www.linkedin.com/in/egon-ferri/)** closed the session with a thought-provoking reflection on learning curves and language choice titled: "Flying SOLID-ly: Python design principles explained with birds"
+
+## 🫱🏽🫲🏿 Networking, Connections & Pizza Plans
+
+After the talks, participants stayed to mingle, exchange ideas, and build connections across communities. Many of us continued the evening outside the venue for a multi-community dinner—a true Roman finale to a collaborative and inspiring meetup.
+
+::: {#fig-ingv layout-ncol=3}
+
+![Federica Gazzelloni](images/16062025_me-presenting.jpeg){#fig-federica}
+
+![Community Group](images/16062025_group-photo.jpeg){#fig-group}
+
+![Vincenzo Ventriglia](images/16062025_vincenzo.jpeg){#fig-vincenzo}
+
+Rome Data Science Networking Event @ INGV
+:::
+
+## 📺 Missed the Event? Watch the Recording!
+
+💡 You can still watch the full event recording here:
+📺 Watch on YouTube
+
+{{< video https://youtu.be/dGdMu0_M208 >}}
+
+## 📚 Resources & Follow-Up
+
+- **Slides**: [Speaking Many Languages: Finding Power and Joy in R and Python](https://speaking-many-languages.my.canva.site/)
+- [Normalized-Semantic-Chunker](https://github.com/smart-models/Normalized-Semantic-Chunker)
+
+##
+
+> "Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together."
+
+📬 Want to get involved or speak at the next event? Reach out through [PyData Roma Capitale](https://pydataroma.python.it/), [R-Ladies Rome](https://www.meetup.com/rladies-rome), or the [Rome R Users Group](https://www.meetup.com/rome-r-users-group/).
+
