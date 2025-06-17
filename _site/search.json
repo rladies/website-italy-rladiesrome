@@ -225,18 +225,58 @@
     "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜"
   },
   {
-    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
-    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
     "section": "",
-    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+    "text": "This May, R-Ladies Rome hosted a remote session featuring Maëlle Salmon: “Why Small Git Commits Matter (and How to Make Them!)”. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.\nWhether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others."
   },
   {
-    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
-    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "💡 Key Takeaways",
+    "text": "💡 Key Takeaways\nIn this session, we explored:\n\n🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration\n🧠 How to structure your work to commit in logical, meaningful units\n🔧 How to fix and refine commit history with tools like git commit --amend and git rebase\n🧪 How to experiment safely using saperlipopette, a package for practicing Git workflows in R projects\n🎤 Bonus Q&A with community tips, questions, and shared real-world use cases"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🎥 Watch the Recording",
+    "text": "🎥 Watch the Recording\nMissed the event? No problem—you can catch the full session on YouTube:\n\nDon’t forget to like and subscribe to our R-Ladies Rome YouTube channel!"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "📦 Materials & Resources",
+    "text": "📦 Materials & Resources\n\n🖥️ Slides from the talk\n✍️ GitHub: Write Better Commits, Build Better Projects\n🧰 Positron Debugging – Lisa M. Mowinckel\n\nFor continued learning: - 📘 Pro Git Book (free) - 🧪 Git for Data Science - 🧭 GitHub Learning Lab - 🧾 GitHub Cheat Sheet (PDF)"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🧵 Why This Talk Mattered",
+    "text": "🧵 Why This Talk Mattered\nAt R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.\nIn this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:\n\nGit is more than a tool—it’s a practice.\n\nShe helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects."
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🤝 Get Involved!",
+    "text": "🤝 Get Involved!\n\nWant to speak at a future event? Drop your email in the comments!\nHave someone in mind? Suggest a speaker you’d love to see.\nStay connected on Meetup, YouTube, and GitHub\n\nOur events are free, open-source, and beginner-friendly. Every month, we share kick-start resources so you can keep learning after the meetup.\nLet’s keep learning, coding, and sharing—one small commit at a time. 💜"
+  },
+  {
+    "objectID": "talks/2025/index.html",
+    "href": "talks/2025/index.html",
+    "title": "2025: Events and Highlights",
     "section": "",
-    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\n\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit\n\nGitHub\n\n\n\n\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShinylive\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\nNetworking\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2025"
+    ]
   },
   {
     "objectID": "sponsors.html",
@@ -283,58 +323,67 @@
     ]
   },
   {
-    "objectID": "talks/2025/index.html",
-    "href": "talks/2025/index.html",
-    "title": "2025: Events and Highlights",
+    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
     "section": "",
-    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\n\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit\n\nGitHub\n\n\n\n\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShinylive\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Viz\n\nNetworking\n\nPublic Health Viz\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Introduction",
-      "Talks",
-      "2025"
-    ]
+    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "objectID": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
+    "href": "talks/2025/meetup/27032025_FedericaGazzelloni.html#catch-the-recording",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
     "section": "",
-    "text": "This May, R-Ladies Rome hosted a remote session featuring Maëlle Salmon: “Why Small Git Commits Matter (and How to Make Them!)”. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.\nWhether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others."
+    "text": "We’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\n\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\n\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments."
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "💡 Key Takeaways",
-    "text": "💡 Key Takeaways\nIn this session, we explored:\n\n🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration\n🧠 How to structure your work to commit in logical, meaningful units\n🔧 How to fix and refine commit history with tools like git commit --amend and git rebase\n🧪 How to experiment safely using saperlipopette, a package for practicing Git workflows in R projects\n🎤 Bonus Q&A with community tips, questions, and shared real-world use cases"
+    "objectID": "talks/2025/meetup/16062025_INGV.html",
+    "href": "talks/2025/meetup/16062025_INGV.html",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "",
+    "text": "🌍 PyData Roma Capitale x R-Ladies Rome x Rome R Users Group – A Multilingual Meetup at INGV\nThis June 2025, PyData Roma Capitale, R-Ladies Rome, and the Rome R Users Group came together for a special meetup at the Istituto Nazionale di Geofisica e Vulcanologia (INGV).\nThe Rome data science community gathered for an unforgettable multilingual evening of code, collaboration, and connection —where the languages of R and Python met in harmony. We kicked off the evening with a warm welcome and introduction to INGV and PyData by Vincenzo Ventriglia, who reminded us of the importance of creating spaces where open science, technology, and collaboration intersect. It was the perfect setup for an evening that celebrated the spirit of openness across languages—spoken and programmed alike."
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🎥 Watch the Recording",
-    "text": "🎥 Watch the Recording\nMissed the event? No problem—you can catch the full session on YouTube:\n\nDon’t forget to like and subscribe to our R-Ladies Rome YouTube channel!"
+    "objectID": "talks/2025/meetup/16062025_INGV.html#opening-talk",
+    "href": "talks/2025/meetup/16062025_INGV.html#opening-talk",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "🎙️ Opening Talk",
+    "text": "🎙️ Opening Talk\n\nSpeaking Many Languages: Finding Power and Joy in R and Python\nThe keynote by Federica Gazzelloni set the tone for the evening. With a mix of personal story and technical insight, Federica walked us through her journey from choosing between R and Python to embracing both. She shared how learning to “speak” more than one programming language helped her grow as a data scientist and opened new doors for collaboration. Her talk included side-by-side code examples in R and Python that sparked lots of follow-up questions and conversation from the crowd—both online and in-person."
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "📦 Materials & Resources",
-    "text": "📦 Materials & Resources\n\n🖥️ Slides from the talk\n✍️ GitHub: Write Better Commits, Build Better Projects\n🧰 Positron Debugging – Lisa M. Mowinckel\n\nFor continued learning: - 📘 Pro Git Book (free) - 🧪 Git for Data Science - 🧭 GitHub Learning Lab - 🧾 GitHub Cheat Sheet (PDF)"
+    "objectID": "talks/2025/meetup/16062025_INGV.html#lightning-talks-short-sharp-full-of-insight",
+    "href": "talks/2025/meetup/16062025_INGV.html#lightning-talks-short-sharp-full-of-insight",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "⚡ Lightning Talks – Short, Sharp & Full of Insight",
+    "text": "⚡ Lightning Talks – Short, Sharp & Full of Insight\nThe energy kept flowing with a series of lightning talks, each just 5 minutes long, where community members shared projects, tools, and reflections:\n\nMarco Guerra presented “Automatic Detection of Large-Scale Travelling Ionospheric Disturbances using GNSS Data and Image Processing Techniques”\nMassimo Viola shared insights on “A custom TreeQL Python-based Web Service for Database Access”\nFederico Palma illustrated “Normalized Semantic Chunker”\nEgon Ferri closed the session with a thought-provoking reflection on learning curves and language choice titled: “Flying SOLID-ly: Python design principles explained with birds”"
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🧵 Why This Talk Mattered",
-    "text": "🧵 Why This Talk Mattered\nAt R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.\nIn this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:\n\nGit is more than a tool—it’s a practice.\n\nShe helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects."
+    "objectID": "talks/2025/meetup/16062025_INGV.html#networking-connections-pizza-plans",
+    "href": "talks/2025/meetup/16062025_INGV.html#networking-connections-pizza-plans",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "🫱🏽🫲🏿 Networking, Connections & Pizza Plans",
+    "text": "🫱🏽🫲🏿 Networking, Connections & Pizza Plans\nAfter the talks, participants stayed to mingle, exchange ideas, and build connections across communities. Many of us continued the evening outside the venue for a multi-community dinner—a true Roman finale to a collaborative and inspiring meetup.\n\n\n\n\n\n\n\n\n\n\n\n(a) Federica Gazzelloni\n\n\n\n\n\n\n\n\n\n\n\n(b) Community Group\n\n\n\n\n\n\n\n\n\n\n\n(c) Vincenzo Ventriglia\n\n\n\n\n\n\n\nFigure 2: Rome Data Science Networking Event @ INGV"
   },
   {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🤝 Get Involved!",
-    "text": "🤝 Get Involved!\n\nWant to speak at a future event? Drop your email in the comments!\nHave someone in mind? Suggest a speaker you’d love to see.\nStay connected on Meetup, YouTube, and GitHub\n\nOur events are free, open-source, and beginner-friendly. Every month, we share kick-start resources so you can keep learning after the meetup.\nLet’s keep learning, coding, and sharing—one small commit at a time. 💜"
+    "objectID": "talks/2025/meetup/16062025_INGV.html#missed-the-event-watch-the-recording",
+    "href": "talks/2025/meetup/16062025_INGV.html#missed-the-event-watch-the-recording",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "📺 Missed the Event? Watch the Recording!",
+    "text": "📺 Missed the Event? Watch the Recording!\n💡 You can still watch the full event recording here: 📺 Watch on YouTube"
+  },
+  {
+    "objectID": "talks/2025/meetup/16062025_INGV.html#resources-follow-up",
+    "href": "talks/2025/meetup/16062025_INGV.html#resources-follow-up",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "📚 Resources & Follow-Up",
+    "text": "📚 Resources & Follow-Up\n\nSlides: Speaking Many Languages: Finding Power and Joy in R and Python\nNormalized-Semantic-Chunker"
+  },
+  {
+    "objectID": "talks/2025/meetup/16062025_INGV.html#section",
+    "href": "talks/2025/meetup/16062025_INGV.html#section",
+    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
+    "section": "",
+    "text": "“Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together.”\n\n📬 Want to get involved or speak at the next event? Reach out through PyData Roma Capitale, R-Ladies Rome, or the Rome R Users Group."
   },
   {
     "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
@@ -536,54 +585,5 @@
       "Introduction",
       "Blog"
     ]
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html",
-    "href": "talks/2025/meetup/16062025_INGV.html",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "",
-    "text": "🌍 PyData Roma Capitale x R-Ladies Rome x Rome R Users Group – A Multilingual Meetup at INGV\nThis June 2025, PyData Roma Capitale, R-Ladies Rome, and the Rome R Users Group came together for a special meetup at the Istituto Nazionale di Geofisica e Vulcanologia (INGV).\nThe Rome data science community gathered for an unforgettable multilingual evening of code, collaboration, and connection —where the languages of R and Python met in harmony. We kicked off the evening with a warm welcome and introduction to INGV and PyData by Vincenzo Ventriglia, who reminded us of the importance of creating spaces where open science, technology, and collaboration intersect. It was the perfect setup for an evening that celebrated the spirit of openness across languages—spoken and programmed alike."
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#opening-talk",
-    "href": "talks/2025/meetup/16062025_INGV.html#opening-talk",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "🎙️ Opening Talk",
-    "text": "🎙️ Opening Talk\n\nSpeaking Many Languages: Finding Power and Joy in R and Python\nThe keynote by Federica Gazzelloni set the tone for the evening. With a mix of personal story and technical insight, Federica walked us through her journey from choosing between R and Python to embracing both. She shared how learning to “speak” more than one programming language helped her grow as a data scientist and opened new doors for collaboration. Her talk included side-by-side code examples in R and Python that sparked lots of follow-up questions and conversation from the crowd—both online and in-person."
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#lightning-talks-short-sharp-full-of-insight",
-    "href": "talks/2025/meetup/16062025_INGV.html#lightning-talks-short-sharp-full-of-insight",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "⚡ Lightning Talks – Short, Sharp & Full of Insight",
-    "text": "⚡ Lightning Talks – Short, Sharp & Full of Insight\nThe energy kept flowing with a series of lightning talks, each just 5 minutes long, where community members shared projects, tools, and reflections:\n\nMarco Guerra presented “Automatic Detection of Large-Scale Travelling Ionospheric Disturbances using GNSS Data and Image Processing Techniques”\nMassimo Viola shared insights on “A custom TreeQL Python-based Web Service for Database Access”\nFederico Palma illustrated “Normalized Semantic Chunker”\nEgon Ferri closed the session with a thought-provoking reflection on learning curves and language choice titled: “Flying SOLID-ly: Python design principles explained with birds”"
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#networking-connections-pizza-plans",
-    "href": "talks/2025/meetup/16062025_INGV.html#networking-connections-pizza-plans",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "🫱🏽🫲🏿 Networking, Connections & Pizza Plans",
-    "text": "🫱🏽🫲🏿 Networking, Connections & Pizza Plans\nAfter the talks, participants stayed to mingle, exchange ideas, and build connections across communities. Many of us continued the evening outside the venue for a multi-community dinner—a true Roman finale to a collaborative and inspiring meetup.\n\n\n\n\n\n\n\n\n\n\n\n(a) Federica Gazzelloni\n\n\n\n\n\n\n\n\n\n\n\n(b) Community Group\n\n\n\n\n\n\n\n\n\n\n\n(c) Vincenzo Ventriglia\n\n\n\n\n\n\n\nFigure 2: Rome Data Science Networking Event @ INGV"
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#missed-the-event-watch-the-recording",
-    "href": "talks/2025/meetup/16062025_INGV.html#missed-the-event-watch-the-recording",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "📺 Missed the Event? Watch the Recording!",
-    "text": "📺 Missed the Event? Watch the Recording!\n💡 You can still watch the full event recording here: 📺 Watch on YouTube"
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#resources-follow-up",
-    "href": "talks/2025/meetup/16062025_INGV.html#resources-follow-up",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "📚 Resources & Follow-Up",
-    "text": "📚 Resources & Follow-Up\n\nSlides: Speaking Many Languages: Finding Power and Joy in R and Python\nNormalized-Semantic-Chunker"
-  },
-  {
-    "objectID": "talks/2025/meetup/16062025_INGV.html#section",
-    "href": "talks/2025/meetup/16062025_INGV.html#section",
-    "title": "PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV",
-    "section": "",
-    "text": "“Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together.”\n\n📬 Want to get involved or speak at the next event? Reach out through PyData Roma Capitale, R-Ladies Rome, or the Rome R Users Group."
   }
 ]
