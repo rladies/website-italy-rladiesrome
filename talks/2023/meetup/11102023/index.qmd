@@ -34,3 +34,5 @@ Material of the talk:
 - `Code`: <https://cedricscherer.com/codes/exciting-extensions.R>
 
 #DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether
+
+<center>[← Previous event](/talks/2023/meetup/10272023/index.qmd) | [Next event →](/talks/2023/meetup/11302023/index.qmd)</center>

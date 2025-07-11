@@ -4,10 +4,13 @@ subtitle: "Recap, Recording, and Resources from Our May 2025 Meetup"
 date: "2025-05-27"
 image: "https://secure.meetupstatic.com/photos/event/5/b/4/f/highres_528083375.webp?w=750"
 image-alt: "Cover for Maëlle Salmon's Git tutorial"
+description: "R-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively."
 categories: 
   - Git
   - GitHub
 ---
+
+`Registered Attendees (51)`
 
 This May, **R-Ladies Rome** hosted a remote session featuring Maëlle Salmon: *“Why Small Git Commits Matter (and How to Make Them!)”*. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.  
 
@@ -62,3 +65,5 @@ She helped us see version control not as a chore, but as an ally in building rep
 Our events are **free, open-source, and beginner-friendly**. Every month, we share kick-start resources so you can keep learning after the meetup.
 
 Let’s keep learning, coding, and sharing—one small commit at a time. 💜
+
+<center>[← Previous event](/talks/2025/meetup/04272025_FedericaGazzelloni.qmd) | [Next event →](/talks/2025/meetup/06162025_INGV.qmd)</center>

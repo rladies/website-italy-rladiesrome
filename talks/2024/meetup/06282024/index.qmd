@@ -56,5 +56,6 @@ The tutorial is designed to be accessible to beginners, with no prior experience
 If you have any questions or need assistance, please don’t hesitate to reach out to Federica at [fede.gazzelloni@gmail.com](mailto:fede.gazzelloni@gmail.com).
 
 
-
 #DataScience #Website #Quarto #RLadiesRome #LearningTogether #hands-on
+
+<center>[← Previous event](/talks/2024/meetup/05242024/index.qmd) | [Next event →](/talks/2024/meetup/07182024/index.qmd)</center>

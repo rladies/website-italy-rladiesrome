@@ -31,3 +31,5 @@ Follow Jon:
 -   Twitter: [\@JonTheGeek](https://twitter.com/JonTheGeek)
 -   Twitter: [\@R4DScommunity](https://twitter.com/R4DScommunity)
 -   <https://www.rfordatasci.com/>
+
+<center>[← Previous event](/talks/2023/meetup/04222023/index.qmd) | [Next event →](/talks/2023/meetup/06122023/index.qmd)</center>

@@ -38,3 +38,5 @@ Material:
 - <https://jameshwade.github.io/build-a-chatbot/>
 
 #DataScience #chatbot #RStudio #RLadiesRome #LearningTogether #hands-on #AI
+
+<center>[← Previous event](/talks/2024/meetup/01162024/index.qmd) | [Next event →](/talks/2024/meetup/02202024/index.qmd)</center>

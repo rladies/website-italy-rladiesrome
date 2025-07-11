@@ -45,3 +45,4 @@ Simply click on the video below to watch it:
 
 As organizations increasingly rely on data-driven decision-making, the ability to extract and analyze data from the web becomes essential for informing business strategies, market research, competitive analysis, and more. Incorporating web scraping into production-level R workflows enables practitioners to automate data collection processes, streamline data acquisition pipelines, and leverage timely insights for informed decision-making. 
 
+<center>[← Previous event](/talks/2024/meetup/04162024/index.qmd) | [Next event →](/talks/2024/meetup/06282024/index.qmd)</center>

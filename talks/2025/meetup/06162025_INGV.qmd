@@ -4,10 +4,13 @@ subtitle: "Speaking Many Languages: Finding Power and Joy in R and Python"
 date: "2025-06-16"
 image: "https://secure.meetupstatic.com/photos/event/2/6/7/d/highres_528369853.webp?w=750"
 image-alt: "Cover for INGV's Talk on R and Python"
+description: "A multilingual meetup at INGV with PyData Roma Capitale, R-Ladies Rome, and Rome R Users Group. Keynote by Federica Gazzelloni on the power of R and Python."
 categories: 
     - Python
     - Networking
 ---
+
+`Registered Attendees (41)`
 
 🌍 [PyData Roma Capitale](https://pydataroma.python.it/) x `R-Ladies Rome` x `Rome R Users Group` – A Multilingual Meetup at [INGV](https://www.ingv.it/)
 

@@ -33,3 +33,5 @@ To follow `Isabella Velasquez`:
 -   Twitter: <https://twitter.com/ivelasq3>
 -   LinkedIn: <https://www.linkedin.com/in/ivelasq/>
 -   Mastodon: [https://fosstodon.org/\@ivelasq3](https://fosstodon.org/@ivelasq3){.uri}
+
+<center>[← Previous event](/talks/2023/meetup/02132023/index.qmd) | [Next event →](/talks/2023/meetup/04222023/index.qmd)</center>

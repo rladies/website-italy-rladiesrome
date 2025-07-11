@@ -4,9 +4,12 @@ subtitle: "Recap & Resources - Recording Now Available!"
 date: "2025-04-27"
 image: "https://secure.meetupstatic.com/photos/event/d/d/c/0/highres_527516768.webp?w=750"
 image-alt: "Cover for Federica Gazzelloni's Workshop on Python"
+description: "R-Ladies Rome hosted a beginner-friendly workshop on transitioning from R to Python. Explore the recording, slides, and resources to continue your Python journey."
 categories: 
     - Python
 ---
+
+`Registered Attendees (68)`
 
 This April 2025, **R-Ladies Rome** hosted a beginner-friendly workshop titled _“From R to Python: A Gentle Introduction”_, designed to help `R` users and beginners take their first steps into the world of `Python.` This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.
 
@@ -79,3 +82,5 @@ If you prefer video:
 Thank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!
 
 Stay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜
+
+<center>[← Previous event](/talks/2025/meetup/03272025_FedericaGazzelloni.qmd) | [Next event →](/talks/2025/meetup/05272025_MaelleSalmon.qmd)</center>

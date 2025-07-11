@@ -26,3 +26,5 @@ Material of the talk:
 
 -   [deterministic-sir-model-with-r](https://fgazzelloni.quarto.pub/deterministic-sir-model-with-r/)
 -   [r-ladies-sir-model](https://github.com/jburos/r-ladies-sir-model)
+
+<center>[← Previous event](/talks/2023/meetup/03222023/index.qmd) | [Next event →](/talks/2023/meetup/05172023/index.qmd)</center>

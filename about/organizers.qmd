@@ -21,13 +21,26 @@ subtitle: "Who we are, where we are from, and what we do"
 
 :::: columns
 ::: {.column width="60%"}
-[Rafaela Ribeiro](https://www.linkedin.com/in/rafaelagrlucas/) Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master's degree in progress in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n
+[Rafaela Ribeiro](https://www.linkedin.com/in/rafaelagrlucas/) Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master's degree in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n
 :::
 
 ::: {.column width="40%"}
 ![Rafaela Ribeiro](organizers_picts/rafaelaribeiro.jpeg)
 :::
 :::
+
+##
+
+:::: columns
+::: {.column width="60%"}
+[Lucy Michaels](https://www.linkedin.com/in/lucymichaels/) Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master's in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science.  This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I'm also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n
+:::
+
+::: {.column width="40%"}
+![Lucy Michaels](organizers_picts/lucy-michaels.jpg)
+
+:::
+::::
 
 ------------------------------------------------------------------------
 

@@ -41,3 +41,6 @@ More Resources:
 - <https://rocker-project.org/>
 - <https://github.com/nixos/nixpkgs>
 - <https://podman.io/>
+
+
+<center>[← Previous event](/talks/2024/meetup/07182024/index.qmd) | [Next event →](/talks/2024/meetup/09302024/index.qmd)</center>

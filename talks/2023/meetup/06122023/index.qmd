@@ -26,3 +26,5 @@ To follow Dr.Simina Boca:
 -   GitHub: [\@SiminaB](https://github.com/SiminaB)
 -   Twitter: [\@siminaboca](https://twitter.com/siminaboca)
 -   LinkedIn: <https://www.linkedin.com/in/simina-boca-6131a539/>
+
+<center>[← Previous event](/talks/2023/meetup/05172023/index.qmd) | [Next event →](/talks/2023/meetup/06302023/index.qmd)</center>

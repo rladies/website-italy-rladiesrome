@@ -11,6 +11,8 @@ categories:
    - Actuarial Science
 ---
 
+`Registered Attendees (61)`
+
 ## Catch the Recording
 
 We’re excited to share that the recording of [Federica Gazzelloni](https://federicagazzelloni.com/)'s insightful talk is now available on our YouTube channel!  
@@ -54,6 +56,6 @@ For additional insights check out this latest materials and tutorials:
 - <https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/>
 
 
----  
+Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments. 
 
-Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.  
+<center>[← Previous event](/talks/2025/meetup/02212025_IsabellaVelasquez.qmd) | [Next event →](/talks/2025/meetup/04272025_FedericaGazzelloni.qmd)</center>

@@ -34,3 +34,5 @@ Material of the talk:
 
 
 #DataScience #ExploratoryDataAnalysis #DataVisualization #RLadiesRome #LearningTogether
+
+<center>[← Previous event](/talks/2023/meetup/11102023/index.qmd) | [Next event →](/talks/2023/meetup/12152023/index.qmd)</center>

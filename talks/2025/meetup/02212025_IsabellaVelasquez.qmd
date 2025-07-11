@@ -11,6 +11,8 @@ categories:
    - Shinylive
 ---
 
+`Registered Attendees (192)`
+
 ## Catch the Recording 
 
 We’re excited to share that the recording of [Isabella Velásquez](https://www.linkedin.com/in/ivelasq/)'s insightful talk, **"Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive"**, is now available on our YouTube channel!  
@@ -45,4 +47,6 @@ For additional insights on Quarto Live and Shinylive, check out Isabella's lates
 
 ---  
 
-Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.  
+Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.
+
+<center>[← Previous event](/talks/2025/meetup/01092025_EliHolder.qmd) | [Next event →](/talks/2025/meetup/03272025_FedericaGazzelloni.qmd)</center>

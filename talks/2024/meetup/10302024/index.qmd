@@ -41,3 +41,5 @@ Material:
 Stay tuned for more enlightening sessions with `R-Ladies Rome`!
 
 #OpenSource #Government #Technology #RLadiesRome #LearningTogether #DataScience
+
+<center>[← Previous event](/talks/2024/meetup/09302024/index.qmd) | [Next event →](/talks/2024/meetup/11182024/index.qmd)</center>

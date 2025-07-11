@@ -1,0 +1,8 @@
+---
+title: "07222025_RitaGiordano"
+format: html
+---
+
+
+
+<center>[← Previous event](/talks/2025/meetup/07032025_RamiKrispin.qmd) | [Next event →](/talks/2025/meetup/.qmd)</center>

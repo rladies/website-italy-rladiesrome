@@ -45,3 +45,5 @@ Ready to explore this treasure trove of career insights and experiences? Simply 
 We believe that learning and growth are ongoing processes. So, make sure to keep the conversation going and stay connected with us for more engaging discussions, knowledge sharing, and exciting updates on the horizon. `Join us on this rewarding journey of discovery!`
 
 #DataScience #StatisticsCareers #CareerDevelopment #RLadiesRome #LearningTogether
+
+<center>[← Previous event](/talks/2023/meetup/09222023/index.qmd) | [Next event →](/talks/2023/meetup/11102023/index.qmd)</center>

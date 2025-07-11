@@ -56,3 +56,5 @@ Quarto dashboards offer a versatile and powerful tool for data visualization and
 
 - [Quarto](https://quarto.org/)
 - <https://quarto.org/docs/dashboards/>
+
+<center>[← Previous event](/talks/2024/meetup/06282024/index.qmd) | [Next event →](/talks/2024/meetup/07292024/index.qmd)</center>

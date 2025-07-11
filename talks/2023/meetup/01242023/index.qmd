@@ -22,3 +22,5 @@ The process of training a machine learning or statistical model is well understo
 MLOps is a set of principles and practices that can be used to create a practical strategy for deploying and maintaining machine learning models.
 
 Material of the talk: [mlops-r-ladies-rome](https://juliasilge.github.io/mlops-r-ladies-rome/)
+
+<center>[← 2023 Overview](/talks/2023/index.qmd) | [Next event →](/talks/2023/meetup/02132023/index.qmd)</center>

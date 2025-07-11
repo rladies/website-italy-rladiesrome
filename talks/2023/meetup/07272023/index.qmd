@@ -41,4 +41,4 @@ More resources:
 
 - To ask for help join `R4DS community` slack: <https://www.rfordatasci.com/>
 
-
+<center>[← Previous event](/talks/2023/meetup/06302023/index.qmd) | [Next event →](/talks/2023/meetup/08282023/index.qmd)</center>

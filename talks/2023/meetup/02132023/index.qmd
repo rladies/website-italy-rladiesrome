@@ -22,3 +22,5 @@ If you're interested in learning more about Quarto and how it can be used for te
 More about Quarto: [quarto-tip-a-day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
 
 Material of the talk: [quarto-rladies-rome](https://github.com/mine-cetinkaya-rundel/quarto-rladies-rome)
+
+<center>[← Previous event](/talks/2023/meetup/01242023/index.qmd) | [Next event →](/talks/2023/meetup/03222023/index.qmd)</center>

@@ -53,3 +53,5 @@ The **Data Wrangling with R** tutorial was designed to introduce participants to
 -   [R for Data Science](https://r4ds.hadley.nz/) by Wickham, H., & Grolemund, G. (2017). O’Reilly Media.
 -   [Tidyverse](https://www.tidyverse.org/learn/) Learn Documentation
 -   [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) by Wickham, H. (2014). Journal of Statistical Software, 59(10), 1-23
+
+<center>[← Previous event](/talks/2024/meetup/07292024/index.qmd) | [Next event →](/talks/2024/meetup/10302024/index.qmd)</center>

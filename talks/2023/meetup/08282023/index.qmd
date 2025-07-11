@@ -51,4 +51,6 @@ Event presentation: [rbioconductor-watch-party](https://rladiesrome.quarto.pub/r
 
 Hands-on Material: [--\> Go to workshop.bioconductor.org](workshop.bioconductor.org)
 
-#Bioconductor \| #rstats \| #DataScience \| #KnowledgeSharing \| #opensource \| #onlinelearning \| #RStudio \| #PositCloud \| #RGalaxi
+#Bioconductor #rstats #DataScience #KnowledgeSharing #opensource #onlinelearning #RStudio #PositCloud #RGalaxi
+
+<center>[← Previous event](/talks/2023/meetup/07272023/index.qmd) | [Next event →](/talks/2023/meetup/09222023/index.qmd)</center>

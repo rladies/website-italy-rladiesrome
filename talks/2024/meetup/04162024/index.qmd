@@ -55,3 +55,6 @@ Stay tuned for future events and opportunities to delve deeper into the fascinat
 
 
 #DataScience #Modelling #RLadiesRome #LearningTogether #R #GeospatialDataScience #PublicHealth #Surveillance #EventRecording #LearningResources #DataAnalysis #DataVisualization
+
+
+<center>[← Previous event](/talks/2024/meetup/03222024/index.qmd) | [Next event →](/talks/2024/meetup/05242024/index.qmd)</center>

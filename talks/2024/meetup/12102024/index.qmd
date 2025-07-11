@@ -45,3 +45,5 @@ To explore the concepts discussed in the event, here is the material shared by Y
 [https://copilotwithr.netlify.app/](https://copilotwithr.netlify.app/)
 
 #AI #DataScience #GitHubCopilot #RStats #OpenScience #LearningTogether #RLadiesRome #TechWorkshop #LLM #MachineLearning
+
+<center>[← Previous event](/talks/2024/meetup/11182024/index.qmd) | [Next event →](/talks/2025/index.qmd)</center>

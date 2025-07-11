@@ -11,6 +11,8 @@ categories:
    - Public Health Viz
 ---
 
+`Registered Attendees (61)`
+
 ## Catch the Recording: *Deathly Dataviz*  
 
 We’re excited to share that the recording of [Eli Holder](https://3iap.com/about/)’s insightful talk, **"Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead"**, is now available on our YouTube channel!  
@@ -31,9 +33,11 @@ Simply click on the video below to catch up on the discussion:
 ### 🧑 💼 About the Speaker  
 [Eli Holder](https://3iap.com/about/) is a researcher and expert in data visualization, with a focus on the intersection of **equity, public health, and data storytelling**. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.
 
-### 📚 Explore More  
+### 📚 Explore More 
+
 For those eager to dive deeper into the subject, don’t miss this [additional material by Eli Holder](https://3iap.com/rladies2025), where they expand on the strategies and principles covered in the talk.
 
----  
-
 Stay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!  
+
+
+<center>[← Previous event](/talks/2024/meetup/12102024/index.qmd) | [Next event →](/talks/2025/meetup/02212025_IsabellaVelasquez.qmd)</center>

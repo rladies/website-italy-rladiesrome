@@ -39,3 +39,5 @@ Material:
 Debugging functions in R are pivotal in data science because they allow us to identify and fix errors in our code efficiently. By understanding how to use the debugging functions, data scientists can diagnose issues, locate where they occur in the code, and implement solutions. This not only helps streamline the development process but also ensures the accuracy and reliability of our analyses. 
 
 #DataScience #Debugging #RStudio #RLadiesRome #LearningTogether #hands-on
+
+<center>[← Previous event](/talks/2024/meetup/02172024/index.qmd) | [Next event →](/talks/2024/meetup/03222024/index.qmd)</center>

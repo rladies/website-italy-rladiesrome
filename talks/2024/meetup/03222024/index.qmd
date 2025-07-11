@@ -39,6 +39,6 @@ Material:
 - Vetiver website: <https://vetiver.rstudio.com/>
 
 
-
-
 #DataScience #Modelling #MLOps #RLadiesRome #LearningTogether #hands-on
+
+<center>[← Previous event](/talks/2024/meetup/02202024/index.qmd) | [Next event →](/talks/2024/meetup/04162024/index.qmd)</center>

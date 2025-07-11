@@ -46,3 +46,5 @@ To further explore the concepts discussed in the event, here are some useful res
 Julia’s perspective on forking and its significance in open science offered valuable insights for those working in collaborative and data-intensive research projects. This talk is a must-watch for anyone interested in how open science principles are reshaping the future of research and collaboration.
 
 #OpenScience #Innovation #Forking #NASAOpenscapes #Collaboration #RStats #RLadiesRome #LearningTogether
+
+<center>[← Previous event](/talks/2024/meetup/10302024/index.qmd) | [Next event →](/talks/2024/meetup/12102024/index.qmd)</center>

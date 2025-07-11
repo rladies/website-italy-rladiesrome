@@ -1,0 +1,62 @@
+---
+title: "Forecasting Time Series with Linear Regression: A Feature-Driven Approach"
+subtitle: "Hands-on session with Rami Krispin"
+date: 2025-07-03
+image: "https://secure.meetupstatic.com/photos/event/a/3/2/6/highres_528641766.webp?w=750"
+image-alt: "Cover for Rami Krispin's workshop"
+description: "Beginner-friendly workshop led by author and open source contributor Rami Krispin, exploring time series forecasting through linear regression and feature engineering."
+categories:
+  - Time Series
+  - Forecasting
+  - Hands-on
+---
+
+`Registered Attendees (125)`
+
+On July 03, 2025, **R-Ladies Rome** hosted a practical and beginner-friendly workshop titled *“Forecasting Time Series with Linear Regression: A Feature-Driven Approach.”* The session was led by [**Rami Krispin**](https://www.linkedin.com/in/rami-krispin/), author of *Hands-On Time Series Analysis with R* and an expert in time series forecasting at scale.
+
+## 📊 Workshop Overview
+
+This talk explores the fundamentals of time series forecasting using linear regression models. We'll cover how to transform time series data into a supervised learning format and utilize feature engineering techniques to model various components of the series, including trends, seasons, outliers, and structural breaks. This is a beginner-level workshop, and prior knowledge of time series is not needed beyond understanding how linear regression works.
+
+## 🎥 Recording
+
+🎬 `Watch the Video Now`
+
+{{< video https://www.youtube.com/watch?v=lk3a3GQ7kc8 >}}
+
+Whether you’re brushing up on regression or just getting started with time series, this session is packed with practical insight and real-world examples.
+
+## 🧠 What You’ll Learn
+
+- How to **frame time series as a supervised learning problem**
+- Why **feature engineering** matters: trends, seasonality, outliers, and breaks
+- How to apply **linear models** to time-dependent data
+- Tips for **model validation and performance assessment**
+
+## 📦 Resources & Materials
+
+🔗 Slides & resources: <https://github.com/RamiKrispin/r-ladies-rome-workshop>
+
+🌐 Learn more: 
+
+  - Rami’s Book: <https://ramikrispin.github.io/atsaf/>
+  - Rami’s Book Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R:
+  
+    - <https://github.com/RamiKrispin>
+    - <https://www.amazon.com/dp/1788629159>
+    
+📝 R-Ladies Rome Intro Presentation: <https://rladiesrome.quarto.pub/july032025>
+
+📅 Stay updated: <https://www.meetup.com/rladies-rome>
+
+## 🔊 About the Speaker
+
+[Rami Krispin](https://www.linkedin.com/in/rami-krispin/) leads the data science and engineering team at Apple Finance - Services and Infra. His team builds advanced statistical and ML models to support Apple’s strategic decisions. Rami is also an open-source contributor and author, with a special focus on scalable forecasting tools. He’s currently working on his next book: *Applied Time Series Analysis and Forecasting*.
+
+
+💬 Keep learning and sharing—subscribe to our [YouTube channel](https://www.youtube.com/@rladiesrome) and check out more past events on [rladiesrome.org](https://rladiesrome.org)!
+
+#TimeSeries #Forecasting #RStats #RLadiesRome #LearningTogether #RamiKrispin
+
+<center>[← Previous event](/talks/2025/meetup/06162025_INGV.qmd) | [Next event →](/talks/2025/meetup/07222025_RitaGiordano.qmd)</center>

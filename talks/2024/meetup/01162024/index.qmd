@@ -41,3 +41,5 @@ Explore key topics such as an introduction to Quarto documents, effective techni
 
 
 #DataScience #Reproducibility #Quarto #RLadiesRome #LearningTogether #hands-on
+
+<center>[← Previous event](/talks/2023/meetup/12152023/index.qmd) | [Next event →](/talks/2024/meetup/02172024/index.qmd)</center>

@@ -26,30 +26,13 @@ website:
   back-to-top-navigation: true
   #reader-mode: true
   navbar:
-    title: "Home"
+    title: "R-Ladies Rome"
     background: "#5c4a7f"
     logo: images/logo.png
     search: true
     right: 
-      - text: "About"
-        menu: 
-          - about/organizers.qmd
-          - about/former_organizers.qmd
-          - sponsors.qmd
-      - icon: globe
-        href: https://rladies.org
-      #- icon: meetup
-      #  href: https://www.meetup.com/rladies-rome
-    #  - icon: github
-    #    href: https://github.com/rladies/meetup-presentations_rome
-    #  - icon: twitter
-    #    href: https://twitter.com/rladiesrome
-    #  - icon: mastodon
-    #    href: https://fosstodon.org/@rladiesrome  
-    #  - icon: youtube
-    #    href: https://www.youtube.com/@rladiesrome
-    #  - icon: linkedin
-    #    href: https://www.linkedin.com/company/rladiesrome
+      - text: "![Rome R Users Group](/images/RUsers_transparent.png){width=70px}Rome R Users Group"
+        href: https://www.meetup.com/rome-r-users-group/
     left:
       - text: "Introduction"
         file: introduction.qmd
@@ -64,6 +47,13 @@ website:
             href: talks/2024/index.qmd
           - text: "2025"
             href: talks/2025/index.qmd
+      - text: "About"
+        menu: 
+          - about/organizers.qmd
+          - about/former_organizers.qmd
+          - sponsors.qmd  
+      - icon: globe
+        href: https://rladies.org    
   page-footer:
     background: "#2c3d50"
     left: |
@@ -71,8 +61,6 @@ website:
     center:   
       - icon: globe
         href: https://rladies.org
-      #- icon: meetup
-      #  href: https://www.meetup.com/rladies-rome
       - icon: github
         href: https://github.com/rladies/meetup-presentations_rome
       - icon: twitter
@@ -108,26 +96,4 @@ website:
       - text: About
         href: about/organizers.qmd    
       - sponsors.qmd 
-    #logo: "images/logo.png"
-    #pinned: true
-    #align: center
-    #tools: 
-    #  - icon: globe
-    #    href: https://rladies.org
-    #    text: "rladies.org"
-    #  - icon: github
-    #    href: https://github.com/rladies/meetup-presentations_rome
-    #    text: "meetup-presentations_rome"
-    #  - icon: twitter
-    #    href: https://twitter.com/rladiesrome
-    #    text: "R-Ladies Rome Twitter" 
-    #  - icon: mastodon
-    #    href: https://fosstodon.org/@rladiesrome  
-    #    text: "R-Ladies Rome mastodon" 
-    #  - icon: youtube
-    #    href: https://www.youtube.com/@rladiesrome
-    #  - icon: linkedin
-    #    href: https://www.linkedin.com/company/rladiesrome  
         
-      
- 

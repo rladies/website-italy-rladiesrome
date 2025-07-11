@@ -58,3 +58,4 @@ For those starting with R, have a look at our previous course: [Mastering R: An 
 
 #RCrash | #rstats | #tidyverse | #KnowledgeSharing | #opensource | #onlinelearning | #RStudio | #PositCloud
 
+<center>[← Previous event](/talks/2023/meetup/08282023/index.qmd) | [Next event →](/talks/2023/meetup/10272023/index.qmd)</center>
