@@ -24,7 +24,6 @@ website:
     creator: "@rladiesrome"
   page-navigation: true
   back-to-top-navigation: true
-  #reader-mode: true
   navbar:
     title: "R-Ladies Rome"
     background: "#5c4a7f"
@@ -32,7 +31,7 @@ website:
     search: true
     right: 
       - text: "![Rome R Users Group](/images/RUsers_transparent.png){width=70px}Rome R Users Group"
-        href: https://www.meetup.com/rome-r-users-group/
+        href: https://fgazzelloni.github.io/Rome-R-Users-Group/
     left:
       - text: "Introduction"
         file: introduction.qmd

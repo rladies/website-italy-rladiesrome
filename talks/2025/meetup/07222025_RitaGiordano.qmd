@@ -1,0 +1,53 @@
+---
+title: "Visualizzare dati per i pazienti (Visualizing Data for Patients)"
+subtitle: "Communicating Health Information with Empathy and Clarity"
+date: 2025-07-22
+image: "https://secure.meetupstatic.com/photos/event/2/f/0/e/highres_528912046.webp?w=750"
+image-alt: "Cover for Rita Giordano's talk"
+description: "In this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can support—not overwhelm—those navigating health decisions."
+categories:
+  - Data Visualization
+  - Health Communication
+  - Accessibility
+---
+
+`Registered Attendees (30)`
+
+On July 22, 2025, **R-Ladies Rome** hosted a talk focused on a key but often overlooked topic: how to communicate health data effectively to the people who need it most—patients. The session was led by [**Dr. Rita Giordano**](https://www.linkedin.com/in/ritagiordano/), an expert in data visualization and user-centered design.
+
+## 💬 Talk Overview
+
+This session explores how health data can be made truly useful to those navigating diagnoses, treatment options, and care plans. Rita shares real-world examples that highlight the disconnect between how data is typically presented (for researchers and clinicians) and how it could better serve patients themselves.
+
+Through a lens of empathy and inclusion, she invites us to reflect on how scientific and clinical communication can be reimagined to support patient understanding, trust, and agency.
+
+## 🎥 Recording
+
+🎬 `Recording (in Italian) coming soon — stay tuned!`
+
+The event was conducted in Italian, and the video will be made available shortly.
+
+## 🧭 Key Topics
+
+- How to **design data visualizations** that center patient needs
+- The role of **empathy and accessibility** in scientific communication
+- Why inclusive design is critical for **health equity**
+- Examples of both effective and ineffective communication tools
+
+## 📚 Resources & Follow-Up
+
+🌐 Rita’s work: <https://ritagiordano.co.uk/>
+
+📝 R-Ladies Rome Intro Slides: <https://rladiesrome.quarto.pub/july222025>
+
+📅 Stay updated: <https://www.meetup.com/rladies-rome>
+
+## 👩‍🏫 About the Speaker
+
+[Rita Giordano](https://www.linkedin.com/in/ritagiordano/) is a data visualization designer with a strong focus on accessibility and clarity in public health and medical communication. She collaborates with organizations across Europe to help turn complex data into useful, understandable information—especially for those most affected.
+
+💬 Let’s keep working to make data accessible to everyone. Subscribe to our [YouTube channel](https://www.youtube.com/@rladiesrome) and explore more events at [rladiesrome.org](https://rladiesrome.org)!
+
+#DataViz #HealthCommunication #InclusiveDesign #RLadiesRome #RStats #EmpathyInDesign
+
+<center>[← Previous event](/talks/2025/meetup/07032025_RamiKrispin.qmd) | [Next event →](/talks/2025/meetup/08252025_Workshop.qmd)</center>
