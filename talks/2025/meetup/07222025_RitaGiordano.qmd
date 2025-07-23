@@ -23,9 +23,11 @@ Through a lens of empathy and inclusion, she invites us to reflect on how scient
 
 ## 🎥 Recording
 
-🎬 `Recording (in Italian) coming soon — stay tuned!`
+🎬 `Watch the Video Now`
 
-The event was conducted in Italian, and the video will be made available shortly.
+{{< video https://youtu.be/QW9TwZdFYhE >}}
+
+The event was conducted in Italian, and the video is in Italian with English subtitles. Whether you’re a data scientist, healthcare professional, or simply interested in how data can empower patients, this talk is a must-watch.
 
 ## 🧭 Key Topics
 
@@ -34,9 +36,14 @@ The event was conducted in Italian, and the video will be made available shortly
 - Why inclusive design is critical for **health equity**
 - Examples of both effective and ineffective communication tools
 
-## 📚 Resources & Follow-Up
+## 📚 Resources & Materials
 
-🌐 Rita’s work: <https://ritagiordano.co.uk/>
+🔗 Slides: <https://github.com/ritagior/R-LadiesRome>
+
+🌐 Rita’s work: 
+
+- <https://ritagiordano.co.uk/>
+- <https://github.com/ritagior>
 
 📝 R-Ladies Rome Intro Slides: <https://rladiesrome.quarto.pub/july222025>
 
