@@ -57,4 +57,4 @@ The event was conducted in Italian, and the video is in Italian with English sub
 
 #DataViz #HealthCommunication #InclusiveDesign #RLadiesRome #RStats #EmpathyInDesign
 
-<center>[← Previous event](/talks/2025/meetup/07032025_RamiKrispin.qmd) | [Next event →](/talks/2025/meetup/08252025_Workshop.qmd)</center>
+<center>[← Previous event](/talks/2025/meetup/07032025_RamiKrispin.qmd) | [Next event →](/talks/2025/meetup/08242025_Workshop.qmd)</center>

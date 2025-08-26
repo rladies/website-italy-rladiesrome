@@ -1,0 +1,55 @@
+---
+title: "Interactive Quarto Dashboards"
+subtitle: "Hands-on workshop with Derek Sollberger"
+date: 2025-08-24
+image: "https://secure.meetupstatic.com/photos/event/8/4/9/e/highres_529533950.webp?w=750"
+image-alt: "Cover image for Interactive Dashboards workshop"
+description: "An easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and geospatial visualizations."
+categories:
+  - Dashboards
+  - Quarto
+  - Shiny
+  - Hands-on
+---
+
+`Registered Attendees (116)`
+
+On August 24, 2025, **R-Ladies Rome** hosted **Interactive Quarto Dashboards**, a collaborative and beginner-friendly workshop led by **Derek Sollberger**, lecturer at the Center for Statistics and Machine Learning and Posit Certified Tidyverse Instructor.
+
+##  📊 Workshop Overview
+
+In this easy-going workshop, participants explored how to build **interactive web-based dashboards** that enable teams—whether in academic or business settings—to present information via multiple graphs and tables. The session covered techniques to **filter, sort, visualize data**, **uncover trends**, and present results with both function and aesthetic appeal using **R, Quarto, Shiny, Markdown,** and **geospatial data**. Some prior programming experience was helpful, though not required.
+
+## 🎥 Recording
+
+🎬 `Watch the Video Now`
+
+{{< video https://youtu.be/N1BBsv-zNNI >}}
+
+Whether you're a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately.
+
+## 🧠 What You’ll Learn
+
+- How to **assemble interactive dashboards** using Quarto and Shiny  
+- Methods for **effective data presentation**: filtering, sorting, and trend exploration  
+- Techniques for **adding geospatial data** and aesthetic polish to your dashboards  
+
+## 📦 Resources & Materials
+
+- Workshop slides and code (GitHub):
+
+  - <https://dsollbergerquarto.netlify.app/posts/dslc_quarto_dashboards/quarto_dashboards>
+  - <https://github.com/dsollberger/q_dashboards>
+
+- R-Ladies Rome Intro Presentation: <https://rladiesrome.quarto.pub/august242025>  
+
+- Stay updated via Meetup: <https://www.meetup.com/rladies-rome>
+
+## 🔊 About the Speaker
+
+[Derek Sollberger](https://www.linkedin.com/in/derek-sollberger/) is a lecturer at CSML (Center for Statistics and Machine Learning), specializing in Data Science, AI Methods, and Bayesian Analysis. A Posit Certified Tidyverse Instructor, Derek brings experience from leading R workshops and consulting on pedagogy-driven data projects.
+
+
+Keep learning and exploring—subscribe to our [YouTube channel](https://www.youtube.com/@rladiesrome) and revisit past events on [rladiesrome.org](https://rladiesrome.org)!
+
+<center>[← Previous event](/talks/2025/meetup/07222025_RitaGiordano.qmd) | [Next event →](/talks/2025/meetup/09252025_NextSpeaker.qmd)</center>
