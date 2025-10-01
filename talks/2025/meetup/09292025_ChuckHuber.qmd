@@ -1,0 +1,63 @@
+---
+title: "Using Python Within Stata"
+subtitle: "🐍✨ This time it’s Python time… inside Stata!"
+date: 2025-09-29
+image: "https://secure.meetupstatic.com/photos/event/d/f/b/9/highres_530097273.webp?w=750"
+image-alt: "Cover image for Using Python Within Stata talk"
+description: ""
+categories:
+  - Python
+  - Stata
+  - Software Development
+---
+
+`Registered Attendees (42)`
+
+On Septembe 29, 2025, **R-Ladies Rome** & **Rome R Users Group** hosted **a software integration example led by Dr. Chuck Huber**, Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health.
+
+##  📊 Talk Overview
+
+We love exploring new ways of working with data, and sometimes that means **stepping outside of R** to see how other tools can connect and enrich our workflows.
+
+While our heart and mission remain with **R**, as data scientists and statisticians we often work in environments where multiple tools coexist. **Understanding how to bridge these ecosystems — R, Python, Stata — helps us collaborate better, think more critically about methodology, and expand our problem-solving toolkit.**
+
+This event is not about selling or promoting software. It’s about learning, sharing knowledge, and keeping our community up-to-date with evolving data science practices.
+
+## 🎥 Recording
+
+🎬 `Watch the Video Now`
+
+{{< video https://youtu.be/9-79GUH6bSI >}}
+
+Whether you're a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately.
+
+## 🧠 What You’ll Learn
+
+In this talk, Dr. Chuck Huber demonstrates how to use Python within Stata, showcasing the seamless integration between these two powerful tools. You'll learn how to:
+
+- Set up and configure Python to work with Stata
+- Connect Python with Stata commands and .ado files
+- Explore real-world examples of using Python in Stata for data analysis and visualization
+
+By the end of this session, you'll have a solid understanding of how to harness the strengths of both Stata and Python to enhance your data analysis workflows.
+
+## 📦 Resources & Materials
+
+- Talk slides: <https://tinyurl.com/statapython>
+
+- R-Ladies Rome Intro Presentation: <https://tinyurl.com/yk79a9yw>  
+
+- Stay updated via Meetup: <https://www.meetup.com/rladies-rome>
+
+## 🔊 About the Speaker
+
+[Chuck Huber](https://www.linkedin.com/in/chuck-huber-33a39212/) is Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health.
+
+He produces instructional videos for the Stata Youtube channel, writes blog entries, develops online NetCourses and gives talks about Stata at conferences and universities. He has published in the areas of neurology, human and animal genetics, alcohol and drug abuse prevention, nutrition and birth defects.
+
+Dr. Huber currently teaches survey sampling at NYU and introductory biostatistics at Texas A&M where he previously taught categorical data analysis, survey data analysis, and statistical genetics.
+
+
+Keep learning and exploring—subscribe to our [YouTube channel](https://www.youtube.com/@rladiesrome) and revisit past events on [rladiesrome.org](https://rladiesrome.org)!
+
+<center>[← Previous event](/talks/2025/meetup/08242025_DerekSollberger.qmd) | [Next event →](/talks/2025/meetup/10032025_NextSpeaker.qmd)</center>
