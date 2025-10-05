@@ -31,7 +31,7 @@ website:
     search: true
     right: 
       - text: "![Rome R Users Group](/images/RUsers_transparent.png){width=70px}Rome R Users Group"
-        href: https://fgazzelloni.github.io/Rome-R-Users-Group/
+        href: https://romerusersgroup.github.io/
     left:
       - text: "Introduction"
         file: introduction.qmd
