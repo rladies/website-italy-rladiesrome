@@ -4,7 +4,7 @@ subtitle: "🐍✨ This time it’s Python time… inside Stata!"
 date: 2025-09-29
 image: "https://secure.meetupstatic.com/photos/event/d/f/b/9/highres_530097273.webp?w=750"
 image-alt: "Cover image for Using Python Within Stata talk"
-description: ""
+description: "Explore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for efficient, flexible, and reproducible data analysis workflows."
 categories:
   - Python
   - Stata

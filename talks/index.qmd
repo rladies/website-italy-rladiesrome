@@ -1,16 +1,39 @@
 ---
 title: "Overview"
 subtitle: "What is going on at `R-Ladies Rome`? Check out our upcoming events!"
-#listing:
-#  contents: 2023/meetup
-#  sort: "date desc"
-#  type: grid
-#  image-height: "200"
-#  categories: false
 page-layout: full
 title-block-banner: false
+link-external-newwindow: true
 sidebar: true
 editor: 
   markdown: 
     wrap: 72
 ---
+
+<center>
+
+## 📅 Explore Events by Year
+
+<center>
+
+<div class="year-buttons" style="margin-top: 1em;">
+
+[**2023**](2023/index.qmd){.btn .btn-outline-primary .me-2} 
+[**2024**](2024/index.qmd){.btn .btn-outline-primary .me-2} 
+[**2025**](2025/index.qmd){.btn .btn-outline-primary}
+
+</div>
+
+</center>
+
+---
+
+## 🔍 Upcoming & Past Highlights
+
+Stay updated on our latest workshops, talks, and collaborations with the Rome R Users Group.  
+All our events are free and open to anyone interested in **R, data science, and open-source learning**.
+
+---
+
+You can browse past events, watch recordings, and find presentation materials in the yearly archives above.  
+Follow us on [LinkedIn](https://www.linkedin.com/company/rladiesrome) and [YouTube](https://www.youtube.com/@rladiesrome) for new content!

@@ -6,8 +6,7 @@ image: "https://secure.meetupstatic.com/photos/event/5/b/4/f/highres_528083375.w
 image-alt: "Cover for Maëlle Salmon's Git tutorial"
 description: "R-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively."
 categories: 
-  - Git
-  - GitHub
+  - Git and GitHub
 ---
 
 `Registered Attendees (51)`

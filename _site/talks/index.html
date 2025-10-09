@@ -197,6 +197,7 @@ cookieconsent.run({
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+    <a href="mailto:rome@rladies.org" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -292,11 +293,18 @@ cookieconsent.run({
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#explore-events-by-year" id="toc-explore-events-by-year" class="nav-link active" data-scroll-target="#explore-events-by-year">📅 Explore Events by Year</a></li>
+  <li><a href="#upcoming-past-highlights" id="toc-upcoming-past-highlights" class="nav-link" data-scroll-target="#upcoming-past-highlights">🔍 Upcoming &amp; Past Highlights</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../talks/index.html">Talks</a></li><li class="breadcrumb-item"><a href="../talks/index.html">Overview</a></li></ol></nav>
 <div class="quarto-title">
@@ -306,7 +314,7 @@ cookieconsent.run({
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -318,10 +326,28 @@ cookieconsent.run({
 </header>
 
 
+<center>
+<section id="explore-events-by-year" class="level2">
+<h2 class="anchored" data-anchor-id="explore-events-by-year">📅 Explore Events by Year</h2>
+<center>
+<div class="year-buttons" style="margin-top: 1em;">
+<p><a href="../talks/2023/index.html" class="btn btn-outline-primary me-2"><strong>2023</strong></a> <a href="../talks/2024/index.html" class="btn btn-outline-primary me-2"><strong>2024</strong></a> <a href="../talks/2025/index.html" class="btn btn-outline-primary"><strong>2025</strong></a></p>
+</div>
+</center>
+<hr>
+</section>
+<section id="upcoming-past-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-past-highlights">🔍 Upcoming &amp; Past Highlights</h2>
+<p>Stay updated on our latest workshops, talks, and collaborations with the Rome R Users Group.<br>
+All our events are free and open to anyone interested in <strong>R, data science, and open-source learning</strong>.</p>
+<hr>
+<p>You can browse past events, watch recordings, and find presentation materials in the yearly archives above.<br>
+Follow us on <a href="https://www.linkedin.com/company/rladiesrome">LinkedIn</a> and <a href="https://www.youtube.com/@rladiesrome">YouTube</a> for new content!</p>
 
 
+</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</center><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -408,6 +434,11 @@ cookieconsent.run({
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -721,7 +752,7 @@ cookieconsent.run({
     }
   });
   </script>
-<nav class="page-navigation column-page-right">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../blog/index.html" class="pagination-link" aria-label="Blog">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Blog</span>
@@ -784,7 +815,7 @@ cookieconsent.run({
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p>This Website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></p>
 </div>

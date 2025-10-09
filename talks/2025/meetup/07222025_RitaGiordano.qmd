@@ -7,8 +7,7 @@ image-alt: "Cover for Rita Giordano's talk"
 description: "In this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can support—not overwhelm—those navigating health decisions."
 categories:
   - Data Visualization
-  - Health Communication
-  - Accessibility
+  - Public Health 
 ---
 
 `Registered Attendees (30)`

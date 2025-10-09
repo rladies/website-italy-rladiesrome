@@ -6,9 +6,9 @@ image: "https://secure.meetupstatic.com/photos/event/9/b/b/8/600_525399864.webp?
 image-alt: "Canva of Eli Holder's Event"
 description: "Eli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations."
 categories: 
-   - Data Viz
+   - Data Visualization
    - Networking
-   - Public Health Viz
+   - Public Health
 ---
 
 `Registered Attendees (61)`

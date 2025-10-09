@@ -32,6 +32,9 @@ website:
     right: 
       - text: "![Rome R Users Group](/images/RUsers_transparent.png){width=70px}Rome R Users Group"
         href: https://romerusersgroup.github.io/
+    tools:
+      - icon: envelope
+        href: mailto:rome@rladies.org
     left:
       - text: "Introduction"
         file: introduction.qmd
@@ -52,7 +55,8 @@ website:
           - about/former_organizers.qmd
           - sponsors.qmd  
       - icon: globe
-        href: https://rladies.org    
+        href: https://rladies.org   
+        
   page-footer:
     background: "#2c3d50"
     left: |

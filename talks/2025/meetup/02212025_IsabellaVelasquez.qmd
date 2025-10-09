@@ -8,7 +8,7 @@ description: "Isabella Velásquez showcases how to create interactive R, Python,
 categories: 
    - Quarto
    - Open Source
-   - Shinylive
+   - Shiny
 ---
 
 `Registered Attendees (192)`
