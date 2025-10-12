@@ -1,0 +1,57 @@
+---
+title: "BNPL and Machine Learning: Decisions That Scale"
+subtitle: "A talk by Kelly Marques"
+date: 2025-10-10
+image: "https://secure.meetupstatic.com/photos/event/d/3/0/c/highres_530514028.webp?w=750"
+image-alt: "Cover image for BNPL and Machine Learning talk"
+description: "In this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code, insight, and ethics."
+categories:
+  - Machine Learning
+  - Python
+  - Fintech
+  - Responsible AI
+---
+
+`Registered Attendees (31)`
+
+On October 10, 2025, **R-Ladies Rome** hosted **BNPL and Machine Learning: Decisions That Scale**, a session led by [Kelly Marques](https://www.linkedin.com/in/kelly-marques-de-oliveiralopes/), data scientist and researcher in financial technology and applied machine learning.
+
+##  📊 Talk Overview
+
+In this engaging presentation, Kelly guided us through how **machine learning models** are transforming decision-making in the Buy Now, Pay Later (BNPL) landscape. She demonstrated live **Python code examples**, showing how predictive models can provide fast, scalable, and reliable assessments of user creditworthiness — even when traditional credit data is limited.
+
+Beyond the technical side, the talk also explored the ethical and inclusive dimensions of algorithmic credit scoring, emphasizing transparency, fairness, and access in financial decision-making.
+
+## 🎥 Recording
+
+🎬 `Watch the Video Now`
+
+{{< video https://youtu.be/hMlppWd2K5o >}}
+
+This talk is packed with insights for data scientists, fintech professionals, and anyone interested in applied ML for responsible innovation.
+
+## 🧠 What You’ll Learn
+
+- How to build and evaluate ML models for BNPL credit scoring
+- Ways to handle high-volatility and short-term behavioral data
+- The role of ethics, inclusion, and fairness in financial ML models
+- Practical Python code demonstrations for end-to-end modeling
+
+## 📦 Resources & Materials
+
+- Talk material: 
+
+  - Data: <https://tinyurl.com/27awzehk>
+  - Code: <https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb>
+  
+- R-Ladies Rome Intro Presentation: <https://tinyurl.com/bdht95ss>  
+- Stay updated via Meetup: <https://www.meetup.com/rladies-rome>
+
+🔊 About the Speaker
+
+[Kelly Marques]() is a data scientist from São Paulo (Brazil) specializing in machine learning for finance. With a strong background in predictive analytics and model ethics, she focuses on developing scalable, transparent, and human-centered AI systems for real-world applications.
+
+Keep learning and exploring — subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+
+<center>[← Previous event](/talks/2025/meetup/09292025_ChuckHuber.qmd) | [Next event →](/talks/2025/NextSpeaker.qmd)</center>  

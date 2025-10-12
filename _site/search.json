@@ -186,46 +186,60 @@
     "text": "Registered Attendees (152)\nApril 16, 2024 speaker is Dr. Paula Moraga, Assistant Professor of Statistics at KAUST.\n🎬 Get ready for an engaging journey through disease surveillance modeling! 🔥\nIn today’s data-driven world, the convergence of geospatial data science and public health surveillance has become increasingly vital. Leveraging advanced analytical tools and methodologies is essential in identifying patterns, trends, and potential risks to public health. Recently, we hosted an illuminating event that delved into the transformative potential of R in this domain.\nMissed the live session? Don’t worry!\n🎬 Watch the Video Now Simply click on the video below to watch it:\n\nOur event brought together seasoned experts and enthusiasts alike to explore the intersection of R, geospatial data science, and public health surveillance. From understanding spatial patterns to detecting outbreaks and assessing health disparities, the applications of R in this field are vast and impactful.\nThe recording of this event offers a unique opportunity to gain insights from leading practitioners in the field. Whether you’re a data scientist, public health professional, or simply intrigued by the potential of data-driven approaches in addressing global health challenges, this recording is a must-watch.\nWhere to Find Resources\nFor those eager to delve deeper into the world of R for geospatial data science and public health surveillance, there are abundant resources available. Online platforms, such as Coursera, Udemy, DataCamp, LinkedIn Learning, and Kaggle, offer a plethora of tutorials, courses, and documentation tailored to beginners and advanced users alike.\nAdditionally, exploring relevant R packages, such as {INLA} and {spdep}, can provide hands-on experience in analyzing and visualizing geospatial data. Don’t hesitate to join online communities and forums dedicated to R and public health, where you can connect with like-minded individuals and exchange knowledge and insights.\nMaterial:\n\nPresentation: https://www.paulamoraga.com/presentation/\nGitHub: https://github.com/Paula-Moraga\nBooks:\n\nSpatial Statistics for Data Science: Theory and Practice with R\nGeospatial Health Data: Modeling and Visualization with R-INLA and Shiny\n\n\nConclusion\nIn conclusion, the recording of our recent event offers a gateway to unlocking the potential of R in geospatial data science and public health surveillance. By watching this recording and exploring additional resources, you can embark on a journey of discovery and contribute to the advancement of public health efforts worldwide.\nStay tuned for future events and opportunities to delve deeper into the fascinating intersection of data science and public health. Together, we can harness the power of data to create positive change and improve health outcomes for all.\n#DataScience #Modelling #RLadiesRome #LearningTogether #R #GeospatialDataScience #PublicHealth #Surveillance #EventRecording #LearningResources #DataAnalysis #DataVisualization\n\n← Previous event | Next event →\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html",
-    "title": "Using Python Within Stata",
+    "objectID": "talks/2025/NextSpeaker.html",
+    "href": "talks/2025/NextSpeaker.html",
+    "title": "Next Event and Speaker",
     "section": "",
-    "text": "Registered Attendees (42)\nOn Septembe 29, 2025, R-Ladies Rome & Rome R Users Group hosted a software integration example led by Dr. Chuck Huber, Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health."
+    "text": "More details coming soon!\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n← Back to 2025 Events\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#talk-overview",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html#talk-overview",
-    "title": "Using Python Within Stata",
-    "section": "📊 Talk Overview",
-    "text": "📊 Talk Overview\nWe love exploring new ways of working with data, and sometimes that means stepping outside of R to see how other tools can connect and enrich our workflows.\nWhile our heart and mission remain with R, as data scientists and statisticians we often work in environments where multiple tools coexist. Understanding how to bridge these ecosystems — R, Python, Stata — helps us collaborate better, think more critically about methodology, and expand our problem-solving toolkit.\nThis event is not about selling or promoting software. It’s about learning, sharing knowledge, and keeping our community up-to-date with evolving data science practices."
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "",
+    "text": "Registered Attendees (68)\nThis April 2025, R-Ladies Rome hosted a beginner-friendly workshop titled “From R to Python: A Gentle Introduction”, designed to help R users and beginners take their first steps into the world of Python. This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.\nWhether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun."
   },
   {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#recording",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html#recording",
-    "title": "Using Python Within Stata",
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💡 What We Covered",
+    "text": "💡 What We Covered\nDuring the session, we explored:\n\nThe similarities and differences between R and Python\nHow to perform common data analysis tasks in Python\n\nAn introduction to popular Python libraries like pandas, scikit-learn, and seaborn\n\nWe also demoed basic workflows, provided a starter script, and answered audience questions live."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📊 What You Said",
+    "text": "📊 What You Said\nWe asked participants three short questions using Slido. Here’s what they shared:\n\n🟣 On a scale of 1 to 5, how confident are you with programming languages?\n\n\n\n🟣 What is your favorite programming language?\n\n\n\n🟣 How familiar are you with Python?"
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📦 Workshop Materials",
+    "text": "📦 Workshop Materials\nAll workshop materials are freely available:\n\n🎤 Presentation Slides\n\n📖 Workshop Booklet\n\n💻 GitHub Repository\n\nYou’ll find setup instructions, sample datasets, and the Python scripts we used during the event."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
+    "title": "From R to Python: A Gentle Introduction",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately."
+    "text": "🎥 Recording\nYou can rewatch the full event on our YouTube channel:\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\nWhether you missed the event or just want a refresher, it’s all there for you."
   },
   {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#what-youll-learn",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html#what-youll-learn",
-    "title": "Using Python Within Stata",
-    "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\nIn this talk, Dr. Chuck Huber demonstrates how to use Python within Stata, showcasing the seamless integration between these two powerful tools. You’ll learn how to:\n\nSet up and configure Python to work with Stata\nConnect Python with Stata commands and .ado files\nExplore real-world examples of using Python in Stata for data analysis and visualization\n\nBy the end of this session, you’ll have a solid understanding of how to harness the strengths of both Stata and Python to enhance your data analysis workflows."
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📚 Learn More: Python Resources for Beginners",
+    "text": "📚 Learn More: Python Resources for Beginners\nIf you’re ready to keep going, here are some recommended resources:\n\nPython for Data Analysis (Wes McKinney) – The classic book for learning pandas and data wrangling in Python.\nReal Python – A comprehensive site full of beginner tutorials and hands-on examples.\nPython Basics – Simple and direct explanations of core Python concepts.\nDataCamp’s Python tracks – Interactive exercises for data science beginners.\nThe Carpentries Python Lessons – Friendly workshops teaching foundational skills.\nKaggle Python Micro-Course – Great for learning through applied exercises.\n\nIf you prefer video: - Corey Schafer YouTube Channel – Detailed and beginner-friendly. - freeCodeCamp Python course – Full-length intro course, highly rated.\n\n📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning."
   },
   {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#resources-materials",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html#resources-materials",
-    "title": "Using Python Within Stata",
-    "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n\nTalk slides: https://tinyurl.com/statapython\nR-Ladies Rome Intro Presentation: https://tinyurl.com/yk79a9yw\nStay updated via Meetup: https://www.meetup.com/rladies-rome"
-  },
-  {
-    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#about-the-speaker",
-    "href": "talks/2025/meetup/09292025_ChuckHuber.html#about-the-speaker",
-    "title": "Using Python Within Stata",
-    "section": "🔊 About the Speaker",
-    "text": "🔊 About the Speaker\nChuck Huber is Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health.\nHe produces instructional videos for the Stata Youtube channel, writes blog entries, develops online NetCourses and gives talks about Stata at conferences and universities. He has published in the areas of neurology, human and animal genetics, alcohol and drug abuse prevention, nutrition and birth defects.\nDr. Huber currently teaches survey sampling at NYU and introductory biostatistics at Texas A&M where he previously taught categorical data analysis, survey data analysis, and statistical genetics.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💜 Thank You",
+    "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜\n\n← Previous event | Next event →"
   },
   {
     "objectID": "talks/2025/meetup/08242025_DerekSollberger.html",
@@ -344,7 +358,7 @@
     "href": "talks/2025/index.html",
     "title": "2025: Events and Highlights",
     "section": "",
-    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\n\nPython\n\nStata\n\nSoftware Development\n\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\n\nDashboards\n\nQuarto\n\nShiny\n\nHands-on\n\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizzare dati per i pazienti (Visualizing Data for Patients)\n\n\n\nData Visualization\n\nPublic Health\n\n\n\nIn this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can…\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Time Series with Linear Regression: A Feature-Driven Approach\n\n\n\nTime Series\n\nForecasting\n\nHands-on\n\n\n\nBeginner-friendly workshop led by author and open source contributor Rami Krispin, exploring time series forecasting through linear regression and feature engineering.\n\n\n\n\n\n\nJul 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\nA multilingual meetup at INGV with PyData Roma Capitale, R-Ladies Rome, and Rome R Users Group. Keynote by Federica Gazzelloni on the power of R and Python.\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit and GitHub\n\n\n\nR-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively.\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\nR-Ladies Rome hosted a beginner-friendly workshop on transitioning from R to Python. Explore the recording, slides, and resources to continue your Python journey.\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShiny\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Visualization\n\nNetworking\n\nPublic Health\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\n\nMachine Learning\n\nPython\n\nFintech\n\nResponsible AI\n\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\n\nPython\n\nStata\n\nSoftware Development\n\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\n\nDashboards\n\nQuarto\n\nShiny\n\nHands-on\n\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizzare dati per i pazienti (Visualizing Data for Patients)\n\n\n\nData Visualization\n\nPublic Health\n\n\n\nIn this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can…\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Time Series with Linear Regression: A Feature-Driven Approach\n\n\n\nTime Series\n\nForecasting\n\nHands-on\n\n\n\nBeginner-friendly workshop led by author and open source contributor Rami Krispin, exploring time series forecasting through linear regression and feature engineering.\n\n\n\n\n\n\nJul 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\nA multilingual meetup at INGV with PyData Roma Capitale, R-Ladies Rome, and Rome R Users Group. Keynote by Federica Gazzelloni on the power of R and Python.\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit and GitHub\n\n\n\nR-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively.\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\nR-Ladies Rome hosted a beginner-friendly workshop on transitioning from R to Python. Explore the recording, slides, and resources to continue your Python journey.\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShiny\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Visualization\n\nNetworking\n\nPublic Health\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Introduction",
       "Talks",
@@ -543,53 +557,81 @@
     "text": "“Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together.”\n\n📬 Want to get involved or speak at the next event? Reach out through PyData Roma Capitale, R-Ladies Rome, or the Rome R Users Group."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
-    "title": "From R to Python: A Gentle Introduction",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "",
-    "text": "Registered Attendees (68)\nThis April 2025, R-Ladies Rome hosted a beginner-friendly workshop titled “From R to Python: A Gentle Introduction”, designed to help R users and beginners take their first steps into the world of Python. This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.\nWhether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun."
+    "text": "Registered Attendees (31)\nOn October 10, 2025, R-Ladies Rome hosted BNPL and Machine Learning: Decisions That Scale, a session led by Kelly Marques, data scientist and researcher in financial technology and applied machine learning."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "💡 What We Covered",
-    "text": "💡 What We Covered\nDuring the session, we explored:\n\nThe similarities and differences between R and Python\nHow to perform common data analysis tasks in Python\n\nAn introduction to popular Python libraries like pandas, scikit-learn, and seaborn\n\nWe also demoed basic workflows, provided a starter script, and answered audience questions live."
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "section": "📊 Talk Overview",
+    "text": "📊 Talk Overview\nIn this engaging presentation, Kelly guided us through how machine learning models are transforming decision-making in the Buy Now, Pay Later (BNPL) landscape. She demonstrated live Python code examples, showing how predictive models can provide fast, scalable, and reliable assessments of user creditworthiness — even when traditional credit data is limited.\nBeyond the technical side, the talk also explored the ethical and inclusive dimensions of algorithmic credit scoring, emphasizing transparency, fairness, and access in financial decision-making."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📊 What You Said",
-    "text": "📊 What You Said\nWe asked participants three short questions using Slido. Here’s what they shared:\n\n🟣 On a scale of 1 to 5, how confident are you with programming languages?\n\n\n\n🟣 What is your favorite programming language?\n\n\n\n🟣 How familiar are you with Python?"
-  },
-  {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📦 Workshop Materials",
-    "text": "📦 Workshop Materials\nAll workshop materials are freely available:\n\n🎤 Presentation Slides\n\n📖 Workshop Booklet\n\n💻 GitHub Repository\n\nYou’ll find setup instructions, sample datasets, and the Python scripts we used during the event."
-  },
-  {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
-    "title": "From R to Python: A Gentle Introduction",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#recording",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#recording",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\nYou can rewatch the full event on our YouTube channel:\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\nWhether you missed the event or just want a refresher, it’s all there for you."
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nThis talk is packed with insights for data scientists, fintech professionals, and anyone interested in applied ML for responsible innovation."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📚 Learn More: Python Resources for Beginners",
-    "text": "📚 Learn More: Python Resources for Beginners\nIf you’re ready to keep going, here are some recommended resources:\n\nPython for Data Analysis (Wes McKinney) – The classic book for learning pandas and data wrangling in Python.\nReal Python – A comprehensive site full of beginner tutorials and hands-on examples.\nPython Basics – Simple and direct explanations of core Python concepts.\nDataCamp’s Python tracks – Interactive exercises for data science beginners.\nThe Carpentries Python Lessons – Friendly workshops teaching foundational skills.\nKaggle Python Micro-Course – Great for learning through applied exercises.\n\nIf you prefer video: - Corey Schafer YouTube Channel – Detailed and beginner-friendly. - freeCodeCamp Python course – Full-length intro course, highly rated.\n\n📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning."
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "section": "🧠 What You’ll Learn",
+    "text": "🧠 What You’ll Learn\n\nHow to build and evaluate ML models for BNPL credit scoring\nWays to handle high-volatility and short-term behavioral data\nThe role of ethics, inclusion, and fairness in financial ML models\nPractical Python code demonstrations for end-to-end modeling"
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "💜 Thank You",
-    "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜\n\n← Previous event | Next event →"
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "section": "📦 Resources & Materials",
+    "text": "📦 Resources & Materials\n\nTalk material:\n\nData: https://tinyurl.com/27awzehk\nCode: https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb\n\nR-Ladies Rome Intro Presentation: https://tinyurl.com/bdht95ss\n\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n🔊 About the Speaker\nKelly Marques is a data scientist from São Paulo (Brazil) specializing in machine learning for finance. With a strong background in predictive analytics and model ethics, she focuses on developing scalable, transparent, and human-centered AI systems for real-world applications.\nKeep learning and exploring — subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html",
+    "title": "Using Python Within Stata",
+    "section": "",
+    "text": "Registered Attendees (42)\nOn Septembe 29, 2025, R-Ladies Rome & Rome R Users Group hosted a software integration example led by Dr. Chuck Huber, Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health."
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#talk-overview",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html#talk-overview",
+    "title": "Using Python Within Stata",
+    "section": "📊 Talk Overview",
+    "text": "📊 Talk Overview\nWe love exploring new ways of working with data, and sometimes that means stepping outside of R to see how other tools can connect and enrich our workflows.\nWhile our heart and mission remain with R, as data scientists and statisticians we often work in environments where multiple tools coexist. Understanding how to bridge these ecosystems — R, Python, Stata — helps us collaborate better, think more critically about methodology, and expand our problem-solving toolkit.\nThis event is not about selling or promoting software. It’s about learning, sharing knowledge, and keeping our community up-to-date with evolving data science practices."
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#recording",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html#recording",
+    "title": "Using Python Within Stata",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately."
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#what-youll-learn",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html#what-youll-learn",
+    "title": "Using Python Within Stata",
+    "section": "🧠 What You’ll Learn",
+    "text": "🧠 What You’ll Learn\nIn this talk, Dr. Chuck Huber demonstrates how to use Python within Stata, showcasing the seamless integration between these two powerful tools. You’ll learn how to:\n\nSet up and configure Python to work with Stata\nConnect Python with Stata commands and .ado files\nExplore real-world examples of using Python in Stata for data analysis and visualization\n\nBy the end of this session, you’ll have a solid understanding of how to harness the strengths of both Stata and Python to enhance your data analysis workflows."
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#resources-materials",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html#resources-materials",
+    "title": "Using Python Within Stata",
+    "section": "📦 Resources & Materials",
+    "text": "📦 Resources & Materials\n\nTalk slides: https://tinyurl.com/statapython\nR-Ladies Rome Intro Presentation: https://tinyurl.com/yk79a9yw\nStay updated via Meetup: https://www.meetup.com/rladies-rome"
+  },
+  {
+    "objectID": "talks/2025/meetup/09292025_ChuckHuber.html#about-the-speaker",
+    "href": "talks/2025/meetup/09292025_ChuckHuber.html#about-the-speaker",
+    "title": "Using Python Within Stata",
+    "section": "🔊 About the Speaker",
+    "text": "🔊 About the Speaker\nChuck Huber is Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&M School of Public Health and at the New York University School of Global Public Health.\nHe produces instructional videos for the Stata Youtube channel, writes blog entries, develops online NetCourses and gives talks about Stata at conferences and universities. He has published in the areas of neurology, human and animal genetics, alcohol and drug abuse prevention, nutrition and birth defects.\nDr. Huber currently teaches survey sampling at NYU and introductory biostatistics at Texas A&M where he previously taught categorical data analysis, survey data analysis, and statistical genetics.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
   },
   {
     "objectID": "talks/2024/index.html",
@@ -755,7 +797,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizzare dati per i pazienti (Visualizing Data for Patients)\n\n\nIn this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can…\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "blog/posts/05142023/index.html",

@@ -1,0 +1,10 @@
+---
+title: "Next Event and Speaker"
+---
+
+More details coming soon!
+
+Stay updated via Meetup: <https://www.meetup.com/rladies-rome>
+
+
+<center>[← Back to 2025 Events](/talks/2025/index.qmd)</center> 
