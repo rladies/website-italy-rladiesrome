@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <title>  – R-Ladies Rome Website</title>
 <style>
@@ -33,13 +33,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-234273d1456647dabc34a594ac50e507.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-065a5179aebd64318d7ea99d77b64a9e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-32082bd8264753720ea38d9c7a72b644.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
+<link href="site_libs/bootstrap/bootstrap-e76956d3b1685c0a5a7238d51d667eee.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
@@ -146,7 +147,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -182,7 +183,7 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top quarto-banner"><nav class="navbar navbar-expand-lg " data-bs-theme="dark"><div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo"></a>
+    <img src="./images/logo.png" alt="" class="navbar-logo light-content"><img src="./images/logo.png" alt="" class="navbar-logo dark-content"></a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">R-Ladies Rome</span>
     </a>
@@ -331,7 +332,30 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDUHl0aG9uJTJDRmludGVjaCUyQ1Jlc3BvbnNpYmxlJTIwQUk=" data-listing-date-sort="1760047200000" data-listing-file-modified-sort="1760257895855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
+<div class="g-col-1" data-index="0" data-categories="Z2dwbG90MiUyQ0RhdGFWaXolMkNXb3Jrc2hvcCUyQ1I=" data-listing-date-sort="1762038000000" data-listing-file-modified-sort="1762636536344" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="275">
+<a href="./talks/2025/meetup/11042025_NicolaRennie.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://secure.meetupstatic.com/photos/event/d/3/1/9/highres_530514041.webp?w=1080" class="thumbnail-image card-img" style="height: 200;" alt="Nicola Rennie presenting at R-Ladies Rome"></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Developing Your Data Visualisation Skills in ggplot2
+</h5>
+<div class="card-text listing-description delink">
+<p>In this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 2, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDUHl0aG9uJTJDRmludGVjaCUyQ1Jlc3BvbnNpYmxlJTIwQUk=" data-listing-date-sort="1760047200000" data-listing-file-modified-sort="1760257895855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
 <a href="./talks/2025/meetup/10102025_KellyMarques.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -354,7 +378,7 @@ Oct 10, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UHl0aG9uJTJDU3RhdGElMkNTb2Z0d2FyZSUyMERldmVsb3BtZW50" data-listing-date-sort="1759096800000" data-listing-file-modified-sort="1760257115000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+<div class="g-col-1" data-index="2" data-categories="UHl0aG9uJTJDU3RhdGElMkNTb2Z0d2FyZSUyMERldmVsb3BtZW50" data-listing-date-sort="1759096800000" data-listing-file-modified-sort="1760257115000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
 <a href="./talks/2025/meetup/09292025_ChuckHuber.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -372,29 +396,6 @@ Using Python Within Stata
 </div>
 <div class="listing-date">
 Sep 29, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="RGFzaGJvYXJkcyUyQ1F1YXJ0byUyQ1NoaW55JTJDSGFuZHMtb24=" data-listing-date-sort="1755986400000" data-listing-file-modified-sort="1760257041385" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
-<a href="./talks/2025/meetup/08242025_DerekSollberger.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://secure.meetupstatic.com/photos/event/8/4/9/e/highres_529533950.webp?w=750" class="thumbnail-image card-img" style="height: 200;" alt="Cover image for Interactive Dashboards workshop"></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Interactive Quarto Dashboards
-</h5>
-<div class="card-text listing-description delink">
-<p>An easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Aug 24, 2025
 </div>
 </div>
 </div>
@@ -446,13 +447,14 @@ Aug 24, 2025
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

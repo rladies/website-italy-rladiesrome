@@ -1,0 +1,53 @@
+---
+title: "Developing Your Data Visualisation Skills in ggplot2"
+subtitle: "Workshop with Nicola Rennie"
+date: 2025-11-02
+image: "https://secure.meetupstatic.com/photos/event/d/3/1/9/highres_530514041.webp?w=1080"
+image-alt: "Nicola Rennie presenting at R-Ladies Rome"
+description: "In this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to final design polish—using the TidyTuesday cats dataset."
+categories:
+  - ggplot2
+  - DataViz
+  - Workshop
+  - R
+---
+
+
+`Registered Attendees (430)`
+
+On November 2, 2025, `R-Ladies Rome` hosted **Developing Your Data Visualisation Skills in ggplot2**, an engaging and creative session led by [Nicola Rennie](https://nrennie.rbind.io), Data Visualisation Specialist and author of "The Art of Visualization with ggplot2".
+
+## 🐈 Workshop Overview
+
+Nicola walked participants through the entire process of **building a data visualisation in R with ggplot2**, starting from a brand new dataset — the popular [TidyTuesday](https://github.com/rfordatascience/tidytuesday) cats dataset. Throughout the session, she demonstrated how to explore data, sketch visual ideas, and refine designs to communicate insights clearly and beautifully.
+
+Participants learned how to customise plots with themes, colours, and fonts, transforming simple graphics into polished, publication-ready visualisations.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/jba0Bw6xwR0 >}}
+
+Whether you’re new to data visualisation or looking to refine your creative process, this talk offers practical steps and artistic inspiration to enhance your ggplot2 workflow.
+
+## 🧠 What You’ll Learn
+
+- How to move from data exploration to final design using ggplot2
+- Techniques for customising fonts, colours, and layouts
+- Ways to create aesthetic yet effective visualisations that communicate clearly
+
+## 📦 Resources & Materials
+
+- Nicola’s code examples and resources: <https://nrennie.rbind.io/talks/rladies-rome-ggplot2/slides.html>
+- R-Ladies Rome event details: <https://www.meetup.com/rladies-rome>
+- Connect with Nicola on LinkedIn: <https://www.linkedin.com/in/nicola-rennie/>
+
+## 🔊 About the Speaker
+
+[Nicola Rennie](https://nrennie.rbind.io) is a data visualisation specialist with a background in statistics and data science.
+She focuses on how to communicate complex quantitative ideas effectively using open-source tools, including R, D3, and Svelte. Nicola is the author of The Art of Visualization with ggplot2, co-author of the Royal Statistical Society’s Best Practices for Data Visualisation, and serves on the Editorial Board of Significance magazine.
+
+Keep learning and exploring—subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/!
+
+<center>[← Previous event](/talks/2025/meetup/10102025_KellyMarques.qmd) | [Next event →](/talks/2025/meetup/NextSpeaker.qmd)</center>  
