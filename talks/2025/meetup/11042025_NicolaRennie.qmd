@@ -48,6 +48,6 @@ Whether you’re new to data visualisation or looking to refine your creative pr
 [Nicola Rennie](https://nrennie.rbind.io) is a data visualisation specialist with a background in statistics and data science.
 She focuses on how to communicate complex quantitative ideas effectively using open-source tools, including R, D3, and Svelte. Nicola is the author of The Art of Visualization with ggplot2, co-author of the Royal Statistical Society’s Best Practices for Data Visualisation, and serves on the Editorial Board of Significance magazine.
 
-Keep learning and exploring—subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/!
+Keep learning and exploring—subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/talks/2025/)!
 
 <center>[← Previous event](/talks/2025/meetup/10102025_KellyMarques.qmd) | [Next event →](/talks/2025/meetup/NextSpeaker.qmd)</center>  

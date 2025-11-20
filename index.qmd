@@ -1,5 +1,4 @@
 ---
-title: </script><p class= "multipleStrings" >
 backgroundcolor: "#FFFFFF"
 image: images/world-map.png
 image-alt: "R-Ladies Global Map"
@@ -22,29 +21,41 @@ listing:
     image-height: "200"
     max-items: 3
     categories: false
-format:
-  html:
-    include-in-header: 
-      - text: |
-          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
 ---
 
+::: {.page-full}
 
-```{r}
-#| echo: false
-# https://www.pexels.com/search/pink/
-# https://images.pexels.com/photos/5725894/pexels-photo-5725894.jpeg
-# ```{=html}
-# 
-# <style>
-#   body {
-#     background-image: url('');
-#     background-size: cover;
-#     background-repeat: no-repeat;
-#   }
-# </style>
-#```
+```{=html}
+<div class="scrolling-banner">
+  <p class="multipleStrings"></p>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+
+<style>
+  .multipleStrings {
+    font-size: 25px; 
+    text-shadow: 1px 1px 1px #602b5f;
+  }
+</style>
+
+<script>
+  new TypeIt(".multipleStrings", {
+    strings: [
+    "Explore our community dedicated to promoting inclusivity in the R programming world 🌍",
+    "Discover events, resources, and projects that empower women in technology 💪",
+    "Join us in our mission and enjoy your journey with us! 🚀"],
+    breakLines: false,
+    loop: true,
+    speed: 50
+    }).go();
+</script>
 ```
+
+:::
+
+
 
 
 ::: {style="margin-top: 10px; font-size: 3em; color: #5b5c65; font-weight: bold; text-align: center;"}
@@ -71,24 +82,4 @@ Latest content
 
 
 
-```{=html}
-<style>
-  .multipleStrings {
-    font-size: 25px; 
-    text-shadow: 1px 1px 1px #602b5f;
-  }
-</style>
-
-<script>
-  new TypeIt(".multipleStrings", {
-    strings: [
-    "Explore our community dedicated to promoting inclusivity in the R programming world 🌍",
-    "Discover events, resources, and projects that empower women in technology 💪",
-    "Join us in our mission and enjoy your journey with us! 🚀"],
-    breakLines: false,
-    loop: true,
-    speed: 50
-    }).go();
-</script>
-```
 

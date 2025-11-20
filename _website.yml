@@ -2,14 +2,14 @@ website:
   announcement: 
     icon: balloon-heart
     dismissable: true
-    content: 'Allert! Free tutorials available!'
+    content: 'Alert! Free tutorials available!'
     type: primary
     position: below-navbar
-  title: "R-Ladies Rome Website"
+  title: "R-Ladies Rome"
   description: "Online Learning Resources for R-Ladies Rome"
   favicon: images/rladiesrome-favicon.png
-  site-url: https://rladiesrome.org
-  repo-url: https://github.com/rladies/website-italy-rladiesrome
+  site-url: "https://rladiesrome.org"
+  repo-url: "https://github.com/rladies/website-italy-rladiesrome"
   repo-actions: [edit, issue]
   cookie-consent:
     type: express
@@ -25,7 +25,6 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   navbar:
-    title: "R-Ladies Rome"
     background: "#5c4a7f"
     logo: images/logo.png
     search: true
