@@ -1,0 +1,109 @@
+---
+title: "Community & Organizational Policy"
+subtitle: "R-Ladies Rome"
+description: "The official community policy of R-Ladies Rome, outlining our mission, values, code of conduct, event participation rules, privacy principles, and organizational structure."
+author: "R-Ladies Rome"
+date: "2025-12-02"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    theme: cosmo
+    smooth-scroll: true
+    page-layout: article
+categories: ["policy", "community", "governance"]
+image: "/images/world-map.png"
+image-alt: "R-Ladies Rome community banner"
+---
+
+## Mission Statement
+
+[R-Ladies Rome](rladiesrome.org) is a local chapter of the global [R-Ladies](rladies.org) organization, dedicated to promoting gender diversity in the **R community** through meetups, workshops, mentorship, and collaborative learning. Our [*mission is to create an inclusive, safe, and supportive environment for people of all genders who are interested in R, data science, and technical communication*]{.underline}.
+
+This policy outlines our operating principles, expectations, governance, and community standards.
+
+### Mission & Purpose
+
+R-Ladies Rome exists to:
+
+-   Promote gender diversity and representation in the R ecosystem.
+-   Provide free or low-cost learning opportunities in data science, statistics, programming, and related domains.
+-   Create a safe, inclusive space for sharing knowledge and supporting professional growth.
+-   Foster a vibrant local network of R users, learners, educators, researchers, and practitioners.
+-   Build strong connections with the global R-Ladies community and other open-source initiatives.
+
+### Core Values
+
+Our community is guided by the following principles:
+
+-   **Inclusivity**: Everyone is welcome regardless of gender identity, expression, background, or experience level.
+-   **Respect**: We treat all participants with consideration, empathy, and professionalism.
+-   **Collaboration**: We learn together, encourage each other, and value collective growth.
+-   **Openness**: We share resources, knowledge, and opportunities transparently.
+-   **Equity**: We actively work to reduce barriers and support under-represented groups.
+
+### Code of Conduct
+
+R-Ladies Rome fully adopts the official R-Ladies Global Code of Conduct. All participants—organizers, speakers, attendees, and sponsors—must adhere to it.
+
+We do not tolerate:
+
+-   [**Harassment, intimidation, or discrimination of any kind**]{.underline}
+-   [**Offensive or exclusionary language**]{.underline}
+-   [**Unwelcome advances or inappropriate behavior**]{.underline}
+-   [**Disruption of talks, meetups, or online spaces**]{.underline}
+-   [**Misuse of community platforms for spam or commercial promotion without permission**]{.underline}
+
+Violations may result in a warning, removal from the event, temporary or permanent exclusion from R-Ladies Rome spaces, or reporting to R-Ladies Global if necessary.
+
+> To report an incident confidentially, please contact: rome \[at\] rladies \[dot\] org
+
+### Event Participation
+
+By attending an R-Ladies Rome event, participants agree to:
+
+-   Behave respectfully toward speakers, attendees, and organizers
+-   Support a welcoming environment for beginners and experts alike
+-   Avoid recording sessions unless explicitly permitted
+-   Respect privacy: screenshots, photos, or names should not be shared without consent
+
+> The organizing team reserves the right to remove disruptive participants.
+
+### Speaker & Content Policy
+
+We welcome speakers from all genders and backgrounds, provided their content is educational, technical, or aligned with the [**R-Ladies mission**]{.underline}, supports **open-source values**, and upholds **non-discriminatory practices**. Talks should avoid promotional or sales, focused messaging unless pre-approved and should include clear, reproducible examples whenever possible. Speakers are expected to collaborate with the organizers to ensure accessibility, such as readable slides and inclusive language, respect for community standards, and accurate representation of contributors and sources.
+
+### Sponsorship & Partnerships
+
+R-Ladies Rome may collaborate with universities, organizations, companies, or institutions that align with our mission. We work only with sponsors and partners who respect diversity, equity, and inclusion, do not engage in discriminatory practices, and support transparent, ethical, and community-focused initiatives. Sponsorship does not influence speaker selection, event topics, or community decisions.
+
+### Use of Data & Privacy
+
+R-Ladies Rome respects the privacy of all participants. We do not sell or share personal data with third parties, and registration information is used solely for event organization and communication. Photos or recordings are shared only with explicit permission, and attendees may request the removal of their personal information from our platforms at any time.
+
+### Organizational Structure
+
+R-Ladies Rome is led by a volunteer organizing team responsible for planning events and workshops, selecting speakers and topics, managing communications and online platforms, upholding the Code of Conduct, and supporting the growth of the local community. Decisions are made collectively and transparently, and new volunteers may be invited as the chapter continues to grow.
+
+### Community Contributions & Open Source
+
+We encourage contributions in the form of:
+
+- Talk proposals
+- Workshops and tutorials
+- Blog posts
+- GitHub or technical resources
+- Community mentorship
+
+All shared resources should follow open-source licensing or include clear usage permissions.
+
+### Amendments to This Policy
+
+This policy may be updated periodically to reflect community needs and organizational growth. Updates will always be communicated on our website.
+
+## Contacts
+
+For questions, collaborations, or concerns, please reach out:
+
+📧 rome \[at\] rladies \[dot\] org

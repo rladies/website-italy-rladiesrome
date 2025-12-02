@@ -49,10 +49,16 @@ website:
           - text: "2025"
             href: talks/2025/index.qmd
       - text: "About"
-        menu: 
-          - about/organizers.qmd
-          - about/former_organizers.qmd
-          - sponsors.qmd  
+        menu:
+          - text: "Organizers"
+            href: about/organizers.qmd
+            menu:
+              - text: "Former Organizers"
+                href: about/former_organizers.qmd
+          - text: "Sponsors"
+            href: about/sponsors.qmd
+          - text: "CoC & Community Policy"
+            href: about/coc_community_policy.qmd
       - icon: globe
         href: https://rladies.org   
         
