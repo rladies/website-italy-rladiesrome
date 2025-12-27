@@ -214,317 +214,74 @@
     "text": "More details coming soon!\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n← Back to 2025 Events\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
-    "title": "From R to Python: A Gentle Introduction",
+    "objectID": "talks/2025/meetup/12172025_organizers.html",
+    "href": "talks/2025/meetup/12172025_organizers.html",
+    "title": "From Basics to Advanced Health Analytics: Exploring Diabetes Data",
     "section": "",
-    "text": "Registered Attendees (68)\nThis April 2025, R-Ladies Rome hosted a beginner-friendly workshop titled “From R to Python: A Gentle Introduction”, designed to help R users and beginners take their first steps into the world of Python. This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.\nWhether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun."
+    "text": "Registered Attendees (84)\nOn December 17, 2025, R-Ladies Rome hosted From Basics to Advanced Health Analytics: Exploring Diabetes Data, a hands-on workshop designed to guide participants through the earliest and most critical stages of applied data analysis using R.\nThe session focused on building a clear, defensible analytical workflow starting from raw data and progressing through exploration, preparation, and interpretation. Using a simulated diabetes dataset inspired by real-world health studies, the workshop emphasised how analytical decisions emerge from evidence in the data rather than from pre-defined modelling choices."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "💡 What We Covered",
-    "text": "💡 What We Covered\nDuring the session, we explored:\n\nThe similarities and differences between R and Python\nHow to perform common data analysis tasks in Python\n\nAn introduction to popular Python libraries like pandas, scikit-learn, and seaborn\n\nWe also demoed basic workflows, provided a starter script, and answered audience questions live."
+    "objectID": "talks/2025/meetup/12172025_organizers.html#workshop-overview",
+    "href": "talks/2025/meetup/12172025_organizers.html#workshop-overview",
+    "title": "From Basics to Advanced Health Analytics: Exploring Diabetes Data",
+    "section": "🩺 Workshop Overview",
+    "text": "🩺 Workshop Overview\nThe workshop was led by Rafaela Ribeiro Lucas, Federica Gazzelloni, and Lucy Michaels, organisers of R-Ladies Rome, who jointly guided participants through a complete exploratory analysis workflow using a simulated diabetes dataset.\nIn the first part of the workshop, Rafaela focused on descriptive statistics, using the simulated diabetes dataset to demonstrate how numerical summaries provide essential grounding for any analysis. Alongside measures of central tendency, variability, and distribution, she introduced prevalence calculations to show how key health indicators are derived and interpreted in practice. Contingency tables were used to explore relationships between categorical variables, allowing participants to examine how diabetes status varies across demographic groups, while chi-squared tests were discussed as a way to formally assess whether observed differences are likely to reflect underlying associations rather than random variation.\nBuilding directly on these exploratory insights, Federica then showed how data visualisation can be used to deepen understanding and communicate findings clearly. Using ggplot2, she demonstrated how to make histogram, density and boxplots, and how to do little improvements with tools such as scales_ and labs functions. She then added insights about layout—affect interpretation, and how plots can support analytical reasoning rather than simply summarising results. This part of the session reinforced the idea that visualisation is an integral component of analysis, closely tied to both exploration and explanation.\nThe final part of the workshop was led by Lucy, who introduced clustering as a way to explore heterogeneity within the population. Focusing on the intuition behind k-prototypes clustering, Lucy explained how this approach allows analysts to work simultaneously with numerical and categorical variables, a common challenge in health and demographic data. Rather than presenting clustering as a definitive classification tool, the discussion emphasised interpretation, limitations, and the role of clustering as a complementary method that can reveal structure and risk profiles not immediately visible through standard summaries or models.\nTogether, these three perspectives laid the groundwork for subsequent modelling stages. The session demonstrated how exploratory analysis, visualisation, and clustering naturally lead to modelling questions, such as identifying factors associated with diabetes status or understanding variation across population subgroups."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📊 What You Said",
-    "text": "📊 What You Said\nWe asked participants three short questions using Slido. Here’s what they shared:\n\n🟣 On a scale of 1 to 5, how confident are you with programming languages?\n\n\n\n🟣 What is your favorite programming language?\n\n\n\n🟣 How familiar are you with Python?"
-  },
-  {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📦 Workshop Materials",
-    "text": "📦 Workshop Materials\nAll workshop materials are freely available:\n\n🎤 Presentation Slides\n\n📖 Workshop Booklet\n\n💻 GitHub Repository\n\nYou’ll find setup instructions, sample datasets, and the Python scripts we used during the event."
-  },
-  {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
-    "title": "From R to Python: A Gentle Introduction",
+    "objectID": "talks/2025/meetup/12172025_organizers.html#recording",
+    "href": "talks/2025/meetup/12172025_organizers.html#recording",
+    "title": "From Basics to Advanced Health Analytics: Exploring Diabetes Data",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\nYou can rewatch the full event on our YouTube channel:\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\nWhether you missed the event or just want a refresher, it’s all there for you."
+    "text": "🎥 Recording\n🎬 Watch the Recording\n\nThe recording is suitable both for participants who attended the live session and for those who wish to follow the full workflow at their own pace.\n🧠 What You’ll Learn\nParticipants will gain a clear understanding of how to approach exploratory data analysis in R in a structured and defensible way, particularly when working with health-related data. The session demonstrates how to move from raw data to informed analytical questions, how to justify cleaning and preparation decisions, and how to use visualisation as an integral part of the reasoning process rather than as a final reporting step."
   },
   {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "📚 Learn More: Python Resources for Beginners",
-    "text": "📚 Learn More: Python Resources for Beginners\nIf you’re ready to keep going, here are some recommended resources:\n\nPython for Data Analysis (Wes McKinney) – The classic book for learning pandas and data wrangling in Python.\nReal Python – A comprehensive site full of beginner tutorials and hands-on examples.\nPython Basics – Simple and direct explanations of core Python concepts.\nDataCamp’s Python tracks – Interactive exercises for data science beginners.\nThe Carpentries Python Lessons – Friendly workshops teaching foundational skills.\nKaggle Python Micro-Course – Great for learning through applied exercises.\n\nIf you prefer video: - Corey Schafer YouTube Channel – Detailed and beginner-friendly. - freeCodeCamp Python course – Full-length intro course, highly rated.\n\n📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning."
-  },
-  {
-    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
-    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
-    "title": "From R to Python: A Gentle Introduction",
-    "section": "💜 Thank You",
-    "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html",
-    "title": "Interactive Quarto Dashboards",
-    "section": "",
-    "text": "Registered Attendees (116)\nOn August 24, 2025, R-Ladies Rome hosted Interactive Quarto Dashboards, a collaborative and beginner-friendly workshop led by Derek Sollberger, lecturer at the Center for Statistics and Machine Learning and Posit Certified Tidyverse Instructor."
-  },
-  {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#workshop-overview",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html#workshop-overview",
-    "title": "Interactive Quarto Dashboards",
-    "section": "📊 Workshop Overview",
-    "text": "📊 Workshop Overview\nIn this easy-going workshop, participants explored how to build interactive web-based dashboards that enable teams—whether in academic or business settings—to present information via multiple graphs and tables. The session covered techniques to filter, sort, visualize data, uncover trends, and present results with both function and aesthetic appeal using R, Quarto, Shiny, Markdown, and geospatial data. Some prior programming experience was helpful, though not required."
-  },
-  {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#recording",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html#recording",
-    "title": "Interactive Quarto Dashboards",
-    "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately."
-  },
-  {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#what-youll-learn",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html#what-youll-learn",
-    "title": "Interactive Quarto Dashboards",
-    "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\n\nHow to assemble interactive dashboards using Quarto and Shiny\n\nMethods for effective data presentation: filtering, sorting, and trend exploration\n\nTechniques for adding geospatial data and aesthetic polish to your dashboards"
-  },
-  {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#resources-materials",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html#resources-materials",
-    "title": "Interactive Quarto Dashboards",
+    "objectID": "talks/2025/meetup/12172025_organizers.html#resources-materials",
+    "href": "talks/2025/meetup/12172025_organizers.html#resources-materials",
+    "title": "From Basics to Advanced Health Analytics: Exploring Diabetes Data",
     "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n\nWorkshop slides and code (GitHub):\n\nhttps://dsollbergerquarto.netlify.app/posts/dslc_quarto_dashboards/quarto_dashboards\nhttps://github.com/dsollberger/q_dashboards\n\nR-Ladies Rome Intro Presentation: https://rladiesrome.quarto.pub/august242025\nStay updated via Meetup: https://www.meetup.com/rladies-rome"
+    "text": "📦 Resources & Materials\n\nWorkshop materials and code: https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html\nR-Ladies Rome events and resources: https://www.meetup.com/rladies-rome"
   },
   {
-    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#about-the-speaker",
-    "href": "talks/2025/meetup/08242025_DerekSollberger.html#about-the-speaker",
-    "title": "Interactive Quarto Dashboards",
-    "section": "🔊 About the Speaker",
-    "text": "🔊 About the Speaker\nDerek Sollberger is a lecturer at CSML (Center for Statistics and Machine Learning), specializing in Data Science, AI Methods, and Bayesian Analysis. A Posit Certified Tidyverse Instructor, Derek brings experience from leading R workshops and consulting on pedagogy-driven data projects.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+    "objectID": "talks/2025/meetup/12172025_organizers.html#about-the-workshop",
+    "href": "talks/2025/meetup/12172025_organizers.html#about-the-workshop",
+    "title": "From Basics to Advanced Health Analytics: Exploring Diabetes Data",
+    "section": "🔊 About the Workshop",
+    "text": "🔊 About the Workshop\nThis workshop is part of the Principles of Data Analysis in R series developed by R-Ladies Rome. The series aims to provide practical, reproducible, and conceptually grounded guidance for applied data analysis, with a strong emphasis on transparency, interpretation, and real-world relevance.\nNo prior experience with medical datasets is required, and all code is explained step by step, making the material accessible to a broad audience of R users.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
   },
   {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "",
-    "text": "Registered Attendees (30)\nOn July 22, 2025, R-Ladies Rome hosted a talk focused on a key but often overlooked topic: how to communicate health data effectively to the people who need it most—patients. The session was led by Dr. Rita Giordano, an expert in data visualization and user-centered design."
+    "text": "Registered Attendees (31)\nOn October 10, 2025, R-Ladies Rome hosted BNPL and Machine Learning: Decisions That Scale, a session led by Kelly Marques, data scientist and researcher in financial technology and applied machine learning."
   },
   {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#talk-overview",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html#talk-overview",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
-    "section": "💬 Talk Overview",
-    "text": "💬 Talk Overview\nThis session explores how health data can be made truly useful to those navigating diagnoses, treatment options, and care plans. Rita shares real-world examples that highlight the disconnect between how data is typically presented (for researchers and clinicians) and how it could better serve patients themselves.\nThrough a lens of empathy and inclusion, she invites us to reflect on how scientific and clinical communication can be reimagined to support patient understanding, trust, and agency."
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "section": "📊 Talk Overview",
+    "text": "📊 Talk Overview\nIn this engaging presentation, Kelly guided us through how machine learning models are transforming decision-making in the Buy Now, Pay Later (BNPL) landscape. She demonstrated live Python code examples, showing how predictive models can provide fast, scalable, and reliable assessments of user creditworthiness — even when traditional credit data is limited.\nBeyond the technical side, the talk also explored the ethical and inclusive dimensions of algorithmic credit scoring, emphasizing transparency, fairness, and access in financial decision-making."
   },
   {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#recording",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html#recording",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#recording",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#recording",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nThe event was conducted in Italian, and the video is in Italian with English subtitles. Whether you’re a data scientist, healthcare professional, or simply interested in how data can empower patients, this talk is a must-watch."
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nThis talk is packed with insights for data scientists, fintech professionals, and anyone interested in applied ML for responsible innovation."
   },
   {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#key-topics",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html#key-topics",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
-    "section": "🧭 Key Topics",
-    "text": "🧭 Key Topics\n\nHow to design data visualizations that center patient needs\nThe role of empathy and accessibility in scientific communication\nWhy inclusive design is critical for health equity\nExamples of both effective and ineffective communication tools"
-  },
-  {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#resources-materials",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html#resources-materials",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
-    "section": "📚 Resources & Materials",
-    "text": "📚 Resources & Materials\n🔗 Slides: https://github.com/ritagior/R-LadiesRome\n🌐 Rita’s work:\n\nhttps://ritagiordano.co.uk/\nhttps://github.com/ritagior\n\n📝 R-Ladies Rome Intro Slides: https://rladiesrome.quarto.pub/july222025\n📅 Stay updated: https://www.meetup.com/rladies-rome"
-  },
-  {
-    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#about-the-speaker",
-    "href": "talks/2025/meetup/07222025_RitaGiordano.html#about-the-speaker",
-    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
-    "section": "👩‍🏫 About the Speaker",
-    "text": "👩‍🏫 About the Speaker\nRita Giordano is a data visualization designer with a strong focus on accessibility and clarity in public health and medical communication. She collaborates with organizations across Europe to help turn complex data into useful, understandable information—especially for those most affected.\n💬 Let’s keep working to make data accessible to everyone. Subscribe to our YouTube channel and explore more events at rladiesrome.org!\n#DataViz #HealthCommunication #InclusiveDesign #RLadiesRome #RStats #EmpathyInDesign\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/01092025_EliHolder.html",
-    "href": "talks/2025/meetup/01092025_EliHolder.html",
-    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
-    "section": "",
-    "text": "Registered Attendees (61)"
-  },
-  {
-    "objectID": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
-    "href": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
-    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
-    "section": "Catch the Recording: Deathly Dataviz",
-    "text": "Catch the Recording: Deathly Dataviz\nWe’re excited to share that the recording of Eli Holder’s insightful talk, “Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”, is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing equitable and expressive visualizations that communicate public health data responsibly.\n\nKey Takeaways:\n\n📊 Understanding how design choices influence societal beliefs.\n\n🌍 Incorporating equity-oriented approaches in public health data visualization.\n\n🛠 Practical tools and techniques for impactful visual communication.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nEli Holder is a researcher and expert in data visualization, with a focus on the intersection of equity, public health, and data storytelling. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.\n\n\n📚 Explore More\nFor those eager to dive deeper into the subject, don’t miss this additional material by Eli Holder, where they expand on the strategies and principles covered in the talk.\nStay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
-    "section": "",
-    "text": "Registered Attendees (125)\nOn July 03, 2025, R-Ladies Rome hosted a practical and beginner-friendly workshop titled “Forecasting Time Series with Linear Regression: A Feature-Driven Approach.” The session was led by Rami Krispin, author of Hands-On Time Series Analysis with R and an expert in time series forecasting at scale."
-  },
-  {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#workshop-overview",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html#workshop-overview",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
-    "section": "📊 Workshop Overview",
-    "text": "📊 Workshop Overview\nThis talk explores the fundamentals of time series forecasting using linear regression models. We’ll cover how to transform time series data into a supervised learning format and utilize feature engineering techniques to model various components of the series, including trends, seasons, outliers, and structural breaks. This is a beginner-level workshop, and prior knowledge of time series is not needed beyond understanding how linear regression works."
-  },
-  {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#recording",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html#recording",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
-    "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re brushing up on regression or just getting started with time series, this session is packed with practical insight and real-world examples."
-  },
-  {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#what-youll-learn",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html#what-youll-learn",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\n\nHow to frame time series as a supervised learning problem\nWhy feature engineering matters: trends, seasonality, outliers, and breaks\nHow to apply linear models to time-dependent data\nTips for model validation and performance assessment"
+    "text": "🧠 What You’ll Learn\n\nHow to build and evaluate ML models for BNPL credit scoring\nWays to handle high-volatility and short-term behavioral data\nThe role of ethics, inclusion, and fairness in financial ML models\nPractical Python code demonstrations for end-to-end modeling"
   },
   {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#resources-materials",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html#resources-materials",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
+    "href": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
+    "title": "BNPL and Machine Learning: Decisions That Scale",
     "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n🔗 Slides & resources: https://github.com/RamiKrispin/r-ladies-rome-workshop\n🌐 Learn more:\n\nRami’s Book: https://ramikrispin.github.io/atsaf/\nRami’s Book Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R:\n\nhttps://github.com/RamiKrispin\nhttps://www.amazon.com/dp/1788629159\n\n\n📝 R-Ladies Rome Intro Presentation: https://rladiesrome.quarto.pub/july032025\n📅 Stay updated: https://www.meetup.com/rladies-rome"
-  },
-  {
-    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#about-the-speaker",
-    "href": "talks/2025/meetup/07032025_RamiKrispin.html#about-the-speaker",
-    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
-    "section": "🔊 About the Speaker",
-    "text": "🔊 About the Speaker\nRami Krispin leads the data science and engineering team at Apple Finance - Services and Infra. His team builds advanced statistical and ML models to support Apple’s strategic decisions. Rami is also an open-source contributor and author, with a special focus on scalable forecasting tools. He’s currently working on his next book: Applied Time Series Analysis and Forecasting.\n💬 Keep learning and sharing—subscribe to our YouTube channel and check out more past events on rladiesrome.org!\n#TimeSeries #Forecasting #RStats #RLadiesRome #LearningTogether #RamiKrispin\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "",
-    "text": "Registered Attendees (51)\nThis May, R-Ladies Rome hosted a remote session featuring Maëlle Salmon: “Why Small Git Commits Matter (and How to Make Them!)”. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.\nWhether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others."
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "💡 Key Takeaways",
-    "text": "💡 Key Takeaways\nIn this session, we explored:\n\n🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration\n🧠 How to structure your work to commit in logical, meaningful units\n🔧 How to fix and refine commit history with tools like git commit --amend and git rebase\n🧪 How to experiment safely using saperlipopette, a package for practicing Git workflows in R projects\n🎤 Bonus Q&A with community tips, questions, and shared real-world use cases"
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🎥 Watch the Recording",
-    "text": "🎥 Watch the Recording\nMissed the event? No problem—you can catch the full session on YouTube:\n\nDon’t forget to like and subscribe to our R-Ladies Rome YouTube channel!"
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "📦 Materials & Resources",
-    "text": "📦 Materials & Resources\n\n🖥️ Slides from the talk\n✍️ GitHub: Write Better Commits, Build Better Projects\n🧰 Positron Debugging – Lisa M. Mowinckel\n\nFor continued learning: - 📘 Pro Git Book (free) - 🧪 Git for Data Science - 🧭 GitHub Learning Lab - 🧾 GitHub Cheat Sheet (PDF)"
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🧵 Why This Talk Mattered",
-    "text": "🧵 Why This Talk Mattered\nAt R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.\nIn this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:\n\nGit is more than a tool—it’s a practice.\n\nShe helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects."
-  },
-  {
-    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
-    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
-    "title": "Why Small Git Commits Matter (and How to Make Them!)",
-    "section": "🤝 Get Involved!",
-    "text": "🤝 Get Involved!\n\nWant to speak at a future event? Drop your email in the comments!\nHave someone in mind? Suggest a speaker you’d love to see.\nStay connected on Meetup, YouTube, and GitHub\n\nOur events are free, open-source, and beginner-friendly. Every month, we share kick-start resources so you can keep learning after the meetup.\nLet’s keep learning, coding, and sharing—one small commit at a time. 💜\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/index.html",
-    "href": "talks/2025/index.html",
-    "title": "2025: Events and Highlights",
-    "section": "",
-    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping Your Data Visualisation Skills in ggplot2\n\n\n\nggplot2\n\nDataViz\n\nWorkshop\n\nR\n\n\n\nIn this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to…\n\n\n\n\n\n\nNov 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\n\nMachine Learning\n\nPython\n\nFintech\n\nResponsible AI\n\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\n\nPython\n\nStata\n\nSoftware Development\n\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\n\nDashboards\n\nQuarto\n\nShiny\n\nHands-on\n\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizzare dati per i pazienti (Visualizing Data for Patients)\n\n\n\nData Visualization\n\nPublic Health\n\n\n\nIn this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can…\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Time Series with Linear Regression: A Feature-Driven Approach\n\n\n\nTime Series\n\nForecasting\n\nHands-on\n\n\n\nBeginner-friendly workshop led by author and open source contributor Rami Krispin, exploring time series forecasting through linear regression and feature engineering.\n\n\n\n\n\n\nJul 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\nA multilingual meetup at INGV with PyData Roma Capitale, R-Ladies Rome, and Rome R Users Group. Keynote by Federica Gazzelloni on the power of R and Python.\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit and GitHub\n\n\n\nR-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively.\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\nR-Ladies Rome hosted a beginner-friendly workshop on transitioning from R to Python. Explore the recording, slides, and resources to continue your Python journey.\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShiny\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Visualization\n\nNetworking\n\nPublic Health\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Introduction",
-      "Talks",
-      "2025"
-    ]
-  },
-  {
-    "objectID": "talks/2025/meetup/03272025_FedericaGazzelloni.html",
-    "href": "talks/2025/meetup/03272025_FedericaGazzelloni.html",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
-    "section": "",
-    "text": "Registered Attendees (61)"
-  },
-  {
-    "objectID": "talks/2025/meetup/03272025_FedericaGazzelloni.html#catch-the-recording",
-    "href": "talks/2025/meetup/03272025_FedericaGazzelloni.html#catch-the-recording",
-    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
-    "section": "Catch the Recording",
-    "text": "Catch the Recording\nWe’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\nKey Takeaways:\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\nMaterial of the talk\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n📚 Explore More\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
-    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
-    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
-    "section": "",
-    "text": "Registered Attendees (192)"
-  },
-  {
-    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording",
-    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording",
-    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
-    "section": "Catch the Recording",
-    "text": "Catch the Recording\nWe’re excited to share that the recording of Isabella Velásquez’s insightful talk, “Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”, is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this session, Isabella explores how Quarto Live and Shinylive allow data practitioners to create interactive R, Python, and Shiny applications without requiring a server. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.\n\nKey Takeaways:\n\n🚀 How Quarto Live enables interactive code blocks within documents.\n\n🌐 Running Shiny applications directly in the browser with Shinylive.\n\n🔧 Practical applications for data science, education, and dashboarding.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nIsabella Velásquez is the Senior Product Marketing Manager at Posit PBC, where she blends content strategy, data analysis, and programming to drive engagement in the data science community. Passionate about open-source, she actively contributes to making analytical tools more accessible to everyone.\n\n\nMaterial of the talk\nhttps://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser\n\n\n📚 Explore More\nFor additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:\n\nhttps://repo.r-wasm.org/\nhttps://r-universe.dev/search\nhttps://docs.r-wasm.org/webr/latest/\nhttps://quarto.org\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.\n\n← Previous event | Next event →"
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "",
-    "text": "Registered Attendees (430)\nOn November 2, 2025, R-Ladies Rome hosted Developing Your Data Visualisation Skills in ggplot2, an engaging and creative session led by Nicola Rennie, Data Visualisation Specialist and author of “The Art of Visualization with ggplot2”."
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#workshop-overview",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html#workshop-overview",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "🐈 Workshop Overview",
-    "text": "🐈 Workshop Overview\nNicola walked participants through the entire process of building a data visualisation in R with ggplot2, starting from a brand new dataset — the popular TidyTuesday cats dataset. Throughout the session, she demonstrated how to explore data, sketch visual ideas, and refine designs to communicate insights clearly and beautifully.\nParticipants learned how to customise plots with themes, colours, and fonts, transforming simple graphics into polished, publication-ready visualisations."
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#recording",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html#recording",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Recording\n\nWhether you’re new to data visualisation or looking to refine your creative process, this talk offers practical steps and artistic inspiration to enhance your ggplot2 workflow."
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#what-youll-learn",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html#what-youll-learn",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\n\nHow to move from data exploration to final design using ggplot2\nTechniques for customising fonts, colours, and layouts\nWays to create aesthetic yet effective visualisations that communicate clearly"
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#resources-materials",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html#resources-materials",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n\nNicola’s code examples and resources: https://nrennie.rbind.io/talks/rladies-rome-ggplot2/slides.html\nR-Ladies Rome event details: https://www.meetup.com/rladies-rome\nConnect with Nicola on LinkedIn: https://www.linkedin.com/in/nicola-rennie/"
-  },
-  {
-    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#about-the-speaker",
-    "href": "talks/2025/meetup/11042025_NicolaRennie.html#about-the-speaker",
-    "title": "Developing Your Data Visualisation Skills in ggplot2",
-    "section": "🔊 About the Speaker",
-    "text": "🔊 About the Speaker\nNicola Rennie is a data visualisation specialist with a background in statistics and data science. She focuses on how to communicate complex quantitative ideas effectively using open-source tools, including R, D3, and Svelte. Nicola is the author of The Art of Visualization with ggplot2, co-author of the Royal Statistical Society’s Best Practices for Data Visualisation, and serves on the Editorial Board of Significance magazine.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+    "text": "📦 Resources & Materials\n\nTalk material:\n\nData: https://tinyurl.com/27awzehk\nCode: https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb\n\nR-Ladies Rome Intro Presentation: https://tinyurl.com/bdht95ss\n\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n🔊 About the Speaker\nKelly Marques is a data scientist from São Paulo (Brazil) specializing in machine learning for finance. With a strong background in predictive analytics and model ethics, she focuses on developing scalable, transparent, and human-centered AI systems for real-world applications.\nKeep learning and exploring — subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
   },
   {
     "objectID": "talks/2025/meetup/06162025_INGV.html",
@@ -576,39 +333,317 @@
     "text": "“Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together.”\n\n📬 Want to get involved or speak at the next event? Reach out through PyData Roma Capitale, R-Ladies Rome, or the Rome R Users Group."
   },
   {
-    "objectID": "talks/2025/meetup/10102025_KellyMarques.html",
-    "href": "talks/2025/meetup/10102025_KellyMarques.html",
-    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
     "section": "",
-    "text": "Registered Attendees (31)\nOn October 10, 2025, R-Ladies Rome hosted BNPL and Machine Learning: Decisions That Scale, a session led by Kelly Marques, data scientist and researcher in financial technology and applied machine learning."
+    "text": "Registered Attendees (430)\nOn November 2, 2025, R-Ladies Rome hosted Developing Your Data Visualisation Skills in ggplot2, an engaging and creative session led by Nicola Rennie, Data Visualisation Specialist and author of “The Art of Visualization with ggplot2”."
   },
   {
-    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
-    "href": "talks/2025/meetup/10102025_KellyMarques.html#talk-overview",
-    "title": "BNPL and Machine Learning: Decisions That Scale",
-    "section": "📊 Talk Overview",
-    "text": "📊 Talk Overview\nIn this engaging presentation, Kelly guided us through how machine learning models are transforming decision-making in the Buy Now, Pay Later (BNPL) landscape. She demonstrated live Python code examples, showing how predictive models can provide fast, scalable, and reliable assessments of user creditworthiness — even when traditional credit data is limited.\nBeyond the technical side, the talk also explored the ethical and inclusive dimensions of algorithmic credit scoring, emphasizing transparency, fairness, and access in financial decision-making."
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#workshop-overview",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html#workshop-overview",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
+    "section": "🐈 Workshop Overview",
+    "text": "🐈 Workshop Overview\nNicola walked participants through the entire process of building a data visualisation in R with ggplot2, starting from a brand new dataset — the popular TidyTuesday cats dataset. Throughout the session, she demonstrated how to explore data, sketch visual ideas, and refine designs to communicate insights clearly and beautifully.\nParticipants learned how to customise plots with themes, colours, and fonts, transforming simple graphics into polished, publication-ready visualisations."
   },
   {
-    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#recording",
-    "href": "talks/2025/meetup/10102025_KellyMarques.html#recording",
-    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#recording",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html#recording",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nThis talk is packed with insights for data scientists, fintech professionals, and anyone interested in applied ML for responsible innovation."
+    "text": "🎥 Recording\n🎬 Watch the Recording\n\nWhether you’re new to data visualisation or looking to refine your creative process, this talk offers practical steps and artistic inspiration to enhance your ggplot2 workflow."
   },
   {
-    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
-    "href": "talks/2025/meetup/10102025_KellyMarques.html#what-youll-learn",
-    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#what-youll-learn",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html#what-youll-learn",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
     "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\n\nHow to build and evaluate ML models for BNPL credit scoring\nWays to handle high-volatility and short-term behavioral data\nThe role of ethics, inclusion, and fairness in financial ML models\nPractical Python code demonstrations for end-to-end modeling"
+    "text": "🧠 What You’ll Learn\n\nHow to move from data exploration to final design using ggplot2\nTechniques for customising fonts, colours, and layouts\nWays to create aesthetic yet effective visualisations that communicate clearly"
   },
   {
-    "objectID": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
-    "href": "talks/2025/meetup/10102025_KellyMarques.html#resources-materials",
-    "title": "BNPL and Machine Learning: Decisions That Scale",
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#resources-materials",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html#resources-materials",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
     "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n\nTalk material:\n\nData: https://tinyurl.com/27awzehk\nCode: https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb\n\nR-Ladies Rome Intro Presentation: https://tinyurl.com/bdht95ss\n\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n🔊 About the Speaker\nKelly Marques is a data scientist from São Paulo (Brazil) specializing in machine learning for finance. With a strong background in predictive analytics and model ethics, she focuses on developing scalable, transparent, and human-centered AI systems for real-world applications.\nKeep learning and exploring — subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+    "text": "📦 Resources & Materials\n\nNicola’s code examples and resources: https://nrennie.rbind.io/talks/rladies-rome-ggplot2/slides.html\nR-Ladies Rome event details: https://www.meetup.com/rladies-rome\nConnect with Nicola on LinkedIn: https://www.linkedin.com/in/nicola-rennie/"
+  },
+  {
+    "objectID": "talks/2025/meetup/11042025_NicolaRennie.html#about-the-speaker",
+    "href": "talks/2025/meetup/11042025_NicolaRennie.html#about-the-speaker",
+    "title": "Developing Your Data Visualisation Skills in ggplot2",
+    "section": "🔊 About the Speaker",
+    "text": "🔊 About the Speaker\nNicola Rennie is a data visualisation specialist with a background in statistics and data science. She focuses on how to communicate complex quantitative ideas effectively using open-source tools, including R, D3, and Svelte. Nicola is the author of The Art of Visualization with ggplot2, co-author of the Royal Statistical Society’s Best Practices for Data Visualisation, and serves on the Editorial Board of Significance magazine.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
+    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html",
+    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
+    "section": "",
+    "text": "Registered Attendees (192)"
+  },
+  {
+    "objectID": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording",
+    "href": "talks/2025/meetup/02212025_IsabellaVelasquez.html#catch-the-recording",
+    "title": "Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive",
+    "section": "Catch the Recording",
+    "text": "Catch the Recording\nWe’re excited to share that the recording of Isabella Velásquez’s insightful talk, “Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”, is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this session, Isabella explores how Quarto Live and Shinylive allow data practitioners to create interactive R, Python, and Shiny applications without requiring a server. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.\n\nKey Takeaways:\n\n🚀 How Quarto Live enables interactive code blocks within documents.\n\n🌐 Running Shiny applications directly in the browser with Shinylive.\n\n🔧 Practical applications for data science, education, and dashboarding.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nIsabella Velásquez is the Senior Product Marketing Manager at Posit PBC, where she blends content strategy, data analysis, and programming to drive engagement in the data science community. Passionate about open-source, she actively contributes to making analytical tools more accessible to everyone.\n\n\nMaterial of the talk\nhttps://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser\n\n\n📚 Explore More\nFor additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:\n\nhttps://repo.r-wasm.org/\nhttps://r-universe.dev/search\nhttps://docs.r-wasm.org/webr/latest/\nhttps://quarto.org\n\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/03272025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/03272025_FedericaGazzelloni.html",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "section": "",
+    "text": "Registered Attendees (61)"
+  },
+  {
+    "objectID": "talks/2025/meetup/03272025_FedericaGazzelloni.html#catch-the-recording",
+    "href": "talks/2025/meetup/03272025_FedericaGazzelloni.html#catch-the-recording",
+    "title": "AI, Actuarial Science, and R: A New Era of Risk Modeling",
+    "section": "Catch the Recording",
+    "text": "Catch the Recording\nWe’re excited to share that the recording of Federica Gazzelloni’s insightful talk is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.\nExplore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.\n\nKey Takeaways:\n\n🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help\n🌐 R provides powerful tools for predictive modeling\n🔧 Practical applications span across insurance & risk management\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nFederica Gazzelloni is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.\nShe collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.\n\n\nMaterial of the talk\n\nGitHub Repo: https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R\nPresentation: https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/\n\n\n\n📚 Explore More\nFor additional insights check out this latest materials and tutorials:\n\nEthical Use of Artificial Intelligence for Actuaries-September 2019\nGuidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022\nActuaries using data science and artificial intelligence techniques-February 2024\nAchieving Fairness in Data-Driven Decision Making-February 2025\nJoe Cheng - Summer is Coming: AI for R, Shiny, and Pharma\nhttps://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/\nhttps://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/\n\nStay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/index.html",
+    "href": "talks/2025/index.html",
+    "title": "2025: Events and Highlights",
+    "section": "",
+    "text": "This collection showcase an array of inspiring talks and workshops featuring experts from diverse fields of data science, visualization, and open science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Basics to Advanced Health Analytics: Exploring Diabetes Data\n\n\n\nData Analysis\n\nData Visualisation\n\nHealth Data\n\nWorkshop\n\n\n\nIn this workshop, participants were guided through a complete exploratory data analysis workflow in R using a simulated diabetes dataset, focusing on data understanding…\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping Your Data Visualisation Skills in ggplot2\n\n\n\nggplot2\n\nData Visualization\n\nWorkshop\n\nR\n\n\n\nIn this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to…\n\n\n\n\n\n\nNov 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\n\nMachine Learning\n\nPython\n\nFintech\n\nResponsible AI\n\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\n\nPython\n\nStata\n\nSoftware Development\n\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive Quarto Dashboards\n\n\n\nDashboards\n\nQuarto\n\nShiny\n\nHands-on\n\n\n\nAn easy-going, hands-on workshop led by CSML lecturer Derek Sollberger, where participants learned to build interactive Quarto dashboards with Shiny, markdown, and…\n\n\n\n\n\n\nAug 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizzare dati per i pazienti (Visualizing Data for Patients)\n\n\n\nData Visualization\n\nPublic Health\n\n\n\nIn this talk, Dr. Rita Giordano explores how to design accessible and empathetic data visualizations for patients. A reflection on inclusive communication and how data can…\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Time Series with Linear Regression: A Feature-Driven Approach\n\n\n\nTime Series\n\nForecasting\n\nHands-on\n\n\n\nBeginner-friendly workshop led by author and open source contributor Rami Krispin, exploring time series forecasting through linear regression and feature engineering.\n\n\n\n\n\n\nJul 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV\n\n\n\nPython\n\nNetworking\n\n\n\nA multilingual meetup at INGV with PyData Roma Capitale, R-Ladies Rome, and Rome R Users Group. Keynote by Federica Gazzelloni on the power of R and Python.\n\n\n\n\n\n\nJun 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Small Git Commits Matter (and How to Make Them!)\n\n\n\nGit and GitHub\n\n\n\nR-Ladies Rome hosted Maëlle Salmon for a remote session on the importance of small Git commits. Learn why they matter and how to implement them effectively.\n\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom R to Python: A Gentle Introduction\n\n\n\nPython\n\n\n\nR-Ladies Rome hosted a beginner-friendly workshop on transitioning from R to Python. Explore the recording, slides, and resources to continue your Python journey.\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Actuarial Science, and R: A New Era of Risk Modeling\n\n\n\nAI\n\nOpen Source\n\nActuarial Science\n\n\n\nInsightful talk exploring how artificial intelligence and modern statistical techniques are revolutionizing actuarial work.\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive R, Python, and Shiny in the Browser with Quarto and Shinylive\n\n\n\nQuarto\n\nOpen Source\n\nShiny\n\n\n\nIsabella Velásquez showcases how to create interactive R, Python, and Shiny projects directly in the browser using Quarto Live and Shinylive.\n\n\n\n\n\n\nFeb 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead\n\n\n\nData Visualization\n\nNetworking\n\nPublic Health\n\n\n\nEli Holder discusses the unintended consequences of public health data visualization and presents actionable strategies for creating equitable, impactful visualizations.\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Talks",
+      "2025"
+    ]
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "",
+    "text": "Registered Attendees (51)\nThis May, R-Ladies Rome hosted a remote session featuring Maëlle Salmon: “Why Small Git Commits Matter (and How to Make Them!)”. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.\nWhether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others."
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#key-takeaways",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "💡 Key Takeaways",
+    "text": "💡 Key Takeaways\nIn this session, we explored:\n\n🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration\n🧠 How to structure your work to commit in logical, meaningful units\n🔧 How to fix and refine commit history with tools like git commit --amend and git rebase\n🧪 How to experiment safely using saperlipopette, a package for practicing Git workflows in R projects\n🎤 Bonus Q&A with community tips, questions, and shared real-world use cases"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#watch-the-recording",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🎥 Watch the Recording",
+    "text": "🎥 Watch the Recording\nMissed the event? No problem—you can catch the full session on YouTube:\n\nDon’t forget to like and subscribe to our R-Ladies Rome YouTube channel!"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#materials-resources",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "📦 Materials & Resources",
+    "text": "📦 Materials & Resources\n\n🖥️ Slides from the talk\n✍️ GitHub: Write Better Commits, Build Better Projects\n🧰 Positron Debugging – Lisa M. Mowinckel\n\nFor continued learning: - 📘 Pro Git Book (free) - 🧪 Git for Data Science - 🧭 GitHub Learning Lab - 🧾 GitHub Cheat Sheet (PDF)"
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#why-this-talk-mattered",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🧵 Why This Talk Mattered",
+    "text": "🧵 Why This Talk Mattered\nAt R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.\nIn this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:\n\nGit is more than a tool—it’s a practice.\n\nShe helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects."
+  },
+  {
+    "objectID": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
+    "href": "talks/2025/meetup/05272025_MaelleSalmon.html#get-involved",
+    "title": "Why Small Git Commits Matter (and How to Make Them!)",
+    "section": "🤝 Get Involved!",
+    "text": "🤝 Get Involved!\n\nWant to speak at a future event? Drop your email in the comments!\nHave someone in mind? Suggest a speaker you’d love to see.\nStay connected on Meetup, YouTube, and GitHub\n\nOur events are free, open-source, and beginner-friendly. Every month, we share kick-start resources so you can keep learning after the meetup.\nLet’s keep learning, coding, and sharing—one small commit at a time. 💜\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "",
+    "text": "Registered Attendees (125)\nOn July 03, 2025, R-Ladies Rome hosted a practical and beginner-friendly workshop titled “Forecasting Time Series with Linear Regression: A Feature-Driven Approach.” The session was led by Rami Krispin, author of Hands-On Time Series Analysis with R and an expert in time series forecasting at scale."
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#workshop-overview",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html#workshop-overview",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "📊 Workshop Overview",
+    "text": "📊 Workshop Overview\nThis talk explores the fundamentals of time series forecasting using linear regression models. We’ll cover how to transform time series data into a supervised learning format and utilize feature engineering techniques to model various components of the series, including trends, seasons, outliers, and structural breaks. This is a beginner-level workshop, and prior knowledge of time series is not needed beyond understanding how linear regression works."
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#recording",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html#recording",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re brushing up on regression or just getting started with time series, this session is packed with practical insight and real-world examples."
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#what-youll-learn",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html#what-youll-learn",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "🧠 What You’ll Learn",
+    "text": "🧠 What You’ll Learn\n\nHow to frame time series as a supervised learning problem\nWhy feature engineering matters: trends, seasonality, outliers, and breaks\nHow to apply linear models to time-dependent data\nTips for model validation and performance assessment"
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#resources-materials",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html#resources-materials",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "📦 Resources & Materials",
+    "text": "📦 Resources & Materials\n🔗 Slides & resources: https://github.com/RamiKrispin/r-ladies-rome-workshop\n🌐 Learn more:\n\nRami’s Book: https://ramikrispin.github.io/atsaf/\nRami’s Book Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R:\n\nhttps://github.com/RamiKrispin\nhttps://www.amazon.com/dp/1788629159\n\n\n📝 R-Ladies Rome Intro Presentation: https://rladiesrome.quarto.pub/july032025\n📅 Stay updated: https://www.meetup.com/rladies-rome"
+  },
+  {
+    "objectID": "talks/2025/meetup/07032025_RamiKrispin.html#about-the-speaker",
+    "href": "talks/2025/meetup/07032025_RamiKrispin.html#about-the-speaker",
+    "title": "Forecasting Time Series with Linear Regression: A Feature-Driven Approach",
+    "section": "🔊 About the Speaker",
+    "text": "🔊 About the Speaker\nRami Krispin leads the data science and engineering team at Apple Finance - Services and Infra. His team builds advanced statistical and ML models to support Apple’s strategic decisions. Rami is also an open-source contributor and author, with a special focus on scalable forecasting tools. He’s currently working on his next book: Applied Time Series Analysis and Forecasting.\n💬 Keep learning and sharing—subscribe to our YouTube channel and check out more past events on rladiesrome.org!\n#TimeSeries #Forecasting #RStats #RLadiesRome #LearningTogether #RamiKrispin\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/01092025_EliHolder.html",
+    "href": "talks/2025/meetup/01092025_EliHolder.html",
+    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
+    "section": "",
+    "text": "Registered Attendees (61)"
+  },
+  {
+    "objectID": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
+    "href": "talks/2025/meetup/01092025_EliHolder.html#catch-the-recording-deathly-dataviz",
+    "title": "Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead",
+    "section": "Catch the Recording: Deathly Dataviz",
+    "text": "Catch the Recording: Deathly Dataviz\nWe’re excited to share that the recording of Eli Holder’s insightful talk, “Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”, is now available on our YouTube channel!\n\n🎙 About the Talk\nIn this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing equitable and expressive visualizations that communicate public health data responsibly.\n\nKey Takeaways:\n\n📊 Understanding how design choices influence societal beliefs.\n\n🌍 Incorporating equity-oriented approaches in public health data visualization.\n\n🛠 Practical tools and techniques for impactful visual communication.\n\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\n\n\n\n🧑 💼 About the Speaker\nEli Holder is a researcher and expert in data visualization, with a focus on the intersection of equity, public health, and data storytelling. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.\n\n\n📚 Explore More\nFor those eager to dive deeper into the subject, don’t miss this additional material by Eli Holder, where they expand on the strategies and principles covered in the talk.\nStay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "",
+    "text": "Registered Attendees (30)\nOn July 22, 2025, R-Ladies Rome hosted a talk focused on a key but often overlooked topic: how to communicate health data effectively to the people who need it most—patients. The session was led by Dr. Rita Giordano, an expert in data visualization and user-centered design."
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#talk-overview",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html#talk-overview",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "💬 Talk Overview",
+    "text": "💬 Talk Overview\nThis session explores how health data can be made truly useful to those navigating diagnoses, treatment options, and care plans. Rita shares real-world examples that highlight the disconnect between how data is typically presented (for researchers and clinicians) and how it could better serve patients themselves.\nThrough a lens of empathy and inclusion, she invites us to reflect on how scientific and clinical communication can be reimagined to support patient understanding, trust, and agency."
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#recording",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html#recording",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nThe event was conducted in Italian, and the video is in Italian with English subtitles. Whether you’re a data scientist, healthcare professional, or simply interested in how data can empower patients, this talk is a must-watch."
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#key-topics",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html#key-topics",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "🧭 Key Topics",
+    "text": "🧭 Key Topics\n\nHow to design data visualizations that center patient needs\nThe role of empathy and accessibility in scientific communication\nWhy inclusive design is critical for health equity\nExamples of both effective and ineffective communication tools"
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#resources-materials",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html#resources-materials",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "📚 Resources & Materials",
+    "text": "📚 Resources & Materials\n🔗 Slides: https://github.com/ritagior/R-LadiesRome\n🌐 Rita’s work:\n\nhttps://ritagiordano.co.uk/\nhttps://github.com/ritagior\n\n📝 R-Ladies Rome Intro Slides: https://rladiesrome.quarto.pub/july222025\n📅 Stay updated: https://www.meetup.com/rladies-rome"
+  },
+  {
+    "objectID": "talks/2025/meetup/07222025_RitaGiordano.html#about-the-speaker",
+    "href": "talks/2025/meetup/07222025_RitaGiordano.html#about-the-speaker",
+    "title": "Visualizzare dati per i pazienti (Visualizing Data for Patients)",
+    "section": "👩‍🏫 About the Speaker",
+    "text": "👩‍🏫 About the Speaker\nRita Giordano is a data visualization designer with a strong focus on accessibility and clarity in public health and medical communication. She collaborates with organizations across Europe to help turn complex data into useful, understandable information—especially for those most affected.\n💬 Let’s keep working to make data accessible to everyone. Subscribe to our YouTube channel and explore more events at rladiesrome.org!\n#DataViz #HealthCommunication #InclusiveDesign #RLadiesRome #RStats #EmpathyInDesign\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html",
+    "title": "Interactive Quarto Dashboards",
+    "section": "",
+    "text": "Registered Attendees (116)\nOn August 24, 2025, R-Ladies Rome hosted Interactive Quarto Dashboards, a collaborative and beginner-friendly workshop led by Derek Sollberger, lecturer at the Center for Statistics and Machine Learning and Posit Certified Tidyverse Instructor."
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#workshop-overview",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html#workshop-overview",
+    "title": "Interactive Quarto Dashboards",
+    "section": "📊 Workshop Overview",
+    "text": "📊 Workshop Overview\nIn this easy-going workshop, participants explored how to build interactive web-based dashboards that enable teams—whether in academic or business settings—to present information via multiple graphs and tables. The session covered techniques to filter, sort, visualize data, uncover trends, and present results with both function and aesthetic appeal using R, Quarto, Shiny, Markdown, and geospatial data. Some prior programming experience was helpful, though not required."
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#recording",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html#recording",
+    "title": "Interactive Quarto Dashboards",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\n🎬 Watch the Video Now\n\nWhether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately."
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#what-youll-learn",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html#what-youll-learn",
+    "title": "Interactive Quarto Dashboards",
+    "section": "🧠 What You’ll Learn",
+    "text": "🧠 What You’ll Learn\n\nHow to assemble interactive dashboards using Quarto and Shiny\n\nMethods for effective data presentation: filtering, sorting, and trend exploration\n\nTechniques for adding geospatial data and aesthetic polish to your dashboards"
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#resources-materials",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html#resources-materials",
+    "title": "Interactive Quarto Dashboards",
+    "section": "📦 Resources & Materials",
+    "text": "📦 Resources & Materials\n\nWorkshop slides and code (GitHub):\n\nhttps://dsollbergerquarto.netlify.app/posts/dslc_quarto_dashboards/quarto_dashboards\nhttps://github.com/dsollberger/q_dashboards\n\nR-Ladies Rome Intro Presentation: https://rladiesrome.quarto.pub/august242025\nStay updated via Meetup: https://www.meetup.com/rladies-rome"
+  },
+  {
+    "objectID": "talks/2025/meetup/08242025_DerekSollberger.html#about-the-speaker",
+    "href": "talks/2025/meetup/08242025_DerekSollberger.html#about-the-speaker",
+    "title": "Interactive Quarto Dashboards",
+    "section": "🔊 About the Speaker",
+    "text": "🔊 About the Speaker\nDerek Sollberger is a lecturer at CSML (Center for Statistics and Machine Learning), specializing in Data Science, AI Methods, and Bayesian Analysis. A Posit Certified Tidyverse Instructor, Derek brings experience from leading R workshops and consulting on pedagogy-driven data projects.\nKeep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "",
+    "text": "Registered Attendees (68)\nThis April 2025, R-Ladies Rome hosted a beginner-friendly workshop titled “From R to Python: A Gentle Introduction”, designed to help R users and beginners take their first steps into the world of Python. This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.\nWhether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-we-covered",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💡 What We Covered",
+    "text": "💡 What We Covered\nDuring the session, we explored:\n\nThe similarities and differences between R and Python\nHow to perform common data analysis tasks in Python\n\nAn introduction to popular Python libraries like pandas, scikit-learn, and seaborn\n\nWe also demoed basic workflows, provided a starter script, and answered audience questions live."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#what-you-said",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📊 What You Said",
+    "text": "📊 What You Said\nWe asked participants three short questions using Slido. Here’s what they shared:\n\n🟣 On a scale of 1 to 5, how confident are you with programming languages?\n\n\n\n🟣 What is your favorite programming language?\n\n\n\n🟣 How familiar are you with Python?"
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#workshop-materials",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📦 Workshop Materials",
+    "text": "📦 Workshop Materials\nAll workshop materials are freely available:\n\n🎤 Presentation Slides\n\n📖 Workshop Booklet\n\n💻 GitHub Repository\n\nYou’ll find setup instructions, sample datasets, and the Python scripts we used during the event."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#recording",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\nYou can rewatch the full event on our YouTube channel:\n🎬 Watch the Video Now Simply click on the video below to catch up on the discussion:\n\nWhether you missed the event or just want a refresher, it’s all there for you."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#learn-more-python-resources-for-beginners",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "📚 Learn More: Python Resources for Beginners",
+    "text": "📚 Learn More: Python Resources for Beginners\nIf you’re ready to keep going, here are some recommended resources:\n\nPython for Data Analysis (Wes McKinney) – The classic book for learning pandas and data wrangling in Python.\nReal Python – A comprehensive site full of beginner tutorials and hands-on examples.\nPython Basics – Simple and direct explanations of core Python concepts.\nDataCamp’s Python tracks – Interactive exercises for data science beginners.\nThe Carpentries Python Lessons – Friendly workshops teaching foundational skills.\nKaggle Python Micro-Course – Great for learning through applied exercises.\n\nIf you prefer video: - Corey Schafer YouTube Channel – Detailed and beginner-friendly. - freeCodeCamp Python course – Full-length intro course, highly rated.\n\n📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning."
+  },
+  {
+    "objectID": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
+    "href": "talks/2025/meetup/04272025_FedericaGazzelloni.html#thank-you",
+    "title": "From R to Python: A Gentle Introduction",
+    "section": "💜 Thank You",
+    "text": "💜 Thank You\nThank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!\nStay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜\n\n← Previous event | Next event →"
   },
   {
     "objectID": "talks/2025/meetup/09292025_ChuckHuber.html",
@@ -844,7 +879,7 @@
     "href": "index.html",
     "title": "R-Ladies Rome",
     "section": "",
-    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping Your Data Visualisation Skills in ggplot2\n\n\nIn this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to…\n\n\n\n\n\n\nNov 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Python Within Stata\n\n\nExplore how to use Python within Stata to expand your analytical toolkit! In this session, Dr. Chuck Huber demonstrates how to combine the power of both languages for…\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Basics to Advanced Health Analytics: Exploring Diabetes Data\n\n\nIn this workshop, participants were guided through a complete exploratory data analysis workflow in R using a simulated diabetes dataset, focusing on data understanding…\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping Your Data Visualisation Skills in ggplot2\n\n\nIn this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to…\n\n\n\n\n\n\nNov 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPL and Machine Learning: Decisions That Scale\n\n\nIn this session, data scientist Kelly Marques shared how machine learning models are shaping decision-making in the Buy Now, Pay Later (BNPL) landscape — blending code…\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "blog/posts/05142023/index.html",

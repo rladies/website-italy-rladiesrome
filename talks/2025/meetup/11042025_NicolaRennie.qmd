@@ -7,7 +7,7 @@ image-alt: "Nicola Rennie presenting at R-Ladies Rome"
 description: "In this session, data visualisation specialist Nicola Rennie guided participants through the process of developing a complete ggplot2 visualisation—from data exploration to final design polish—using the TidyTuesday cats dataset."
 categories:
   - ggplot2
-  - DataViz
+  - Data Visualization
   - Workshop
   - R
 ---

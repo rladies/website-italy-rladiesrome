@@ -1,0 +1,60 @@
+---
+title: "From Basics to Advanced Health Analytics: Exploring Diabetes Data"
+subtitle: "Principles of Data Analysis Series"
+date: 2025-12-05
+image: "https://secure.meetupstatic.com/photos/event/b/1/d/2/highres_531585522.webp?w=1080"
+image-alt: "R-Ladies Rome workshop on health data analysis in R"
+description: "In this workshop, participants were guided through a complete exploratory data analysis workflow in R using a simulated diabetes dataset, focusing on data understanding, cleaning, visualisation, and clustering interpretation in a health data context."
+categories:
+  - Data Analysis
+  - Data Visualisation
+  - Health Data
+  - Workshop
+---
+
+Registered Attendees (84)
+
+On December 17, 2025, `R-Ladies Rome` hosted [From Basics to Advanced Health Analytics: Exploring Diabetes Data](https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html), a hands-on workshop designed to guide participants through the earliest and most critical stages of applied data analysis using R.
+
+The session focused on building a clear, defensible analytical workflow starting from raw data and progressing through exploration, preparation, and interpretation. Using a simulated diabetes dataset inspired by real-world health studies, the workshop emphasised how analytical decisions emerge from evidence in the data rather than from pre-defined modelling choices.
+
+## 🩺 Workshop Overview
+
+The workshop was led by [Rafaela Ribeiro Lucas](https://www.linkedin.com/in/rafaelagrlucas/), [Federica Gazzelloni](https://www.linkedin.com/in/federicagazzelloni/), and [Lucy Michaels](https://www.linkedin.com/in/lucymichaels/), organisers of `R-Ladies Rome`, who jointly guided participants through a complete exploratory analysis workflow using a simulated diabetes dataset.
+
+In the first part of the workshop, `Rafaela` focused on **descriptive statistics**, using the simulated diabetes dataset to demonstrate how numerical summaries provide essential grounding for any analysis. Alongside measures of central tendency, variability, and distribution, she introduced **prevalence calculations** to show how key health indicators are derived and interpreted in practice. **Contingency tables** were used to explore relationships between categorical variables, allowing participants to examine how diabetes status varies across demographic groups, while **chi-squared tests** were discussed as a way to formally assess whether observed differences are likely to reflect underlying associations rather than random variation. 
+
+Building directly on these exploratory insights, `Federica` then showed how data visualisation can be used to deepen understanding and communicate findings clearly. Using ggplot2, she demonstrated how to make histogram, density and boxplots, and how to do little improvements with tools such as `scales_` and `labs` functions. She then added insights about layout—affect interpretation, and how plots can support analytical reasoning rather than simply summarising results. This part of the session reinforced the idea that visualisation is an integral component of analysis, closely tied to both exploration and explanation.
+
+The final part of the workshop was led by `Lucy`, who introduced **clustering** as a way to explore heterogeneity within the population. Focusing on the intuition behind **k-prototypes clustering**, Lucy explained how this approach allows analysts to work simultaneously with numerical and categorical variables, a common challenge in health and demographic data. Rather than presenting clustering as a definitive classification tool, the discussion emphasised interpretation, limitations, and the role of clustering as a complementary method that can reveal structure and risk profiles not immediately visible through standard summaries or models.
+
+Together, these three perspectives laid the groundwork for subsequent modelling stages. The session demonstrated how exploratory analysis, visualisation, and clustering naturally lead to modelling questions, such as identifying factors associated with diabetes status or understanding variation across population subgroups. 
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/yBIFKiyfupc >}}
+
+The recording is suitable both for participants who attended the live session and for those who wish to follow the full workflow at their own pace.
+
+🧠 What You’ll Learn
+
+Participants will gain a clear understanding of how to approach exploratory data analysis in R in a structured and defensible way, particularly when working with health-related data. The session demonstrates how to move from raw data to informed analytical questions, how to justify cleaning and preparation decisions, and how to use visualisation as an integral part of the reasoning process rather than as a final reporting step.
+
+## 📦 Resources & Materials
+
+- Workshop materials and code: <https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html>
+
+- R-Ladies Rome events and resources: <https://www.meetup.com/rladies-rome>
+
+## 🔊 About the Workshop
+
+This workshop is part of the **Principles of Data Analysis in R series** developed by `R-Ladies Rome`. The series aims to provide practical, reproducible, and conceptually grounded guidance for applied data analysis, with a strong emphasis on transparency, interpretation, and real-world relevance.
+
+No prior experience with medical datasets is required, and all code is explained step by step, making the material accessible to a broad audience of R users.
+
+Keep learning and exploring—subscribe to our YouTube channel and revisit past events on
+rladiesrome.org!
+
+<center>[← Previous event](/talks/2025/meetup/11042025_NicolaRennie.qmd) | [Next event →](/talks/2025/meetup/NextEvent.qmd)</center>
