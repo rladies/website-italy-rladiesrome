@@ -3,7 +3,6 @@ title: "Blog Posts 🗞️"
 #subtitle: "Have a look at the latest Blog Posts of `R-Ladies Rome`"
 listing:
   contents: posts
-  feed: true
   sort: "date desc"
   type: grid
   image-height: "200"

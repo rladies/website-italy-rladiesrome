@@ -16,6 +16,7 @@ listing:
     - /talks/2023/meetup
     - /talks/2024/meetup
     - /talks/2025/meetup
+    feed: true
     sort: "date desc"
     type: grid
     image-height: "200"

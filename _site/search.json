@@ -810,7 +810,8 @@
     "text": "R-Ladies began as a meetup group in San Francisco in 2012 when Gabriela de Queiroz founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, R-Ladies Global was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 219 chapters in 63 countries and over 3943 events contributing to promote gender diversity in the R community.",
     "crumbs": [
       "Introduction",
-      "About"
+      "About",
+      "Organizers"
     ]
   },
   {
@@ -821,7 +822,8 @@
     "text": "Federica Gazzelloni Lead Organizer. I am an independent researcher passionate about data science, with a background in actuarial statistics and expertise in collaborative environments. My journey extends from traditional actuarial work using Excel to advanced data science with R. As the lead organizer of R-Ladies Rome, I advocate for gender diversity and knowledge-sharing, hosting various events promoting the R language. I am also a book club facilitator with the R4DS online community, fostering collaborative learning. Additionally, I have contributed as a reviewer to global health initiatives, emphasizing accessible learning and effective communication. (September 2022 to Present)\n\n\n\n\nFederica Gazzelloni",
     "crumbs": [
       "Introduction",
-      "About"
+      "About",
+      "Organizers"
     ]
   },
   {
@@ -832,7 +834,8 @@
     "text": "Rafaela Ribeiro Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master’s degree in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n\n\n\n\nRafaela Ribeiro",
     "crumbs": [
       "Introduction",
-      "About"
+      "About",
+      "Organizers"
     ]
   },
   {
@@ -843,7 +846,8 @@
     "text": "Lucy Michaels Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master’s in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science. This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I’m also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n\n\n\n\nLucy Michaels\n\n\n\n\n\nTo get in touch with R-Ladies Rome, you can email us at rome@rladies.org, follow us on Twitter at @rladiesrome, and check out our GitHub account at meetup-presentations_rome. We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.\n\n\n\n\n\n\n\nWe have a code of conduct that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.\n\n\nSponsored by  Consortium",
     "crumbs": [
       "Introduction",
-      "About"
+      "About",
+      "Organizers"
     ]
   },
   {
@@ -851,28 +855,48 @@
     "href": "about/sponsors.html",
     "title": "Sponsor",
     "section": "",
-    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community."
+    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
     "objectID": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
     "href": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
     "title": "Sponsor",
     "section": "",
-    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community."
+    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
     "objectID": "about/sponsors.html#why-r-consortium",
     "href": "about/sponsors.html#why-r-consortium",
     "title": "Sponsor",
     "section": "Why R Consortium?",
-    "text": "Why R Consortium?\nR Consortium’s mission aligns perfectly with our goals at R-Ladies Rome. They provide essential support to projects and initiatives that enhance R’s capabilities and accessibility. By partnering with R Consortium, we’re strengthening our commitment to empowering data enthusiasts, promoting R programming, and fostering a vibrant community."
+    "text": "Why R Consortium?\nR Consortium’s mission aligns perfectly with our goals at R-Ladies Rome. They provide essential support to projects and initiatives that enhance R’s capabilities and accessibility. By partnering with R Consortium, we’re strengthening our commitment to empowering data enthusiasts, promoting R programming, and fostering a vibrant community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
     "objectID": "about/sponsors.html#what-this-means-for-you",
     "href": "about/sponsors.html#what-this-means-for-you",
     "title": "Sponsor",
     "section": "What This Means for You",
-    "text": "What This Means for You\nThis partnership brings numerous benefits to our community. We’ll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we’ll continue to grow, learn, and share knowledge within the R programming ecosystem.\nWe’re grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.\nLet’s embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here’s to a bright future of learning, innovation, and community-building!\n#RConsortium #RProgramming #DataScience #CommunityBuilding"
+    "text": "What This Means for You\nThis partnership brings numerous benefits to our community. We’ll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we’ll continue to grow, learn, and share knowledge within the R programming ecosystem.\nWe’re grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.\nLet’s embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here’s to a bright future of learning, innovation, and community-building!\n#RConsortium #RProgramming #DataScience #CommunityBuilding",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
     "objectID": "index.html",

@@ -81,6 +81,8 @@ website:
         href: https://www.linkedin.com/company/rladiesrome
       - icon: instagram
         href: https://www.instagram.com/rladiesrome/
+      - icon: rss
+        href: index.xml  
     right: |
       This Website is built with ❤️ and [Quarto](https://quarto.org/)
   sidebar:
@@ -101,7 +103,10 @@ website:
             href: talks/2024/index.qmd
           - text: "2025"
             href: talks/2025/index.qmd  
-      - text: About
-        href: about/organizers.qmd    
-      - sponsors.qmd 
+      - section: "About"
+        contents:      
+          - text: "Organizers"
+            href: about/organizers.qmd    
+          - text: "Sponsors"
+            href: about/sponsors.qmd 
         
