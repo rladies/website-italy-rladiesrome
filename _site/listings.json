@@ -1,38 +1,8 @@
 [
   {
-    "listing": "/talks/2025/index.html",
+    "listing": "/talks/2026/index.html",
     "items": [
-      "/talks/2025/meetup/12172025_organizers.html",
-      "/talks/2025/meetup/11042025_NicolaRennie.html",
-      "/talks/2025/meetup/10102025_KellyMarques.html",
-      "/talks/2025/meetup/09292025_ChuckHuber.html",
-      "/talks/2025/meetup/08242025_DerekSollberger.html",
-      "/talks/2025/meetup/07222025_RitaGiordano.html",
-      "/talks/2025/meetup/07032025_RamiKrispin.html",
-      "/talks/2025/meetup/06162025_INGV.html",
-      "/talks/2025/meetup/05272025_MaelleSalmon.html",
-      "/talks/2025/meetup/04272025_FedericaGazzelloni.html",
-      "/talks/2025/meetup/03272025_FedericaGazzelloni.html",
-      "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
-      "/talks/2025/meetup/01092025_EliHolder.html"
-    ]
-  },
-  {
-    "listing": "/talks/2024/index.html",
-    "items": [
-      "/talks/2024/meetup/12102024/index.html",
-      "/talks/2024/meetup/11182024/index.html",
-      "/talks/2024/meetup/10302024/index.html",
-      "/talks/2024/meetup/09302024/index.html",
-      "/talks/2024/meetup/07292024/index.html",
-      "/talks/2024/meetup/07182024/index.html",
-      "/talks/2024/meetup/06282024/index.html",
-      "/talks/2024/meetup/05242024/index.html",
-      "/talks/2024/meetup/04162024/index.html",
-      "/talks/2024/meetup/03222024/index.html",
-      "/talks/2024/meetup/02202024/index.html",
-      "/talks/2024/meetup/02172024/index.html",
-      "/talks/2024/meetup/01162024/index.html"
+      "/talks/2026/meetup/01292026_federicagazzelloni.html"
     ]
   },
   {
@@ -55,8 +25,45 @@
     ]
   },
   {
+    "listing": "/talks/2024/index.html",
+    "items": [
+      "/talks/2024/meetup/12102024/index.html",
+      "/talks/2024/meetup/11182024/index.html",
+      "/talks/2024/meetup/10302024/index.html",
+      "/talks/2024/meetup/09302024/index.html",
+      "/talks/2024/meetup/07292024/index.html",
+      "/talks/2024/meetup/07182024/index.html",
+      "/talks/2024/meetup/06282024/index.html",
+      "/talks/2024/meetup/05242024/index.html",
+      "/talks/2024/meetup/04162024/index.html",
+      "/talks/2024/meetup/03222024/index.html",
+      "/talks/2024/meetup/02202024/index.html",
+      "/talks/2024/meetup/02172024/index.html",
+      "/talks/2024/meetup/01162024/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/2025/index.html",
+    "items": [
+      "/talks/2025/meetup/12172025_organizers.html",
+      "/talks/2025/meetup/11042025_NicolaRennie.html",
+      "/talks/2025/meetup/10102025_KellyMarques.html",
+      "/talks/2025/meetup/09292025_ChuckHuber.html",
+      "/talks/2025/meetup/08242025_DerekSollberger.html",
+      "/talks/2025/meetup/07222025_RitaGiordano.html",
+      "/talks/2025/meetup/07032025_RamiKrispin.html",
+      "/talks/2025/meetup/06162025_INGV.html",
+      "/talks/2025/meetup/05272025_MaelleSalmon.html",
+      "/talks/2025/meetup/04272025_FedericaGazzelloni.html",
+      "/talks/2025/meetup/03272025_FedericaGazzelloni.html",
+      "/talks/2025/meetup/02212025_IsabellaVelasquez.html",
+      "/talks/2025/meetup/01092025_EliHolder.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/talks/2026/meetup/01292026_federicagazzelloni.html",
       "/talks/2025/meetup/12172025_organizers.html",
       "/talks/2025/meetup/11042025_NicolaRennie.html",
       "/talks/2025/meetup/10102025_KellyMarques.html",

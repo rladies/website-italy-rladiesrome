@@ -3,6 +3,22 @@ title: "Former Co-Organizers"
 subtitle: "Who we are, where we are from, and what we do"
 ---
 
+##
+
+:::: columns
+::: {.column width="60%"}
+[Lucy Michaels](https://www.linkedin.com/in/lucymichaels/) Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master's in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science.  This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I'm also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n
+:::
+
+::: {.column width="40%"}
+![Lucy Michaels](organizers_picts/lucy-michaels.jpg)
+
+:::
+::::
+
+
+##
+
 :::: columns
 ::: {.column width="45%"}
 [Silvana Acosta](https://www.linkedin.com/in/silacos/) Organizer. Senior Data Scientist with six years of experience in the fields of data science, finance, and consultancy, analyzing and modelling data.\n
@@ -15,6 +31,7 @@ subtitle: "Who we are, where we are from, and what we do"
 ::: {.column width="0.5%"}
 :::
 
+## 
 
 ::: {.column width="45%"}
 [Francesca Picone](https://www.linkedin.com/in/francesca-picone-481783175/) Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n
@@ -27,6 +44,7 @@ subtitle: "Who we are, where we are from, and what we do"
 
 :::
 
+##
 
 ::: columns
 

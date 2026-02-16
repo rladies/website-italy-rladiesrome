@@ -1,0 +1,71 @@
+---
+title: "Git & GitHub: Practical Version Control for Data Work"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-01-29
+image: "https://secure.meetupstatic.com/photos/event/6/e/d/4/highres_532408372.webp?w=1080"
+image-alt: "R-Ladies Rome tutorial on Git and GitHub workflows"
+description: "In this tutorial, participants were guided through a practical, workflow-first introduction to Git and GitHub, covering the terminal vs shell mental model, local version control fundamentals, essential commands, safe undo patterns, and how GitHub fits into collaboration."
+categories:
+  - Reproducible Research
+  - Git
+  - GitHub
+  - Workflow
+  - Tutorial
+---
+
+Registered Attendees (119)
+
+On January 29, 2026, **R-Ladies Rome** hosted **Git & GitHub: Practical Version Control for Data Work**, a hands-on tutorial aimed at demystifying version control for people working with data, analysis, and research projects.
+
+The session was designed for beginners and R users, with a strong focus on building a clear mental model first and only then introducing the commands. The key message was simple and intentionally repeated throughout the talk:
+
+> Git is local version control. GitHub is an optional remote layer for sharing and collaboration.
+
+## 🧩 Tutorial Overview
+
+The tutorial was presented by **Federica Gazzelloni**, Lead Organizer of R-Ladies Rome. We started from the environment most learners find confusing: the command line.
+
+In the first section, we clarified the difference between terminal and shell, and why this matters when learning Git. Many Git *"mysteries"* disappear once you understand that the terminal is just the window, while the shell is the interpreter running inside it. We also covered what to expect across platforms (macOS zsh, bash commonly used in RStudio, and typical Windows setups via WSL).
+
+From there, we moved to Git fundamentals and framed Git as a local tool that works without accounts or internet access. The tutorial explained what a repository really is (a folder containing a hidden .git directory) and how Git records change through the staged workflow: working directory → staging area → commit history.
+
+The practical part of the session walked through the essential local commands, `git init`, `git status`, `git add`, `git commit`, `git log`, `git diff.`
+
+Finally, we positioned GitHub as the collaboration layer: remotes, push/pull, and how GitHub enables teamwork when you already understand local Git.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/Sa8NPcaNYLo >}}
+
+The recording is suitable both for participants who attended live and for anyone who wants to follow the workflow at their own pace.
+
+## 🧠 What You’ll Learn
+
+By watching the recording and working through the guide, you will learn how to:
+
+-   distinguish clearly between terminal and shell, and work comfortably from the command line
+-   understand Git as a local history of your project, not *"a cloud thing"*
+-   move confidently through the core Git states: modified → staged → committed
+-   use essential commands for day-to-day work (status, add, commit, log, diff)
+-   understand how GitHub fits into the workflow once local Git is solid
+-   explore branching and merging as a way to manage parallel work
+
+Next steps:
+
+-   undo mistakes safely using the right tool for the situation (restore, reset, revert) - check the material below 👇
+
+## 📦 Resources & Materials
+
+-   [Workshop guide (PDF)](material/code.pdf)
+-   [Slides](https://tinyurl.com/ms5n8z9h)
+-   [RLadiesRome Chapter Intro](https://tinyurl.com/5w332kau)
+
+## 🔊 About the Tutorial
+
+This tutorial is part of the **R-Ladies Rome Tutorials** series, created to support practical, reproducible workflows for data work. The goal is to make core tooling approachable without oversimplifying it, so participants leave with a mental model they can actually use in real projects.
+
+Keep learning and exploring,subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2025/meetup/12172025_organizers.qmd) \| [Next event →](/talks/2026/meetup/NextSpeaker.qmd)</center>

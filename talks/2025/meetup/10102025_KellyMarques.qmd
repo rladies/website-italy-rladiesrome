@@ -54,4 +54,4 @@ This talk is packed with insights for data scientists, fintech professionals, an
 Keep learning and exploring — subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
 
 
-<center>[← Previous event](/talks/2025/meetup/09292025_ChuckHuber.qmd) | [Next event →](/talks/2025/NextSpeaker.qmd)</center>  
+<center>[← Previous event](/talks/2025/meetup/09292025_ChuckHuber.qmd) | [Next event →](/talks/2025/meetup/11042025_NicolaRennie.qmd)</center>  

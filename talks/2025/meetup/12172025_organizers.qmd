@@ -57,4 +57,4 @@ No prior experience with medical datasets is required, and all code is explained
 Keep learning and exploring—subscribe to our YouTube channel and revisit past events on
 rladiesrome.org!
 
-<center>[← Previous event](/talks/2025/meetup/11042025_NicolaRennie.qmd) | [Next event →](/talks/2025/meetup/NextEvent.qmd)</center>
+<center>[← Previous event](/talks/2025/meetup/11042025_NicolaRennie.qmd) | [Next event →](/talks/2026/meetup/01292026_federicagazzelloni.qmd)</center>
