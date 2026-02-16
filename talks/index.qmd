@@ -21,6 +21,7 @@ editor:
 [**2023**](2023/index.qmd){.btn .btn-outline-primary .me-2} 
 [**2024**](2024/index.qmd){.btn .btn-outline-primary .me-2} 
 [**2025**](2025/index.qmd){.btn .btn-outline-primary}
+[**2026**](2026/index.qmd){.btn .btn-outline-primary}
 
 </div>
 
