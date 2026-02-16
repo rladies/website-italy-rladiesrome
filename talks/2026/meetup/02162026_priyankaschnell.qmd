@@ -1,0 +1,77 @@
+---
+title: "From Data to Decisions: Digital Twins for Smarter Maintenance"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-02-16
+image: "https://secure.meetupstatic.com/photos/event/7/a/2/highres_532501954.webp?w=1080"
+image-alt: "R-Ladies Rome tutorial on digital twins and condition-based maintenance"
+description: "In this session, Priyanka Schnell presented a physics-informed, data-driven approach to Condition-Based Maintenance using a digital twin model, anomaly detection, and simulated drilling data from aerospace manufacturing."
+categories:
+  - Digital Twin
+  - Production Systems
+  - Anomaly Detection
+  - Data Science
+  - Tutorial
+  - Python
+---
+
+Registered Attendees (65)
+
+On February 16, 2026, **R-Ladies Rome** hosted **From Data to Decisions: Digital Twins for Smarter Maintenance**, a practical session focused on how data science moves beyond notebooks and into real production systems.
+
+The talk presented a physics-informed approach to **Condition-Based Maintenance (CBM)** through a real-world aerospace case study. The central question of the session was clear:
+
+> How do we detect failure before it happens — and make decisions that reduce cost and risk?
+
+## 🧩 Tutorial Overview
+
+The session was delivered by **Priyanka Schnell**, Chief Technology Officer at Insurfox. With experience in enterprise-scale digital systems and aerospace manufacturing, Priyanka guided us through how sensor data, physics models, and anomaly detection can work together in production.
+
+The context: robotic drilling in A321 wing assembly. A single snapped drill bit can cause burrs or delamination, potentially scrapping a wing skin valued at €150,000. Traditional maintenance policies replaced drill bits after a fixed number of holes — a strategy that often led to premature replacements or unexpected failures.
+
+Instead of relying on static thresholds, the session introduced a **digital twin** approach.
+
+We explored:
+
+- how high-frequency sensor data (torque, vibration, speed, feed rate) can be transformed into meaningful features  
+- why **Specific Cutting Energy** helps detect “wasted energy” before functional failure  
+- how regime normalization allows comparison across aluminum and titanium cutting  
+- how **Isolation Forest** can identify deviations without labeled failure data  
+- why persistence rules (e.g., “6 of 12”) reduce alert noise  
+- how early detection within the P–F interval provides actionable lead time  
+
+The session included a live walkthrough in Google Colab using simulated data to demonstrate the workflow step-by-step.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/9lcm3Nsj0No >}}
+
+The recording is suitable both for participants who attended live and for anyone interested in understanding how anomaly detection and digital twins operate in high-stakes environments.
+
+## 🧠 What You’ll Learn
+
+By watching the recording, you will learn how to:
+
+-   understand what a digital twin means in practical data terms  
+-   engineer physics-informed features from raw sensor signals  
+-   apply unsupervised anomaly detection in production settings  
+-   use persistence logic to stabilize alert systems  
+-   think beyond time-based rules toward dynamic maintenance strategies  
+-   connect domain knowledge with statistical modeling  
+
+## 📦 Resources & Materials
+
+-   [Intro Presentation](https://tinyurl.com/rladiesrome-february2026)
+-   [Tutorial Slides and Colab Code](https://github.com/rladies/meetup-presentations_rome/tree/main/events/2026/intro_presentation/material/02_material_feb26)
+
+## 🔊 About the Tutorial
+
+This session is part of the **R-Ladies Rome Tutorials** series, which focuses on practical workflows and real-world data applications.
+
+Our goal is to show how data science connects to operational systems — where decisions have financial and technical consequences. We aim to make advanced topics accessible without removing the rigor behind them.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2026/meetup/01292026_federicagazzelloni.qmd) \| [Next event →](/talks/2026/NextSpeaker.qmd)</center>
+

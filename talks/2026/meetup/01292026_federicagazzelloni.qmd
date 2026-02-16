@@ -58,7 +58,7 @@ Next steps:
 
 ## 📦 Resources & Materials
 
--   [Workshop guide (PDF)](material/code.pdf)
+-   [Workshop guide (PDF)](material/01_code.pdf)
 -   [Slides](https://tinyurl.com/ms5n8z9h)
 -   [RLadiesRome Chapter Intro](https://tinyurl.com/5w332kau)
 
@@ -68,4 +68,4 @@ This tutorial is part of the **R-Ladies Rome Tutorials** series, created to supp
 
 Keep learning and exploring,subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
 
-<center>[← Previous event](/talks/2025/meetup/12172025_organizers.qmd) \| [Next event →](/talks/2026/meetup/NextSpeaker.qmd)</center>
+<center>[← Previous event](/talks/2025/meetup/12172025_organizers.qmd) \| [Next event →](/talks/2026/NextSpeaker.qmd)</center>
