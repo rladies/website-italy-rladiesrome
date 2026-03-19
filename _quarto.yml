@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - google7af2f480fcbc996e.html
+  output-dir: _site
 
 metadata-files:
   - _website.yml

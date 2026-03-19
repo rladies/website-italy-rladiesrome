@@ -1,0 +1,73 @@
+---
+title: "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-03-18
+image: "https://secure.meetupstatic.com/photos/event/c/3/a/8/highres_533030088.webp?w=1080"
+image-alt: "R-Ladies Rome event on new dplyr features"
+description: "In this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world data workflows."
+categories:
+  - R Programming
+  - Tidyverse
+  - dplyr
+  - Data Workflow
+  - Tutorial
+---
+
+Registered Attendees (102)
+
+At R-Ladies Rome we often focus on tools that quietly shape how we work every day. **{dplyr}** is one of those tools. Many of us use it almost instinctively, but every new release brings small improvements that can significantly change how we write and think about our data pipelines.
+
+In this session, we were delighted to welcome **Isabella Velásquez (Developer Relations at Posit PBC)** for a practical tour of the newest features introduced in **{dplyr} 1.2.0**. The focus was not just on new syntax, but on understanding *why these tools exist* and *when they actually make our work easier*.
+
+## 🧩 Tutorial Overview
+
+The session walked through the evolution of common data manipulation patterns and how the new functions help simplify logic that previously required more complex workarounds.
+
+We explored:
+
+- how `when_any()` and `when_all()` help express conditional logic more clearly  
+- how to rethink workflows that previously relied on `case_match()`  
+- improvements to filtering logic that make pipelines easier to read  
+- practical examples grounded in realistic data workflows  
+
+As often happens in R-Ladies Rome sessions, the emphasis was not on memorizing functions but on building intuition. The goal was to leave participants with a clearer mental model of how to approach data transformations.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/xCbFl_Ez6VM >}}
+
+The recording is suitable both for participants who attended live and for anyone wanting a practical overview of how the newest **dplyr** features fit into everyday work.
+
+## 🧠 What You’ll Learn
+
+By watching the recording, you will learn how to:
+
+- understand the design ideas behind the newest dplyr functions  
+- simplify conditional filtering logic  
+- improve readability of transformation pipelines  
+- choose clearer patterns for data manipulation  
+- write tidyverse code that is easier to maintain and share  
+
+## 📦 Resources & Materials
+
+- [Intro Presentation](https://tinyurl.com/rladiesrome-march2026)
+- [Slides](https://ivelasq-dplyr-1-2-0.share.connect.posit.cloud/)
+- [dyplr 1.2.0](https://tidyverse.org/blog/2026/02/dplyr-1-2-0/)
+- [TidyData Tutor](https://tidydatatutor.com/)
+
+## 🔊 About the Speaker
+
+**Isabella Velásquez** works in Developer Relations at Posit PBC, where she helps the data science community adopt modern tools and workflows. Her work connects programming, communication, and data analysis, with a strong focus on making data science tools approachable and practical.
+
+## 🔊 About the Tutorial
+
+This session is part of the **R-Ladies Rome Tutorials** series, where we focus on practical tools that support reproducible and sustainable data workflows.
+
+Our goal is always the same: to help people move from *knowing functions* to *understanding workflows*. Whether someone is just starting with R or refining their practice, we aim to provide sessions that strengthen both technical skills and confidence.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2026/meetup/02162026_priyankaschnell.qmd) | [Next event →](/talks/2026/meetup/NextSpeaker.qmd)</center>
+

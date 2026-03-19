@@ -17,88 +17,219 @@
     "text": "As we bid adieu to our past events, we’re gearing up to embrace a new and exciting chapter at R-Ladies Rome. The first half of the year has been packed with incredible talks and insightful gatherings, and we couldn’t be more grateful for your active participation and support. But, there’s no time to dwell on the past because we’re thrilled to welcome November, our Data Visualization Month, with not one, but two fantastic events!\nStay tuned as we embark on a journey into the world of data visualization. It’s a month that promises to be packed with learning, sharing, and exploring the art of turning data into captivating visuals. So, mark your calendars and join us for a deep dive into the fascinating realm of data visualization with our upcoming events. Get ready for a month filled with data-driven creativity and inspiration!\nWe also want to express our heartfelt gratitude to all our speakers who generously shared their expertise, and to our incredible community for their active engagement and support. Your contributions make R-Ladies Rome the dynamic and thriving community that it is.\nKeep an eye on our announcements for more details about the upcoming events. If you have any questions or missed any of our previous talks, feel free to reach out to us at rome@rladies.org. Your feedback and participation drive our community forward, and we’re excited to explore the world of data visualization with you! 🌟\n\n\n\n Back to top"
   },
   {
-    "objectID": "blog/posts/10232023/index.html",
-    "href": "blog/posts/10232023/index.html",
-    "title": "In-Person Reunion: A Memorable Meetup for R-Ladies Rome Organizers",
-    "section": "",
-    "text": "We’ve got some exciting news to share with you all! The R-Ladies Rome organizers recently had a wonderful get-together in the heart of Rome. It was a special day where we came together for the first time in a long while and enjoyed some quality time with each other.\n\n\n\nR-Ladies Rome Organizers: from the left Francesca Picone, Federica Gazzelloni, Katie Jane Wood\n\n\nThe day was all about connecting and having a great time. We met at La Fiorentina in Prati, a lovely spot in Rome, where we relaxed while enjoying an aperitif.\nThis meetup was not just a simple gathering; it was a chance for us to finally met in person, strengthen our team spirit and enjoy each other’s company.\nWe chatted about our plans for the future, shared ideas for upcoming events, and discussed how we can continue to make R-Ladies Rome an even more welcoming community.\nWe talked about the latest trends in data science, cool tricks with R programming, and shared stories of our experiences in the field. Our in-person get-together was a reminder of the strength of our community and the many possibilities that lie ahead.\nWe can’t wait to share more with you in the coming days and months. Keep an eye out for our future events and activities. We're looking forward to having you with us on this fantastic journey!\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/posts/12302024/index.html",
-    "href": "blog/posts/12302024/index.html",
+    "objectID": "blog/posts/02172026/index.html",
+    "href": "blog/posts/02172026/index.html",
     "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
     "section": "",
-    "text": "Reflecting on 2024: A Year of Learning and Growth at R-Ladies Rome 🌟\nAs 2024 comes to an end, we look back on a year filled with inspiration, collaboration, and growth. R-Ladies Rome has continued to thrive as a hub for learning, where members from diverse backgrounds come together to explore, share, and grow in their journey with R programming and data science.\n\n\n\nAll 2024 R-Laadies Rome Speakers\n\n\n\nA Year of Highlights in Numbers\n\n12 incredible events hosted.\n\nA growing community with 1.2K+ members on Meetup.\n\nOver 2K RSVPs from members eager to learn, connect, and grow.\n\nDozens of expert speakers and workshop leaders from across the globe.\n\n\n\n\nR-Ladies Rome in Numbers\n\n\nThis year, we witnessed extraordinary moments that reminded us of the power of community.\n\n\nInspiring Selection of Talks and Hands-On Learning\nThroughout the year, we explored a variety of fascinating topics:\n\nReproducible Environments with Docker: Bruno Rodrigues guided attendees in creating reproducible workflows using Docker.\nBuilding a Website in R: Federica Gazzelloni led a workshop on using R Markdown and Shiny to build interactive websites.\nQuarto Dashboards: Isabella Velasquez demonstrated creating dynamic dashboards with Quarto, showcasing practical applications.\nExtending the Data Science Workflow: {vetiver} and {pins} - Isabel Zimmerman introduced the applications of the {vetiver} and {pins} packages for enhanced data workflows.\nDebugging in R: Shannon Pileggi shared valuable tips and techniques for troubleshooting and resolving common programming errors.\n\nEach event was an opportunity to learn new skills, gain fresh perspectives, and connect with a global network of R enthusiasts.\n\n\nBuilding a Thriving Community\nR-Ladies Rome is more than just a series of meetups—it’s a growing, inclusive community where members share ideas, ask questions, and support one another. The energy, engagement, and curiosity of our members have made every event special.\n\n\nGratitude for Our Speakers and Participants\nWe want to thank our speakers, who generously shared their knowledge and insights, and our members, whose enthusiasm and participation made this year unforgettable.\n\nYou are the heart of R-Ladies Rome, and your dedication to learning and collaboration continues to inspire us. THANK YOU 🤗\n\n\n\nLooking Ahead to 2025\nWe’re kicking off 2025 with an exciting event featuring Eli Holder on Thursday, January 9th:\n\n\n\n\n\nEli Holder\n\n\n\n\nTitle: Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead.\nAbstract: Eli will discuss the social impacts of visualizing inequality and public health disparities, drawing on their research into how common dataviz practices can unintentionally promote harmful misbeliefs. The talk will offer actionable solutions to design impactful and responsible visualizations.\n\n\n\nMore interesting events to come:\n\nIntroduction to Bayesian Modeling: A session that introduced foundational concepts in Bayesian statistics and demonstrated how to apply them using R.\nData Visualization Best Practices: A workshop on crafting effective visualizations with {ggplot2} and communicating data insights.\nShiny Apps for Interactive Data Exploration: Learn how to build interactive web apps for data analysis with Shiny.\nMachine Learning with {tidymodels}: Hands-on exploration of machine learning workflows using the tidymodels framework.\nIntroduction to Time Series Analysis: Techniques and R tools for analyzing and forecasting time series data.\n\nStay tuned for more details and join us for what promises to be an insightful session!\n\n\nThank You and Happy Holidays\nAs we wrap up 2024, we want to express our deepest gratitude to everyone who has been part of R-Ladies Rome’s journey. Thank you for your support, engagement, and contributions.\n\nLet’s continue learning, growing, and building together in 2025. Happy holidays from all of us at R-Ladies Rome! 🎉\n\nStay connected with us on our website and social media for updates on upcoming events. We can’t wait to see you in the new year!\n\n\n\n\n\n Back to top"
+    "text": "As we look back on 2025, one thing is clear: R-Ladies Rome continues to grow not only in numbers, but in depth, consistency, and community impact.\nThis past year has been defined by practical learning, sustained engagement, and a strong commitment to accessible, open, and high-quality technical education.\n\n\n\nR-Ladies Rome 2025 Highlights"
   },
   {
-    "objectID": "blog/posts/06282024/index.html",
-    "href": "blog/posts/06282024/index.html",
-    "title": "Women in Technology: Web Development Workshop | Building a Website in R",
+    "objectID": "blog/posts/02172026/index.html#r-ladies-rome-in-numbers",
+    "href": "blog/posts/02172026/index.html#r-ladies-rome-in-numbers",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "📊 R-Ladies Rome in Numbers",
+    "text": "📊 R-Ladies Rome in Numbers\nOur 2025 snapshot highlights both growth and momentum:\n\n2,500+ Meetup members\n1,200+ total RSVPs in 2025\nHighest RSVP event: 416 attendees\nAverage RSVPs per event significantly above historical average\nRecurring monthly activity throughout the year\n\nCompared to our earlier years, engagement has increased steadily, with 2025 showing stronger and more consistent participation across events. What began as a local initiative has evolved into a structured, recurring learning ecosystem.\n\n\n\nR-Ladies Rome in Numbers"
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#what-we-built-together",
+    "href": "blog/posts/02172026/index.html#what-we-built-together",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "💡 What We Built Together",
+    "text": "💡 What We Built Together\nThroughout the year, we delivered:\n\nHands-on workshops in R fundamentals and data wrangling\n\nSessions on reproducible workflows with Quarto and GitHub\n\nApplied talks in health analytics and machine learning\n\nCommunity-driven discussions and collaborative learning spaces\n\nOur focus has always been practical. We do not just present slides — we work with code, data, and real analytical reasoning."
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#our-principles-remain-the-same",
+    "href": "blog/posts/02172026/index.html#our-principles-remain-the-same",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "🔐 Our Principles Remain the Same",
+    "text": "🔐 Our Principles Remain the Same\nGrowth has not changed our core values.\n\nR-Ladies Rome continues to operate under three foundational principles\n\n\n\nOur Principles\n\n\nThese pillars allow us to scale without losing identity."
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#sustained-engagement-not-one-off-events",
+    "href": "blog/posts/02172026/index.html#sustained-engagement-not-one-off-events",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "📈 Sustained Engagement, Not One-Off Events",
+    "text": "📈 Sustained Engagement, Not One-Off Events\nOne of the strongest signals in 2025 was recurring participation.\nOur engagement is not driven by single viral events, but by consistent attendance, returning participants, and structured programming. This indicates community maturity — learners are not just attending; they are staying.\n\n\n\nSustained Engagement"
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#part-of-a-global-movement",
+    "href": "blog/posts/02172026/index.html#part-of-a-global-movement",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "🌍 Part of a Global Movement",
+    "text": "🌍 Part of a Global Movement\nR-Ladies Rome is part of the global R-Ladies network and supported by the open-source ecosystem, including the R Consortium and The Linux Foundation.\nWe are local in presence, but global in reach.\n\n\n\nPart of a Global Movement"
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#looking-ahead-to-2026",
+    "href": "blog/posts/02172026/index.html#looking-ahead-to-2026",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "🚀 Looking Ahead to 2026",
+    "text": "🚀 Looking Ahead to 2026\nThe momentum of 2025 sets the stage for an exciting year ahead.\nIn 2026, we aim to:\n\nExpand advanced technical workshops\n\nStrengthen collaborations with universities and industry\n\nIncrease digital content and recorded sessions\n\nContinue building structured learning pathways\n\nOur mission remains clear: empower people to move from learning R to building meaningful, reproducible, real-world projects."
+  },
+  {
+    "objectID": "blog/posts/02172026/index.html#join-us",
+    "href": "blog/posts/02172026/index.html#join-us",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "🤝 Join Us",
+    "text": "🤝 Join Us\nWhether you are just starting with R or already working professionally in data science, there is a place for you in this community.\nJoin us.\nSpeak with us.\nCollaborate with us.\nLet’s continue building an inclusive, technically strong, and open data science community in Rome — and beyond.\n\nR-Ladies Rome Organizers\nFederica Gazzelloni & Rafaela Ribeiro\nwww.rladiesrome.org"
+  },
+  {
+    "objectID": "blog/posts/01072024/index.html",
+    "href": "blog/posts/01072024/index.html",
+    "title": "One-Year of Events: What’s happend at R-Ladies Rome",
     "section": "",
-    "text": "Greetings, R-Ladies! 💞\nWe are excited to recap the fantastic experience we had at our recent Women in Technology Web Development Workshop. This event was a celebration of learning, creativity, and community as we delved into the world of web development using R.\nThe event was held in partnership with R-Ladies NYC, enriching our community collaboration and ensuring a diverse and inclusive learning environment. It was a fantastic opportunity to delve into the world of web development and R programming.\nThe workshop kicked off with an engaging introduction, setting the stage for an interactive and hands-on session. Participants from diverse backgrounds came together to explore the steps of building a website using R. Guided by a varieties of resources, our attendees navigated through the process with enthusiasm and curiosity.\nHighlights of the Workshop:\n\nInteractive Learning: The workshop fostered a collaborative environment where everyone learned from basic concepts to advanced techniques; we covered a wide spectrum of web development principles with Quarto.\nHands-On Experience: Participants had the opportunity to apply their newfound knowledge immediately. Through practical example and guided tutorials, they created their own websites step by step.\nBuilding a Fabulous Website: By the end of the workshop, each participant successfully crafted a stunning website using R. We are proud to showcase their creativity and achievement.\n\nMaterial fo the Workshop:\nCheck out the final version of the websites created during the workshop, and we encourage you to explore the code in the GitHub repository as a starting point to make your own:\n\nFinal version of the WebSite: 👉My Website in R & Quarto\nCode: 👉GitHub repository\n\nRecording Availability:\nMissed the workshop? Don’t worry! We will soon release the recording of the event so you can catch up on all the insightful sessions and tutorials. Stay tuned to @rladiesrome YouTube Channel to access the recording once it’s available.\nThank you to everyone who joined us for this enriching event. Your enthusiasm and dedication truly made it a success. We look forward to continuing our journey of learning and empowerment together.\nUntil next time!\n\n\n\n\n Back to top"
+    "text": "Overview\nAs we bid farewell to 2023, it’s time to look back and celebrate the incredible journey of R-Ladies Rome. This year has been marked by empowerment, collaboration, and growth within our vibrant community.\n\n\n\n\n\n\nLet’s take a moment to reflect on the milestones, events, and connections that made this year special.\n\n\n\nCommunity Growth and Collaboration\nThroughout the year, our community grew stronger. Members engaged in passionate discussions, shared their experiences, and collaborated on projects. We strengthened our ties with other R-Ladies chapters worldwide and explored opportunities for joint events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipThank You!\n\n\n\nR-Ladies Rome expresses gratitude to all our members, speakers, and partners who contributed to the success of our community in 2023. As we celebrate the achievements of the past year, we eagerly anticipate the opportunities and connections that await us in the upcoming year. Here’s to a thriving and empowering 2024 for R-Ladies Rome! 🌟\n\n\nA Year of Diversity and Inclusion\nOne of our primary goals at R-Ladies Rome is to foster an inclusive environment. Throughout 2023, we hosted numerous events focused on diversity in tech, creating spaces where everyone, regardless of background or experience level, felt welcome. From web technology workshops to interactive coding sessions, we embraced the richness that diverse perspectives bring to our community.\n\n\n\n\n\n\nTipRate of Change\n\n\n\nTo calculate the rate of change consider the initial and final values, and the formula for percentage change is:\n\\[\\text{Percentage Change} = \\left( \\frac{\\text{Final Value} - \\text{Initial Value}}{\\text{Initial Value}} \\right) \\times 100\\]\n\n\n\n\n\n\n\n\n\n\n\nTech Talks and Workshops\nOur calendar was packed with enlightening tech talks and hands-on workshops. Renowned speakers and experts shared their knowledge on data visualization, statistics, and R programming. These events not only provided valuable insights but also showcased the vast possibilities that technology offers.\nData Visualization Month\nNovember was an exciting month as we delved deep into the world of data visualization. With two remarkable events featuring experts like Cédric Scherer and Cara Thompson, we explored the art and science of transforming data stories into engaging visual narratives. The live-coding sessions and Q&A interactions made this month a highlight of our year.\n\n\n\n\n\n\n\n\nEmpowering Women in Tech\nEmpowering women in technology has been a core focus for R-Ladies Rome. We organized events specifically designed to support and uplift women in the tech field. From networking sessions to skill showcases, these gatherings aimed to create a supportive community for women in various tech-related professions.\nLooking Forward to 2024\nAs we close the chapter on 2023, we’re excited about the possibilities that 2024 holds. With a commitment to continuous learning, collaboration, and empowerment, R-Ladies Rome is poised to embark on another year of growth and impact.\n\n\n Back to top"
   },
   {
-    "objectID": "about/former_organizers.html",
-    "href": "about/former_organizers.html",
-    "title": "Former Co-Organizers",
+    "objectID": "blog/posts/05142023/index.html",
+    "href": "blog/posts/05142023/index.html",
+    "title": "Introduction",
     "section": "",
-    "text": "Lucy Michaels Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master’s in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science. This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I’m also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n\n\n\n\nLucy Michaels"
+    "text": "We are excited to announce that R-Ladies Rome has expanded its online presence by opening social accounts on Twitter, LinkedIn, and Mastodon.\nAs a local chapter of R-Ladies Global, our mission is to promote gender diversity in the R community and provide a safe and supportive space for minority gender R enthusiasts to learn, grow, and contribute to the R community.\nWith our new social media accounts, we hope to connect with more people interested in working with R, share our events and activities, and engage with the larger R community.\nFollow us on Twitter at @rladiesrome, connect with us on LinkedIn at @R-Ladies Rome, and join us on Mastodon at @rladiesrome@fosstodon.org to stay up to date with our latest news and events.\n\n\n\nWelcome to R-Ladies Rome Twitter account. This is a local chapter of @RLadiesGlobal. We meet once a month for talking about data analytics, visualizations, and modeling with R.\nTo become a member: &lt;a href=“https://www.meetup.com/rladies-rome/ #rstats\n\n— R-Ladies Rome (@rladiesrome) Sep 30, 2022\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "about/former_organizers.html#section",
-    "href": "about/former_organizers.html#section",
-    "title": "Former Co-Organizers",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R-Ladies Rome",
     "section": "",
-    "text": "Lucy Michaels Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master’s in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science. This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I’m also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n\n\n\n\nLucy Michaels"
+    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez\n\n\nIn this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world…\n\n\n\n\n\n\nMar 18, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\n\n\nReflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2025 and share…\n\n\n\n\n\n\nFeb 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Data to Decisions: Digital Twins for Smarter Maintenance\n\n\nIn this session, Priyanka Schnell presented a physics-informed, data-driven approach to Condition-Based Maintenance using a digital twin model, anomaly detection, and…\n\n\n\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "about/former_organizers.html#section-1",
-    "href": "about/former_organizers.html#section-1",
-    "title": "Former Co-Organizers",
+    "objectID": "about/sponsors.html",
+    "href": "about/sponsors.html",
+    "title": "Sponsor",
     "section": "",
-    "text": "Silvana Acosta Organizer. Senior Data Scientist with six years of experience in the fields of data science, finance, and consultancy, analyzing and modelling data.\n\n\n\nSilvana Acosta\n\n\n\n\n\n\n\nFrancesca Picone Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n\n\n\n\nFrancesca Picone"
+    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
-    "objectID": "about/former_organizers.html#section-2",
-    "href": "about/former_organizers.html#section-2",
-    "title": "Former Co-Organizers",
+    "objectID": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
+    "href": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
+    "title": "Sponsor",
     "section": "",
-    "text": "Francesca Picone Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n\n\n\n\nFrancesca Picone"
+    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
   },
   {
-    "objectID": "about/former_organizers.html#section-3",
-    "href": "about/former_organizers.html#section-3",
-    "title": "Former Co-Organizers",
+    "objectID": "about/sponsors.html#why-r-consortium",
+    "href": "about/sponsors.html#why-r-consortium",
+    "title": "Sponsor",
+    "section": "Why R Consortium?",
+    "text": "Why R Consortium?\nR Consortium’s mission aligns perfectly with our goals at R-Ladies Rome. They provide essential support to projects and initiatives that enhance R’s capabilities and accessibility. By partnering with R Consortium, we’re strengthening our commitment to empowering data enthusiasts, promoting R programming, and fostering a vibrant community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
+  },
+  {
+    "objectID": "about/sponsors.html#what-this-means-for-you",
+    "href": "about/sponsors.html#what-this-means-for-you",
+    "title": "Sponsor",
+    "section": "What This Means for You",
+    "text": "What This Means for You\nThis partnership brings numerous benefits to our community. We’ll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we’ll continue to grow, learn, and share knowledge within the R programming ecosystem.\nWe’re grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.\nLet’s embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here’s to a bright future of learning, innovation, and community-building!\n#RConsortium #RProgramming #DataScience #CommunityBuilding",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Sponsors"
+    ]
+  },
+  {
+    "objectID": "about/organizers.html",
+    "href": "about/organizers.html",
+    "title": "Organizers",
     "section": "",
-    "text": "Nina Deliu Co-Organizer Researcher and Assistant Professor in Statistics at La Sapienza University of Rome. (September 2022 to February 2023)\n\n\n\n\nNina Deliu\n\n\n\n\n\n\nKatie Wood Co-organizer marketing manager with a background in various industry sectors across global markets. (March 2023 to September 2023)\n\n\n\n\nKatie Wood\n\n\n\n\n\nTo get in touch with R-Ladies Rome, you can email us at rome@rladies.org, follow us on Twitter at @rladiesrome, and check out our GitHub account at meetup-presentations_rome. We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.\nWe have a code of conduct that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.\n\nSponsored by  Consortium"
+    "text": "R-Ladies began as a meetup group in San Francisco in 2012 when Gabriela de Queiroz founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, R-Ladies Global was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 219 chapters in 63 countries and over 3943 events contributing to promote gender diversity in the R community.",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Organizers"
+    ]
   },
   {
-    "objectID": "about/coc_community_policy.html",
-    "href": "about/coc_community_policy.html",
-    "title": "Community & Organizational Policy",
+    "objectID": "about/organizers.html#section",
+    "href": "about/organizers.html#section",
+    "title": "Organizers",
     "section": "",
-    "text": "R-Ladies Rome is a local chapter of the global R-Ladies organization, dedicated to promoting gender diversity in the R community through meetups, workshops, mentorship, and collaborative learning. Our mission is to create an inclusive, safe, and supportive environment for people of all genders who are interested in R, data science, and technical communication.\nThis policy outlines our operating principles, expectations, governance, and community standards.\n\n\nR-Ladies Rome exists to:\n\nPromote gender diversity and representation in the R ecosystem.\nProvide free or low-cost learning opportunities in data science, statistics, programming, and related domains.\nCreate a safe, inclusive space for sharing knowledge and supporting professional growth.\nFoster a vibrant local network of R users, learners, educators, researchers, and practitioners.\nBuild strong connections with the global R-Ladies community and other open-source initiatives.\n\n\n\n\nOur community is guided by the following principles:\n\nInclusivity: Everyone is welcome regardless of gender identity, expression, background, or experience level.\nRespect: We treat all participants with consideration, empathy, and professionalism.\nCollaboration: We learn together, encourage each other, and value collective growth.\nOpenness: We share resources, knowledge, and opportunities transparently.\nEquity: We actively work to reduce barriers and support under-represented groups.\n\n\n\n\nR-Ladies Rome fully adopts the official R-Ladies Global Code of Conduct. All participants—organizers, speakers, attendees, and sponsors—must adhere to it.\nWe do not tolerate:\n\nHarassment, intimidation, or discrimination of any kind\nOffensive or exclusionary language\nUnwelcome advances or inappropriate behavior\nDisruption of talks, meetups, or online spaces\nMisuse of community platforms for spam or commercial promotion without permission\n\nViolations may result in a warning, removal from the event, temporary or permanent exclusion from R-Ladies Rome spaces, or reporting to R-Ladies Global if necessary.\n\nTo report an incident confidentially, please contact: rome [at] rladies [dot] org\n\n\n\n\nBy attending an R-Ladies Rome event, participants agree to:\n\nBehave respectfully toward speakers, attendees, and organizers\nSupport a welcoming environment for beginners and experts alike\nAvoid recording sessions unless explicitly permitted\nRespect privacy: screenshots, photos, or names should not be shared without consent\n\n\nThe organizing team reserves the right to remove disruptive participants.\n\n\n\n\nWe welcome speakers from all genders and backgrounds, provided their content is educational, technical, or aligned with the R-Ladies mission, supports open-source values, and upholds non-discriminatory practices. Talks should avoid promotional or sales, focused messaging unless pre-approved and should include clear, reproducible examples whenever possible. Speakers are expected to collaborate with the organizers to ensure accessibility, such as readable slides and inclusive language, respect for community standards, and accurate representation of contributors and sources.\n\n\n\nR-Ladies Rome may collaborate with universities, organizations, companies, or institutions that align with our mission. We work only with sponsors and partners who respect diversity, equity, and inclusion, do not engage in discriminatory practices, and support transparent, ethical, and community-focused initiatives. Sponsorship does not influence speaker selection, event topics, or community decisions.\n\n\n\nR-Ladies Rome respects the privacy of all participants. We do not sell or share personal data with third parties, and registration information is used solely for event organization and communication. Photos or recordings are shared only with explicit permission, and attendees may request the removal of their personal information from our platforms at any time.\n\n\n\nR-Ladies Rome is led by a volunteer organizing team responsible for planning events and workshops, selecting speakers and topics, managing communications and online platforms, upholding the Code of Conduct, and supporting the growth of the local community. Decisions are made collectively and transparently, and new volunteers may be invited as the chapter continues to grow.\n\n\n\nWe encourage contributions in the form of:\n\nTalk proposals\nWorkshops and tutorials\nBlog posts\nGitHub or technical resources\nCommunity mentorship\n\nAll shared resources should follow open-source licensing or include clear usage permissions.\n\n\n\nThis policy may be updated periodically to reflect community needs and organizational growth. Updates will always be communicated on our website."
+    "text": "Federica Gazzelloni Lead Organizer. I am an independent researcher passionate about data science, with a background in actuarial statistics and expertise in collaborative environments. My journey extends from traditional actuarial work using Excel to advanced data science with R. As the lead organizer of R-Ladies Rome, I advocate for gender diversity and knowledge-sharing, hosting various events promoting the R language. I am also a book club facilitator with the R4DS online community, fostering collaborative learning. Additionally, I have contributed as a reviewer to global health initiatives, emphasizing accessible learning and effective communication. (September 2022 to Present)\n\n\n\n\nFederica Gazzelloni",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Organizers"
+    ]
   },
   {
-    "objectID": "about/coc_community_policy.html#mission-statement",
-    "href": "about/coc_community_policy.html#mission-statement",
-    "title": "Community & Organizational Policy",
+    "objectID": "about/organizers.html#section-1",
+    "href": "about/organizers.html#section-1",
+    "title": "Organizers",
     "section": "",
-    "text": "R-Ladies Rome is a local chapter of the global R-Ladies organization, dedicated to promoting gender diversity in the R community through meetups, workshops, mentorship, and collaborative learning. Our mission is to create an inclusive, safe, and supportive environment for people of all genders who are interested in R, data science, and technical communication.\nThis policy outlines our operating principles, expectations, governance, and community standards.\n\n\nR-Ladies Rome exists to:\n\nPromote gender diversity and representation in the R ecosystem.\nProvide free or low-cost learning opportunities in data science, statistics, programming, and related domains.\nCreate a safe, inclusive space for sharing knowledge and supporting professional growth.\nFoster a vibrant local network of R users, learners, educators, researchers, and practitioners.\nBuild strong connections with the global R-Ladies community and other open-source initiatives.\n\n\n\n\nOur community is guided by the following principles:\n\nInclusivity: Everyone is welcome regardless of gender identity, expression, background, or experience level.\nRespect: We treat all participants with consideration, empathy, and professionalism.\nCollaboration: We learn together, encourage each other, and value collective growth.\nOpenness: We share resources, knowledge, and opportunities transparently.\nEquity: We actively work to reduce barriers and support under-represented groups.\n\n\n\n\nR-Ladies Rome fully adopts the official R-Ladies Global Code of Conduct. All participants—organizers, speakers, attendees, and sponsors—must adhere to it.\nWe do not tolerate:\n\nHarassment, intimidation, or discrimination of any kind\nOffensive or exclusionary language\nUnwelcome advances or inappropriate behavior\nDisruption of talks, meetups, or online spaces\nMisuse of community platforms for spam or commercial promotion without permission\n\nViolations may result in a warning, removal from the event, temporary or permanent exclusion from R-Ladies Rome spaces, or reporting to R-Ladies Global if necessary.\n\nTo report an incident confidentially, please contact: rome [at] rladies [dot] org\n\n\n\n\nBy attending an R-Ladies Rome event, participants agree to:\n\nBehave respectfully toward speakers, attendees, and organizers\nSupport a welcoming environment for beginners and experts alike\nAvoid recording sessions unless explicitly permitted\nRespect privacy: screenshots, photos, or names should not be shared without consent\n\n\nThe organizing team reserves the right to remove disruptive participants.\n\n\n\n\nWe welcome speakers from all genders and backgrounds, provided their content is educational, technical, or aligned with the R-Ladies mission, supports open-source values, and upholds non-discriminatory practices. Talks should avoid promotional or sales, focused messaging unless pre-approved and should include clear, reproducible examples whenever possible. Speakers are expected to collaborate with the organizers to ensure accessibility, such as readable slides and inclusive language, respect for community standards, and accurate representation of contributors and sources.\n\n\n\nR-Ladies Rome may collaborate with universities, organizations, companies, or institutions that align with our mission. We work only with sponsors and partners who respect diversity, equity, and inclusion, do not engage in discriminatory practices, and support transparent, ethical, and community-focused initiatives. Sponsorship does not influence speaker selection, event topics, or community decisions.\n\n\n\nR-Ladies Rome respects the privacy of all participants. We do not sell or share personal data with third parties, and registration information is used solely for event organization and communication. Photos or recordings are shared only with explicit permission, and attendees may request the removal of their personal information from our platforms at any time.\n\n\n\nR-Ladies Rome is led by a volunteer organizing team responsible for planning events and workshops, selecting speakers and topics, managing communications and online platforms, upholding the Code of Conduct, and supporting the growth of the local community. Decisions are made collectively and transparently, and new volunteers may be invited as the chapter continues to grow.\n\n\n\nWe encourage contributions in the form of:\n\nTalk proposals\nWorkshops and tutorials\nBlog posts\nGitHub or technical resources\nCommunity mentorship\n\nAll shared resources should follow open-source licensing or include clear usage permissions.\n\n\n\nThis policy may be updated periodically to reflect community needs and organizational growth. Updates will always be communicated on our website."
+    "text": "Rafaela Ribeiro Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master’s degree in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n\n\n\n\nRafaela Ribeiro",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Organizers"
+    ]
   },
   {
-    "objectID": "about/coc_community_policy.html#contacts",
-    "href": "about/coc_community_policy.html#contacts",
-    "title": "Community & Organizational Policy",
-    "section": "Contacts",
-    "text": "Contacts\nFor questions, collaborations, or concerns, please reach out:\n📧 rome [at] rladies [dot] org"
-  },
-  {
-    "objectID": "talks/2026/NextSpeaker.html",
-    "href": "talks/2026/NextSpeaker.html",
-    "title": "Next Event and Speaker",
+    "objectID": "about/organizers.html#section-2",
+    "href": "about/organizers.html#section-2",
+    "title": "Organizers",
     "section": "",
-    "text": "More details coming soon!\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n← Back to 2025 Events\n\n\n\n\n Back to top"
+    "text": "To get in touch with R-Ladies Rome, you can email us at rome@rladies.org, follow us on Twitter at @rladiesrome, and check out our GitHub account at meetup-presentations_rome. We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.\n\n\n\n\n\n\n\nWe have a code of conduct that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.\n\n\nSponsored by  Consortium",
+    "crumbs": [
+      "Introduction",
+      "About",
+      "Organizers"
+    ]
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "",
+    "text": "Registered Attendees (65)\nOn February 16, 2026, R-Ladies Rome hosted From Data to Decisions: Digital Twins for Smarter Maintenance, a practical session focused on how data science moves beyond notebooks and into real production systems.\nThe talk presented a physics-informed approach to Condition-Based Maintenance (CBM) through a real-world aerospace case study. The central question of the session was clear:"
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#tutorial-overview",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html#tutorial-overview",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "🧩 Tutorial Overview",
+    "text": "🧩 Tutorial Overview\nThe session was delivered by Priyanka Schnell, Chief Technology Officer at Insurfox. With experience in enterprise-scale digital systems and aerospace manufacturing, Priyanka guided us through how sensor data, physics models, and anomaly detection can work together in production.\nThe context: robotic drilling in A321 wing assembly. A single snapped drill bit can cause burrs or delamination, potentially scrapping a wing skin valued at €150,000. Traditional maintenance policies replaced drill bits after a fixed number of holes — a strategy that often led to premature replacements or unexpected failures.\nInstead of relying on static thresholds, the session introduced a digital twin approach.\nWe explored:\n\nhow high-frequency sensor data (torque, vibration, speed, feed rate) can be transformed into meaningful features\n\nwhy Specific Cutting Energy helps detect “wasted energy” before functional failure\n\nhow regime normalization allows comparison across aluminum and titanium cutting\n\nhow Isolation Forest can identify deviations without labeled failure data\n\nwhy persistence rules (e.g., “6 of 12”) reduce alert noise\n\nhow early detection within the P–F interval provides actionable lead time\n\nThe session included a live walkthrough in Google Colab using simulated data to demonstrate the workflow step-by-step."
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#recording",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html#recording",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "🎥 Recording",
+    "text": "🎥 Recording\n🎬 Watch the Recording\n\nThe recording is suitable both for participants who attended live and for anyone interested in understanding how anomaly detection and digital twins operate in high-stakes environments."
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#what-youll-learn",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html#what-youll-learn",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "🧠 What You’ll Learn",
+    "text": "🧠 What You’ll Learn\nBy watching the recording, you will learn how to:\n\nunderstand what a digital twin means in practical data terms\n\nengineer physics-informed features from raw sensor signals\n\napply unsupervised anomaly detection in production settings\n\nuse persistence logic to stabilize alert systems\n\nthink beyond time-based rules toward dynamic maintenance strategies\n\nconnect domain knowledge with statistical modeling"
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#resources-materials",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html#resources-materials",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "📦 Resources & Materials",
+    "text": "📦 Resources & Materials\n\nIntro Presentation\nTutorial Slides and Colab Code"
+  },
+  {
+    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#about-the-tutorial",
+    "href": "talks/2026/meetup/02162026_priyankaschnell.html#about-the-tutorial",
+    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "section": "🔊 About the Tutorial",
+    "text": "🔊 About the Tutorial\nThis session is part of the R-Ladies Rome Tutorials series, which focuses on practical workflows and real-world data applications.\nOur goal is to show how data science connects to operational systems — where decisions have financial and technical consequences. We aim to make advanced topics accessible without removing the rigor behind them.\nKeep learning and exploring, subscribe to our YouTube channel, and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
   },
   {
     "objectID": "talks/2026/meetup/01292026_federicagazzelloni.html",
@@ -557,6 +688,13 @@
     "text": "🤝 Get Involved!\n\nWant to speak at a future event? Drop your email in the comments!\nHave someone in mind? Suggest a speaker you’d love to see.\nStay connected on Meetup, YouTube, and GitHub\n\nOur events are free, open-source, and beginner-friendly. Every month, we share kick-start resources so you can keep learning after the meetup.\nLet’s keep learning, coding, and sharing—one small commit at a time. 💜\n\n← Previous event | Next event →"
   },
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2026 website-italy-rladiesrome authors\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "talks/2025/index.html",
     "href": "talks/2025/index.html",
     "title": "2025: Events and Highlights",
@@ -877,7 +1015,7 @@
     "href": "talks/2026/index.html",
     "title": "2026: Events and Highlights",
     "section": "",
-    "text": "From Data to Decisions: Digital Twins for Smarter Maintenance\n\n\n\nDigital Twin\n\nProduction Systems\n\nAnomaly Detection\n\nData Science\n\nTutorial\n\nPython\n\n\n\nIn this session, Priyanka Schnell presented a physics-informed, data-driven approach to Condition-Based Maintenance using a digital twin model, anomaly detection, and…\n\n\n\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit & GitHub: Practical Version Control for Data Work\n\n\n\nReproducible Research\n\nGit\n\nGitHub\n\nWorkflow\n\nTutorial\n\n\n\nIn this tutorial, participants were guided through a practical, workflow-first introduction to Git and GitHub, covering the terminal vs shell mental model, local version…\n\n\n\n\n\n\nJan 29, 2026\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez\n\n\n\nR Programming\n\nTidyverse\n\ndplyr\n\nData Workflow\n\nTutorial\n\n\n\nIn this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world…\n\n\n\n\n\n\nMar 18, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Data to Decisions: Digital Twins for Smarter Maintenance\n\n\n\nDigital Twin\n\nProduction Systems\n\nAnomaly Detection\n\nData Science\n\nTutorial\n\nPython\n\n\n\nIn this session, Priyanka Schnell presented a physics-informed, data-driven approach to Condition-Based Maintenance using a digital twin model, anomaly detection, and…\n\n\n\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit & GitHub: Practical Version Control for Data Work\n\n\n\nReproducible Research\n\nGit\n\nGitHub\n\nWorkflow\n\nTutorial\n\n\n\nIn this tutorial, participants were guided through a practical, workflow-first introduction to Git and GitHub, covering the terminal vs shell mental model, local version…\n\n\n\n\n\n\nJan 29, 2026\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Introduction",
       "Talks",
@@ -885,163 +1023,137 @@
     ]
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "",
-    "text": "Registered Attendees (65)\nOn February 16, 2026, R-Ladies Rome hosted From Data to Decisions: Digital Twins for Smarter Maintenance, a practical session focused on how data science moves beyond notebooks and into real production systems.\nThe talk presented a physics-informed approach to Condition-Based Maintenance (CBM) through a real-world aerospace case study. The central question of the session was clear:"
+    "text": "Registered Attendees (102)\nAt R-Ladies Rome we often focus on tools that quietly shape how we work every day. {dplyr} is one of those tools. Many of us use it almost instinctively, but every new release brings small improvements that can significantly change how we write and think about our data pipelines.\nIn this session, we were delighted to welcome Isabella Velásquez (Developer Relations at Posit PBC) for a practical tour of the newest features introduced in {dplyr} 1.2.0. The focus was not just on new syntax, but on understanding why these tools exist and when they actually make our work easier."
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#tutorial-overview",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html#tutorial-overview",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#tutorial-overview",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#tutorial-overview",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "🧩 Tutorial Overview",
-    "text": "🧩 Tutorial Overview\nThe session was delivered by Priyanka Schnell, Chief Technology Officer at Insurfox. With experience in enterprise-scale digital systems and aerospace manufacturing, Priyanka guided us through how sensor data, physics models, and anomaly detection can work together in production.\nThe context: robotic drilling in A321 wing assembly. A single snapped drill bit can cause burrs or delamination, potentially scrapping a wing skin valued at €150,000. Traditional maintenance policies replaced drill bits after a fixed number of holes — a strategy that often led to premature replacements or unexpected failures.\nInstead of relying on static thresholds, the session introduced a digital twin approach.\nWe explored:\n\nhow high-frequency sensor data (torque, vibration, speed, feed rate) can be transformed into meaningful features\n\nwhy Specific Cutting Energy helps detect “wasted energy” before functional failure\n\nhow regime normalization allows comparison across aluminum and titanium cutting\n\nhow Isolation Forest can identify deviations without labeled failure data\n\nwhy persistence rules (e.g., “6 of 12”) reduce alert noise\n\nhow early detection within the P–F interval provides actionable lead time\n\nThe session included a live walkthrough in Google Colab using simulated data to demonstrate the workflow step-by-step."
+    "text": "🧩 Tutorial Overview\nThe session walked through the evolution of common data manipulation patterns and how the new functions help simplify logic that previously required more complex workarounds.\nWe explored:\n\nhow when_any() and when_all() help express conditional logic more clearly\n\nhow to rethink workflows that previously relied on case_match()\n\nimprovements to filtering logic that make pipelines easier to read\n\npractical examples grounded in realistic data workflows\n\nAs often happens in R-Ladies Rome sessions, the emphasis was not on memorizing functions but on building intuition. The goal was to leave participants with a clearer mental model of how to approach data transformations."
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#recording",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html#recording",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#recording",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#recording",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "🎥 Recording",
-    "text": "🎥 Recording\n🎬 Watch the Recording\n\nThe recording is suitable both for participants who attended live and for anyone interested in understanding how anomaly detection and digital twins operate in high-stakes environments."
+    "text": "🎥 Recording\n🎬 Watch the Recording\n\nThe recording is suitable both for participants who attended live and for anyone wanting a practical overview of how the newest dplyr features fit into everyday work."
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#what-youll-learn",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html#what-youll-learn",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#what-youll-learn",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#what-youll-learn",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "🧠 What You’ll Learn",
-    "text": "🧠 What You’ll Learn\nBy watching the recording, you will learn how to:\n\nunderstand what a digital twin means in practical data terms\n\nengineer physics-informed features from raw sensor signals\n\napply unsupervised anomaly detection in production settings\n\nuse persistence logic to stabilize alert systems\n\nthink beyond time-based rules toward dynamic maintenance strategies\n\nconnect domain knowledge with statistical modeling"
+    "text": "🧠 What You’ll Learn\nBy watching the recording, you will learn how to:\n\nunderstand the design ideas behind the newest dplyr functions\n\nsimplify conditional filtering logic\n\nimprove readability of transformation pipelines\n\nchoose clearer patterns for data manipulation\n\nwrite tidyverse code that is easier to maintain and share"
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#resources-materials",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html#resources-materials",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#resources-materials",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#resources-materials",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "📦 Resources & Materials",
-    "text": "📦 Resources & Materials\n\nIntro Presentation\nTutorial Slides and Colab Code"
+    "text": "📦 Resources & Materials\n\nIntro Presentation\nSlides\ndyplr 1.2.0\nTidyData Tutor"
   },
   {
-    "objectID": "talks/2026/meetup/02162026_priyankaschnell.html#about-the-tutorial",
-    "href": "talks/2026/meetup/02162026_priyankaschnell.html#about-the-tutorial",
-    "title": "From Data to Decisions: Digital Twins for Smarter Maintenance",
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#about-the-speaker",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#about-the-speaker",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
+    "section": "🔊 About the Speaker",
+    "text": "🔊 About the Speaker\nIsabella Velásquez works in Developer Relations at Posit PBC, where she helps the data science community adopt modern tools and workflows. Her work connects programming, communication, and data analysis, with a strong focus on making data science tools approachable and practical."
+  },
+  {
+    "objectID": "talks/2026/meetup/03182026_isabellavelasquez.html#about-the-tutorial",
+    "href": "talks/2026/meetup/03182026_isabellavelasquez.html#about-the-tutorial",
+    "title": "What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez",
     "section": "🔊 About the Tutorial",
-    "text": "🔊 About the Tutorial\nThis session is part of the R-Ladies Rome Tutorials series, which focuses on practical workflows and real-world data applications.\nOur goal is to show how data science connects to operational systems — where decisions have financial and technical consequences. We aim to make advanced topics accessible without removing the rigor behind them.\nKeep learning and exploring, subscribe to our YouTube channel, and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
+    "text": "🔊 About the Tutorial\nThis session is part of the R-Ladies Rome Tutorials series, where we focus on practical tools that support reproducible and sustainable data workflows.\nOur goal is always the same: to help people move from knowing functions to understanding workflows. Whether someone is just starting with R or refining their practice, we aim to provide sessions that strengthen both technical skills and confidence.\nKeep learning and exploring, subscribe to our YouTube channel, and revisit past events on rladiesrome.org!\n\n← Previous event | Next event →"
   },
   {
-    "objectID": "about/organizers.html",
-    "href": "about/organizers.html",
-    "title": "Organizers",
+    "objectID": "talks/2026/NextSpeaker.html",
+    "href": "talks/2026/NextSpeaker.html",
+    "title": "Next Event and Speaker",
     "section": "",
-    "text": "R-Ladies began as a meetup group in San Francisco in 2012 when Gabriela de Queiroz founded the first chapter and organized the first event. Over the next three years, three more groups started following this example. After the useR! conference in 2016, where Gabriela and other organizers met in person, R-Ladies Global was co-founded by several active community members. Since then, the organization has experienced massive and rapid growth, with the number of R-Ladies chapters increasing significantly. Today, R-Ladies has 219 chapters in 63 countries and over 3943 events contributing to promote gender diversity in the R community.",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Organizers"
-    ]
+    "text": "More details coming soon!\nStay updated via Meetup: https://www.meetup.com/rladies-rome\n\n← Back to 2025 Events\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "about/organizers.html#section",
-    "href": "about/organizers.html#section",
-    "title": "Organizers",
+    "objectID": "about/coc_community_policy.html",
+    "href": "about/coc_community_policy.html",
+    "title": "Community & Organizational Policy",
     "section": "",
-    "text": "Federica Gazzelloni Lead Organizer. I am an independent researcher passionate about data science, with a background in actuarial statistics and expertise in collaborative environments. My journey extends from traditional actuarial work using Excel to advanced data science with R. As the lead organizer of R-Ladies Rome, I advocate for gender diversity and knowledge-sharing, hosting various events promoting the R language. I am also a book club facilitator with the R4DS online community, fostering collaborative learning. Additionally, I have contributed as a reviewer to global health initiatives, emphasizing accessible learning and effective communication. (September 2022 to Present)\n\n\n\n\nFederica Gazzelloni",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Organizers"
-    ]
+    "text": "R-Ladies Rome is a local chapter of the global R-Ladies organization, dedicated to promoting gender diversity in the R community through meetups, workshops, mentorship, and collaborative learning. Our mission is to create an inclusive, safe, and supportive environment for people of all genders who are interested in R, data science, and technical communication.\nThis policy outlines our operating principles, expectations, governance, and community standards.\n\n\nR-Ladies Rome exists to:\n\nPromote gender diversity and representation in the R ecosystem.\nProvide free or low-cost learning opportunities in data science, statistics, programming, and related domains.\nCreate a safe, inclusive space for sharing knowledge and supporting professional growth.\nFoster a vibrant local network of R users, learners, educators, researchers, and practitioners.\nBuild strong connections with the global R-Ladies community and other open-source initiatives.\n\n\n\n\nOur community is guided by the following principles:\n\nInclusivity: Everyone is welcome regardless of gender identity, expression, background, or experience level.\nRespect: We treat all participants with consideration, empathy, and professionalism.\nCollaboration: We learn together, encourage each other, and value collective growth.\nOpenness: We share resources, knowledge, and opportunities transparently.\nEquity: We actively work to reduce barriers and support under-represented groups.\n\n\n\n\nR-Ladies Rome fully adopts the official R-Ladies Global Code of Conduct. All participants—organizers, speakers, attendees, and sponsors—must adhere to it.\nWe do not tolerate:\n\nHarassment, intimidation, or discrimination of any kind\nOffensive or exclusionary language\nUnwelcome advances or inappropriate behavior\nDisruption of talks, meetups, or online spaces\nMisuse of community platforms for spam or commercial promotion without permission\n\nViolations may result in a warning, removal from the event, temporary or permanent exclusion from R-Ladies Rome spaces, or reporting to R-Ladies Global if necessary.\n\nTo report an incident confidentially, please contact: rome [at] rladies [dot] org\n\n\n\n\nBy attending an R-Ladies Rome event, participants agree to:\n\nBehave respectfully toward speakers, attendees, and organizers\nSupport a welcoming environment for beginners and experts alike\nAvoid recording sessions unless explicitly permitted\nRespect privacy: screenshots, photos, or names should not be shared without consent\n\n\nThe organizing team reserves the right to remove disruptive participants.\n\n\n\n\nWe welcome speakers from all genders and backgrounds, provided their content is educational, technical, or aligned with the R-Ladies mission, supports open-source values, and upholds non-discriminatory practices. Talks should avoid promotional or sales, focused messaging unless pre-approved and should include clear, reproducible examples whenever possible. Speakers are expected to collaborate with the organizers to ensure accessibility, such as readable slides and inclusive language, respect for community standards, and accurate representation of contributors and sources.\n\n\n\nR-Ladies Rome may collaborate with universities, organizations, companies, or institutions that align with our mission. We work only with sponsors and partners who respect diversity, equity, and inclusion, do not engage in discriminatory practices, and support transparent, ethical, and community-focused initiatives. Sponsorship does not influence speaker selection, event topics, or community decisions.\n\n\n\nR-Ladies Rome respects the privacy of all participants. We do not sell or share personal data with third parties, and registration information is used solely for event organization and communication. Photos or recordings are shared only with explicit permission, and attendees may request the removal of their personal information from our platforms at any time.\n\n\n\nR-Ladies Rome is led by a volunteer organizing team responsible for planning events and workshops, selecting speakers and topics, managing communications and online platforms, upholding the Code of Conduct, and supporting the growth of the local community. Decisions are made collectively and transparently, and new volunteers may be invited as the chapter continues to grow.\n\n\n\nWe encourage contributions in the form of:\n\nTalk proposals\nWorkshops and tutorials\nBlog posts\nGitHub or technical resources\nCommunity mentorship\n\nAll shared resources should follow open-source licensing or include clear usage permissions.\n\n\n\nThis policy may be updated periodically to reflect community needs and organizational growth. Updates will always be communicated on our website."
   },
   {
-    "objectID": "about/organizers.html#section-1",
-    "href": "about/organizers.html#section-1",
-    "title": "Organizers",
+    "objectID": "about/coc_community_policy.html#mission-statement",
+    "href": "about/coc_community_policy.html#mission-statement",
+    "title": "Community & Organizational Policy",
     "section": "",
-    "text": "Rafaela Ribeiro Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master’s degree in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n\n\n\n\nRafaela Ribeiro",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Organizers"
-    ]
+    "text": "R-Ladies Rome is a local chapter of the global R-Ladies organization, dedicated to promoting gender diversity in the R community through meetups, workshops, mentorship, and collaborative learning. Our mission is to create an inclusive, safe, and supportive environment for people of all genders who are interested in R, data science, and technical communication.\nThis policy outlines our operating principles, expectations, governance, and community standards.\n\n\nR-Ladies Rome exists to:\n\nPromote gender diversity and representation in the R ecosystem.\nProvide free or low-cost learning opportunities in data science, statistics, programming, and related domains.\nCreate a safe, inclusive space for sharing knowledge and supporting professional growth.\nFoster a vibrant local network of R users, learners, educators, researchers, and practitioners.\nBuild strong connections with the global R-Ladies community and other open-source initiatives.\n\n\n\n\nOur community is guided by the following principles:\n\nInclusivity: Everyone is welcome regardless of gender identity, expression, background, or experience level.\nRespect: We treat all participants with consideration, empathy, and professionalism.\nCollaboration: We learn together, encourage each other, and value collective growth.\nOpenness: We share resources, knowledge, and opportunities transparently.\nEquity: We actively work to reduce barriers and support under-represented groups.\n\n\n\n\nR-Ladies Rome fully adopts the official R-Ladies Global Code of Conduct. All participants—organizers, speakers, attendees, and sponsors—must adhere to it.\nWe do not tolerate:\n\nHarassment, intimidation, or discrimination of any kind\nOffensive or exclusionary language\nUnwelcome advances or inappropriate behavior\nDisruption of talks, meetups, or online spaces\nMisuse of community platforms for spam or commercial promotion without permission\n\nViolations may result in a warning, removal from the event, temporary or permanent exclusion from R-Ladies Rome spaces, or reporting to R-Ladies Global if necessary.\n\nTo report an incident confidentially, please contact: rome [at] rladies [dot] org\n\n\n\n\nBy attending an R-Ladies Rome event, participants agree to:\n\nBehave respectfully toward speakers, attendees, and organizers\nSupport a welcoming environment for beginners and experts alike\nAvoid recording sessions unless explicitly permitted\nRespect privacy: screenshots, photos, or names should not be shared without consent\n\n\nThe organizing team reserves the right to remove disruptive participants.\n\n\n\n\nWe welcome speakers from all genders and backgrounds, provided their content is educational, technical, or aligned with the R-Ladies mission, supports open-source values, and upholds non-discriminatory practices. Talks should avoid promotional or sales, focused messaging unless pre-approved and should include clear, reproducible examples whenever possible. Speakers are expected to collaborate with the organizers to ensure accessibility, such as readable slides and inclusive language, respect for community standards, and accurate representation of contributors and sources.\n\n\n\nR-Ladies Rome may collaborate with universities, organizations, companies, or institutions that align with our mission. We work only with sponsors and partners who respect diversity, equity, and inclusion, do not engage in discriminatory practices, and support transparent, ethical, and community-focused initiatives. Sponsorship does not influence speaker selection, event topics, or community decisions.\n\n\n\nR-Ladies Rome respects the privacy of all participants. We do not sell or share personal data with third parties, and registration information is used solely for event organization and communication. Photos or recordings are shared only with explicit permission, and attendees may request the removal of their personal information from our platforms at any time.\n\n\n\nR-Ladies Rome is led by a volunteer organizing team responsible for planning events and workshops, selecting speakers and topics, managing communications and online platforms, upholding the Code of Conduct, and supporting the growth of the local community. Decisions are made collectively and transparently, and new volunteers may be invited as the chapter continues to grow.\n\n\n\nWe encourage contributions in the form of:\n\nTalk proposals\nWorkshops and tutorials\nBlog posts\nGitHub or technical resources\nCommunity mentorship\n\nAll shared resources should follow open-source licensing or include clear usage permissions.\n\n\n\nThis policy may be updated periodically to reflect community needs and organizational growth. Updates will always be communicated on our website."
   },
   {
-    "objectID": "about/organizers.html#section-2",
-    "href": "about/organizers.html#section-2",
-    "title": "Organizers",
+    "objectID": "about/coc_community_policy.html#contacts",
+    "href": "about/coc_community_policy.html#contacts",
+    "title": "Community & Organizational Policy",
+    "section": "Contacts",
+    "text": "Contacts\nFor questions, collaborations, or concerns, please reach out:\n📧 rome [at] rladies [dot] org"
+  },
+  {
+    "objectID": "about/former_organizers.html",
+    "href": "about/former_organizers.html",
+    "title": "Former Co-Organizers",
     "section": "",
-    "text": "To get in touch with R-Ladies Rome, you can email us at rome@rladies.org, follow us on Twitter at @rladiesrome, and check out our GitHub account at meetup-presentations_rome. We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.\n\n\n\n\n\n\n\nWe have a code of conduct that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.\n\n\nSponsored by  Consortium",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Organizers"
-    ]
+    "text": "Lucy Michaels Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master’s in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science. This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I’m also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n\n\n\n\nLucy Michaels"
   },
   {
-    "objectID": "about/sponsors.html",
-    "href": "about/sponsors.html",
-    "title": "Sponsor",
+    "objectID": "about/former_organizers.html#section",
+    "href": "about/former_organizers.html#section",
+    "title": "Former Co-Organizers",
     "section": "",
-    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Sponsors"
-    ]
+    "text": "Lucy Michaels Organizer. With 25 years in mathematics education and financial leadership, I’m completing a Master’s in Analysis & Modelling of Data & Processes as well as IBM’s Data Science Certificate, ready to pivot into Data Science. This has led me to work on hands-on projects using R, Python, SQL, and Excel. I bring a unique mix of analytical depth, cross-functional collaboration, and a love for problem-solving. After managing multi-million euro budgets and teaching complex maths, I am looking forward to transitioning into data science to turn messy, real-world data into clear, actionable insights. I’m also active in nonprofit leadership and public speaking, committed to using data—and storytelling—to make a difference. (June 2025 to Present)\n\n\n\n\nLucy Michaels"
   },
   {
-    "objectID": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
-    "href": "about/sponsors.html#introducing-our-new-sponsor-r-consortium",
-    "title": "Sponsor",
+    "objectID": "about/former_organizers.html#section-1",
+    "href": "about/former_organizers.html#section-1",
+    "title": "Former Co-Organizers",
     "section": "",
-    "text": "We are thrilled to announce our latest partnership with R Consortium, a pivotal player in the world of data science and programming. R Consortium is a non-profit organization committed to advancing the R language and fostering innovation within the R community.",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Sponsors"
-    ]
+    "text": "Silvana Acosta Organizer. Senior Data Scientist with six years of experience in the fields of data science, finance, and consultancy, analyzing and modelling data.\n\n\n\nSilvana Acosta\n\n\n\n\n\n\n\nFrancesca Picone Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n\n\n\n\nFrancesca Picone"
   },
   {
-    "objectID": "about/sponsors.html#why-r-consortium",
-    "href": "about/sponsors.html#why-r-consortium",
-    "title": "Sponsor",
-    "section": "Why R Consortium?",
-    "text": "Why R Consortium?\nR Consortium’s mission aligns perfectly with our goals at R-Ladies Rome. They provide essential support to projects and initiatives that enhance R’s capabilities and accessibility. By partnering with R Consortium, we’re strengthening our commitment to empowering data enthusiasts, promoting R programming, and fostering a vibrant community.",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Sponsors"
-    ]
-  },
-  {
-    "objectID": "about/sponsors.html#what-this-means-for-you",
-    "href": "about/sponsors.html#what-this-means-for-you",
-    "title": "Sponsor",
-    "section": "What This Means for You",
-    "text": "What This Means for You\nThis partnership brings numerous benefits to our community. We’ll have access to valuable resources, expertise, and opportunities that will further enrich our events and activities. Together, we’ll continue to grow, learn, and share knowledge within the R programming ecosystem.\nWe’re grateful for the support of R Consortium and look forward to the exciting opportunities this collaboration will bring. Stay tuned for upcoming events and initiatives that will showcase the incredible possibilities unlocked by this partnership.\nLet’s embark on this journey together, embracing the power of R programming and data science with R Consortium by our side. Here’s to a bright future of learning, innovation, and community-building!\n#RConsortium #RProgramming #DataScience #CommunityBuilding",
-    "crumbs": [
-      "Introduction",
-      "About",
-      "Sponsors"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R-Ladies Rome",
+    "objectID": "about/former_organizers.html#section-2",
+    "href": "about/former_organizers.html#section-2",
+    "title": "Former Co-Organizers",
     "section": "",
-    "text": "Welcome to R-Ladies Rome! 🌟\n\n\nPart of R-Ladies Global, organization designed to develop the R skills and knowledge of our members at all user levels, supporting access to STEM skills and careers for everyone who is interested in expanding knowledge on this field. We are proud members of both the Open Source Movement and the Global R Community, proudly sponsored by The R Consortium and The Linux Foundation.\n\n\n\n\n\n\n  \n    \n  \n  \n     \n\n \n  \n\n\n\n\n\n\n\nLatest content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Data to Decisions: Digital Twins for Smarter Maintenance\n\n\nIn this session, Priyanka Schnell presented a physics-informed, data-driven approach to Condition-Based Maintenance using a digital twin model, anomaly detection, and…\n\n\n\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit & GitHub: Practical Version Control for Data Work\n\n\nIn this tutorial, participants were guided through a practical, workflow-first introduction to Git and GitHub, covering the terminal vs shell mental model, local version…\n\n\n\n\n\n\nJan 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Basics to Advanced Health Analytics: Exploring Diabetes Data\n\n\nIn this workshop, participants were guided through a complete exploratory data analysis workflow in R using a simulated diabetes dataset, focusing on data understanding…\n\n\n\n\n\n\nDec 17, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Francesca Picone Co-organizer statistician and actuary, professional risk manager, and expert in the energy sector. (September 2023 to February 2024)\n\n\n\n\nFrancesca Picone"
   },
   {
-    "objectID": "blog/posts/05142023/index.html",
-    "href": "blog/posts/05142023/index.html",
-    "title": "Introduction",
+    "objectID": "about/former_organizers.html#section-3",
+    "href": "about/former_organizers.html#section-3",
+    "title": "Former Co-Organizers",
     "section": "",
-    "text": "We are excited to announce that R-Ladies Rome has expanded its online presence by opening social accounts on Twitter, LinkedIn, and Mastodon.\nAs a local chapter of R-Ladies Global, our mission is to promote gender diversity in the R community and provide a safe and supportive space for minority gender R enthusiasts to learn, grow, and contribute to the R community.\nWith our new social media accounts, we hope to connect with more people interested in working with R, share our events and activities, and engage with the larger R community.\nFollow us on Twitter at @rladiesrome, connect with us on LinkedIn at @R-Ladies Rome, and join us on Mastodon at @rladiesrome@fosstodon.org to stay up to date with our latest news and events.\n\n\n\nWelcome to R-Ladies Rome Twitter account. This is a local chapter of @RLadiesGlobal. We meet once a month for talking about data analytics, visualizations, and modeling with R.\nTo become a member: &lt;a href=“https://www.meetup.com/rladies-rome/ #rstats\n\n— R-Ladies Rome (@rladiesrome) Sep 30, 2022\n\n\n\n\n\n\n Back to top"
+    "text": "Nina Deliu Co-Organizer Researcher and Assistant Professor in Statistics at La Sapienza University of Rome. (September 2022 to February 2023)\n\n\n\n\nNina Deliu\n\n\n\n\n\n\nKatie Wood Co-organizer marketing manager with a background in various industry sectors across global markets. (March 2023 to September 2023)\n\n\n\n\nKatie Wood\n\n\n\n\n\nTo get in touch with R-Ladies Rome, you can email us at rome@rladies.org, follow us on Twitter at @rladiesrome, and check out our GitHub account at meetup-presentations_rome. We welcome contributions from anyone interested in promoting gender diversity in the R community. You can contribute by attending our meetups, sharing your knowledge and insights, and helping us organize events.\nWe have a code of conduct that all members and participants are expected to follow. The code of conduct is designed to ensure that our community is a safe and welcoming space for everyone. You can find the code of conduct on our GitHub page. We take any violations of the code of conduct seriously and will take appropriate action to address them.\n\nSponsored by  Consortium"
   },
   {
-    "objectID": "blog/posts/01072024/index.html",
-    "href": "blog/posts/01072024/index.html",
-    "title": "One-Year of Events: What’s happend at R-Ladies Rome",
+    "objectID": "blog/posts/06282024/index.html",
+    "href": "blog/posts/06282024/index.html",
+    "title": "Women in Technology: Web Development Workshop | Building a Website in R",
     "section": "",
-    "text": "Overview\nAs we bid farewell to 2023, it’s time to look back and celebrate the incredible journey of R-Ladies Rome. This year has been marked by empowerment, collaboration, and growth within our vibrant community.\n\n\n\n\n\n\nLet’s take a moment to reflect on the milestones, events, and connections that made this year special.\n\n\n\nCommunity Growth and Collaboration\nThroughout the year, our community grew stronger. Members engaged in passionate discussions, shared their experiences, and collaborated on projects. We strengthened our ties with other R-Ladies chapters worldwide and explored opportunities for joint events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipThank You!\n\n\n\nR-Ladies Rome expresses gratitude to all our members, speakers, and partners who contributed to the success of our community in 2023. As we celebrate the achievements of the past year, we eagerly anticipate the opportunities and connections that await us in the upcoming year. Here’s to a thriving and empowering 2024 for R-Ladies Rome! 🌟\n\n\nA Year of Diversity and Inclusion\nOne of our primary goals at R-Ladies Rome is to foster an inclusive environment. Throughout 2023, we hosted numerous events focused on diversity in tech, creating spaces where everyone, regardless of background or experience level, felt welcome. From web technology workshops to interactive coding sessions, we embraced the richness that diverse perspectives bring to our community.\n\n\n\n\n\n\nTipRate of Change\n\n\n\nTo calculate the rate of change consider the initial and final values, and the formula for percentage change is:\n\\[\\text{Percentage Change} = \\left( \\frac{\\text{Final Value} - \\text{Initial Value}}{\\text{Initial Value}} \\right) \\times 100\\]\n\n\n\n\n\n\n\n\n\n\n\nTech Talks and Workshops\nOur calendar was packed with enlightening tech talks and hands-on workshops. Renowned speakers and experts shared their knowledge on data visualization, statistics, and R programming. These events not only provided valuable insights but also showcased the vast possibilities that technology offers.\nData Visualization Month\nNovember was an exciting month as we delved deep into the world of data visualization. With two remarkable events featuring experts like Cédric Scherer and Cara Thompson, we explored the art and science of transforming data stories into engaging visual narratives. The live-coding sessions and Q&A interactions made this month a highlight of our year.\n\n\n\n\n\n\n\n\nEmpowering Women in Tech\nEmpowering women in technology has been a core focus for R-Ladies Rome. We organized events specifically designed to support and uplift women in the tech field. From networking sessions to skill showcases, these gatherings aimed to create a supportive community for women in various tech-related professions.\nLooking Forward to 2024\nAs we close the chapter on 2023, we’re excited about the possibilities that 2024 holds. With a commitment to continuous learning, collaboration, and empowerment, R-Ladies Rome is poised to embark on another year of growth and impact.\n\n\n Back to top"
+    "text": "Greetings, R-Ladies! 💞\nWe are excited to recap the fantastic experience we had at our recent Women in Technology Web Development Workshop. This event was a celebration of learning, creativity, and community as we delved into the world of web development using R.\nThe event was held in partnership with R-Ladies NYC, enriching our community collaboration and ensuring a diverse and inclusive learning environment. It was a fantastic opportunity to delve into the world of web development and R programming.\nThe workshop kicked off with an engaging introduction, setting the stage for an interactive and hands-on session. Participants from diverse backgrounds came together to explore the steps of building a website using R. Guided by a varieties of resources, our attendees navigated through the process with enthusiasm and curiosity.\nHighlights of the Workshop:\n\nInteractive Learning: The workshop fostered a collaborative environment where everyone learned from basic concepts to advanced techniques; we covered a wide spectrum of web development principles with Quarto.\nHands-On Experience: Participants had the opportunity to apply their newfound knowledge immediately. Through practical example and guided tutorials, they created their own websites step by step.\nBuilding a Fabulous Website: By the end of the workshop, each participant successfully crafted a stunning website using R. We are proud to showcase their creativity and achievement.\n\nMaterial fo the Workshop:\nCheck out the final version of the websites created during the workshop, and we encourage you to explore the code in the GitHub repository as a starting point to make your own:\n\nFinal version of the WebSite: 👉My Website in R & Quarto\nCode: 👉GitHub repository\n\nRecording Availability:\nMissed the workshop? Don’t worry! We will soon release the recording of the event so you can catch up on all the insightful sessions and tutorials. Stay tuned to @rladiesrome YouTube Channel to access the recording once it’s available.\nThank you to everyone who joined us for this enriching event. Your enthusiasm and dedication truly made it a success. We look forward to continuing our journey of learning and empowerment together.\nUntil next time!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/posts/12302024/index.html",
+    "href": "blog/posts/12302024/index.html",
+    "title": "A Year of Learning, Growth, and Community at R-Ladies Rome 🌟",
+    "section": "",
+    "text": "Reflecting on 2024: A Year of Learning and Growth at R-Ladies Rome 🌟\nAs 2024 comes to an end, we look back on a year filled with inspiration, collaboration, and growth. R-Ladies Rome has continued to thrive as a hub for learning, where members from diverse backgrounds come together to explore, share, and grow in their journey with R programming and data science.\n\n\n\nAll 2024 R-Laadies Rome Speakers\n\n\n\nA Year of Highlights in Numbers\n\n12 incredible events hosted.\n\nA growing community with 1.2K+ members on Meetup.\n\nOver 2K RSVPs from members eager to learn, connect, and grow.\n\nDozens of expert speakers and workshop leaders from across the globe.\n\n\n\n\nR-Ladies Rome in Numbers\n\n\nThis year, we witnessed extraordinary moments that reminded us of the power of community.\n\n\nInspiring Selection of Talks and Hands-On Learning\nThroughout the year, we explored a variety of fascinating topics:\n\nReproducible Environments with Docker: Bruno Rodrigues guided attendees in creating reproducible workflows using Docker.\nBuilding a Website in R: Federica Gazzelloni led a workshop on using R Markdown and Shiny to build interactive websites.\nQuarto Dashboards: Isabella Velasquez demonstrated creating dynamic dashboards with Quarto, showcasing practical applications.\nExtending the Data Science Workflow: {vetiver} and {pins} - Isabel Zimmerman introduced the applications of the {vetiver} and {pins} packages for enhanced data workflows.\nDebugging in R: Shannon Pileggi shared valuable tips and techniques for troubleshooting and resolving common programming errors.\n\nEach event was an opportunity to learn new skills, gain fresh perspectives, and connect with a global network of R enthusiasts.\n\n\nBuilding a Thriving Community\nR-Ladies Rome is more than just a series of meetups—it’s a growing, inclusive community where members share ideas, ask questions, and support one another. The energy, engagement, and curiosity of our members have made every event special.\n\n\nGratitude for Our Speakers and Participants\nWe want to thank our speakers, who generously shared their knowledge and insights, and our members, whose enthusiasm and participation made this year unforgettable.\n\nYou are the heart of R-Ladies Rome, and your dedication to learning and collaboration continues to inspire us. THANK YOU 🤗\n\n\n\nLooking Ahead to 2025\nWe’re kicking off 2025 with an exciting event featuring Eli Holder on Thursday, January 9th:\n\n\n\n\n\nEli Holder\n\n\n\n\nTitle: Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead.\nAbstract: Eli will discuss the social impacts of visualizing inequality and public health disparities, drawing on their research into how common dataviz practices can unintentionally promote harmful misbeliefs. The talk will offer actionable solutions to design impactful and responsible visualizations.\n\n\n\nMore interesting events to come:\n\nIntroduction to Bayesian Modeling: A session that introduced foundational concepts in Bayesian statistics and demonstrated how to apply them using R.\nData Visualization Best Practices: A workshop on crafting effective visualizations with {ggplot2} and communicating data insights.\nShiny Apps for Interactive Data Exploration: Learn how to build interactive web apps for data analysis with Shiny.\nMachine Learning with {tidymodels}: Hands-on exploration of machine learning workflows using the tidymodels framework.\nIntroduction to Time Series Analysis: Techniques and R tools for analyzing and forecasting time series data.\n\nStay tuned for more details and join us for what promises to be an insightful session!\n\n\nThank You and Happy Holidays\nAs we wrap up 2024, we want to express our deepest gratitude to everyone who has been part of R-Ladies Rome’s journey. Thank you for your support, engagement, and contributions.\n\nLet’s continue learning, growing, and building together in 2025. Happy holidays from all of us at R-Ladies Rome! 🎉\n\nStay connected with us on our website and social media for updates on upcoming events. We can’t wait to see you in the new year!\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/posts/10232023/index.html",
+    "href": "blog/posts/10232023/index.html",
+    "title": "In-Person Reunion: A Memorable Meetup for R-Ladies Rome Organizers",
+    "section": "",
+    "text": "We’ve got some exciting news to share with you all! The R-Ladies Rome organizers recently had a wonderful get-together in the heart of Rome. It was a special day where we came together for the first time in a long while and enjoyed some quality time with each other.\n\n\n\nR-Ladies Rome Organizers: from the left Francesca Picone, Federica Gazzelloni, Katie Jane Wood\n\n\nThe day was all about connecting and having a great time. We met at La Fiorentina in Prati, a lovely spot in Rome, where we relaxed while enjoying an aperitif.\nThis meetup was not just a simple gathering; it was a chance for us to finally met in person, strengthen our team spirit and enjoy each other’s company.\nWe chatted about our plans for the future, shared ideas for upcoming events, and discussed how we can continue to make R-Ladies Rome an even more welcoming community.\nWe talked about the latest trends in data science, cool tricks with R programming, and shared stories of our experiences in the field. Our in-person get-together was a reminder of the strength of our community and the many possibilities that lie ahead.\nWe can’t wait to share more with you in the coming days and months. Keep an eye out for our future events and activities. We're looking forward to having you with us on this fantastic journey!\n\n\n\n Back to top"
   },
   {
     "objectID": "blog/posts/07262023/index.html",
@@ -1055,7 +1167,7 @@
     "href": "blog/index.html",
     "title": "Blog Posts 🗞️",
     "section": "",
-    "text": "Have a look at the latest Blog Posts of R-Ladies Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\n\n\nReflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2024 and share…\n\n\n\n\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWomen in Technology: Web Development Workshop | Building a Website in R\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne-Year of Events: What’s happend at R-Ladies Rome\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJan 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Look Back at Our Recent Events: Welcoming the Data Visualization Month\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn-Person Reunion: A Memorable Meetup for R-Ladies Rome Organizers\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nOct 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nExciting Talks at R-Ladies Rome: First Half of the Year\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJul 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction\n\n\nSocial Networks\n\n\n\n\n\n\nMay 14, 2023\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "Have a look at the latest Blog Posts of R-Ladies Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\n\n\nReflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2025 and share…\n\n\n\n\n\n\nFeb 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\n\n\nReflecting on a year of inspiring events, knowledge-sharing, and community-building in R programming and data science. Join us as we highlight our journey in 2024 and share…\n\n\n\n\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWomen in Technology: Web Development Workshop | Building a Website in R\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne-Year of Events: What’s happend at R-Ladies Rome\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJan 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Look Back at Our Recent Events: Welcoming the Data Visualization Month\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn-Person Reunion: A Memorable Meetup for R-Ladies Rome Organizers\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nOct 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nExciting Talks at R-Ladies Rome: First Half of the Year\n\n\nInspiring Insights and Knowledge Sharing in R Programming\n\n\n\n\n\n\nJul 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction\n\n\nSocial Networks\n\n\n\n\n\n\nMay 14, 2023\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Introduction",
       "Blog"

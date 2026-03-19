@@ -68,4 +68,4 @@ This tutorial is part of the **R-Ladies Rome Tutorials** series, created to supp
 
 Keep learning and exploring,subscribe to our YouTube channel and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
 
-<center>[← Previous event](/talks/2025/meetup/12172025_organizers.qmd) \| [Next event →](/talks/2026/NextSpeaker.qmd)</center>
+<center>[← Previous event](/talks/2025/meetup/12172025_organizers.qmd) \| [Next event →](/talks/2026/meetup/02162026_priyankaschnell.qmd)</center>
