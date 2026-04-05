@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>R-Ladies Rome</title>
+<link>https://rladiesrome.org/</link>
+<atom:link href="https://rladiesrome.org/index.xml" rel="self" type="application/rss+xml"/>
+<description>Online Learning Resources for R-Ladies Rome</description>
+<image>
+<url>https://rladiesrome.org/images/world-map.png</url>
+<title>R-Ladies Rome</title>
+<link>https://rladiesrome.org/</link>
+<height>90</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 17 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/03182026_isabellavelasquez.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (102)</p>
+<p>At R-Ladies Rome we often focus on tools that quietly shape how we work every day. <strong>{dplyr}</strong> is one of those tools. Many of us use it almost instinctively, but every new release brings small improvements that can significantly change how we write and think about our data pipelines.</p>
+<p>In this session, we were delighted to welcome <strong>Isabella Velásquez (Developer Relations at Posit PBC)</strong> for a practical tour of the newest features introduced in <strong>{dplyr} 1.2.0</strong>. The focus was not just on new syntax, but on understanding <em>why these tools exist</em> and <em>when they actually make our work easier</em>.</p>
+<section id="tutorial-overview" class="level2">
+<h2 class="anchored" data-anchor-id="tutorial-overview">🧩 Tutorial Overview</h2>
+<p>The session walked through the evolution of common data manipulation patterns and how the new functions help simplify logic that previously required more complex workarounds.</p>
+<p>We explored:</p>
+<ul>
+<li>how <code>when_any()</code> and <code>when_all()</code> help express conditional logic more clearly<br>
+</li>
+<li>how to rethink workflows that previously relied on <code>case_match()</code><br>
+</li>
+<li>improvements to filtering logic that make pipelines easier to read<br>
+</li>
+<li>practical examples grounded in realistic data workflows</li>
+</ul>
+<p>As often happens in R-Ladies Rome sessions, the emphasis was not on memorizing functions but on building intuition. The goal was to leave participants with a clearer mental model of how to approach data transformations.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/xCbFl_Ez6VM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended live and for anyone wanting a practical overview of how the newest <strong>dplyr</strong> features fit into everyday work.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording, you will learn how to:</p>
+<ul>
+<li>understand the design ideas behind the newest dplyr functions<br>
+</li>
+<li>simplify conditional filtering logic<br>
+</li>
+<li>improve readability of transformation pipelines<br>
+</li>
+<li>choose clearer patterns for data manipulation<br>
+</li>
+<li>write tidyverse code that is easier to maintain and share</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://tinyurl.com/rladiesrome-march2026">Intro Presentation</a></li>
+<li><a href="https://ivelasq-dplyr-1-2-0.share.connect.posit.cloud/">Slides</a></li>
+<li><a href="https://tidyverse.org/blog/2026/02/dplyr-1-2-0/">dyplr 1.2.0</a></li>
+<li><a href="https://tidydatatutor.com/">TidyData Tutor</a></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><strong>Isabella Velásquez</strong> works in Developer Relations at Posit PBC, where she helps the data science community adopt modern tools and workflows. Her work connects programming, communication, and data analysis, with a strong focus on making data science tools approachable and practical.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This session is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical tools that support reproducible and sustainable data workflows.</p>
+<p>Our goal is always the same: to help people move from <em>knowing functions</em> to <em>understanding workflows</em>. Whether someone is just starting with R or refining their practice, we aim to provide sessions that strengthen both technical skills and confidence.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2026/meetup/02162026_priyankaschnell.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NextSpeaker.qmd">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>R Programming</category>
+  <category>Tidyverse</category>
+  <category>dplyr</category>
+  <category>Data Workflow</category>
+  <category>Tutorial</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/03182026_isabellavelasquez.html</guid>
+  <pubDate>Tue, 17 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/c/3/a/8/highres_533030088.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>A Year of Learning, Growth, and Community at R-Ladies Rome 🌟</title>
+  <link>https://rladiesrome.org/blog/posts/02172026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="reflecting-on-2025-a-year-of-learning-and-growth-at-r-ladies-rome" class="level3">
+<h3 class="anchored" data-anchor-id="reflecting-on-2025-a-year-of-learning-and-growth-at-r-ladies-rome">Reflecting on 2025: A Year of Learning and Growth at R-Ladies Rome 🌟</h3>
+<p>As we look back on 2025, one thing is clear: R-Ladies Rome continues to grow not only in numbers, but in depth, consistency, and community impact.</p>
+<p>This past year has been defined by practical learning, sustained engagement, and a strong commitment to accessible, open, and high-quality technical education.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/02172026/images/recap26-2.jpg" class="img-fluid figure-img"></p>
+<figcaption>R-Ladies Rome 2025 Highlights</figcaption>
+</figure>
+</div>
+</section>
+<section id="r-ladies-rome-in-numbers" class="level2">
+<h2 class="anchored" data-anchor-id="r-ladies-rome-in-numbers">📊 R-Ladies Rome in Numbers</h2>
+<p>Our 2025 snapshot highlights both growth and momentum:</p>
+<ul>
+<li><strong>2,500+ Meetup members</strong></li>
+<li><strong>1,200+ total RSVPs in 2025</strong></li>
+<li><strong>Highest RSVP event: 416 attendees</strong></li>
+<li><strong>Average RSVPs per event significantly above historical average</strong></li>
+<li><strong>Recurring monthly activity throughout the year</strong></li>
+</ul>
+<p>Compared to our earlier years, engagement has increased steadily, with 2025 showing stronger and more consistent participation across events. What began as a local initiative has evolved into a structured, recurring learning ecosystem.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/02172026/images/recap26-3.jpg" class="img-fluid figure-img"></p>
+<figcaption>R-Ladies Rome in Numbers</figcaption>
+</figure>
+</div>
+</section>
+<section id="what-we-built-together" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-built-together">💡 What We Built Together</h2>
+<p>Throughout the year, we delivered:</p>
+<ul>
+<li>Hands-on workshops in R fundamentals and data wrangling<br>
+</li>
+<li>Sessions on reproducible workflows with Quarto and GitHub<br>
+</li>
+<li>Applied talks in health analytics and machine learning<br>
+</li>
+<li>Community-driven discussions and collaborative learning spaces</li>
+</ul>
+<p>Our focus has always been practical. We do not just present slides — we work with code, data, and real analytical reasoning.</p>
+</section>
+<section id="our-principles-remain-the-same" class="level2">
+<h2 class="anchored" data-anchor-id="our-principles-remain-the-same">🔐 Our Principles Remain the Same</h2>
+<p>Growth has not changed our core values.</p>
+<section id="r-ladies-rome-continues-to-operate-under-three-foundational-principles" class="level3">
+<h3 class="anchored" data-anchor-id="r-ladies-rome-continues-to-operate-under-three-foundational-principles">R-Ladies Rome continues to operate under three foundational principles</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/02172026/images/recap26-4.jpg" class="img-fluid figure-img"></p>
+<figcaption>Our Principles</figcaption>
+</figure>
+</div>
+<p>These pillars allow us to scale without losing identity.</p>
+</section>
+</section>
+<section id="sustained-engagement-not-one-off-events" class="level2">
+<h2 class="anchored" data-anchor-id="sustained-engagement-not-one-off-events">📈 Sustained Engagement, Not One-Off Events</h2>
+<p>One of the strongest signals in 2025 was recurring participation.</p>
+<p>Our engagement is not driven by single viral events, but by consistent attendance, returning participants, and structured programming. This indicates community maturity — learners are not just attending; they are staying.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/02172026/images/recap26-1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Sustained Engagement</figcaption>
+</figure>
+</div>
+</section>
+<section id="part-of-a-global-movement" class="level2">
+<h2 class="anchored" data-anchor-id="part-of-a-global-movement">🌍 Part of a Global Movement</h2>
+<p>R-Ladies Rome is part of the global R-Ladies network and supported by the open-source ecosystem, including the R Consortium and The Linux Foundation.</p>
+<p>We are local in presence, but global in reach.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/02172026/images/recap26-5.jpg" class="img-fluid figure-img"></p>
+<figcaption>Part of a Global Movement</figcaption>
+</figure>
+</div>
+</section>
+<section id="looking-ahead-to-2026" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead-to-2026">🚀 Looking Ahead to 2026</h2>
+<p>The momentum of 2025 sets the stage for an exciting year ahead.</p>
+<p>In 2026, we aim to:</p>
+<ul>
+<li>Expand advanced technical workshops<br>
+</li>
+<li>Strengthen collaborations with universities and industry<br>
+</li>
+<li>Increase digital content and recorded sessions<br>
+</li>
+<li>Continue building structured learning pathways</li>
+</ul>
+<p>Our mission remains clear: empower people to move from learning R to building meaningful, reproducible, real-world projects.</p>
+</section>
+<section id="join-us" class="level2">
+<h2 class="anchored" data-anchor-id="join-us">🤝 Join Us</h2>
+<p>Whether you are just starting with R or already working professionally in data science, there is a place for you in this community.</p>
+<p>Join us.<br>
+Speak with us.<br>
+Collaborate with us.</p>
+<p>Let’s continue building an inclusive, technically strong, and open data science community in Rome — and beyond.</p>
+<hr>
+<p><em>R-Ladies Rome Organizers</em><br>
+Federica Gazzelloni &amp; Rafaela Ribeiro<br>
+www.rladiesrome.org</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Community</category>
+  <category>Recap</category>
+  <category>R-Ladies Rome</category>
+  <category>Data Science</category>
+  <guid>https://rladiesrome.org/blog/posts/02172026/</guid>
+  <pubDate>Mon, 16 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://rladiesrome.org/blog/posts/02172026/images/recap26-1.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>From Data to Decisions: Digital Twins for Smarter Maintenance</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/02162026_priyankaschnell.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (65)</p>
+<p>On February 16, 2026, <strong>R-Ladies Rome</strong> hosted <strong>From Data to Decisions: Digital Twins for Smarter Maintenance</strong>, a practical session focused on how data science moves beyond notebooks and into real production systems.</p>
+<p>The talk presented a physics-informed approach to <strong>Condition-Based Maintenance (CBM)</strong> through a real-world aerospace case study. The central question of the session was clear:</p>
+<blockquote class="blockquote">
+<p>How do we detect failure before it happens — and make decisions that reduce cost and risk?</p>
+</blockquote>
+<section id="tutorial-overview" class="level2">
+<h2 class="anchored" data-anchor-id="tutorial-overview">🧩 Tutorial Overview</h2>
+<p>The session was delivered by <strong>Priyanka Schnell</strong>, Chief Technology Officer at Insurfox. With experience in enterprise-scale digital systems and aerospace manufacturing, Priyanka guided us through how sensor data, physics models, and anomaly detection can work together in production.</p>
+<p>The context: robotic drilling in A321 wing assembly. A single snapped drill bit can cause burrs or delamination, potentially scrapping a wing skin valued at €150,000. Traditional maintenance policies replaced drill bits after a fixed number of holes — a strategy that often led to premature replacements or unexpected failures.</p>
+<p>Instead of relying on static thresholds, the session introduced a <strong>digital twin</strong> approach.</p>
+<p>We explored:</p>
+<ul>
+<li>how high-frequency sensor data (torque, vibration, speed, feed rate) can be transformed into meaningful features<br>
+</li>
+<li>why <strong>Specific Cutting Energy</strong> helps detect “wasted energy” before functional failure<br>
+</li>
+<li>how regime normalization allows comparison across aluminum and titanium cutting<br>
+</li>
+<li>how <strong>Isolation Forest</strong> can identify deviations without labeled failure data<br>
+</li>
+<li>why persistence rules (e.g., “6 of 12”) reduce alert noise<br>
+</li>
+<li>how early detection within the P–F interval provides actionable lead time</li>
+</ul>
+<p>The session included a live walkthrough in Google Colab using simulated data to demonstrate the workflow step-by-step.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/9lcm3Nsj0No" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended live and for anyone interested in understanding how anomaly detection and digital twins operate in high-stakes environments.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording, you will learn how to:</p>
+<ul>
+<li>understand what a digital twin means in practical data terms<br>
+</li>
+<li>engineer physics-informed features from raw sensor signals<br>
+</li>
+<li>apply unsupervised anomaly detection in production settings<br>
+</li>
+<li>use persistence logic to stabilize alert systems<br>
+</li>
+<li>think beyond time-based rules toward dynamic maintenance strategies<br>
+</li>
+<li>connect domain knowledge with statistical modeling</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://tinyurl.com/rladiesrome-february2026">Intro Presentation</a></li>
+<li><a href="https://github.com/rladies/meetup-presentations_rome/tree/main/events/2026/intro_presentation/material/02_material_feb26">Tutorial Slides and Colab Code</a></li>
+</ul>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This session is part of the <strong>R-Ladies Rome Tutorials</strong> series, which focuses on practical workflows and real-world data applications.</p>
+<p>Our goal is to show how data science connects to operational systems — where decisions have financial and technical consequences. We aim to make advanced topics accessible without removing the rigor behind them.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2026/meetup/01292026_federicagazzelloni.html">← Previous event</a> | <a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Digital Twin</category>
+  <category>Production Systems</category>
+  <category>Anomaly Detection</category>
+  <category>Data Science</category>
+  <category>Tutorial</category>
+  <category>Python</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/02162026_priyankaschnell.html</guid>
+  <pubDate>Sun, 15 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/7/a/2/highres_532501954.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>Git &amp; GitHub: Practical Version Control for Data Work</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/01292026_federicagazzelloni.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (119)</p>
+<p>On January 29, 2026, <strong>R-Ladies Rome</strong> hosted <strong>Git &amp; GitHub: Practical Version Control for Data Work</strong>, a hands-on tutorial aimed at demystifying version control for people working with data, analysis, and research projects.</p>
+<p>The session was designed for beginners and R users, with a strong focus on building a clear mental model first and only then introducing the commands. The key message was simple and intentionally repeated throughout the talk:</p>
+<blockquote class="blockquote">
+<p>Git is local version control. GitHub is an optional remote layer for sharing and collaboration.</p>
+</blockquote>
+<section id="tutorial-overview" class="level2">
+<h2 class="anchored" data-anchor-id="tutorial-overview">🧩 Tutorial Overview</h2>
+<p>The tutorial was presented by <strong>Federica Gazzelloni</strong>, Lead Organizer of R-Ladies Rome. We started from the environment most learners find confusing: the command line.</p>
+<p>In the first section, we clarified the difference between terminal and shell, and why this matters when learning Git. Many Git <em>“mysteries”</em> disappear once you understand that the terminal is just the window, while the shell is the interpreter running inside it. We also covered what to expect across platforms (macOS zsh, bash commonly used in RStudio, and typical Windows setups via WSL).</p>
+<p>From there, we moved to Git fundamentals and framed Git as a local tool that works without accounts or internet access. The tutorial explained what a repository really is (a folder containing a hidden .git directory) and how Git records change through the staged workflow: working directory → staging area → commit history.</p>
+<p>The practical part of the session walked through the essential local commands, <code>git init</code>, <code>git status</code>, <code>git add</code>, <code>git commit</code>, <code>git log</code>, <code>git diff.</code></p>
+<p>Finally, we positioned GitHub as the collaboration layer: remotes, push/pull, and how GitHub enables teamwork when you already understand local Git.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Sa8NPcaNYLo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended live and for anyone who wants to follow the workflow at their own pace.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording and working through the guide, you will learn how to:</p>
+<ul>
+<li>distinguish clearly between terminal and shell, and work comfortably from the command line</li>
+<li>understand Git as a local history of your project, not <em>“a cloud thing”</em></li>
+<li>move confidently through the core Git states: modified → staged → committed</li>
+<li>use essential commands for day-to-day work (status, add, commit, log, diff)</li>
+<li>understand how GitHub fits into the workflow once local Git is solid</li>
+<li>explore branching and merging as a way to manage parallel work</li>
+</ul>
+<p>Next steps:</p>
+<ul>
+<li>undo mistakes safely using the right tool for the situation (restore, reset, revert) - check the material below 👇</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="material/01_code.pdf">Workshop guide (PDF)</a></li>
+<li><a href="https://tinyurl.com/ms5n8z9h">Slides</a></li>
+<li><a href="https://tinyurl.com/5w332kau">RLadiesRome Chapter Intro</a></li>
+</ul>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This tutorial is part of the <strong>R-Ladies Rome Tutorials</strong> series, created to support practical, reproducible workflows for data work. The goal is to make core tooling approachable without oversimplifying it, so participants leave with a mental model they can actually use in real projects.</p>
+<p>Keep learning and exploring,subscribe to our YouTube channel and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2025/meetup/12172025_organizers.html">← Previous event</a> | <a href="../../../talks/2026/meetup/02162026_priyankaschnell.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Reproducible Research</category>
+  <category>Git</category>
+  <category>GitHub</category>
+  <category>Workflow</category>
+  <category>Tutorial</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/01292026_federicagazzelloni.html</guid>
+  <pubDate>Wed, 28 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/6/e/d/4/highres_532408372.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>From Basics to Advanced Health Analytics: Exploring Diabetes Data</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/12172025_organizers.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (84)</p>
+<p>On December 17, 2025, <code>R-Ladies Rome</code> hosted <a href="https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html">From Basics to Advanced Health Analytics: Exploring Diabetes Data</a>, a hands-on workshop designed to guide participants through the earliest and most critical stages of applied data analysis using R.</p>
+<p>The session focused on building a clear, defensible analytical workflow starting from raw data and progressing through exploration, preparation, and interpretation. Using a simulated diabetes dataset inspired by real-world health studies, the workshop emphasised how analytical decisions emerge from evidence in the data rather than from pre-defined modelling choices.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🩺 Workshop Overview</h2>
+<p>The workshop was led by <a href="https://www.linkedin.com/in/rafaelagrlucas/">Rafaela Ribeiro Lucas</a>, <a href="https://www.linkedin.com/in/federicagazzelloni/">Federica Gazzelloni</a>, and <a href="https://www.linkedin.com/in/lucymichaels/">Lucy Michaels</a>, organisers of <code>R-Ladies Rome</code>, who jointly guided participants through a complete exploratory analysis workflow using a simulated diabetes dataset.</p>
+<p>In the first part of the workshop, <code>Rafaela</code> focused on <strong>descriptive statistics</strong>, using the simulated diabetes dataset to demonstrate how numerical summaries provide essential grounding for any analysis. Alongside measures of central tendency, variability, and distribution, she introduced <strong>prevalence calculations</strong> to show how key health indicators are derived and interpreted in practice. <strong>Contingency tables</strong> were used to explore relationships between categorical variables, allowing participants to examine how diabetes status varies across demographic groups, while <strong>chi-squared tests</strong> were discussed as a way to formally assess whether observed differences are likely to reflect underlying associations rather than random variation.</p>
+<p>Building directly on these exploratory insights, <code>Federica</code> then showed how data visualisation can be used to deepen understanding and communicate findings clearly. Using ggplot2, she demonstrated how to make histogram, density and boxplots, and how to do little improvements with tools such as <code>scales_</code> and <code>labs</code> functions. She then added insights about layout—affect interpretation, and how plots can support analytical reasoning rather than simply summarising results. This part of the session reinforced the idea that visualisation is an integral component of analysis, closely tied to both exploration and explanation.</p>
+<p>The final part of the workshop was led by <code>Lucy</code>, who introduced <strong>clustering</strong> as a way to explore heterogeneity within the population. Focusing on the intuition behind <strong>k-prototypes clustering</strong>, Lucy explained how this approach allows analysts to work simultaneously with numerical and categorical variables, a common challenge in health and demographic data. Rather than presenting clustering as a definitive classification tool, the discussion emphasised interpretation, limitations, and the role of clustering as a complementary method that can reveal structure and risk profiles not immediately visible through standard summaries or models.</p>
+<p>Together, these three perspectives laid the groundwork for subsequent modelling stages. The session demonstrated how exploratory analysis, visualisation, and clustering naturally lead to modelling questions, such as identifying factors associated with diabetes status or understanding variation across population subgroups.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/yBIFKiyfupc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended the live session and for those who wish to follow the full workflow at their own pace.</p>
+<p>🧠 What You’ll Learn</p>
+<p>Participants will gain a clear understanding of how to approach exploratory data analysis in R in a structured and defensible way, particularly when working with health-related data. The session demonstrates how to move from raw data to informed analytical questions, how to justify cleaning and preparation decisions, and how to use visualisation as an integral part of the reasoning process rather than as a final reporting step.</p>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><p>Workshop materials and code: <a href="https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html" class="uri">https://rladiesrome.github.io/Principles-of-data-Analysis-in-R/02-exploring-diabetes-data.html</a></p></li>
+<li><p>R-Ladies Rome events and resources: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p></li>
+</ul>
+</section>
+<section id="about-the-workshop" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-workshop">🔊 About the Workshop</h2>
+<p>This workshop is part of the <strong>Principles of Data Analysis in R series</strong> developed by <code>R-Ladies Rome</code>. The series aims to provide practical, reproducible, and conceptually grounded guidance for applied data analysis, with a strong emphasis on transparency, interpretation, and real-world relevance.</p>
+<p>No prior experience with medical datasets is required, and all code is explained step by step, making the material accessible to a broad audience of R users.</p>
+<p>Keep learning and exploring—subscribe to our YouTube channel and revisit past events on rladiesrome.org!</p>
+<center>
+<a href="../../../talks/2025/meetup/11042025_NicolaRennie.html">← Previous event</a> | <a href="../../../talks/2026/meetup/01292026_federicagazzelloni.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Data Analysis</category>
+  <category>Data Visualization</category>
+  <category>Health Data</category>
+  <category>Workshop</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/12172025_organizers.html</guid>
+  <pubDate>Tue, 16 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/b/1/d/2/highres_531585522.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>Developing Your Data Visualisation Skills in ggplot2</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/11042025_NicolaRennie.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (430)</code></p>
+<p>On November 2, 2025, <code>R-Ladies Rome</code> hosted <strong>Developing Your Data Visualisation Skills in ggplot2</strong>, an engaging and creative session led by <a href="https://nrennie.rbind.io">Nicola Rennie</a>, Data Visualisation Specialist and author of “The Art of Visualization with ggplot2”.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🐈 Workshop Overview</h2>
+<p>Nicola walked participants through the entire process of <strong>building a data visualisation in R with ggplot2</strong>, starting from a brand new dataset — the popular <a href="https://github.com/rfordatascience/tidytuesday">TidyTuesday</a> cats dataset. Throughout the session, she demonstrated how to explore data, sketch visual ideas, and refine designs to communicate insights clearly and beautifully.</p>
+<p>Participants learned how to customise plots with themes, colours, and fonts, transforming simple graphics into polished, publication-ready visualisations.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/jba0Bw6xwR0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you’re new to data visualisation or looking to refine your creative process, this talk offers practical steps and artistic inspiration to enhance your ggplot2 workflow.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<ul>
+<li>How to move from data exploration to final design using ggplot2</li>
+<li>Techniques for customising fonts, colours, and layouts</li>
+<li>Ways to create aesthetic yet effective visualisations that communicate clearly</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li>Nicola’s code examples and resources: <a href="https://nrennie.rbind.io/talks/rladies-rome-ggplot2/slides.html" class="uri">https://nrennie.rbind.io/talks/rladies-rome-ggplot2/slides.html</a></li>
+<li>R-Ladies Rome event details: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></li>
+<li>Connect with Nicola on LinkedIn: <a href="https://www.linkedin.com/in/nicola-rennie/" class="uri">https://www.linkedin.com/in/nicola-rennie/</a></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><a href="https://nrennie.rbind.io">Nicola Rennie</a> is a data visualisation specialist with a background in statistics and data science. She focuses on how to communicate complex quantitative ideas effectively using open-source tools, including R, D3, and Svelte. Nicola is the author of The Art of Visualization with ggplot2, co-author of the Royal Statistical Society’s Best Practices for Data Visualisation, and serves on the Editorial Board of Significance magazine.</p>
+<p>Keep learning and exploring—subscribe to our YouTube channel and revisit past events on <a href="https://rladiesrome.org/talks/2025/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2025/meetup/10102025_KellyMarques.html">← Previous event</a> | <a href="../../../talks/2025/meetup/12172025_organizers.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>ggplot2</category>
+  <category>Data Visualization</category>
+  <category>Workshop</category>
+  <category>R</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/11042025_NicolaRennie.html</guid>
+  <pubDate>Sat, 01 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/d/3/1/9/highres_530514041.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>BNPL and Machine Learning: Decisions That Scale</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/10102025_KellyMarques.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (31)</code></p>
+<p>On October 10, 2025, <strong>R-Ladies Rome</strong> hosted <strong>BNPL and Machine Learning: Decisions That Scale</strong>, a session led by <a href="https://www.linkedin.com/in/kelly-marques-de-oliveiralopes/">Kelly Marques</a>, data scientist and researcher in financial technology and applied machine learning.</p>
+<section id="talk-overview" class="level2">
+<h2 class="anchored" data-anchor-id="talk-overview">📊 Talk Overview</h2>
+<p>In this engaging presentation, Kelly guided us through how <strong>machine learning models</strong> are transforming decision-making in the Buy Now, Pay Later (BNPL) landscape. She demonstrated live <strong>Python code examples</strong>, showing how predictive models can provide fast, scalable, and reliable assessments of user creditworthiness — even when traditional credit data is limited.</p>
+<p>Beyond the technical side, the talk also explored the ethical and inclusive dimensions of algorithmic credit scoring, emphasizing transparency, fairness, and access in financial decision-making.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 <code>Watch the Video Now</code></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/hMlppWd2K5o" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>This talk is packed with insights for data scientists, fintech professionals, and anyone interested in applied ML for responsible innovation.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<ul>
+<li>How to build and evaluate ML models for BNPL credit scoring</li>
+<li>Ways to handle high-volatility and short-term behavioral data</li>
+<li>The role of ethics, inclusion, and fairness in financial ML models</li>
+<li>Practical Python code demonstrations for end-to-end modeling</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><p>Talk material:</p>
+<ul>
+<li>Data: <a href="https://tinyurl.com/27awzehk" class="uri">https://tinyurl.com/27awzehk</a></li>
+<li>Code: <a href="https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb" class="uri">https://github.com/Kelly002/model_credit_score/blob/main/Modelo_Score_Credito.ipynb</a></li>
+</ul></li>
+<li><p>R-Ladies Rome Intro Presentation: <a href="https://tinyurl.com/bdht95ss" class="uri">https://tinyurl.com/bdht95ss</a><br>
+</p></li>
+<li><p>Stay updated via Meetup: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p></li>
+</ul>
+<p>🔊 About the Speaker</p>
+<p><a href="">Kelly Marques</a> is a data scientist from São Paulo (Brazil) specializing in machine learning for finance. With a strong background in predictive analytics and model ethics, she focuses on developing scalable, transparent, and human-centered AI systems for real-world applications.</p>
+<p>Keep learning and exploring — subscribe to our YouTube channel and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2025/meetup/09292025_ChuckHuber.html">← Previous event</a> | <a href="../../../talks/2025/meetup/11042025_NicolaRennie.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Machine Learning</category>
+  <category>Python</category>
+  <category>Fintech</category>
+  <category>Responsible AI</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/10102025_KellyMarques.html</guid>
+  <pubDate>Thu, 09 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/d/3/0/c/highres_530514028.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Using Python Within Stata</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/09292025_ChuckHuber.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (42)</code></p>
+<p>On Septembe 29, 2025, <strong>R-Ladies Rome</strong> &amp; <strong>Rome R Users Group</strong> hosted <strong>a software integration example led by Dr.&nbsp;Chuck Huber</strong>, Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&amp;M School of Public Health and at the New York University School of Global Public Health.</p>
+<section id="talk-overview" class="level2">
+<h2 class="anchored" data-anchor-id="talk-overview">📊 Talk Overview</h2>
+<p>We love exploring new ways of working with data, and sometimes that means <strong>stepping outside of R</strong> to see how other tools can connect and enrich our workflows.</p>
+<p>While our heart and mission remain with <strong>R</strong>, as data scientists and statisticians we often work in environments where multiple tools coexist. <strong>Understanding how to bridge these ecosystems — R, Python, Stata — helps us collaborate better, think more critically about methodology, and expand our problem-solving toolkit.</strong></p>
+<p>This event is not about selling or promoting software. It’s about learning, sharing knowledge, and keeping our community up-to-date with evolving data science practices.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 <code>Watch the Video Now</code></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/9-79GUH6bSI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>In this talk, Dr.&nbsp;Chuck Huber demonstrates how to use Python within Stata, showcasing the seamless integration between these two powerful tools. You’ll learn how to:</p>
+<ul>
+<li>Set up and configure Python to work with Stata</li>
+<li>Connect Python with Stata commands and .ado files</li>
+<li>Explore real-world examples of using Python in Stata for data analysis and visualization</li>
+</ul>
+<p>By the end of this session, you’ll have a solid understanding of how to harness the strengths of both Stata and Python to enhance your data analysis workflows.</p>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><p>Talk slides: <a href="https://tinyurl.com/statapython" class="uri">https://tinyurl.com/statapython</a></p></li>
+<li><p>R-Ladies Rome Intro Presentation: <a href="https://tinyurl.com/yk79a9yw" class="uri">https://tinyurl.com/yk79a9yw</a></p></li>
+<li><p>Stay updated via Meetup: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><a href="https://www.linkedin.com/in/chuck-huber-33a39212/">Chuck Huber</a> is Director of Statistical Outreach at StataCorp and Adjunct Associate Professor of Biostatistics at the Texas A&amp;M School of Public Health and at the New York University School of Global Public Health.</p>
+<p>He produces instructional videos for the Stata Youtube channel, writes blog entries, develops online NetCourses and gives talks about Stata at conferences and universities. He has published in the areas of neurology, human and animal genetics, alcohol and drug abuse prevention, nutrition and birth defects.</p>
+<p>Dr.&nbsp;Huber currently teaches survey sampling at NYU and introductory biostatistics at Texas A&amp;M where he previously taught categorical data analysis, survey data analysis, and statistical genetics.</p>
+<p>Keep learning and exploring—subscribe to our <a href="https://www.youtube.com/@rladiesrome">YouTube channel</a> and revisit past events on <a href="https://rladiesrome.org">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2025/meetup/08242025_DerekSollberger.html">← Previous event</a> | <a href="../../../talks/2025/meetup/10102025_KellyMarques.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Python</category>
+  <category>Stata</category>
+  <category>Software Development</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/09292025_ChuckHuber.html</guid>
+  <pubDate>Sun, 28 Sep 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/d/f/b/9/highres_530097273.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Interactive Quarto Dashboards</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/08242025_DerekSollberger.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (116)</code></p>
+<p>On August 24, 2025, <strong>R-Ladies Rome</strong> hosted <strong>Interactive Quarto Dashboards</strong>, a collaborative and beginner-friendly workshop led by <strong>Derek Sollberger</strong>, lecturer at the Center for Statistics and Machine Learning and Posit Certified Tidyverse Instructor.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">📊 Workshop Overview</h2>
+<p>In this easy-going workshop, participants explored how to build <strong>interactive web-based dashboards</strong> that enable teams—whether in academic or business settings—to present information via multiple graphs and tables. The session covered techniques to <strong>filter, sort, visualize data</strong>, <strong>uncover trends</strong>, and present results with both function and aesthetic appeal using <strong>R, Quarto, Shiny, Markdown,</strong> and <strong>geospatial data</strong>. Some prior programming experience was helpful, though not required.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 <code>Watch the Video Now</code></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/N1BBsv-zNNI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you’re a researcher, designer, or data enthusiast, this recording is packed with practical tools you can adapt immediately.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<ul>
+<li>How to <strong>assemble interactive dashboards</strong> using Quarto and Shiny<br>
+</li>
+<li>Methods for <strong>effective data presentation</strong>: filtering, sorting, and trend exploration<br>
+</li>
+<li>Techniques for <strong>adding geospatial data</strong> and aesthetic polish to your dashboards</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><p>Workshop slides and code (GitHub):</p>
+<ul>
+<li><a href="https://dsollbergerquarto.netlify.app/posts/dslc_quarto_dashboards/quarto_dashboards" class="uri">https://dsollbergerquarto.netlify.app/posts/dslc_quarto_dashboards/quarto_dashboards</a></li>
+<li><a href="https://github.com/dsollberger/q_dashboards" class="uri">https://github.com/dsollberger/q_dashboards</a></li>
+</ul></li>
+<li><p>R-Ladies Rome Intro Presentation: <a href="https://rladiesrome.quarto.pub/august242025" class="uri">https://rladiesrome.quarto.pub/august242025</a></p></li>
+<li><p>Stay updated via Meetup: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><a href="https://www.linkedin.com/in/derek-sollberger/">Derek Sollberger</a> is a lecturer at CSML (Center for Statistics and Machine Learning), specializing in Data Science, AI Methods, and Bayesian Analysis. A Posit Certified Tidyverse Instructor, Derek brings experience from leading R workshops and consulting on pedagogy-driven data projects.</p>
+<p>Keep learning and exploring—subscribe to our <a href="https://www.youtube.com/@rladiesrome">YouTube channel</a> and revisit past events on <a href="https://rladiesrome.org">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2025/meetup/07222025_RitaGiordano.html">← Previous event</a> | <a href="../../../talks/2025/meetup/09292025_ChuckHuber.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Dashboards</category>
+  <category>Quarto</category>
+  <category>Shiny</category>
+  <category>Hands-on</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/08242025_DerekSollberger.html</guid>
+  <pubDate>Sat, 23 Aug 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/8/4/9/e/highres_529533950.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Visualizzare dati per i pazienti (Visualizing Data for Patients)</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/07222025_RitaGiordano.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (30)</code></p>
+<p>On July 22, 2025, <strong>R-Ladies Rome</strong> hosted a talk focused on a key but often overlooked topic: how to communicate health data effectively to the people who need it most—patients. The session was led by <a href="https://www.linkedin.com/in/ritagiordano/"><strong>Dr.&nbsp;Rita Giordano</strong></a>, an expert in data visualization and user-centered design.</p>
+<section id="talk-overview" class="level2">
+<h2 class="anchored" data-anchor-id="talk-overview">💬 Talk Overview</h2>
+<p>This session explores how health data can be made truly useful to those navigating diagnoses, treatment options, and care plans. Rita shares real-world examples that highlight the disconnect between how data is typically presented (for researchers and clinicians) and how it could better serve patients themselves.</p>
+<p>Through a lens of empathy and inclusion, she invites us to reflect on how scientific and clinical communication can be reimagined to support patient understanding, trust, and agency.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 <code>Watch the Video Now</code></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QW9TwZdFYhE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The event was conducted in Italian, and the video is in Italian with English subtitles. Whether you’re a data scientist, healthcare professional, or simply interested in how data can empower patients, this talk is a must-watch.</p>
+</section>
+<section id="key-topics" class="level2">
+<h2 class="anchored" data-anchor-id="key-topics">🧭 Key Topics</h2>
+<ul>
+<li>How to <strong>design data visualizations</strong> that center patient needs</li>
+<li>The role of <strong>empathy and accessibility</strong> in scientific communication</li>
+<li>Why inclusive design is critical for <strong>health equity</strong></li>
+<li>Examples of both effective and ineffective communication tools</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📚 Resources &amp; Materials</h2>
+<p>🔗 Slides: <a href="https://github.com/ritagior/R-LadiesRome" class="uri">https://github.com/ritagior/R-LadiesRome</a></p>
+<p>🌐 Rita’s work:</p>
+<ul>
+<li><a href="https://ritagiordano.co.uk/" class="uri">https://ritagiordano.co.uk/</a></li>
+<li><a href="https://github.com/ritagior" class="uri">https://github.com/ritagior</a></li>
+</ul>
+<p>📝 R-Ladies Rome Intro Slides: <a href="https://rladiesrome.quarto.pub/july222025" class="uri">https://rladiesrome.quarto.pub/july222025</a></p>
+<p>📅 Stay updated: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">👩‍🏫 About the Speaker</h2>
+<p><a href="https://www.linkedin.com/in/ritagiordano/">Rita Giordano</a> is a data visualization designer with a strong focus on accessibility and clarity in public health and medical communication. She collaborates with organizations across Europe to help turn complex data into useful, understandable information—especially for those most affected.</p>
+<p>💬 Let’s keep working to make data accessible to everyone. Subscribe to our <a href="https://www.youtube.com/@rladiesrome">YouTube channel</a> and explore more events at <a href="https://rladiesrome.org">rladiesrome.org</a>!</p>
+<p>#DataViz #HealthCommunication #InclusiveDesign #RLadiesRome #RStats #EmpathyInDesign</p>
+<center>
+<a href="../../../talks/2025/meetup/07032025_RamiKrispin.html">← Previous event</a> | <a href="../../../talks/2025/meetup/08242025_DerekSollberger.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Data Visualization</category>
+  <category>Public Health</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/07222025_RitaGiordano.html</guid>
+  <pubDate>Mon, 21 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/2/f/0/e/highres_528912046.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Forecasting Time Series with Linear Regression: A Feature-Driven Approach</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/07032025_RamiKrispin.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (125)</code></p>
+<p>On July 03, 2025, <strong>R-Ladies Rome</strong> hosted a practical and beginner-friendly workshop titled <em>“Forecasting Time Series with Linear Regression: A Feature-Driven Approach.”</em> The session was led by <a href="https://www.linkedin.com/in/rami-krispin/"><strong>Rami Krispin</strong></a>, author of <em>Hands-On Time Series Analysis with R</em> and an expert in time series forecasting at scale.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">📊 Workshop Overview</h2>
+<p>This talk explores the fundamentals of time series forecasting using linear regression models. We’ll cover how to transform time series data into a supervised learning format and utilize feature engineering techniques to model various components of the series, including trends, seasons, outliers, and structural breaks. This is a beginner-level workshop, and prior knowledge of time series is not needed beyond understanding how linear regression works.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 <code>Watch the Video Now</code></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/lk3a3GQ7kc8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you’re brushing up on regression or just getting started with time series, this session is packed with practical insight and real-world examples.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<ul>
+<li>How to <strong>frame time series as a supervised learning problem</strong></li>
+<li>Why <strong>feature engineering</strong> matters: trends, seasonality, outliers, and breaks</li>
+<li>How to apply <strong>linear models</strong> to time-dependent data</li>
+<li>Tips for <strong>model validation and performance assessment</strong></li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<p>🔗 Slides &amp; resources: <a href="https://github.com/RamiKrispin/r-ladies-rome-workshop" class="uri">https://github.com/RamiKrispin/r-ladies-rome-workshop</a></p>
+<p>🌐 Learn more:</p>
+<ul>
+<li><p>Rami’s Book: <a href="https://ramikrispin.github.io/atsaf/" class="uri">https://ramikrispin.github.io/atsaf/</a></p></li>
+<li><p>Rami’s Book Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R:</p>
+<ul>
+<li><a href="https://github.com/RamiKrispin" class="uri">https://github.com/RamiKrispin</a></li>
+<li><a href="https://www.amazon.com/dp/1788629159" class="uri">https://www.amazon.com/dp/1788629159</a></li>
+</ul></li>
+</ul>
+<p>📝 R-Ladies Rome Intro Presentation: <a href="https://rladiesrome.quarto.pub/july032025" class="uri">https://rladiesrome.quarto.pub/july032025</a></p>
+<p>📅 Stay updated: <a href="https://www.meetup.com/rladies-rome" class="uri">https://www.meetup.com/rladies-rome</a></p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><a href="https://www.linkedin.com/in/rami-krispin/">Rami Krispin</a> leads the data science and engineering team at Apple Finance - Services and Infra. His team builds advanced statistical and ML models to support Apple’s strategic decisions. Rami is also an open-source contributor and author, with a special focus on scalable forecasting tools. He’s currently working on his next book: <em>Applied Time Series Analysis and Forecasting</em>.</p>
+<p>💬 Keep learning and sharing—subscribe to our <a href="https://www.youtube.com/@rladiesrome">YouTube channel</a> and check out more past events on <a href="https://rladiesrome.org">rladiesrome.org</a>!</p>
+<p>#TimeSeries #Forecasting #RStats #RLadiesRome #LearningTogether #RamiKrispin</p>
+<center>
+<a href="../../../talks/2025/meetup/06162025_INGV.html">← Previous event</a> | <a href="../../../talks/2025/meetup/07222025_RitaGiordano.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Time Series</category>
+  <category>Forecasting</category>
+  <category>Hands-on</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/07032025_RamiKrispin.html</guid>
+  <pubDate>Wed, 02 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/a/3/2/6/highres_528641766.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>PyData Roma Capitale, R-Ladies Rome, Rome R Users Group meetup @ INGV</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/06162025_INGV.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (41)</code></p>
+<p>🌍 <a href="https://pydataroma.python.it/">PyData Roma Capitale</a> x <code>R-Ladies Rome</code> x <code>Rome R Users Group</code> – A Multilingual Meetup at <a href="https://www.ingv.it/">INGV</a></p>
+<p>This June 2025, <strong>PyData Roma Capitale</strong>, <strong>R-Ladies Rome</strong>, and the <strong>Rome R Users Group</strong> came together for a special meetup at the <strong>Istituto Nazionale di Geofisica e Vulcanologia (INGV)</strong>.</p>
+<div id="fig-ingv" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div id="fig-pydataroma" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-pydataroma-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_pydata-logo.png" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-pydataroma-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(a) PyData Roma Capitale
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div id="fig-rladiesrome" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-rladiesrome-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_rladies-logo.png" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-rladiesrome-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(b) R-Ladies Rome
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div id="fig-romerusersgroup" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-romerusersgroup-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_rome-logo.png" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-romerusersgroup-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(c) Rome R Users Group
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div id="fig-ingv" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_ingv-logo.png" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(d) INGV
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Rome Data Science Networking Event @ INGV
+</figcaption>
+</figure>
+</div>
+<p>The <code>Rome data science community</code> gathered for an unforgettable multilingual evening of code, collaboration, and connection —where the languages of <code>R</code> and <code>Python</code> met in harmony. We kicked off the evening with a warm welcome and introduction to <code>INGV</code> and <code>PyData</code> by <a href="https://www.linkedin.com/in/vincenzoventriglia/">Vincenzo Ventriglia</a>, who reminded us of the importance of creating spaces where open science, technology, and collaboration intersect. It was the perfect setup for an evening that celebrated the spirit of openness across languages—spoken and programmed alike.</p>
+<section id="opening-talk" class="level2">
+<h2 class="anchored" data-anchor-id="opening-talk">🎙️ Opening Talk</h2>
+<section id="speaking-many-languages-finding-power-and-joy-in-r-and-python" class="level3">
+<h3 class="anchored" data-anchor-id="speaking-many-languages-finding-power-and-joy-in-r-and-python"><strong><a href="https://speaking-many-languages.my.canva.site/">Speaking Many Languages: Finding Power and Joy in R and Python</a></strong></h3>
+<p>The keynote by <a href="https://federicagazzelloni.com/">Federica Gazzelloni</a> set the tone for the evening. With a mix of personal story and technical insight, Federica walked us through her journey from choosing between R and Python to embracing both. She shared how learning to “speak” more than one programming language helped her grow as a data scientist and opened new doors for collaboration. Her talk included side-by-side code examples in R and Python that sparked lots of follow-up questions and conversation from the crowd—both online and in-person.</p>
+</section>
+</section>
+<section id="lightning-talks-short-sharp-full-of-insight" class="level2">
+<h2 class="anchored" data-anchor-id="lightning-talks-short-sharp-full-of-insight">⚡ Lightning Talks – Short, Sharp &amp; Full of Insight</h2>
+<p>The energy kept flowing with a series of lightning talks, each just 5 minutes long, where community members shared projects, tools, and reflections:</p>
+<ul>
+<li><strong><a href="https://scholar.google.com/citations?user=wFLqT0sAAAAJ&amp;hl=it">Marco Guerra</a></strong> presented “Automatic Detection of Large-Scale Travelling Ionospheric Disturbances using GNSS Data and Image Processing Techniques”</li>
+<li><strong><a href="https://www.linkedin.com/in/massimo-viola-1a075a1b8/">Massimo Viola</a></strong> shared insights on “A custom TreeQL Python-based Web Service for Database Access”</li>
+<li><strong><a href="https://www.linkedin.com/in/palmafederico/">Federico Palma</a></strong> illustrated “Normalized Semantic Chunker”</li>
+<li><strong><a href="https://www.linkedin.com/in/egon-ferri/">Egon Ferri</a></strong> closed the session with a thought-provoking reflection on learning curves and language choice titled: “Flying SOLID-ly: Python design principles explained with birds”</li>
+</ul>
+</section>
+<section id="networking-connections-pizza-plans" class="level2">
+<h2 class="anchored" data-anchor-id="networking-connections-pizza-plans">🫱🏽🫲🏿 Networking, Connections &amp; Pizza Plans</h2>
+<p>After the talks, participants stayed to mingle, exchange ideas, and build connections across communities. Many of us continued the evening outside the venue for a multi-community dinner—a true Roman finale to a collaborative and inspiring meetup.</p>
+<div id="fig-ingv" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="fig-federica" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-federica-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_me-presenting.jpeg" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-federica-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(a) Federica Gazzelloni
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="fig-group" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-group-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_group-photo.jpeg" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-group-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(b) Community Group
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-ingv" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="fig-vincenzo" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-vincenzo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://rladiesrome.org/talks/2025/meetup/images/16062025_vincenzo.jpeg" class="img-fluid figure-img" data-ref-parent="fig-ingv">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-vincenzo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(c) Vincenzo Ventriglia
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ingv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Rome Data Science Networking Event @ INGV
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="missed-the-event-watch-the-recording" class="level2">
+<h2 class="anchored" data-anchor-id="missed-the-event-watch-the-recording">📺 Missed the Event? Watch the Recording!</h2>
+<p>💡 You can still watch the full event recording here: 📺 Watch on YouTube</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/dGdMu0_M208" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="resources-follow-up" class="level2">
+<h2 class="anchored" data-anchor-id="resources-follow-up">📚 Resources &amp; Follow-Up</h2>
+<ul>
+<li><strong>Slides</strong>: <a href="https://speaking-many-languages.my.canva.site/">Speaking Many Languages: Finding Power and Joy in R and Python</a></li>
+<li><a href="https://github.com/smart-models/Normalized-Semantic-Chunker">Normalized-Semantic-Chunker</a></li>
+</ul>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<blockquote class="blockquote">
+<p>“Grazie to all who attended, presented, volunteered, and made this evening so special. Whether you were with us at INGV or joined online from across the globe, we’re grateful to be building this community with you. Stay tuned for more events and opportunities to learn, share, and grow together.”</p>
+</blockquote>
+<p>📬 Want to get involved or speak at the next event? Reach out through <a href="https://pydataroma.python.it/">PyData Roma Capitale</a>, <a href="https://www.meetup.com/rladies-rome">R-Ladies Rome</a>, or the <a href="https://www.meetup.com/rome-r-users-group/">Rome R Users Group</a>.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Python</category>
+  <category>Networking</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/06162025_INGV.html</guid>
+  <pubDate>Sun, 15 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/2/6/7/d/highres_528369853.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Why Small Git Commits Matter (and How to Make Them!)</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/05272025_MaelleSalmon.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (51)</code></p>
+<p>This May, <strong>R-Ladies Rome</strong> hosted a remote session featuring Maëlle Salmon: <em>“Why Small Git Commits Matter (and How to Make Them!)”</em>. The talk focused on the why and how of using Git more deliberately—especially the practice of creating small, atomic commits with clear messages.</p>
+<p>Whether you work in code, prose, or both, using Git thoughtfully can transform your workflow—and your collaboration with others.</p>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">💡 Key Takeaways</h2>
+<p>In this session, we explored:</p>
+<ul>
+<li>🧩 Why small, well-labeled commits improve traceability, reduce merge conflicts, and support collaboration</li>
+<li>🧠 How to structure your work to commit in logical, meaningful units</li>
+<li>🔧 How to fix and refine commit history with tools like <code>git commit --amend</code> and <code>git rebase</code></li>
+<li>🧪 How to experiment safely using <a href="https://github.com/maelle/saperlipopette"><code>saperlipopette</code></a>, a package for practicing Git workflows in R projects</li>
+<li>🎤 Bonus Q&amp;A with community tips, questions, and shared real-world use cases</li>
+</ul>
+</section>
+<section id="watch-the-recording" class="level2">
+<h2 class="anchored" data-anchor-id="watch-the-recording">🎥 Watch the Recording</h2>
+<p>Missed the event? No problem—you can catch the full session on YouTube:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/5lCUUk0HZ3U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Don’t forget to like and subscribe to our <a href="https://www.youtube.com/@rladiesrome">R-Ladies Rome YouTube channel</a>!</p>
+</section>
+<section id="materials-resources" class="level2">
+<h2 class="anchored" data-anchor-id="materials-resources">📦 Materials &amp; Resources</h2>
+<ul>
+<li>🖥️ <a href="https://rome-git.netlify.app/"><strong>Slides from the talk</strong></a></li>
+<li>✍️ <a href="https://github.blog/developer-skills/github/write-better-commits-build-better-projects/"><strong>GitHub: Write Better Commits, Build Better Projects</strong></a></li>
+<li>🧰 <a href="https://drmowinckels.io/blog/2025/positron-debugging/"><strong>Positron Debugging – Lisa M. Mowinckel</strong></a></li>
+</ul>
+<p>For continued learning: - 📘 <a href="https://git-scm.com/book/en/v2">Pro Git Book (free)</a> - 🧪 <a href="https://www.datacamp.com/community/tutorials/git-for-data-science">Git for Data Science</a> - 🧭 <a href="https://lab.github.com/">GitHub Learning Lab</a> - 🧾 <a href="https://education.github.com/git-cheat-sheet-education.pdf">GitHub Cheat Sheet (PDF)</a></p>
+</section>
+<section id="why-this-talk-mattered" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-talk-mattered">🧵 Why This Talk Mattered</h2>
+<p>At R-Ladies Rome, we’re committed to making tools like Git approachable and useful—especially for data scientists, researchers, and R users in biostatistics, public health, and beyond.</p>
+<p>In this session, Maëlle showed us how even small improvements in commit practices can make a big impact: not just in terms of technical tidiness, but in our ability to tell the story of our work. Her message was simple but powerful:</p>
+<blockquote class="blockquote">
+<p>Git is more than a tool—it’s a practice.</p>
+</blockquote>
+<p>She helped us see version control not as a chore, but as an ally in building reproducible, transparent, and collaborative projects.</p>
+</section>
+<section id="get-involved" class="level2">
+<h2 class="anchored" data-anchor-id="get-involved">🤝 Get Involved!</h2>
+<ul>
+<li>Want to <strong>speak at a future event</strong>? Drop your email in the comments!</li>
+<li>Have someone in mind? <strong>Suggest a speaker</strong> you’d love to see.</li>
+<li>Stay connected on <a href="https://www.meetup.com/rladies-rome/">Meetup</a>, <a href="https://www.youtube.com/@rladiesrome">YouTube</a>, and <a href="https://github.com/rladies-rome">GitHub</a></li>
+</ul>
+<p>Our events are <strong>free, open-source, and beginner-friendly</strong>. Every month, we share kick-start resources so you can keep learning after the meetup.</p>
+<p>Let’s keep learning, coding, and sharing—one small commit at a time. 💜</p>
+<center>
+<a href="../../../talks/2025/meetup/04272025_FedericaGazzelloni.html">← Previous event</a> | <a href="../../../talks/2025/meetup/06162025_INGV.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Git and GitHub</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/05272025_MaelleSalmon.html</guid>
+  <pubDate>Mon, 26 May 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/5/b/4/f/highres_528083375.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>From R to Python: A Gentle Introduction</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/04272025_FedericaGazzelloni.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (68)</code></p>
+<p>This April 2025, <strong>R-Ladies Rome</strong> hosted a beginner-friendly workshop titled <em>“From R to Python: A Gentle Introduction”</em>, designed to help <code>R</code> users and beginners take their first steps into the world of <code>Python.</code> This hands-on session welcomed attendees from various backgrounds, creating an inclusive and supportive learning space.</p>
+<p>Whether you’ve never written a line of Python or you’re just curious how it compares to R, this event aimed to make that transition approachable and fun.</p>
+<section id="what-we-covered" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-covered">💡 What We Covered</h2>
+<p>During the session, we explored:</p>
+<ul>
+<li>The <strong>similarities and differences</strong> between R and Python</li>
+<li>How to perform <strong>common data analysis tasks</strong> in Python<br>
+</li>
+<li>An introduction to <strong>popular Python libraries</strong> like <code>pandas</code>, <code>scikit-learn</code>, and <code>seaborn</code></li>
+</ul>
+<p>We also demoed basic workflows, provided a starter script, and answered audience questions live.</p>
+</section>
+<section id="what-you-said" class="level2">
+<h2 class="anchored" data-anchor-id="what-you-said">📊 What You Said</h2>
+<p>We asked participants three short questions using <code>Slido.</code> Here’s what they shared:</p>
+<section id="on-a-scale-of-1-to-5-how-confident-are-you-with-programming-languages" class="level3">
+<h3 class="anchored" data-anchor-id="on-a-scale-of-1-to-5-how-confident-are-you-with-programming-languages">🟣 On a scale of 1 to 5, how confident are you with programming languages?</h3>
+<p><img src="https://rladiesrome.org/talks/2025/meetup/images/27042025_q1.png" class="img-fluid"></p>
+</section>
+<section id="what-is-your-favorite-programming-language" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-your-favorite-programming-language">🟣 What is your favorite programming language?</h3>
+<p><img src="https://rladiesrome.org/talks/2025/meetup/images/27042025_q2.png" class="img-fluid"></p>
+</section>
+<section id="how-familiar-are-you-with-python" class="level3">
+<h3 class="anchored" data-anchor-id="how-familiar-are-you-with-python">🟣 How familiar are you with Python?</h3>
+<p><img src="https://rladiesrome.org/talks/2025/meetup/images/27042025_q3.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="workshop-materials" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-materials">📦 Workshop Materials</h2>
+<p>All workshop materials are freely available:</p>
+<ul>
+<li>🎤 <a href="https://rladiesrome.quarto.pub/from-r-to-python-a-gentle-introduction/"><strong>Presentation Slides</strong></a><br>
+</li>
+<li>📖 <a href="https://fgazzelloni.quarto.pub/from-r-to-python-a-gentle-introduction/"><strong>Workshop Booklet</strong></a><br>
+</li>
+<li>💻 <a href="https://github.com/Fgazzelloni/From-R-to-Python-A-Gentle-Introduction"><strong>GitHub Repository</strong></a></li>
+</ul>
+<p>You’ll find setup instructions, sample datasets, and the Python scripts we used during the event.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>You can rewatch the full event on our YouTube channel:</p>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PVnTzUIsbAI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you missed the event or just want a refresher, it’s all there for you.</p>
+</section>
+<section id="learn-more-python-resources-for-beginners" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more-python-resources-for-beginners">📚 Learn More: Python Resources for Beginners</h2>
+<p>If you’re ready to keep going, here are some recommended resources:</p>
+<ul>
+<li><strong><a href="https://wesmckinney.com/book/">Python for Data Analysis (Wes McKinney)</a></strong> – The classic book for learning <code>pandas</code> and data wrangling in Python.</li>
+<li><strong><a href="https://realpython.com/">Real Python</a></strong> – A comprehensive site full of beginner tutorials and hands-on examples.</li>
+<li><strong><a href="https://pythonbasics.org/">Python Basics</a></strong> – Simple and direct explanations of core Python concepts.</li>
+<li><strong><a href="https://www.datacamp.com/">DataCamp’s Python tracks</a></strong> – Interactive exercises for data science beginners.</li>
+<li><strong><a href="https://swcarpentry.github.io/python-novice-gapminder/">The Carpentries Python Lessons</a></strong> – Friendly workshops teaching foundational skills.</li>
+<li><strong><a href="https://www.kaggle.com/learn/python">Kaggle Python Micro-Course</a></strong> – Great for learning through applied exercises.</li>
+</ul>
+<p>If you prefer video: - <strong><a href="https://www.youtube.com/c/CoreySchafer">Corey Schafer YouTube Channel</a></strong> – Detailed and beginner-friendly. - <strong><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">freeCodeCamp Python course</a></strong> – Full-length intro course, highly rated.</p>
+<blockquote class="blockquote">
+<p>📌 Tip: Pick one small project and try to replicate it in Python from R. This hands-on approach accelerates learning.</p>
+</blockquote>
+</section>
+<section id="thank-you" class="level2">
+<h2 class="anchored" data-anchor-id="thank-you">💜 Thank You</h2>
+<p>Thank you to everyone who attended, participated, and asked questions. Your curiosity and enthusiasm made this event a success!</p>
+<p>Stay tuned for upcoming R-Ladies Rome events — and until then, happy coding 🐍💜</p>
+<center>
+<a href="../../../talks/2025/meetup/03272025_FedericaGazzelloni.html">← Previous event</a> | <a href="../../../talks/2025/meetup/05272025_MaelleSalmon.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Python</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/04272025_FedericaGazzelloni.html</guid>
+  <pubDate>Sat, 26 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/d/d/c/0/highres_527516768.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>AI, Actuarial Science, and R: A New Era of Risk Modeling</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/03272025_FedericaGazzelloni.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (61)</code></p>
+<section id="catch-the-recording" class="level2">
+<h2 class="anchored" data-anchor-id="catch-the-recording">Catch the Recording</h2>
+<p>We’re excited to share that the recording of <a href="https://federicagazzelloni.com/">Federica Gazzelloni</a>’s insightful talk is now available on our YouTube channel!</p>
+<section id="about-the-talk" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-talk">🎙 About the Talk</h3>
+<p>In this session, Federica explores machine learning applications, ethical considerations, key trends and practical use cases that are shaping the future of risk modeling.</p>
+<p>Explore the critical need for transparency, fairness, and accountability in AI-driven decisions. Learn how AI tools are revolutionizing actuarial workflows, enabling actuaries to model risks with greater accuracy and efficiency.</p>
+<section id="key-takeaways" class="level4">
+<h4 class="anchored" data-anchor-id="key-takeaways">Key Takeaways:</h4>
+<ul>
+<li>🚀 AI is transforming actuarial science: It is increasingly common for people to use generative AI chatbots such as ChatGPT for coding help</li>
+<li>🌐 R provides powerful tools for predictive modeling</li>
+<li>🔧 Practical applications span across insurance &amp; risk management</li>
+</ul>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tah6-upp2qw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="about-the-speaker" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-speaker">🧑 💼 About the Speaker</h3>
+<p><a href="https://federicagazzelloni.com/">Federica Gazzelloni</a> is the Lead Organizer of R-Ladies Rome. She works as an Independent Researcher, and an advocate for open knowledge-sharing in data science.</p>
+<p>She collaborates with various communities included the Actex Learning contributing to initiatives that promote actuarial education and inclusion in the field.</p>
+</section>
+<section id="material-of-the-talk" class="level3">
+<h3 class="anchored" data-anchor-id="material-of-the-talk">Material of the talk</h3>
+<ul>
+<li>GitHub Repo: <a href="https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R" class="uri">https://github.com/Fgazzelloni/AI-Actuarial-Science-and-R</a></li>
+<li>Presentation: <a href="https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/" class="uri">https://fgazzelloni.quarto.pub/ai-actuarial-science-and-r/</a></li>
+</ul>
+</section>
+<section id="explore-more" class="level3">
+<h3 class="anchored" data-anchor-id="explore-more">📚 Explore More</h3>
+<p>For additional insights check out this latest materials and tutorials:</p>
+<ul>
+<li><a href="https://www.soa.org/49bd97/globalassets/assets/files/resources/research-report/2019/ethics-ai.pdf">Ethical Use of Artificial Intelligence for Actuaries-September 2019</a></li>
+<li><a href="https://humanrights.gov.au/sites/default/files/guidance_resource_ai_-_2022_v7-2_0.pdf">Guidance Resources: Artificial Intelligence and Discrimination in Insurance Pricing and Underwriting-December 2022</a></li>
+<li><a href="https://actuaries.org.uk/media/g4ymoxep/actuaries-using-data-science-and-artificial-intelligence-techniques.pdf">Actuaries using data science and artificial intelligence techniques-February 2024</a></li>
+<li><a href="https://www.actuaries.digital/2025/02/12/achieving-fairness-in-data-driven-decision-making/">Achieving Fairness in Data-Driven Decision Making-February 2025</a></li>
+<li><a href="https://www.youtube.com/watch?v=AfMa1CVUdXU">Joe Cheng - Summer is Coming: AI for R, Shiny, and Pharma</a></li>
+<li><a href="https://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/" class="uri">https://scibite.com/knowledge-hub/news/what-is-agentic-ai-and-is-there-a-role-for-ontologies/</a></li>
+<li><a href="https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/" class="uri">https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html/amp/</a></li>
+</ul>
+<p>Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.</p>
+<center>
+<a href="../../../talks/2025/meetup/02212025_IsabellaVelasquez.html">← Previous event</a> | <a href="../../../talks/2025/meetup/04272025_FedericaGazzelloni.html">Next event →</a>
+</center>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>AI</category>
+  <category>Open Source</category>
+  <category>Actuarial Science</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/03272025_FedericaGazzelloni.html</guid>
+  <pubDate>Wed, 26 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/3/9/3/6/600_526814646.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/02212025_IsabellaVelasquez.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (192)</code></p>
+<section id="catch-the-recording" class="level2">
+<h2 class="anchored" data-anchor-id="catch-the-recording">Catch the Recording</h2>
+<p>We’re excited to share that the recording of <a href="https://www.linkedin.com/in/ivelasq/">Isabella Velásquez</a>’s insightful talk, <strong>“Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”</strong>, is now available on our YouTube channel!</p>
+<section id="about-the-talk" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-talk">🎙 About the Talk</h3>
+<p>In this session, Isabella explores how <strong>Quarto Live</strong> and <strong>Shinylive</strong> allow data practitioners to create interactive <strong>R, Python, and Shiny applications without requiring a server</strong>. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.</p>
+<section id="key-takeaways" class="level4">
+<h4 class="anchored" data-anchor-id="key-takeaways">Key Takeaways:</h4>
+<ul>
+<li>🚀 How <strong>Quarto Live</strong> enables interactive code blocks within documents.<br>
+</li>
+<li>🌐 Running <strong>Shiny applications directly in the browser</strong> with Shinylive.<br>
+</li>
+<li>🔧 Practical applications for data science, education, and dashboarding.</li>
+</ul>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/59DSo_jjTpI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="about-the-speaker" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-speaker">🧑 💼 About the Speaker</h3>
+<p><a href="https://www.linkedin.com/in/ivelasq/">Isabella Velásquez</a> is the <strong>Senior Product Marketing Manager at Posit PBC</strong>, where she blends <strong>content strategy, data analysis, and programming</strong> to drive engagement in the data science community. Passionate about <strong>open-source</strong>, she actively contributes to making analytical tools more accessible to everyone.</p>
+</section>
+<section id="material-of-the-talk" class="level3">
+<h3 class="anchored" data-anchor-id="material-of-the-talk">Material of the talk</h3>
+<p><a href="https://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser" class="uri">https://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser</a></p>
+</section>
+<section id="explore-more" class="level3">
+<h3 class="anchored" data-anchor-id="explore-more">📚 Explore More</h3>
+<p>For additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:</p>
+<ul>
+<li><a href="https://repo.r-wasm.org/" class="uri">https://repo.r-wasm.org/</a></li>
+<li><a href="https://r-universe.dev/search" class="uri">https://r-universe.dev/search</a></li>
+<li><a href="https://docs.r-wasm.org/webr/latest/" class="uri">https://docs.r-wasm.org/webr/latest/</a></li>
+<li><a href="https://quarto.org" class="uri">https://quarto.org</a></li>
+</ul>
+<hr>
+<p>Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.</p>
+<center>
+<a href="../../../talks/2025/meetup/01092025_EliHolder.html">← Previous event</a> | <a href="../../../talks/2025/meetup/03272025_FedericaGazzelloni.html">Next event →</a>
+</center>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Quarto</category>
+  <category>Open Source</category>
+  <category>Shiny</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/02212025_IsabellaVelasquez.html</guid>
+  <pubDate>Thu, 20 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/8/d/b/2/600_525876274.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead</title>
+  <link>https://rladiesrome.org/talks/2025/meetup/01092025_EliHolder.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><code>Registered Attendees (61)</code></p>
+<section id="catch-the-recording-deathly-dataviz" class="level2">
+<h2 class="anchored" data-anchor-id="catch-the-recording-deathly-dataviz">Catch the Recording: <em>Deathly Dataviz</em></h2>
+<p>We’re excited to share that the recording of <a href="https://3iap.com/about/">Eli Holder</a>’s insightful talk, <strong>“Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”</strong>, is now available on our YouTube channel!</p>
+<section id="about-the-talk" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-talk">🎙 About the Talk</h3>
+<p>In this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing <strong>equitable and expressive visualizations</strong> that communicate public health data responsibly.</p>
+<section id="key-takeaways" class="level4">
+<h4 class="anchored" data-anchor-id="key-takeaways">Key Takeaways:</h4>
+<ul>
+<li>📊 Understanding how design choices influence societal beliefs.<br>
+</li>
+<li>🌍 Incorporating equity-oriented approaches in public health data visualization.<br>
+</li>
+<li>🛠 Practical tools and techniques for impactful visual communication.</li>
+</ul>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/y1bqK6fnKGY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="about-the-speaker" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-speaker">🧑 💼 About the Speaker</h3>
+<p><a href="https://3iap.com/about/">Eli Holder</a> is a researcher and expert in data visualization, with a focus on the intersection of <strong>equity, public health, and data storytelling</strong>. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.</p>
+</section>
+<section id="explore-more" class="level3">
+<h3 class="anchored" data-anchor-id="explore-more">📚 Explore More</h3>
+<p>For those eager to dive deeper into the subject, don’t miss this <a href="https://3iap.com/rladies2025">additional material by Eli Holder</a>, where they expand on the strategies and principles covered in the talk.</p>
+<p>Stay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!</p>
+<center>
+<a href="../../../talks/2024/meetup/12102024/index.html">← Previous event</a> | <a href="../../../talks/2025/meetup/02212025_IsabellaVelasquez.html">Next event →</a>
+</center>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Data Visualization</category>
+  <category>Networking</category>
+  <category>Public Health</category>
+  <guid>https://rladiesrome.org/talks/2025/meetup/01092025_EliHolder.html</guid>
+  <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/9/b/b/8/600_525399864.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>A Year of Learning, Growth, and Community at R-Ladies Rome 🌟</title>
+  <link>https://rladiesrome.org/blog/posts/12302024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="reflecting-on-2024-a-year-of-learning-and-growth-at-r-ladies-rome" class="level3">
+<h3 class="anchored" data-anchor-id="reflecting-on-2024-a-year-of-learning-and-growth-at-r-ladies-rome">Reflecting on 2024: A Year of Learning and Growth at R-Ladies Rome 🌟</h3>
+<p>As 2024 comes to an end, we look back on a year filled with inspiration, collaboration, and growth. R-Ladies Rome has continued to thrive as a hub for learning, where members from diverse backgrounds come together to explore, share, and grow in their journey with R programming and data science.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/12302024/all_speakers_2024.png" class="img-fluid figure-img"></p>
+<figcaption>All 2024 R-Laadies Rome Speakers</figcaption>
+</figure>
+</div>
+<section id="a-year-of-highlights-in-numbers" class="level4">
+<h4 class="anchored" data-anchor-id="a-year-of-highlights-in-numbers"><strong>A Year of Highlights in Numbers</strong></h4>
+<ul>
+<li><strong>12 incredible events</strong> hosted.<br>
+</li>
+<li>A growing community with <strong>1.2K+ members on Meetup</strong>.<br>
+</li>
+<li>Over <strong>2K RSVPs</strong> from members eager to learn, connect, and grow.<br>
+</li>
+<li>Dozens of expert speakers and workshop leaders from across the globe.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/12302024/stats-2024.png" class="img-fluid figure-img"></p>
+<figcaption>R-Ladies Rome in Numbers</figcaption>
+</figure>
+</div>
+<p>This year, we witnessed extraordinary moments that reminded us of the power of community.</p>
+</section>
+<section id="inspiring-selection-of-talks-and-hands-on-learning" class="level4">
+<h4 class="anchored" data-anchor-id="inspiring-selection-of-talks-and-hands-on-learning"><strong>Inspiring Selection of Talks and Hands-On Learning</strong></h4>
+<p>Throughout the year, we explored a variety of fascinating topics:</p>
+<ul>
+<li><code>Reproducible Environments with Docker</code>: Bruno Rodrigues guided attendees in creating reproducible workflows using Docker.</li>
+<li><code>Building a Website in R</code>: Federica Gazzelloni led a workshop on using R Markdown and Shiny to build interactive websites.</li>
+<li><code>Quarto Dashboards</code>: Isabella Velasquez demonstrated creating dynamic dashboards with Quarto, showcasing practical applications.</li>
+<li><code>Extending the Data Science Workflow</code>: {vetiver} and {pins} - Isabel Zimmerman introduced the applications of the {vetiver} and {pins} packages for enhanced data workflows.</li>
+<li><code>Debugging in R</code>: Shannon Pileggi shared valuable tips and techniques for troubleshooting and resolving common programming errors.</li>
+</ul>
+<p>Each event was an opportunity to learn new skills, gain fresh perspectives, and connect with a global network of R enthusiasts.</p>
+</section>
+<section id="building-a-thriving-community" class="level4">
+<h4 class="anchored" data-anchor-id="building-a-thriving-community"><strong>Building a Thriving Community</strong></h4>
+<p>R-Ladies Rome is more than just a series of meetups—it’s a growing, inclusive community where members share ideas, ask questions, and support one another. The energy, engagement, and curiosity of our members have made every event special.</p>
+</section>
+<section id="gratitude-for-our-speakers-and-participants" class="level4">
+<h4 class="anchored" data-anchor-id="gratitude-for-our-speakers-and-participants"><strong>Gratitude for Our Speakers and Participants</strong></h4>
+<p>We want to <code>thank our speakers</code>, who generously shared their knowledge and insights, and our members, whose enthusiasm and participation made this year unforgettable.</p>
+<blockquote class="blockquote">
+<p>You are the heart of R-Ladies Rome, and your dedication to learning and collaboration continues to inspire us. THANK YOU 🤗</p>
+</blockquote>
+</section>
+<section id="looking-ahead-to-2025" class="level4">
+<h4 class="anchored" data-anchor-id="looking-ahead-to-2025"><strong>Looking Ahead to 2025</strong></h4>
+<p>We’re kicking off 2025 with an exciting event featuring <strong>Eli Holder</strong> on <strong>Thursday, January 9th</strong>:</p>
+<div class="columns">
+<div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rladiesrome.org/blog/posts/12302024/eli-holder.png" class="img-fluid figure-img"></p>
+<figcaption>Eli Holder</figcaption>
+</figure>
+</div>
+</div><div class="column">
+<blockquote class="blockquote">
+<p><strong>Title:</strong> <em>Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead.</em><br>
+<strong>Abstract:</strong> Eli will discuss the social impacts of visualizing inequality and public health disparities, drawing on their research into how common dataviz practices can unintentionally promote harmful misbeliefs. The talk will offer actionable solutions to design impactful and responsible visualizations.</p>
+</blockquote>
+</div>
+</div>
+<p>More interesting events to come:</p>
+<ul>
+<li><code>Introduction to Bayesian Modeling</code>: A session that introduced foundational concepts in Bayesian statistics and demonstrated how to apply them using R.</li>
+<li><code>Data Visualization Best Practices</code>: A workshop on crafting effective visualizations with {ggplot2} and communicating data insights.</li>
+<li><code>Shiny Apps for Interactive Data Exploration:</code> Learn how to build interactive web apps for data analysis with Shiny.</li>
+<li><code>Machine Learning with {tidymodels}</code>: Hands-on exploration of machine learning workflows using the tidymodels framework.</li>
+<li><code>Introduction to Time Series Analysis</code>: Techniques and R tools for analyzing and forecasting time series data.</li>
+</ul>
+<p>Stay tuned for more details and join us for what promises to be an insightful session!</p>
+</section>
+<section id="thank-you-and-happy-holidays" class="level4">
+<h4 class="anchored" data-anchor-id="thank-you-and-happy-holidays"><strong>Thank You and Happy Holidays</strong></h4>
+<p>As we wrap up 2024, we want to express our deepest gratitude to everyone who has been part of R-Ladies Rome’s journey. Thank you for your support, engagement, and contributions.</p>
+<blockquote class="blockquote">
+<p>Let’s continue learning, growing, and building together in 2025. Happy holidays from all of us at R-Ladies Rome! 🎉</p>
+</blockquote>
+<p><em>Stay connected with us on <a href="https://rladiesrome.org">our website</a> and social media for updates on upcoming events. We can’t wait to see you in the new year!</em></p>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://rladiesrome.org/blog/posts/12302024/</guid>
+  <pubDate>Sun, 29 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://rladiesrome.org/blog/posts/12302024/12302024.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Using GitHub Copilot (and Others LLM) with R</title>
+  <link>https://rladiesrome.org/talks/2024/meetup/12102024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (146)</p>
+<p>In this hands-on session, <a href="https://yabellini.netlify.app/">Yanina Bellini Saibene</a>, <a href="https://ropensci.org/">rOpenSci</a> Community Manager, demonstrated how GitHub Copilot can enhance productivity in RStudio, helping users code more efficiently with the assistance of large language models (LLMs). She provided practical examples of data wrangling, R package development, and how these tools can be integrated into your own workflows.</p>
+<p>🎬 Missed the live session?</p>
+<p>Don’t worry! The recording is now available. Watch it and learn from Yanina’s expertise on how to leverage AI-powered tools to optimize your R programming experience.</p>
+<p>🌟 What We Learned</p>
+<ul>
+<li>How to integrate GitHub Copilot into your RStudio workflow</li>
+<li>Practical examples of how to use GitHub Copilot for data analysis</li>
+<li>How LLMs can speed up coding tasks and support learning.</li>
+</ul>
+<p>Additionally, Yanina delved into both the opportunities and challenges that come with incorporating LLMs into educational contexts, offering valuable insights into how these tools can support learning and innovation.</p>
+<p>If you’re curious about <strong>how GitHub Copilot can optimize your R programming experience</strong> or want to understand the role of LLMs in data science education, this talk is packed with valuable takeaways.</p>
+<p>Don’t miss this chance to learn from one of the leaders in the open science and data science communities. 🎬 Watch the video now and get started with enhancing your R workflow using AI-powered tools.</p>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_8LAU1Mauc8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>📚 Event Material</p>
+<p>To explore the concepts discussed in the event, here is the material shared by Yanina:</p>
+<p><a href="https://copilotwithr.netlify.app/">https://copilotwithr.netlify.app/</a></p>
+<p>#AI #DataScience #GitHubCopilot #RStats #OpenScience #LearningTogether #RLadiesRome #TechWorkshop #LLM #MachineLearning</p>
+<center>
+<a href="../../../../talks/2024/meetup/11182024/index.html">← Previous event</a> | <a href="../../../../talks/2025/index.html">Next event →</a>
+</center>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>AI</category>
+  <category>Data Science</category>
+  <category>GitHub Copilot</category>
+  <guid>https://rladiesrome.org/talks/2024/meetup/12102024/</guid>
+  <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/9/d/e/0/600_524920416.webp?w=750" medium="image"/>
+</item>
+<item>
+  <title>Openscapes: Forking as a Worldview</title>
+  <link>https://rladiesrome.org/talks/2024/meetup/11182024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (65-LinkedIn / 35-Meetup)</p>
+<p><a href="https://www.linkedin.com/in/julia-stewart-lowndes/">Julia Stewart Lowndes</a>, Director of <a href="https://nasa-openscapes.github.io/">NASA-Openscapes</a>, led an engaging session on the transformative power of forking in open science. This approach, originally from software development, has evolved into a powerful strategy for tackling collaborative challenges in both government and academia.</p>
+<p>🎬 Missed the live session? Don’t worry! The recording is now available. Watch it and learn from Julia’s expertise on how forking as a mindset is reshaping collaboration and innovation in science.</p>
+<p>🌟 What We Learned</p>
+<p>In this session, Julia explained how the concept of forking goes beyond adapting code and has expanded into a worldview that facilitates innovation, credit-sharing, and collective progress. Forking is about adapting resources (like code, documentation, and methodologies) and using them in new, more effective ways while ensuring proper attribution and networking back to the original source.</p>
+<p>Key points discussed:</p>
+<pre><code>- Forking as a collaborative tool for the open science community.
+- The role of NASA-Openscapes in helping teams collaborate and adapt workflows, specifically by migrating them to cloud environments.
+- How forking empowers scientists to innovate faster and solve big problems more efficiently through shared resources.</code></pre>
+<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/p4mrA3EkYxI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>📚 Event Material</p>
+<p>To further explore the concepts discussed in the event, here are some useful resources:</p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1aL0TVFM7xxzTCJoE3tEArDE32wh59wkmBCy6Vcmwvy4/edit#slide=id.g317dfb56d17_0_421">Presentation Slides</a></li>
+<li><a href="https://nasa-openscapes.github.io/news/2024-02-28-github-community-call/">Openscapes Community &amp; Resources</a></li>
+<li><a href="https://openscapes.org/media">Openscapes Publications</a></li>
+<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/">Earthdata Cloud Cookbook</a></li>
+<li><a href="https://nasa-openscapes.github.io/">NASA-Openscapes</a></li>
+</ul>
+<p>Julia’s perspective on forking and its significance in open science offered valuable insights for those working in collaborative and data-intensive research projects. This talk is a must-watch for anyone interested in how open science principles are reshaping the future of research and collaboration.</p>
+<p>#OpenScience #Innovation #Forking #NASAOpenscapes #Collaboration #RStats #RLadiesRome #LearningTogether</p>
+<center>
+<a href="../../../../talks/2024/meetup/10302024/index.html">← Previous event</a> | <a href="../../../../talks/2024/meetup/12102024/index.html">Next event →</a>
+</center>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Open Source</category>
+  <category>Collaboration</category>
+  <category>Innovation</category>
+  <guid>https://rladiesrome.org/talks/2024/meetup/11182024/</guid>
+  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/1/d/2/8/600_524467464.webp?w=750" medium="image"/>
+</item>
+</channel>
+</rss>
