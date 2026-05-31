@@ -1,0 +1,87 @@
+---
+title: "Text Analysis in R: From tidytext to Local LLMs"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-03-20
+image: "https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png"
+image-alt: "R-Ladies Rome tutorial on text analysis in R"
+description: "In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs."
+categories:
+  - Text Analysis
+  - Natural Language Processing
+  - R Programming
+  - AI
+  - Tutorial
+---
+
+Registered Attendees (89 on luma.com + 56 on meetup.com)
+
+Text data is everywhere. From research articles and survey responses to social media posts and customer feedback, much of the information we work with today comes in the form of unstructured text. The challenge is transforming that text into something we can explore, analyze, and ultimately learn from.
+
+In this R-Ladies Rome workshop, we explored a complete text analysis pipeline in R, moving from traditional Natural Language Processing techniques to modern AI-powered workflows using local Large Language Models.
+
+## 🧩 Workshop Overview
+
+The session was presented by **Dariia Miasnikova**, who guided participants through a practical workflow for working with text data using R.
+
+The first part of the workshop focused on classical text analysis techniques. We started by transforming raw text into structured data through tokenization and stopword removal using the **{tidytext}** ecosystem. From there, we explored different ways of understanding text through word frequencies, visualizations, sentiment analysis, topic modeling, and word networks.
+
+Participants learned how to:
+
+- tokenize text using tidytext
+- remove standard and custom stopwords
+- visualize word frequencies with bar plots and word clouds
+- perform dictionary-based sentiment analysis using the AFINN, Bing, and NRC lexicons
+- identify latent topics using LDA topic modeling
+- explore relationships between words through bigram analysis and network visualizations
+
+The second part of the workshop shifted toward newer AI-powered approaches.
+
+Using the **{mall}** package together with **Ollama**, we explored how local Large Language Models can be integrated into text analysis workflows. This allowed us to compare traditional lexicon-based sentiment analysis with LLM-generated sentiment classification and discuss the strengths and limitations of each approach.
+
+The session also introduced additional tasks such as:
+
+- text classification
+- entity extraction
+- prompt-based text analysis workflows
+
+This combination of classical NLP and modern AI provided a useful perspective on how text analysis is evolving while still relying on many of the same underlying principles.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://www.youtube.com/watch?v=b8WhdKCkdEo >}}
+
+The recording is suitable both for participants who attended live and for anyone interested in learning how traditional text mining techniques can be combined with modern AI tools.
+
+## 🧠 What You’ll Learn
+
+By watching the recording, you will learn how to:
+
+- transform raw text into structured data
+- perform sentiment analysis using multiple lexicons
+- identify themes through topic modeling
+- build and visualize word networks
+- compare traditional NLP approaches with LLM-based methods
+- perform text analysis locally using Ollama and the mall package
+
+## 📦 Resources & Materials
+
+- [Intro Presentation](https://canva.link/pejrcz51zo83i04)
+- [Workshop Slides](https://dariia-m.github.io/r-ladies-rome-text-analysis/text_analysis_r_ladies_rome.html#/title-slide)
+
+## 🔊 About the Speaker
+
+**Dariia Miasnikova** is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.
+
+## 🔊 About the Tutorial
+
+This workshop is part of the **R-Ladies Rome Tutorials** series, where we focus on practical skills and reproducible workflows for data science.
+
+As AI-powered tools become increasingly accessible, understanding the foundations of text analysis remains essential. By combining traditional NLP methods with modern LLM-based approaches, participants were able to see both where these techniques come from and where they are heading.
+
+Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2026/meetup/03182026_isabellavelasquez.qmd) | [Next event →](/talks/2026/meetup/NEXT_EVENT.qmd)</center>
