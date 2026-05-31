@@ -17,7 +17,93 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 17 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Text Analysis in R: From tidytext to Local LLMs</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/05202026_dariiamykhailyshyna.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (89 on luma.com + 56 on meetup.com)</p>
+<p>Text data is everywhere. From research articles and survey responses to social media posts and customer feedback, much of the information we work with today comes in the form of unstructured text. The challenge is transforming that text into something we can explore, analyze, and ultimately learn from.</p>
+<p>In this R-Ladies Rome workshop, we explored a complete text analysis pipeline in R, moving from traditional Natural Language Processing techniques to modern AI-powered workflows using local Large Language Models.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>The session was presented by <strong>Dariia Miasnikova</strong>, who guided participants through a practical workflow for working with text data using R.</p>
+<p>The first part of the workshop focused on classical text analysis techniques. We started by transforming raw text into structured data through tokenization and stopword removal using the <strong>{tidytext}</strong> ecosystem. From there, we explored different ways of understanding text through word frequencies, visualizations, sentiment analysis, topic modeling, and word networks.</p>
+<p>Participants learned how to:</p>
+<ul>
+<li>tokenize text using tidytext</li>
+<li>remove standard and custom stopwords</li>
+<li>visualize word frequencies with bar plots and word clouds</li>
+<li>perform dictionary-based sentiment analysis using the AFINN, Bing, and NRC lexicons</li>
+<li>identify latent topics using LDA topic modeling</li>
+<li>explore relationships between words through bigram analysis and network visualizations</li>
+</ul>
+<p>The second part of the workshop shifted toward newer AI-powered approaches.</p>
+<p>Using the <strong>{mall}</strong> package together with <strong>Ollama</strong>, we explored how local Large Language Models can be integrated into text analysis workflows. This allowed us to compare traditional lexicon-based sentiment analysis with LLM-generated sentiment classification and discuss the strengths and limitations of each approach.</p>
+<p>The session also introduced additional tasks such as:</p>
+<ul>
+<li>text classification</li>
+<li>entity extraction</li>
+<li>prompt-based text analysis workflows</li>
+</ul>
+<p>This combination of classical NLP and modern AI provided a useful perspective on how text analysis is evolving while still relying on many of the same underlying principles.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b8WhdKCkdEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended live and for anyone interested in learning how traditional text mining techniques can be combined with modern AI tools.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording, you will learn how to:</p>
+<ul>
+<li>transform raw text into structured data</li>
+<li>perform sentiment analysis using multiple lexicons</li>
+<li>identify themes through topic modeling</li>
+<li>build and visualize word networks</li>
+<li>compare traditional NLP approaches with LLM-based methods</li>
+<li>perform text analysis locally using Ollama and the mall package</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://canva.link/pejrcz51zo83i04">Intro Presentation</a></li>
+<li><a href="https://dariia-m.github.io/r-ladies-rome-text-analysis/text_analysis_r_ladies_rome.html#/title-slide">Workshop Slides</a></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><strong>Dariia Miasnikova</strong> is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical skills and reproducible workflows for data science.</p>
+<p>As AI-powered tools become increasingly accessible, understanding the foundations of text analysis remains essential. By combining traditional NLP methods with modern LLM-based approaches, participants were able to see both where these techniques come from and where they are heading.</p>
+<p>Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NEXT_EVENT.qmd">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Text Analysis</category>
+  <category>Natural Language Processing</category>
+  <category>R Programming</category>
+  <category>AI</category>
+  <category>Tutorial</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/05202026_dariiamykhailyshyna.html</guid>
+  <pubDate>Thu, 19 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez</title>
   <link>https://rladiesrome.org/talks/2026/meetup/03182026_isabellavelasquez.html</link>
@@ -84,7 +170,7 @@
 <p>Our goal is always the same: to help people move from <em>knowing functions</em> to <em>understanding workflows</em>. Whether someone is just starting with R or refining their practice, we aim to provide sessions that strengthen both technical skills and confidence.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
 <center>
-<a href="../../../talks/2026/meetup/02162026_priyankaschnell.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NextSpeaker.qmd">Next event →</a>
+<a href="../../../talks/2026/meetup/02162026_priyankaschnell.html">← Previous event</a> | <a href="../../../talks/2026/meetup/05202026_dariiamykhailyshyna.html">Next event →</a>
 </center>
 
 
@@ -1460,50 +1546,6 @@ Figure&nbsp;2: Rome Data Science Networking Event @ INGV
   <guid>https://rladiesrome.org/talks/2024/meetup/12102024/</guid>
   <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
   <media:content url="https://secure.meetupstatic.com/photos/event/9/d/e/0/600_524920416.webp?w=750" medium="image"/>
-</item>
-<item>
-  <title>Openscapes: Forking as a Worldview</title>
-  <link>https://rladiesrome.org/talks/2024/meetup/11182024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Registered Attendees (65-LinkedIn / 35-Meetup)</p>
-<p><a href="https://www.linkedin.com/in/julia-stewart-lowndes/">Julia Stewart Lowndes</a>, Director of <a href="https://nasa-openscapes.github.io/">NASA-Openscapes</a>, led an engaging session on the transformative power of forking in open science. This approach, originally from software development, has evolved into a powerful strategy for tackling collaborative challenges in both government and academia.</p>
-<p>🎬 Missed the live session? Don’t worry! The recording is now available. Watch it and learn from Julia’s expertise on how forking as a mindset is reshaping collaboration and innovation in science.</p>
-<p>🌟 What We Learned</p>
-<p>In this session, Julia explained how the concept of forking goes beyond adapting code and has expanded into a worldview that facilitates innovation, credit-sharing, and collective progress. Forking is about adapting resources (like code, documentation, and methodologies) and using them in new, more effective ways while ensuring proper attribution and networking back to the original source.</p>
-<p>Key points discussed:</p>
-<pre><code>- Forking as a collaborative tool for the open science community.
-- The role of NASA-Openscapes in helping teams collaborate and adapt workflows, specifically by migrating them to cloud environments.
-- How forking empowers scientists to innovate faster and solve big problems more efficiently through shared resources.</code></pre>
-<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/p4mrA3EkYxI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>📚 Event Material</p>
-<p>To further explore the concepts discussed in the event, here are some useful resources:</p>
-<ul>
-<li><a href="https://docs.google.com/presentation/d/1aL0TVFM7xxzTCJoE3tEArDE32wh59wkmBCy6Vcmwvy4/edit#slide=id.g317dfb56d17_0_421">Presentation Slides</a></li>
-<li><a href="https://nasa-openscapes.github.io/news/2024-02-28-github-community-call/">Openscapes Community &amp; Resources</a></li>
-<li><a href="https://openscapes.org/media">Openscapes Publications</a></li>
-<li><a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/">Earthdata Cloud Cookbook</a></li>
-<li><a href="https://nasa-openscapes.github.io/">NASA-Openscapes</a></li>
-</ul>
-<p>Julia’s perspective on forking and its significance in open science offered valuable insights for those working in collaborative and data-intensive research projects. This talk is a must-watch for anyone interested in how open science principles are reshaping the future of research and collaboration.</p>
-<p>#OpenScience #Innovation #Forking #NASAOpenscapes #Collaboration #RStats #RLadiesRome #LearningTogether</p>
-<center>
-<a href="../../../../talks/2024/meetup/10302024/index.html">← Previous event</a> | <a href="../../../../talks/2024/meetup/12102024/index.html">Next event →</a>
-</center>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Open Source</category>
-  <category>Collaboration</category>
-  <category>Innovation</category>
-  <guid>https://rladiesrome.org/talks/2024/meetup/11182024/</guid>
-  <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://secure.meetupstatic.com/photos/event/1/d/2/8/600_524467464.webp?w=750" medium="image"/>
 </item>
 </channel>
 </rss>

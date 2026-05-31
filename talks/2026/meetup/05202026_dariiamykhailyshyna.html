@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-03-18">
-<meta name="description" content="In this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world data workflows.">
+<meta name="dcterms.date" content="2026-03-20">
+<meta name="description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
 
-<title>What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez – R-Ladies Rome</title>
+<title>Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,17 +104,17 @@ cookieconsent.run({
 
 
 <link rel="stylesheet" href="../../../new.css">
-<meta property="og:title" content="What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez – R-Ladies Rome">
-<meta property="og:description" content="In this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world data workflows.">
-<meta property="og:image" content="https://secure.meetupstatic.com/photos/event/c/3/a/8/highres_533030088.webp?w=1080">
+<meta property="og:title" content="Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome">
+<meta property="og:description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
+<meta property="og:image" content="https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png">
 <meta property="og:site_name" content="R-Ladies Rome">
 <meta property="og:locale" content="en_US">
-<meta property="og:image:alt" content="R-Ladies Rome event on new dplyr features">
-<meta name="twitter:title" content="What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez – R-Ladies Rome">
-<meta name="twitter:description" content="In this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world data workflows.">
-<meta name="twitter:image" content="https://secure.meetupstatic.com/photos/event/c/3/a/8/highres_533030088.webp?w=1080">
+<meta property="og:image:alt" content="R-Ladies Rome tutorial on text analysis in R">
+<meta name="twitter:title" content="Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome">
+<meta name="twitter:description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
+<meta name="twitter:image" content="https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png">
 <meta name="twitter:creator" content="@rladiesrome">
-<meta name="twitter:image:alt" content="R-Ladies Rome event on new dplyr features">
+<meta name="twitter:image:alt" content="R-Ladies Rome tutorial on text analysis in R">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -216,7 +216,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Text Analysis in R: From tidytext to Local LLMs</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -325,34 +325,34 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tutorial-overview" id="toc-tutorial-overview" class="nav-link active" data-scroll-target="#tutorial-overview">🧩 Tutorial Overview</a></li>
+  <li><a href="#workshop-overview" id="toc-workshop-overview" class="nav-link active" data-scroll-target="#workshop-overview">🧩 Workshop Overview</a></li>
   <li><a href="#recording" id="toc-recording" class="nav-link" data-scroll-target="#recording">🎥 Recording</a></li>
   <li><a href="#what-youll-learn" id="toc-what-youll-learn" class="nav-link" data-scroll-target="#what-youll-learn">🧠 What You’ll Learn</a></li>
   <li><a href="#resources-materials" id="toc-resources-materials" class="nav-link" data-scroll-target="#resources-materials">📦 Resources &amp; Materials</a></li>
   <li><a href="#about-the-speaker" id="toc-about-the-speaker" class="nav-link" data-scroll-target="#about-the-speaker">🔊 About the Speaker</a></li>
   <li><a href="#about-the-tutorial" id="toc-about-the-tutorial" class="nav-link" data-scroll-target="#about-the-tutorial">🔊 About the Tutorial</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/03182026_isabellavelasquez.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/05202026_dariiamykhailyshyna.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">What’s New in {dplyr} 1.2.0: A Tour with Isabella Velásquez</h1>
+<h1 class="title">Text Analysis in R: From tidytext to Local LLMs</h1>
 <p class="subtitle lead">R-Ladies Rome Tutorials</p>
   <div class="quarto-categories">
+    <div class="quarto-category">Text Analysis</div>
+    <div class="quarto-category">Natural Language Processing</div>
     <div class="quarto-category">R Programming</div>
-    <div class="quarto-category">Tidyverse</div>
-    <div class="quarto-category">dplyr</div>
-    <div class="quarto-category">Data Workflow</div>
+    <div class="quarto-category">AI</div>
     <div class="quarto-category">Tutorial</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    In this session, Isabella Velásquez guided participants through the newest features in dplyr 1.2.0, focusing on when to use the new tools and how they improve real-world data workflows.
+    In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.
   </div>
 </div>
 
@@ -363,7 +363,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 18, 2026</p>
+      <p class="date">March 20, 2026</p>
     </div>
   </div>
   
@@ -375,65 +375,69 @@ cookieconsent.run({
 </header>
 
 
-<p>Registered Attendees (102)</p>
-<p>At R-Ladies Rome we often focus on tools that quietly shape how we work every day. <strong>{dplyr}</strong> is one of those tools. Many of us use it almost instinctively, but every new release brings small improvements that can significantly change how we write and think about our data pipelines.</p>
-<p>In this session, we were delighted to welcome <strong>Isabella Velásquez (Developer Relations at Posit PBC)</strong> for a practical tour of the newest features introduced in <strong>{dplyr} 1.2.0</strong>. The focus was not just on new syntax, but on understanding <em>why these tools exist</em> and <em>when they actually make our work easier</em>.</p>
-<section id="tutorial-overview" class="level2">
-<h2 class="anchored" data-anchor-id="tutorial-overview">🧩 Tutorial Overview</h2>
-<p>The session walked through the evolution of common data manipulation patterns and how the new functions help simplify logic that previously required more complex workarounds.</p>
-<p>We explored:</p>
+<p>Registered Attendees (89 on luma.com + 56 on meetup.com)</p>
+<p>Text data is everywhere. From research articles and survey responses to social media posts and customer feedback, much of the information we work with today comes in the form of unstructured text. The challenge is transforming that text into something we can explore, analyze, and ultimately learn from.</p>
+<p>In this R-Ladies Rome workshop, we explored a complete text analysis pipeline in R, moving from traditional Natural Language Processing techniques to modern AI-powered workflows using local Large Language Models.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>The session was presented by <strong>Dariia Miasnikova</strong>, who guided participants through a practical workflow for working with text data using R.</p>
+<p>The first part of the workshop focused on classical text analysis techniques. We started by transforming raw text into structured data through tokenization and stopword removal using the <strong>{tidytext}</strong> ecosystem. From there, we explored different ways of understanding text through word frequencies, visualizations, sentiment analysis, topic modeling, and word networks.</p>
+<p>Participants learned how to:</p>
 <ul>
-<li>how <code>when_any()</code> and <code>when_all()</code> help express conditional logic more clearly<br>
-</li>
-<li>how to rethink workflows that previously relied on <code>case_match()</code><br>
-</li>
-<li>improvements to filtering logic that make pipelines easier to read<br>
-</li>
-<li>practical examples grounded in realistic data workflows</li>
+<li>tokenize text using tidytext</li>
+<li>remove standard and custom stopwords</li>
+<li>visualize word frequencies with bar plots and word clouds</li>
+<li>perform dictionary-based sentiment analysis using the AFINN, Bing, and NRC lexicons</li>
+<li>identify latent topics using LDA topic modeling</li>
+<li>explore relationships between words through bigram analysis and network visualizations</li>
 </ul>
-<p>As often happens in R-Ladies Rome sessions, the emphasis was not on memorizing functions but on building intuition. The goal was to leave participants with a clearer mental model of how to approach data transformations.</p>
+<p>The second part of the workshop shifted toward newer AI-powered approaches.</p>
+<p>Using the <strong>{mall}</strong> package together with <strong>Ollama</strong>, we explored how local Large Language Models can be integrated into text analysis workflows. This allowed us to compare traditional lexicon-based sentiment analysis with LLM-generated sentiment classification and discuss the strengths and limitations of each approach.</p>
+<p>The session also introduced additional tasks such as:</p>
+<ul>
+<li>text classification</li>
+<li>entity extraction</li>
+<li>prompt-based text analysis workflows</li>
+</ul>
+<p>This combination of classical NLP and modern AI provided a useful perspective on how text analysis is evolving while still relying on many of the same underlying principles.</p>
 </section>
 <section id="recording" class="level2">
 <h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
 <p>🎬 Watch the Recording</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/xCbFl_Ez6VM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>The recording is suitable both for participants who attended live and for anyone wanting a practical overview of how the newest <strong>dplyr</strong> features fit into everyday work.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b8WhdKCkdEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording is suitable both for participants who attended live and for anyone interested in learning how traditional text mining techniques can be combined with modern AI tools.</p>
 </section>
 <section id="what-youll-learn" class="level2">
 <h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
 <p>By watching the recording, you will learn how to:</p>
 <ul>
-<li>understand the design ideas behind the newest dplyr functions<br>
-</li>
-<li>simplify conditional filtering logic<br>
-</li>
-<li>improve readability of transformation pipelines<br>
-</li>
-<li>choose clearer patterns for data manipulation<br>
-</li>
-<li>write tidyverse code that is easier to maintain and share</li>
+<li>transform raw text into structured data</li>
+<li>perform sentiment analysis using multiple lexicons</li>
+<li>identify themes through topic modeling</li>
+<li>build and visualize word networks</li>
+<li>compare traditional NLP approaches with LLM-based methods</li>
+<li>perform text analysis locally using Ollama and the mall package</li>
 </ul>
 </section>
 <section id="resources-materials" class="level2">
 <h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
 <ul>
-<li><a href="https://tinyurl.com/rladiesrome-march2026">Intro Presentation</a></li>
-<li><a href="https://ivelasq-dplyr-1-2-0.share.connect.posit.cloud/">Slides</a></li>
-<li><a href="https://tidyverse.org/blog/2026/02/dplyr-1-2-0/">dyplr 1.2.0</a></li>
-<li><a href="https://tidydatatutor.com/">TidyData Tutor</a></li>
+<li><a href="https://canva.link/pejrcz51zo83i04">Intro Presentation</a></li>
+<li><a href="https://dariia-m.github.io/r-ladies-rome-text-analysis/text_analysis_r_ladies_rome.html#/title-slide">Workshop Slides</a></li>
 </ul>
 </section>
 <section id="about-the-speaker" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
-<p><strong>Isabella Velásquez</strong> works in Developer Relations at Posit PBC, where she helps the data science community adopt modern tools and workflows. Her work connects programming, communication, and data analysis, with a strong focus on making data science tools approachable and practical.</p>
+<p><strong>Dariia Miasnikova</strong> is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.</p>
 </section>
 <section id="about-the-tutorial" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
-<p>This session is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical tools that support reproducible and sustainable data workflows.</p>
-<p>Our goal is always the same: to help people move from <em>knowing functions</em> to <em>understanding workflows</em>. Whether someone is just starting with R or refining their practice, we aim to provide sessions that strengthen both technical skills and confidence.</p>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical skills and reproducible workflows for data science.</p>
+<p>As AI-powered tools become increasingly accessible, understanding the foundations of text analysis remains essential. By combining traditional NLP methods with modern LLM-based approaches, participants were able to see both where these techniques come from and where they are heading.</p>
+<p>Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
 <center>
-<a href="../../../talks/2026/meetup/02162026_priyankaschnell.html">← Previous event</a> | <a href="../../../talks/2026/meetup/05202026_dariiamykhailyshyna.html">Next event →</a>
+<a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NEXT_EVENT.qmd">Next event →</a>
 </center>
 
 
@@ -897,7 +901,7 @@ cookieconsent.run({
     </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/03182026_isabellavelasquez.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/05202026_dariiamykhailyshyna.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p>This Website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></p>
 </div>
