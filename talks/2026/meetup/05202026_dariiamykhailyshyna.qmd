@@ -21,7 +21,7 @@ In this R-Ladies Rome workshop, we explored a complete text analysis pipeline in
 
 ## 🧩 Workshop Overview
 
-The session was presented by **Dariia Miasnikova**, who guided participants through a practical workflow for working with text data using R.
+The session was presented by **Dariia Mykhailyshyna**, who guided participants through a practical workflow for working with text data using R.
 
 The first part of the workshop focused on classical text analysis techniques. We started by transforming raw text into structured data through tokenization and stopword removal using the **{tidytext}** ecosystem. From there, we explored different ways of understanding text through word frequencies, visualizations, sentiment analysis, topic modeling, and word networks.
 
@@ -72,7 +72,7 @@ By watching the recording, you will learn how to:
 
 ## 🔊 About the Speaker
 
-**Dariia Miasnikova** is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.
+**Dariia Mykhailyshyna** is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.
 
 ## 🔊 About the Tutorial
 
