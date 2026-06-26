@@ -1,0 +1,95 @@
+---
+title: "From Data Analysis to Publication: Reproducible Research with R and Quarto"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-06-23
+image: "https://secure.meetupstatic.com/photos/event/4/9/f/2/highres_534678930.webp?w=1080"
+image-alt: "Workshop on reproducible research with R and Quarto"
+description: "In this workshop in partnership with RLadies BA, participants learned how to build reproducible research workflows with R and Quarto, integrating code, results, figures, and narrative into a single document for publishing manuscripts, reports, presentations, and more."
+categories:
+  - Reproducible Research
+  - Quarto
+  - R
+  - Open Science
+  - Tutorial
+---
+
+Registered Attendees (57+46)
+
+On June 26, 2026, **R-Ladies Rome** welcomed **Betsabé Cohen** and **Jesica Formoso** from **R-Ladies+ Buenos Aires** for a practical workshop on building reproducible research workflows with **R** and **Quarto**.
+
+Research today goes far beyond producing results. Analyses evolve, datasets are updated, reviewers request changes, and manuscripts often need to be generated in multiple formats. Keeping code, figures, tables, and written text synchronized can quickly become a challenge when they live in separate files.
+
+The workshop showed how reproducible workflows address this problem by bringing everything together into a single source document. Rather than copying results into Word documents or presentations manually, participants learned how R and Quarto can automate the entire process, making research easier to maintain, reproduce, and share.
+
+The central idea running throughout the session was that reproducibility is not simply about sharing code—it is about creating workflows that remain understandable, transparent, and reusable long after the original analysis has been completed.
+
+## 🧩 Workshop Overview
+
+The workshop introduced Quarto as a publishing system capable of producing multiple outputs from a single source document. Participants saw how code, narrative, figures, tables, and references can coexist naturally within the same project.
+
+The session started by introducing the basic structure of a Quarto document and explaining how executable code and written text work together. From there, the speakers demonstrated how a single analysis can generate different outputs—including manuscripts, technical reports, presentations, websites, and books—without duplicating work.
+
+Along the way, participants explored:
+
+- organizing reproducible research projects
+- integrating R code directly into reports
+- generating figures and tables automatically
+- managing citations and bibliographies
+- exporting documents to Word, PDF, HTML, and other formats
+- publishing research using open-source tools
+
+The workshop also generated an engaging discussion around practical research workflows. Participants asked questions about migrating from R Markdown, writing directly for journal submissions, using Quarto with Positron and Visual Studio Code, exporting references from Zotero, and handling figures across different publication formats.
+
+One of the recurring themes was that reproducibility is not reserved for large research projects. Even relatively small analyses benefit from having a workflow where updating data automatically updates every figure, table, and section of the final document.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/1jcb_5NMgBU >}}
+
+Whether you attended the workshop live or are discovering it for the first time, the recording provides a practical introduction to modern reproducible research workflows using entirely open-source tools.
+
+## 🧠 What You'll Learn
+
+By watching the recording, you will learn how to:
+
+- organize reproducible research projects using Quarto
+- combine code, narrative, figures, and tables in a single document
+- generate manuscripts, reports, presentations, and websites from one source
+- manage citations and bibliographies efficiently
+- publish research using open-source workflows
+- understand how Quarto simplifies maintaining evolving research projects
+
+## 📦 Resources & Materials
+
+- [Intro Presentation](https://canva.link/z0cnvimw9uztqc9)
+- [Workshop Slides](https://rladies-ba.github.io/quarto_for_papers/)
+
+### Additional Resources
+
+- Quarto vs R Markdown FAQ: https://quarto.org/docs/faq/rmarkdown.html
+- Quarto Manuscripts: https://quarto.org/docs/manuscripts
+- Quarto Journals: https://github.com/quarto-journals
+- Quarto Publishing: https://quarto.org/docs/publishing/
+- Citations in Quarto: https://quarto.org/docs/authoring/citations.html
+
+## 🔊 About the Speakers
+
+**Betsabé Cohen** is a sociologist from the University of Buenos Aires (UBA), specializing in cultural industries, and a Master's candidate in Generation and Analysis of Statistical Information at UNTREF. She is a co-organizer of the R-Ladies+ Buenos Aires chapter and actively promotes the use of open-source tools for research and data analysis.
+
+**Jesica Formoso** holds a PhD in Cognitive Psychology and is a researcher at Argentina's National Scientific and Technical Research Council (CONICET). She specializes in statistics for the health sciences and is a co-organizer of the R-Ladies+ Buenos Aires chapter, where she promotes reproducible analytical workflows for scientific research.
+
+## 🔊 About the Tutorial
+
+This workshop is part of the **R-Ladies Rome Tutorials** series, where we focus on practical tools that improve the way people work with data.
+
+Reproducibility has become an essential component of modern research. Beyond improving transparency, reproducible workflows reduce errors, simplify collaboration, and make analyses easier to update as projects evolve.
+
+By combining R and Quarto, researchers can spend less time formatting documents and more time focusing on the science itself.
+
+A sincere thank you to Betsabé Cohen and Jesica Formoso for sharing their experience and practical advice, and to everyone who joined us for the lively discussion and thoughtful questions.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2026/meetup/05202026_dariiamykhailyshyna.qmd) | [Next event →](/talks/2026/meetup/NEXT_EVENT.qmd)</center>
