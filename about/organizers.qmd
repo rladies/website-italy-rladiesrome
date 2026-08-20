@@ -21,11 +21,11 @@ subtitle: "Who we are, where we are from, and what we do"
 
 :::: columns
 ::: {.column width="60%"}
-[Rafaela Ribeiro](https://www.linkedin.com/in/rafaelagrlucas/) Organizer. I am Dietitian graduated from the Federal University of Pelotas - UFPel, with a master's degree in Cardiology and Cardiovascular Sciences from the Federal University of Rio Grande do Sul - UFRGS, in the line of research on Epidemiology of Disease Burden Associated with Cardiovascular Disease. With primary interest in Population Epidemiology and Epidemiological Surveillance of diabetes mellitus and its cardiovascular problems, as well as in the management of secondary data / health information systems. I am interested in methods related to causal inference, directed acyclic diagrams and population impact measures.(March 2024 to Present)\n
+[Hakile Resulbegoviq](https://www.linkedin.com/in/hakile-resulbegoviq-2ba9a2121/) Organizer. PhD candidate in Social Science Methodology, Research Coordinator, and Data Analyst at the Institute Damar in Montenegro. Her work focuses on survey methodology, cross-national and public opinion research, quantitative data analysis, and open science practices. She is particularly interested in reproducible research, transparent analytical workflows, and the use of R and other open-source tools to support rigorous, accessible, and reproducible research in both academic and applied settings.(August 2026 to Present)\n
 :::
 
 ::: {.column width="40%"}
-![Rafaela Ribeiro](organizers_picts/rafaelaribeiro.jpeg)
+![Hakile Resulbegoviq](organizers_picts/hakileresulbegoviq.jpeg)
 :::
 :::
 

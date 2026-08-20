@@ -80,8 +80,8 @@ This workshop is part of the **R-Ladies Rome Tutorials** series, where we focus 
 
 As AI-powered tools become increasingly accessible, understanding the foundations of text analysis remains essential. By combining traditional NLP methods with modern LLM-based approaches, participants were able to see both where these techniques come from and where they are heading.
 
-Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.
+Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.r
 
 Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
 
-<center>[← Previous event](/talks/2026/meetup/.qmd) | [Next event →](/talks/2026/meetup/06232026_rladiesba.qmd)</center>
+<center>[← Previous event](/talks/2026/meetup/03182026_isabellavelasquez.qmd) | [Next event →](/talks/2026/meetup/06232026_rladiesba.qmd)</center>

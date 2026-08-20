@@ -41,15 +41,15 @@ website:
         file: blog/index.qmd
       - text: "Talks"
         menu:
-          - talks/index.qmd
-          - text: "2023"
-            href: talks/2023/index.qmd
-          - text: "2024"
-            href: talks/2024/index.qmd
+          - talks/index.qmd 
+          - text: "2026"
+            href: talks/2026/index.qmd
           - text: "2025"
             href: talks/2025/index.qmd
-          - text: "2026"
-            href: talks/2026/index.qmd  
+          - text: "2024"
+            href: talks/2024/index.qmd
+          - text: "2023"
+            href: talks/2023/index.qmd
       - text: "About"
         menu:
           - text: "Organizers"

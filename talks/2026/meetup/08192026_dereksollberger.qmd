@@ -1,0 +1,83 @@
+---
+title: "Typst for Efficient Typesetting"
+subtitle: "R-Ladies Rome Tutorials"
+date: 2026-08-19
+image: "https://secure.meetupstatic.com/photos/event/6/d/f/0/highres_535528144.webp?w=1080"
+image-alt: "R-Ladies Rome workshop on Typst and Quarto"
+description: "In this workshop, Derek Sollberger introduced Typst, a modern typesetting system that integrates with Quarto to create beautiful, publication-quality PDFs through reproducible workflows."
+categories:
+  - Quarto
+  - Typst
+  - Reproducible Research
+  - Scientific Writing
+  - Tutorial
+---
+
+Registered Attendees (44 meetup + 54 luma)
+
+Creating beautiful technical documents has long been associated with **LaTeX**. While incredibly powerful, LaTeX often comes with a steep learning curve that can discourage newcomers and slow down even experienced users. Recent developments in open-source publishing have introduced new alternatives, and one of the most promising is **Typst**.
+
+In this R-Ladies Rome tutorial, we were delighted to welcome **Derek Sollberger**, Lecturer in the Department of Statistics and Data Science at Princeton University, for an engaging introduction to **Typst for Efficient Typesetting**.
+
+The event attracted participants from around the world, with attendees joining us from Italy, Switzerland, Germany, Poland, France, Spain, Montenegro, Tunisia, Kenya, China, Chile, Mexico, Canada, and across the United States. Many participants shared that they were completely new to Typst, while others had experimented with it through Quarto or were long-time LaTeX users curious about modern alternatives. The international participation once again highlighted the global reach of the R-Ladies community and the growing interest in reproducible publishing tools.
+
+## 🧩 Workshop Overview
+
+Derek began by introducing the motivation behind Typst: a modern typesetting system designed to simplify document creation while producing professional-quality output.
+
+The workshop demonstrated how Typst integrates naturally with **Quarto**, allowing users to generate polished PDFs without the complexity traditionally associated with LaTeX. Rather than focusing on syntax alone, Derek explained the design philosophy behind Typst and showed how its cleaner language and rapid compilation make technical writing more approachable.
+
+Throughout the session, participants explored how to:
+
+- create publication-quality PDF documents with Quarto and Typst
+- customize layouts and typography
+- work with figures and tables
+- manage citations and cross-references
+- build reproducible publishing workflows using open-source tools
+
+The presentation was highly practical, with numerous live demonstrations illustrating how quickly documents can be compiled and customized.
+
+The discussion continued during the Q&A session, where participants asked about topics such as page breaks, table handling, and document customization. Derek also shared the companion blog post for the workshop, giving attendees a resource they could revisit after the session.
+
+One interesting aspect of the event was the number of experienced LaTeX users in attendance who were curious to see whether Typst could simplify their existing workflows. At the same time, many newcomers appreciated how accessible the syntax appeared, making the session valuable regardless of prior experience.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/KnNPWkmveag >}}
+
+Whether you're preparing research papers, technical reports, lecture notes, or books, this recording offers a practical introduction to one of the newest tools in the reproducible publishing ecosystem.
+
+## 🧠 What You'll Learn
+
+By watching the recording, you will learn how to:
+
+- understand what Typst is and why it is gaining popularity
+- integrate Typst with Quarto
+- produce publication-quality PDFs
+- customize document layouts and typography
+- manage figures, tables, citations, and cross-references
+- build efficient and reproducible publishing workflows
+
+## 📦 Resources & Materials
+
+- [R-Ladies Rome Intro Presentation slides](https://canva.link/psw35d7whravpo6)
+- [Workshop Blog Post](https://dsollbergerquarto.netlify.app/posts/typst_aug/typst_aug)
+
+
+## 🔊 About the Speaker
+
+[Derek Sollberger](https://www.linkedin.com/in/derek-sollberger/) is a **Lecturer in the Department of Statistics and Data Science at Princeton University**. An active member of the R community, Derek teaches data science, reproducible research, and modern publishing workflows using open-source tools. His work focuses on helping researchers, educators, and students communicate their analyses clearly through R, Quarto, and Typst.
+
+## 🔊 About the Tutorial
+
+This workshop is part of the **R-Ladies Rome Tutorials** series, where we explore practical tools that improve reproducibility, communication, and collaboration in data science.
+
+As reproducible publishing continues to evolve, Typst offers an exciting new direction for creating technical documents. By combining Typst with Quarto, researchers and educators can spend less time wrestling with formatting and more time focusing on their ideas.
+
+A sincere thank you to Derek Sollberger for sharing his expertise and enthusiasm with our community, and to everyone who joined us from around the world for another engaging R-Ladies Rome event.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/)!
+
+<center>[← Previous event](/talks/2026/meetup/06232026_rladiesba.qmd) | [Next event →](/talks/2026/meetup/NextSpeaker.qmd)</center>
