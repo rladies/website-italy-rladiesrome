@@ -17,7 +17,180 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 19 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Typst for Efficient Typesetting</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/08192026_dereksollberger.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (44 meetup + 54 luma)</p>
+<p>Creating beautiful technical documents has long been associated with <strong>LaTeX</strong>. While incredibly powerful, LaTeX often comes with a steep learning curve that can discourage newcomers and slow down even experienced users. Recent developments in open-source publishing have introduced new alternatives, and one of the most promising is <strong>Typst</strong>.</p>
+<p>In this R-Ladies Rome tutorial, we were delighted to welcome <strong>Derek Sollberger</strong>, Lecturer in the Department of Statistics and Data Science at Princeton University, for an engaging introduction to <strong>Typst for Efficient Typesetting</strong>.</p>
+<p>The event attracted participants from around the world, with attendees joining us from Italy, Switzerland, Germany, Poland, France, Spain, Montenegro, Tunisia, Kenya, China, Chile, Mexico, Canada, and across the United States. Many participants shared that they were completely new to Typst, while others had experimented with it through Quarto or were long-time LaTeX users curious about modern alternatives. The international participation once again highlighted the global reach of the R-Ladies community and the growing interest in reproducible publishing tools.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>Derek began by introducing the motivation behind Typst: a modern typesetting system designed to simplify document creation while producing professional-quality output.</p>
+<p>The workshop demonstrated how Typst integrates naturally with <strong>Quarto</strong>, allowing users to generate polished PDFs without the complexity traditionally associated with LaTeX. Rather than focusing on syntax alone, Derek explained the design philosophy behind Typst and showed how its cleaner language and rapid compilation make technical writing more approachable.</p>
+<p>Throughout the session, participants explored how to:</p>
+<ul>
+<li>create publication-quality PDF documents with Quarto and Typst</li>
+<li>customize layouts and typography</li>
+<li>work with figures and tables</li>
+<li>manage citations and cross-references</li>
+<li>build reproducible publishing workflows using open-source tools</li>
+</ul>
+<p>The presentation was highly practical, with numerous live demonstrations illustrating how quickly documents can be compiled and customized.</p>
+<p>The discussion continued during the Q&amp;A session, where participants asked about topics such as page breaks, table handling, and document customization. Derek also shared the companion blog post for the workshop, giving attendees a resource they could revisit after the session.</p>
+<p>One interesting aspect of the event was the number of experienced LaTeX users in attendance who were curious to see whether Typst could simplify their existing workflows. At the same time, many newcomers appreciated how accessible the syntax appeared, making the session valuable regardless of prior experience.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/KnNPWkmveag" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you’re preparing research papers, technical reports, lecture notes, or books, this recording offers a practical introduction to one of the newest tools in the reproducible publishing ecosystem.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording, you will learn how to:</p>
+<ul>
+<li>understand what Typst is and why it is gaining popularity</li>
+<li>integrate Typst with Quarto</li>
+<li>produce publication-quality PDFs</li>
+<li>customize document layouts and typography</li>
+<li>manage figures, tables, citations, and cross-references</li>
+<li>build efficient and reproducible publishing workflows</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://canva.link/psw35d7whravpo6">R-Ladies Rome Intro Presentation slides</a></li>
+<li><a href="https://dsollbergerquarto.netlify.app/posts/typst_aug/typst_aug">Workshop Blog Post</a></li>
+</ul>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><a href="https://www.linkedin.com/in/derek-sollberger/">Derek Sollberger</a> is a <strong>Lecturer in the Department of Statistics and Data Science at Princeton University</strong>. An active member of the R community, Derek teaches data science, reproducible research, and modern publishing workflows using open-source tools. His work focuses on helping researchers, educators, and students communicate their analyses clearly through R, Quarto, and Typst.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we explore practical tools that improve reproducibility, communication, and collaboration in data science.</p>
+<p>As reproducible publishing continues to evolve, Typst offers an exciting new direction for creating technical documents. By combining Typst with Quarto, researchers and educators can spend less time wrestling with formatting and more time focusing on their ideas.</p>
+<p>A sincere thank you to Derek Sollberger for sharing his expertise and enthusiasm with our community, and to everyone who joined us from around the world for another engaging R-Ladies Rome event.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2026/meetup/06232026_rladiesba.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NextSpeaker.qmd">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Quarto</category>
+  <category>Typst</category>
+  <category>Reproducible Research</category>
+  <category>Scientific Writing</category>
+  <category>Tutorial</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/08192026_dereksollberger.html</guid>
+  <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/6/d/f/0/highres_535528144.webp?w=1080" medium="image"/>
+</item>
+<item>
+  <title>From Data Analysis to Publication: Reproducible Research with R and Quarto</title>
+  <link>https://rladiesrome.org/talks/2026/meetup/06232026_rladiesba.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (57+46)</p>
+<p>On June 26, 2026, <strong>R-Ladies Rome</strong> welcomed <strong>Betsabé Cohen</strong> and <strong>Jesica Formoso</strong> from <strong>R-Ladies+ Buenos Aires</strong> for a practical workshop on building reproducible research workflows with <strong>R</strong> and <strong>Quarto</strong>.</p>
+<p>Research today goes far beyond producing results. Analyses evolve, datasets are updated, reviewers request changes, and manuscripts often need to be generated in multiple formats. Keeping code, figures, tables, and written text synchronized can quickly become a challenge when they live in separate files.</p>
+<p>The workshop showed how reproducible workflows address this problem by bringing everything together into a single source document. Rather than copying results into Word documents or presentations manually, participants learned how R and Quarto can automate the entire process, making research easier to maintain, reproduce, and share.</p>
+<p>The central idea running throughout the session was that reproducibility is not simply about sharing code—it is about creating workflows that remain understandable, transparent, and reusable long after the original analysis has been completed.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>The workshop introduced Quarto as a publishing system capable of producing multiple outputs from a single source document. Participants saw how code, narrative, figures, tables, and references can coexist naturally within the same project.</p>
+<p>The session started by introducing the basic structure of a Quarto document and explaining how executable code and written text work together. From there, the speakers demonstrated how a single analysis can generate different outputs—including manuscripts, technical reports, presentations, websites, and books—without duplicating work.</p>
+<p>Along the way, participants explored:</p>
+<ul>
+<li>organizing reproducible research projects</li>
+<li>integrating R code directly into reports</li>
+<li>generating figures and tables automatically</li>
+<li>managing citations and bibliographies</li>
+<li>exporting documents to Word, PDF, HTML, and other formats</li>
+<li>publishing research using open-source tools</li>
+</ul>
+<p>The workshop also generated an engaging discussion around practical research workflows. Participants asked questions about migrating from R Markdown, writing directly for journal submissions, using Quarto with Positron and Visual Studio Code, exporting references from Zotero, and handling figures across different publication formats.</p>
+<p>One of the recurring themes was that reproducibility is not reserved for large research projects. Even relatively small analyses benefit from having a workflow where updating data automatically updates every figure, table, and section of the final document.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1jcb_5NMgBU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you attended the workshop live or are discovering it for the first time, the recording provides a practical introduction to modern reproducible research workflows using entirely open-source tools.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording, you will learn how to:</p>
+<ul>
+<li>organize reproducible research projects using Quarto</li>
+<li>combine code, narrative, figures, and tables in a single document</li>
+<li>generate manuscripts, reports, presentations, and websites from one source</li>
+<li>manage citations and bibliographies efficiently</li>
+<li>publish research using open-source workflows</li>
+<li>understand how Quarto simplifies maintaining evolving research projects</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://canva.link/z0cnvimw9uztqc9">Intro Presentation</a></li>
+<li><a href="https://rladies-ba.github.io/quarto_for_papers/">Workshop Slides</a></li>
+</ul>
+<section id="additional-resources" class="level3">
+<h3 class="anchored" data-anchor-id="additional-resources">Additional Resources</h3>
+<ul>
+<li>Quarto vs R Markdown FAQ: https://quarto.org/docs/faq/rmarkdown.html</li>
+<li>Quarto Manuscripts: https://quarto.org/docs/manuscripts</li>
+<li>Quarto Journals: https://github.com/quarto-journals</li>
+<li>Quarto Publishing: https://quarto.org/docs/publishing/</li>
+<li>Citations in Quarto: https://quarto.org/docs/authoring/citations.html</li>
+</ul>
+</section>
+</section>
+<section id="about-the-speakers" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speakers">🔊 About the Speakers</h2>
+<p><strong>Betsabé Cohen</strong> is a sociologist from the University of Buenos Aires (UBA), specializing in cultural industries, and a Master’s candidate in Generation and Analysis of Statistical Information at UNTREF. She is a co-organizer of the R-Ladies+ Buenos Aires chapter and actively promotes the use of open-source tools for research and data analysis.</p>
+<p><strong>Jesica Formoso</strong> holds a PhD in Cognitive Psychology and is a researcher at Argentina’s National Scientific and Technical Research Council (CONICET). She specializes in statistics for the health sciences and is a co-organizer of the R-Ladies+ Buenos Aires chapter, where she promotes reproducible analytical workflows for scientific research.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical tools that improve the way people work with data.</p>
+<p>Reproducibility has become an essential component of modern research. Beyond improving transparency, reproducible workflows reduce errors, simplify collaboration, and make analyses easier to update as projects evolve.</p>
+<p>By combining R and Quarto, researchers can spend less time formatting documents and more time focusing on the science itself.</p>
+<p>A sincere thank you to Betsabé Cohen and Jesica Formoso for sharing their experience and practical advice, and to everyone who joined us for the lively discussion and thoughtful questions.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
+<center>
+<a href="../../../talks/2026/meetup/05202026_dariiamykhailyshyna.html">← Previous event</a> | <a href="../../../talks/2026/meetup/08192026_dereksollberger.html">Next event →</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Reproducible Research</category>
+  <category>Quarto</category>
+  <category>R</category>
+  <category>Open Science</category>
+  <category>Tutorial</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/06232026_rladiesba.html</guid>
+  <pubDate>Mon, 22 Jun 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/4/9/f/2/highres_534678930.webp?w=1080" medium="image"/>
+</item>
 <item>
   <title>Text Analysis in R: From tidytext to Local LLMs</title>
   <link>https://rladiesrome.org/talks/2026/meetup/05202026_dariiamykhailyshyna.html</link>
@@ -79,7 +252,7 @@
 </section>
 <section id="about-the-speaker" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
-<p><strong>Dariia Miasnikova</strong> is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.</p>
+<p><strong>Dariia Mykhailyshyna</strong> is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.</p>
 </section>
 <section id="about-the-tutorial" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
@@ -88,7 +261,7 @@
 <p>Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
 <center>
-<a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NEXT_EVENT.qmd">Next event →</a>
+<a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">← Previous event</a> | <a href="../../../talks/2026/meetup/06232026_rladiesba.html">Next event →</a>
 </center>
 
 
@@ -1401,151 +1574,6 @@ Figure&nbsp;2: Rome Data Science Networking Event @ INGV
   <guid>https://rladiesrome.org/talks/2025/meetup/01092025_EliHolder.html</guid>
   <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://secure.meetupstatic.com/photos/event/9/b/b/8/600_525399864.webp?w=750" medium="image"/>
-</item>
-<item>
-  <title>A Year of Learning, Growth, and Community at R-Ladies Rome 🌟</title>
-  <link>https://rladiesrome.org/blog/posts/12302024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="reflecting-on-2024-a-year-of-learning-and-growth-at-r-ladies-rome" class="level3">
-<h3 class="anchored" data-anchor-id="reflecting-on-2024-a-year-of-learning-and-growth-at-r-ladies-rome">Reflecting on 2024: A Year of Learning and Growth at R-Ladies Rome 🌟</h3>
-<p>As 2024 comes to an end, we look back on a year filled with inspiration, collaboration, and growth. R-Ladies Rome has continued to thrive as a hub for learning, where members from diverse backgrounds come together to explore, share, and grow in their journey with R programming and data science.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://rladiesrome.org/blog/posts/12302024/all_speakers_2024.png" class="img-fluid figure-img"></p>
-<figcaption>All 2024 R-Laadies Rome Speakers</figcaption>
-</figure>
-</div>
-<section id="a-year-of-highlights-in-numbers" class="level4">
-<h4 class="anchored" data-anchor-id="a-year-of-highlights-in-numbers"><strong>A Year of Highlights in Numbers</strong></h4>
-<ul>
-<li><strong>12 incredible events</strong> hosted.<br>
-</li>
-<li>A growing community with <strong>1.2K+ members on Meetup</strong>.<br>
-</li>
-<li>Over <strong>2K RSVPs</strong> from members eager to learn, connect, and grow.<br>
-</li>
-<li>Dozens of expert speakers and workshop leaders from across the globe.</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://rladiesrome.org/blog/posts/12302024/stats-2024.png" class="img-fluid figure-img"></p>
-<figcaption>R-Ladies Rome in Numbers</figcaption>
-</figure>
-</div>
-<p>This year, we witnessed extraordinary moments that reminded us of the power of community.</p>
-</section>
-<section id="inspiring-selection-of-talks-and-hands-on-learning" class="level4">
-<h4 class="anchored" data-anchor-id="inspiring-selection-of-talks-and-hands-on-learning"><strong>Inspiring Selection of Talks and Hands-On Learning</strong></h4>
-<p>Throughout the year, we explored a variety of fascinating topics:</p>
-<ul>
-<li><code>Reproducible Environments with Docker</code>: Bruno Rodrigues guided attendees in creating reproducible workflows using Docker.</li>
-<li><code>Building a Website in R</code>: Federica Gazzelloni led a workshop on using R Markdown and Shiny to build interactive websites.</li>
-<li><code>Quarto Dashboards</code>: Isabella Velasquez demonstrated creating dynamic dashboards with Quarto, showcasing practical applications.</li>
-<li><code>Extending the Data Science Workflow</code>: {vetiver} and {pins} - Isabel Zimmerman introduced the applications of the {vetiver} and {pins} packages for enhanced data workflows.</li>
-<li><code>Debugging in R</code>: Shannon Pileggi shared valuable tips and techniques for troubleshooting and resolving common programming errors.</li>
-</ul>
-<p>Each event was an opportunity to learn new skills, gain fresh perspectives, and connect with a global network of R enthusiasts.</p>
-</section>
-<section id="building-a-thriving-community" class="level4">
-<h4 class="anchored" data-anchor-id="building-a-thriving-community"><strong>Building a Thriving Community</strong></h4>
-<p>R-Ladies Rome is more than just a series of meetups—it’s a growing, inclusive community where members share ideas, ask questions, and support one another. The energy, engagement, and curiosity of our members have made every event special.</p>
-</section>
-<section id="gratitude-for-our-speakers-and-participants" class="level4">
-<h4 class="anchored" data-anchor-id="gratitude-for-our-speakers-and-participants"><strong>Gratitude for Our Speakers and Participants</strong></h4>
-<p>We want to <code>thank our speakers</code>, who generously shared their knowledge and insights, and our members, whose enthusiasm and participation made this year unforgettable.</p>
-<blockquote class="blockquote">
-<p>You are the heart of R-Ladies Rome, and your dedication to learning and collaboration continues to inspire us. THANK YOU 🤗</p>
-</blockquote>
-</section>
-<section id="looking-ahead-to-2025" class="level4">
-<h4 class="anchored" data-anchor-id="looking-ahead-to-2025"><strong>Looking Ahead to 2025</strong></h4>
-<p>We’re kicking off 2025 with an exciting event featuring <strong>Eli Holder</strong> on <strong>Thursday, January 9th</strong>:</p>
-<div class="columns">
-<div class="column">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://rladiesrome.org/blog/posts/12302024/eli-holder.png" class="img-fluid figure-img"></p>
-<figcaption>Eli Holder</figcaption>
-</figure>
-</div>
-</div><div class="column">
-<blockquote class="blockquote">
-<p><strong>Title:</strong> <em>Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead.</em><br>
-<strong>Abstract:</strong> Eli will discuss the social impacts of visualizing inequality and public health disparities, drawing on their research into how common dataviz practices can unintentionally promote harmful misbeliefs. The talk will offer actionable solutions to design impactful and responsible visualizations.</p>
-</blockquote>
-</div>
-</div>
-<p>More interesting events to come:</p>
-<ul>
-<li><code>Introduction to Bayesian Modeling</code>: A session that introduced foundational concepts in Bayesian statistics and demonstrated how to apply them using R.</li>
-<li><code>Data Visualization Best Practices</code>: A workshop on crafting effective visualizations with {ggplot2} and communicating data insights.</li>
-<li><code>Shiny Apps for Interactive Data Exploration:</code> Learn how to build interactive web apps for data analysis with Shiny.</li>
-<li><code>Machine Learning with {tidymodels}</code>: Hands-on exploration of machine learning workflows using the tidymodels framework.</li>
-<li><code>Introduction to Time Series Analysis</code>: Techniques and R tools for analyzing and forecasting time series data.</li>
-</ul>
-<p>Stay tuned for more details and join us for what promises to be an insightful session!</p>
-</section>
-<section id="thank-you-and-happy-holidays" class="level4">
-<h4 class="anchored" data-anchor-id="thank-you-and-happy-holidays"><strong>Thank You and Happy Holidays</strong></h4>
-<p>As we wrap up 2024, we want to express our deepest gratitude to everyone who has been part of R-Ladies Rome’s journey. Thank you for your support, engagement, and contributions.</p>
-<blockquote class="blockquote">
-<p>Let’s continue learning, growing, and building together in 2025. Happy holidays from all of us at R-Ladies Rome! 🎉</p>
-</blockquote>
-<p><em>Stay connected with us on <a href="https://rladiesrome.org">our website</a> and social media for updates on upcoming events. We can’t wait to see you in the new year!</em></p>
-
-
-</section>
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <guid>https://rladiesrome.org/blog/posts/12302024/</guid>
-  <pubDate>Sun, 29 Dec 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://rladiesrome.org/blog/posts/12302024/12302024.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Using GitHub Copilot (and Others LLM) with R</title>
-  <link>https://rladiesrome.org/talks/2024/meetup/12102024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Registered Attendees (146)</p>
-<p>In this hands-on session, <a href="https://yabellini.netlify.app/">Yanina Bellini Saibene</a>, <a href="https://ropensci.org/">rOpenSci</a> Community Manager, demonstrated how GitHub Copilot can enhance productivity in RStudio, helping users code more efficiently with the assistance of large language models (LLMs). She provided practical examples of data wrangling, R package development, and how these tools can be integrated into your own workflows.</p>
-<p>🎬 Missed the live session?</p>
-<p>Don’t worry! The recording is now available. Watch it and learn from Yanina’s expertise on how to leverage AI-powered tools to optimize your R programming experience.</p>
-<p>🌟 What We Learned</p>
-<ul>
-<li>How to integrate GitHub Copilot into your RStudio workflow</li>
-<li>Practical examples of how to use GitHub Copilot for data analysis</li>
-<li>How LLMs can speed up coding tasks and support learning.</li>
-</ul>
-<p>Additionally, Yanina delved into both the opportunities and challenges that come with incorporating LLMs into educational contexts, offering valuable insights into how these tools can support learning and innovation.</p>
-<p>If you’re curious about <strong>how GitHub Copilot can optimize your R programming experience</strong> or want to understand the role of LLMs in data science education, this talk is packed with valuable takeaways.</p>
-<p>Don’t miss this chance to learn from one of the leaders in the open science and data science communities. 🎬 Watch the video now and get started with enhancing your R workflow using AI-powered tools.</p>
-<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_8LAU1Mauc8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>📚 Event Material</p>
-<p>To explore the concepts discussed in the event, here is the material shared by Yanina:</p>
-<p><a href="https://copilotwithr.netlify.app/">https://copilotwithr.netlify.app/</a></p>
-<p>#AI #DataScience #GitHubCopilot #RStats #OpenScience #LearningTogether #RLadiesRome #TechWorkshop #LLM #MachineLearning</p>
-<center>
-<a href="../../../../talks/2024/meetup/11182024/index.html">← Previous event</a> | <a href="../../../../talks/2025/index.html">Next event →</a>
-</center>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>AI</category>
-  <category>Data Science</category>
-  <category>GitHub Copilot</category>
-  <guid>https://rladiesrome.org/talks/2024/meetup/12102024/</guid>
-  <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://secure.meetupstatic.com/photos/event/9/d/e/0/600_524920416.webp?w=750" medium="image"/>
 </item>
 </channel>
 </rss>

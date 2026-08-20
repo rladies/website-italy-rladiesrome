@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-03-20">
-<meta name="description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
+<meta name="dcterms.date" content="2026-06-23">
+<meta name="description" content="In this workshop in partnership with RLadies BA, participants learned how to build reproducible research workflows with R and Quarto, integrating code, results, figures, and narrative into a single document for publishing manuscripts, reports, presentations, and more.">
 
-<title>Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome</title>
+<title>From Data Analysis to Publication: Reproducible Research with R and Quarto – R-Ladies Rome</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,17 +104,17 @@ cookieconsent.run({
 
 
 <link rel="stylesheet" href="../../../new.css">
-<meta property="og:title" content="Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome">
-<meta property="og:description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
-<meta property="og:image" content="https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png">
+<meta property="og:title" content="From Data Analysis to Publication: Reproducible Research with R and Quarto – R-Ladies Rome">
+<meta property="og:description" content="In this workshop in partnership with RLadies BA, participants learned how to build reproducible research workflows with R and Quarto, integrating code, results, figures, and narrative into a single document for publishing manuscripts, reports, presentations, and more.">
+<meta property="og:image" content="https://secure.meetupstatic.com/photos/event/4/9/f/2/highres_534678930.webp?w=1080">
 <meta property="og:site_name" content="R-Ladies Rome">
 <meta property="og:locale" content="en_US">
-<meta property="og:image:alt" content="R-Ladies Rome tutorial on text analysis in R">
-<meta name="twitter:title" content="Text Analysis in R: From tidytext to Local LLMs – R-Ladies Rome">
-<meta name="twitter:description" content="In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.">
-<meta name="twitter:image" content="https://images.lumacdn.com/uploads/j3/8aade9d0-f10f-4010-a04e-0f9e20ebfd18.png">
+<meta property="og:image:alt" content="Workshop on reproducible research with R and Quarto">
+<meta name="twitter:title" content="From Data Analysis to Publication: Reproducible Research with R and Quarto – R-Ladies Rome">
+<meta name="twitter:description" content="In this workshop in partnership with RLadies BA, participants learned how to build reproducible research workflows with R and Quarto, integrating code, results, figures, and narrative into a single document for publishing manuscripts, reports, presentations, and more.">
+<meta name="twitter:image" content="https://secure.meetupstatic.com/photos/event/4/9/f/2/highres_534678930.webp?w=1080">
 <meta name="twitter:creator" content="@rladiesrome">
-<meta name="twitter:image:alt" content="R-Ladies Rome tutorial on text analysis in R">
+<meta name="twitter:image:alt" content="Workshop on reproducible research with R and Quarto">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -216,7 +216,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Text Analysis in R: From tidytext to Local LLMs</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">From Data Analysis to Publication: Reproducible Research with R and Quarto</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -328,31 +328,34 @@ cookieconsent.run({
   <li><a href="#workshop-overview" id="toc-workshop-overview" class="nav-link active" data-scroll-target="#workshop-overview">🧩 Workshop Overview</a></li>
   <li><a href="#recording" id="toc-recording" class="nav-link" data-scroll-target="#recording">🎥 Recording</a></li>
   <li><a href="#what-youll-learn" id="toc-what-youll-learn" class="nav-link" data-scroll-target="#what-youll-learn">🧠 What You’ll Learn</a></li>
-  <li><a href="#resources-materials" id="toc-resources-materials" class="nav-link" data-scroll-target="#resources-materials">📦 Resources &amp; Materials</a></li>
-  <li><a href="#about-the-speaker" id="toc-about-the-speaker" class="nav-link" data-scroll-target="#about-the-speaker">🔊 About the Speaker</a></li>
+  <li><a href="#resources-materials" id="toc-resources-materials" class="nav-link" data-scroll-target="#resources-materials">📦 Resources &amp; Materials</a>
+  <ul class="collapse">
+  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
+  </ul></li>
+  <li><a href="#about-the-speakers" id="toc-about-the-speakers" class="nav-link" data-scroll-target="#about-the-speakers">🔊 About the Speakers</a></li>
   <li><a href="#about-the-tutorial" id="toc-about-the-tutorial" class="nav-link" data-scroll-target="#about-the-tutorial">🔊 About the Tutorial</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/05202026_dariiamykhailyshyna.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/06232026_rladiesba.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Text Analysis in R: From tidytext to Local LLMs</h1>
+<h1 class="title">From Data Analysis to Publication: Reproducible Research with R and Quarto</h1>
 <p class="subtitle lead">R-Ladies Rome Tutorials</p>
   <div class="quarto-categories">
-    <div class="quarto-category">Text Analysis</div>
-    <div class="quarto-category">Natural Language Processing</div>
-    <div class="quarto-category">R Programming</div>
-    <div class="quarto-category">AI</div>
+    <div class="quarto-category">Reproducible Research</div>
+    <div class="quarto-category">Quarto</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">Open Science</div>
     <div class="quarto-category">Tutorial</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    In this workshop, participants were guided through a complete text analysis pipeline in R, combining traditional NLP techniques with modern AI-powered approaches using local LLMs.
+    In this workshop in partnership with RLadies BA, participants learned how to build reproducible research workflows with R and Quarto, integrating code, results, figures, and narrative into a single document for publishing manuscripts, reports, presentations, and more.
   </div>
 </div>
 
@@ -363,7 +366,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 20, 2026</p>
+      <p class="date">June 23, 2026</p>
     </div>
   </div>
   
@@ -375,69 +378,76 @@ cookieconsent.run({
 </header>
 
 
-<p>Registered Attendees (89 on luma.com + 56 on meetup.com)</p>
-<p>Text data is everywhere. From research articles and survey responses to social media posts and customer feedback, much of the information we work with today comes in the form of unstructured text. The challenge is transforming that text into something we can explore, analyze, and ultimately learn from.</p>
-<p>In this R-Ladies Rome workshop, we explored a complete text analysis pipeline in R, moving from traditional Natural Language Processing techniques to modern AI-powered workflows using local Large Language Models.</p>
+<p>Registered Attendees (57+46)</p>
+<p>On June 26, 2026, <strong>R-Ladies Rome</strong> welcomed <strong>Betsabé Cohen</strong> and <strong>Jesica Formoso</strong> from <strong>R-Ladies+ Buenos Aires</strong> for a practical workshop on building reproducible research workflows with <strong>R</strong> and <strong>Quarto</strong>.</p>
+<p>Research today goes far beyond producing results. Analyses evolve, datasets are updated, reviewers request changes, and manuscripts often need to be generated in multiple formats. Keeping code, figures, tables, and written text synchronized can quickly become a challenge when they live in separate files.</p>
+<p>The workshop showed how reproducible workflows address this problem by bringing everything together into a single source document. Rather than copying results into Word documents or presentations manually, participants learned how R and Quarto can automate the entire process, making research easier to maintain, reproduce, and share.</p>
+<p>The central idea running throughout the session was that reproducibility is not simply about sharing code—it is about creating workflows that remain understandable, transparent, and reusable long after the original analysis has been completed.</p>
 <section id="workshop-overview" class="level2">
 <h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
-<p>The session was presented by <strong>Dariia Mykhailyshyna</strong>, who guided participants through a practical workflow for working with text data using R.</p>
-<p>The first part of the workshop focused on classical text analysis techniques. We started by transforming raw text into structured data through tokenization and stopword removal using the <strong>{tidytext}</strong> ecosystem. From there, we explored different ways of understanding text through word frequencies, visualizations, sentiment analysis, topic modeling, and word networks.</p>
-<p>Participants learned how to:</p>
+<p>The workshop introduced Quarto as a publishing system capable of producing multiple outputs from a single source document. Participants saw how code, narrative, figures, tables, and references can coexist naturally within the same project.</p>
+<p>The session started by introducing the basic structure of a Quarto document and explaining how executable code and written text work together. From there, the speakers demonstrated how a single analysis can generate different outputs—including manuscripts, technical reports, presentations, websites, and books—without duplicating work.</p>
+<p>Along the way, participants explored:</p>
 <ul>
-<li>tokenize text using tidytext</li>
-<li>remove standard and custom stopwords</li>
-<li>visualize word frequencies with bar plots and word clouds</li>
-<li>perform dictionary-based sentiment analysis using the AFINN, Bing, and NRC lexicons</li>
-<li>identify latent topics using LDA topic modeling</li>
-<li>explore relationships between words through bigram analysis and network visualizations</li>
+<li>organizing reproducible research projects</li>
+<li>integrating R code directly into reports</li>
+<li>generating figures and tables automatically</li>
+<li>managing citations and bibliographies</li>
+<li>exporting documents to Word, PDF, HTML, and other formats</li>
+<li>publishing research using open-source tools</li>
 </ul>
-<p>The second part of the workshop shifted toward newer AI-powered approaches.</p>
-<p>Using the <strong>{mall}</strong> package together with <strong>Ollama</strong>, we explored how local Large Language Models can be integrated into text analysis workflows. This allowed us to compare traditional lexicon-based sentiment analysis with LLM-generated sentiment classification and discuss the strengths and limitations of each approach.</p>
-<p>The session also introduced additional tasks such as:</p>
-<ul>
-<li>text classification</li>
-<li>entity extraction</li>
-<li>prompt-based text analysis workflows</li>
-</ul>
-<p>This combination of classical NLP and modern AI provided a useful perspective on how text analysis is evolving while still relying on many of the same underlying principles.</p>
+<p>The workshop also generated an engaging discussion around practical research workflows. Participants asked questions about migrating from R Markdown, writing directly for journal submissions, using Quarto with Positron and Visual Studio Code, exporting references from Zotero, and handling figures across different publication formats.</p>
+<p>One of the recurring themes was that reproducibility is not reserved for large research projects. Even relatively small analyses benefit from having a workflow where updating data automatically updates every figure, table, and section of the final document.</p>
 </section>
 <section id="recording" class="level2">
 <h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
 <p>🎬 Watch the Recording</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b8WhdKCkdEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>The recording is suitable both for participants who attended live and for anyone interested in learning how traditional text mining techniques can be combined with modern AI tools.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1jcb_5NMgBU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Whether you attended the workshop live or are discovering it for the first time, the recording provides a practical introduction to modern reproducible research workflows using entirely open-source tools.</p>
 </section>
 <section id="what-youll-learn" class="level2">
 <h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
 <p>By watching the recording, you will learn how to:</p>
 <ul>
-<li>transform raw text into structured data</li>
-<li>perform sentiment analysis using multiple lexicons</li>
-<li>identify themes through topic modeling</li>
-<li>build and visualize word networks</li>
-<li>compare traditional NLP approaches with LLM-based methods</li>
-<li>perform text analysis locally using Ollama and the mall package</li>
+<li>organize reproducible research projects using Quarto</li>
+<li>combine code, narrative, figures, and tables in a single document</li>
+<li>generate manuscripts, reports, presentations, and websites from one source</li>
+<li>manage citations and bibliographies efficiently</li>
+<li>publish research using open-source workflows</li>
+<li>understand how Quarto simplifies maintaining evolving research projects</li>
 </ul>
 </section>
 <section id="resources-materials" class="level2">
 <h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
 <ul>
-<li><a href="https://canva.link/pejrcz51zo83i04">Intro Presentation</a></li>
-<li><a href="https://dariia-m.github.io/r-ladies-rome-text-analysis/text_analysis_r_ladies_rome.html#/title-slide">Workshop Slides</a></li>
+<li><a href="https://canva.link/z0cnvimw9uztqc9">Intro Presentation</a></li>
+<li><a href="https://rladies-ba.github.io/quarto_for_papers/">Workshop Slides</a></li>
+</ul>
+<section id="additional-resources" class="level3">
+<h3 class="anchored" data-anchor-id="additional-resources">Additional Resources</h3>
+<ul>
+<li>Quarto vs R Markdown FAQ: https://quarto.org/docs/faq/rmarkdown.html</li>
+<li>Quarto Manuscripts: https://quarto.org/docs/manuscripts</li>
+<li>Quarto Journals: https://github.com/quarto-journals</li>
+<li>Quarto Publishing: https://quarto.org/docs/publishing/</li>
+<li>Citations in Quarto: https://quarto.org/docs/authoring/citations.html</li>
 </ul>
 </section>
-<section id="about-the-speaker" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
-<p><strong>Dariia Mykhailyshyna</strong> is a data scientist and R enthusiast with a strong interest in Natural Language Processing and applied machine learning. In this workshop, she combined practical examples with modern tooling to demonstrate how text analysis workflows continue to evolve alongside advances in AI.</p>
+</section>
+<section id="about-the-speakers" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speakers">🔊 About the Speakers</h2>
+<p><strong>Betsabé Cohen</strong> is a sociologist from the University of Buenos Aires (UBA), specializing in cultural industries, and a Master’s candidate in Generation and Analysis of Statistical Information at UNTREF. She is a co-organizer of the R-Ladies+ Buenos Aires chapter and actively promotes the use of open-source tools for research and data analysis.</p>
+<p><strong>Jesica Formoso</strong> holds a PhD in Cognitive Psychology and is a researcher at Argentina’s National Scientific and Technical Research Council (CONICET). She specializes in statistics for the health sciences and is a co-organizer of the R-Ladies+ Buenos Aires chapter, where she promotes reproducible analytical workflows for scientific research.</p>
 </section>
 <section id="about-the-tutorial" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-tutorial">🔊 About the Tutorial</h2>
-<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical skills and reproducible workflows for data science.</p>
-<p>As AI-powered tools become increasingly accessible, understanding the foundations of text analysis remains essential. By combining traditional NLP methods with modern LLM-based approaches, participants were able to see both where these techniques come from and where they are heading.</p>
-<p>Thank you to Dariia for sharing her expertise with our community and to everyone who joined the discussion.</p>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical tools that improve the way people work with data.</p>
+<p>Reproducibility has become an essential component of modern research. Beyond improving transparency, reproducible workflows reduce errors, simplify collaboration, and make analyses easier to update as projects evolve.</p>
+<p>By combining R and Quarto, researchers can spend less time formatting documents and more time focusing on the science itself.</p>
+<p>A sincere thank you to Betsabé Cohen and Jesica Formoso for sharing their experience and practical advice, and to everyone who joined us for the lively discussion and thoughtful questions.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
 <center>
-<a href="../../../talks/2026/meetup/03182026_isabellavelasquez.html">← Previous event</a> | <a href="../../../talks/2026/meetup/06232026_rladiesba.html">Next event →</a>
+<a href="../../../talks/2026/meetup/05202026_dariiamykhailyshyna.html">← Previous event</a> | <a href="../../../talks/2026/meetup/08192026_dereksollberger.html">Next event →</a>
 </center>
 
 
@@ -901,7 +911,7 @@ cookieconsent.run({
     </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/05202026_dariiamykhailyshyna.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rladies/website-italy-rladiesrome/edit/main/talks/2026/meetup/06232026_rladiesba.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rladies/website-italy-rladiesrome/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p>This Website is built with ❤️ and <a href="https://quarto.org/">Quarto</a></p>
 </div>

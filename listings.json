@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/talks/2026/meetup/08192026_dereksollberger.html",
+      "/talks/2026/meetup/06232026_rladiesba.html",
       "/talks/2026/meetup/05202026_dariiamykhailyshyna.html",
       "/talks/2026/meetup/03182026_isabellavelasquez.html",
       "/blog/posts/02172026/index.html",
@@ -59,6 +61,8 @@
   {
     "listing": "/talks/2026/index.html",
     "items": [
+      "/talks/2026/meetup/08192026_dereksollberger.html",
+      "/talks/2026/meetup/06232026_rladiesba.html",
       "/talks/2026/meetup/05202026_dariiamykhailyshyna.html",
       "/talks/2026/meetup/03182026_isabellavelasquez.html",
       "/talks/2026/meetup/02162026_priyankaschnell.html",
