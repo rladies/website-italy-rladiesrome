@@ -17,7 +17,107 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 18 Aug 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introduction to Machine Learning in Epidemiology with R</title>
+  <dc:creator>Federica Gazzelloni</dc:creator>
+  <link>https://rladiesrome.org/talks/2026/meetup/09282026_federicagazzelloni.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (54 on Meetup + 72 on Luma)</p>
+<p>On September 28, 2026, <strong>R-Ladies Rome</strong> hosted <strong>Introduction to Machine Learning in Epidemiology with R</strong>, a workshop led by <strong>Federica Gazzelloni</strong>. We began with a deceptively simple question:</p>
+<blockquote class="blockquote">
+<p>How does a machine actually learn from data?</p>
+</blockquote>
+<p>The session moved from the mechanics of learning to a complete machine-learning workflow in R. Along the way, we connected model training and evaluation to the questions that matter when applying predictive methods to epidemiological data.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>The workshop was inspired by Wright et al.’s (2026) chapter <em>Machine Learning in Epidemiology</em>, which introduces supervised and unsupervised learning, tree-based methods, neural networks, model evaluation, hyperparameter optimisation, and interpretable machine learning.</p>
+<p>We started with a simple regression model and gradient descent implemented from scratch in R, then used that foundation to discuss how different model families learn and how the ideas connect to modern machine-learning workflows.</p>
+<p>Throughout the workshop, we returned to four questions:</p>
+<ul>
+<li>What exactly did the model learn?</li>
+<li>Which data did it learn from?</li>
+<li>How was its performance evaluated?</li>
+<li>What conclusions can we legitimately draw from it?</li>
+</ul>
+<p>The central ideas were:</p>
+<ul>
+<li><strong>Learning</strong> is the process through which data determine a model’s parameters or structure.</li>
+<li><strong>Optimisation</strong> searches for parameter values or model configurations that perform well according to an objective.</li>
+<li><strong>Gradient descent</strong> is an optimisation method; it is not a model or a neural network.</li>
+<li><strong>Evaluation</strong> asks whether what a model learned generalises to unseen data.</li>
+<li>Different model families learn in different ways, and learned parameters are distinct from hyperparameters.</li>
+</ul>
+<p>For epidemiological applications, one distinction is especially important: <strong>prediction is not inference, and predictive importance does not imply causation.</strong></p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/v8bx-BYvIZo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>The recording follows the workshop from building a regression model with gradient descent to applying machine-learning workflows in R for epidemiological questions.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording and working through the materials, you will learn how to:</p>
+<ul>
+<li>distinguish a model, its parameters, a loss function, and an optimisation algorithm</li>
+<li>understand what it means for a model to learn from data</li>
+<li>train a linear regression model with gradient descent in R</li>
+<li>interpret learning rates, epochs, and changes in model parameters and loss</li>
+<li>distinguish gradient descent from neural networks and backpropagation</li>
+<li>move from a from-scratch example to an <code>mlr3</code> workflow</li>
+<li>frame machine learning as an epidemiological prediction problem</li>
+<li>evaluate predictive models using resampling and appropriate performance measures</li>
+<li>distinguish prediction and variable importance from causal inference</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://github.com/fgazzelloni/Intro-to-ml-in-epidemiology-with-r/tree/main">Workshop repository on GitHub</a></li>
+<li><a href="https://federicagazzelloni.com/Intro-to-ml-in-epidemiology-with-r/">Workshop materials and interactive application</a></li>
+</ul>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li>Wright et al.&nbsp;(2026), <a href="https://arxiv.org/abs/2602.16352"><em>Machine Learning in Epidemiology</em></a>.</li>
+<li>Federica Gazzelloni (2025), <em>Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R</em>. CRC Press.</li>
+</ul>
+</section>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><strong>Federica Gazzelloni</strong> is an actuary, statistician, data scientist, author, instructor, and organiser of R-Ladies Rome. Her work spans health metrics, statistical and actuarial modelling, machine learning, spatial analysis, and reproducible research. She is the author of <em>Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R</em>, published by CRC Press in 2025.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">💜 About the Tutorial</h2>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical skills, reproducible workflows, and the reasoning behind the tools we use.</p>
+<p>Machine-learning libraries make sophisticated models accessible with only a few lines of code, but that convenience can hide what happens during training. By starting with a line, two parameters, and an error to minimise, we built a mental model for understanding—and questioning—the next <code>train()</code>, <code>fit()</code>, or <code>predict()</code> call.</p>
+<p>Thank you to everyone who joined, asked questions, and coded along with us.</p>
+<p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>.</p>
+<center>
+<a href="../../../talks/2026/meetup/08192026_dereksollberger.html">← Previous event</a> | <a href="../../../talks/2026/index.html">Back to 2026 events</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>R-Ladies Rome</category>
+  <category>Machine Learning</category>
+  <category>Epidemiology</category>
+  <category>R</category>
+  <category>mlr3</category>
+  <category>Gradient Descent</category>
+  <category>Health Data</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/09282026_federicagazzelloni.html</guid>
+  <pubDate>Sun, 27 Sep 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/6/b/e/0/highres_536067616.webp?w=1080" medium="image"/>
+</item>
 <item>
   <title>Typst for Efficient Typesetting</title>
   <link>https://rladiesrome.org/talks/2026/meetup/08192026_dereksollberger.html</link>
@@ -82,7 +182,7 @@
 <p>A sincere thank you to Derek Sollberger for sharing his expertise and enthusiasm with our community, and to everyone who joined us from around the world for another engaging R-Ladies Rome event.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>!</p>
 <center>
-<a href="../../../talks/2026/meetup/06232026_rladiesba.html">← Previous event</a> | <a href="../../../talks/2026/meetup/NextSpeaker.qmd">Next event →</a>
+<a href="../../../talks/2026/meetup/06232026_rladiesba.html">← Previous event</a> | <a href="../../../talks/2026/meetup/09282026_federicagazzelloni.html">Next event →</a>
 </center>
 
 
@@ -1522,58 +1622,6 @@ Figure&nbsp;2: Rome Data Science Networking Event @ INGV
   <guid>https://rladiesrome.org/talks/2025/meetup/02212025_IsabellaVelasquez.html</guid>
   <pubDate>Thu, 20 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://secure.meetupstatic.com/photos/event/8/d/b/2/600_525876274.webp?w=750" medium="image"/>
-</item>
-<item>
-  <title>Deathly Dataviz: How Public Health Dashboards Can Backfire, and What Can We Do Instead</title>
-  <link>https://rladiesrome.org/talks/2025/meetup/01092025_EliHolder.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><code>Registered Attendees (61)</code></p>
-<section id="catch-the-recording-deathly-dataviz" class="level2">
-<h2 class="anchored" data-anchor-id="catch-the-recording-deathly-dataviz">Catch the Recording: <em>Deathly Dataviz</em></h2>
-<p>We’re excited to share that the recording of <a href="https://3iap.com/about/">Eli Holder</a>’s insightful talk, <strong>“Deathly Dataviz: How Public Health Dashboards Can Backfire, and What We Can Do Instead”</strong>, is now available on our YouTube channel!</p>
-<section id="about-the-talk" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-talk">🎙 About the Talk</h3>
-<p>In this thought-provoking session, Eli explores how public health dashboards—while designed to inform—can sometimes lead to unintended social consequences, perpetuating harmful beliefs or behaviors. The talk offers practical tips for designing <strong>equitable and expressive visualizations</strong> that communicate public health data responsibly.</p>
-<section id="key-takeaways" class="level4">
-<h4 class="anchored" data-anchor-id="key-takeaways">Key Takeaways:</h4>
-<ul>
-<li>📊 Understanding how design choices influence societal beliefs.<br>
-</li>
-<li>🌍 Incorporating equity-oriented approaches in public health data visualization.<br>
-</li>
-<li>🛠 Practical tools and techniques for impactful visual communication.</li>
-</ul>
-<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/y1bqK6fnKGY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-</section>
-<section id="about-the-speaker" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-speaker">🧑 💼 About the Speaker</h3>
-<p><a href="https://3iap.com/about/">Eli Holder</a> is a researcher and expert in data visualization, with a focus on the intersection of <strong>equity, public health, and data storytelling</strong>. Their work, including IEEE VIS research, examines how visualizations shape societal beliefs, helping practitioners bridge technical expertise with social responsibility.</p>
-</section>
-<section id="explore-more" class="level3">
-<h3 class="anchored" data-anchor-id="explore-more">📚 Explore More</h3>
-<p>For those eager to dive deeper into the subject, don’t miss this <a href="https://3iap.com/rladies2025">additional material by Eli Holder</a>, where they expand on the strategies and principles covered in the talk.</p>
-<p>Stay tuned for more exciting events and recordings from R-Ladies Rome, and let us know your thoughts in the comments!</p>
-<center>
-<a href="../../../talks/2024/meetup/12102024/index.html">← Previous event</a> | <a href="../../../talks/2025/meetup/02212025_IsabellaVelasquez.html">Next event →</a>
-</center>
-
-
-</section>
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Data Visualization</category>
-  <category>Networking</category>
-  <category>Public Health</category>
-  <guid>https://rladiesrome.org/talks/2025/meetup/01092025_EliHolder.html</guid>
-  <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://secure.meetupstatic.com/photos/event/9/b/b/8/600_525399864.webp?w=750" medium="image"/>
 </item>
 </channel>
 </rss>
