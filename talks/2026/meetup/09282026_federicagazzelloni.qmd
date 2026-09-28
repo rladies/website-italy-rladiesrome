@@ -1,0 +1,96 @@
+---
+title: "Introduction to Machine Learning in Epidemiology with R"
+subtitle: "R-Ladies Rome Tutorials"
+author: "Federica Gazzelloni"
+date: 2026-09-28
+image: "https://secure.meetupstatic.com/photos/event/6/b/e/0/highres_536067616.webp?w=1080"
+image-alt: "R-Ladies Rome workshop on Machine Learning in Epidemiology with R"
+description: "In this workshop, Federica Gazzelloni introduced machine learning in epidemiology, moving from the mechanics of learning to a complete workflow in R, including model evaluation, hyperparameter optimisation, and interpretable machine learning."
+categories:
+  - R-Ladies Rome
+  - Machine Learning
+  - Epidemiology
+  - R
+  - mlr3
+  - Gradient Descent
+  - Health Data
+---
+
+Registered Attendees (54 on Meetup + 72 on Luma)
+
+On September 28, 2026, **R-Ladies Rome** hosted **Introduction to Machine Learning in Epidemiology with R**, a workshop led by **Federica Gazzelloni**. We began with a deceptively simple question:
+
+> How does a machine actually learn from data?
+
+The session moved from the mechanics of learning to a complete machine-learning workflow in R. Along the way, we connected model training and evaluation to the questions that matter when applying predictive methods to epidemiological data.
+
+## 🧩 Workshop Overview
+
+The workshop was inspired by Wright et al.'s (2026) chapter *Machine Learning in Epidemiology*, which introduces supervised and unsupervised learning, tree-based methods, neural networks, model evaluation, hyperparameter optimisation, and interpretable machine learning.
+
+We started with a simple regression model and gradient descent implemented from scratch in R, then used that foundation to discuss how different model families learn and how the ideas connect to modern machine-learning workflows.
+
+Throughout the workshop, we returned to four questions:
+
+- What exactly did the model learn?
+- Which data did it learn from?
+- How was its performance evaluated?
+- What conclusions can we legitimately draw from it?
+
+The central ideas were:
+
+- **Learning** is the process through which data determine a model's parameters or structure.
+- **Optimisation** searches for parameter values or model configurations that perform well according to an objective.
+- **Gradient descent** is an optimisation method; it is not a model or a neural network.
+- **Evaluation** asks whether what a model learned generalises to unseen data.
+- Different model families learn in different ways, and learned parameters are distinct from hyperparameters.
+
+For epidemiological applications, one distinction is especially important: **prediction is not inference, and predictive importance does not imply causation.**
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/v8bx-BYvIZo >}}
+
+The recording follows the workshop from building a regression model with gradient descent to applying machine-learning workflows in R for epidemiological questions.
+
+## 🧠 What You'll Learn
+
+By watching the recording and working through the materials, you will learn how to:
+
+- distinguish a model, its parameters, a loss function, and an optimisation algorithm
+- understand what it means for a model to learn from data
+- train a linear regression model with gradient descent in R
+- interpret learning rates, epochs, and changes in model parameters and loss
+- distinguish gradient descent from neural networks and backpropagation
+- move from a from-scratch example to an `mlr3` workflow
+- frame machine learning as an epidemiological prediction problem
+- evaluate predictive models using resampling and appropriate performance measures
+- distinguish prediction and variable importance from causal inference
+
+## 📦 Resources & Materials
+
+- [Workshop repository on GitHub](https://github.com/fgazzelloni/Intro-to-ml-in-epidemiology-with-r/tree/main)
+- [Workshop materials and interactive application](https://federicagazzelloni.com/Intro-to-ml-in-epidemiology-with-r/)
+
+### References
+
+- Wright et al. (2026), [*Machine Learning in Epidemiology*](https://arxiv.org/abs/2602.16352).
+- Federica Gazzelloni (2025), *Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R*. CRC Press.
+
+## 🔊 About the Speaker
+
+**Federica Gazzelloni** is an actuary, statistician, data scientist, author, instructor, and organiser of R-Ladies Rome. Her work spans health metrics, statistical and actuarial modelling, machine learning, spatial analysis, and reproducible research. She is the author of *Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R*, published by CRC Press in 2025.
+
+## 💜 About the Tutorial
+
+This workshop is part of the **R-Ladies Rome Tutorials** series, where we focus on practical skills, reproducible workflows, and the reasoning behind the tools we use.
+
+Machine-learning libraries make sophisticated models accessible with only a few lines of code, but that convenience can hide what happens during training. By starting with a line, two parameters, and an error to minimise, we built a mental model for understanding—and questioning—the next `train()`, `fit()`, or `predict()` call.
+
+Thank you to everyone who joined, asked questions, and coded along with us.
+
+Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/).
+
+<center>[← Previous event](/talks/2026/meetup/08192026_dereksollberger.qmd) | [Back to 2026 events](/talks/2026/index.qmd)</center>

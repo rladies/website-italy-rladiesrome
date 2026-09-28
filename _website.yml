@@ -87,30 +87,3 @@ website:
         href: index.xml  
     right: |
       This Website is built with ❤️ and [Quarto](https://quarto.org/)
-  sidebar:
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - text: Introduction
-        href: introduction.qmd
-      - text: Blog
-        href: blog/index.qmd
-      - section: "Talks"
-        contents:
-          - talks/index.qmd
-          - text: "2023"
-            href: talks/2023/index.qmd
-          - text: "2024"
-            href: talks/2024/index.qmd
-          - text: "2025"
-            href: talks/2025/index.qmd  
-          - text: "2026"
-            href: talks/2026/index.qmd    
-      - section: "About"
-        contents:      
-          - text: "Organizers"
-            href: about/organizers.qmd    
-          - text: "Sponsors"
-            href: about/sponsors.qmd 
-        
