@@ -24,4 +24,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: e32c31ab-5bec-4112-9765-2c242d781dce
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
