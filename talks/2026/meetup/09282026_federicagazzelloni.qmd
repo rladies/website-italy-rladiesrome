@@ -93,4 +93,4 @@ Thank you to everyone who joined, asked questions, and coded along with us.
 
 Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on [rladiesrome.org](https://rladiesrome.org/).
 
-<center>[← Previous event](/talks/2026/meetup/08192026_dereksollberger.qmd) | [Back to 2026 events](/talks/2026/index.qmd)</center>
+<center>[← Previous event](/talks/2026/meetup/08192026_dereksollberger.qmd) | [Next event →](/talks/2026/meetup/10232026_federicagazzelloni.qmd)</center>

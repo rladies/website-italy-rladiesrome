@@ -1,0 +1,97 @@
+---
+title: "Machine Learning in Epidemiology with R — Part 2"
+subtitle: "R-Ladies Rome Tutorials"
+author: "Federica Gazzelloni"
+date: 2026-10-23
+image: "https://secure.meetupstatic.com/photos/event/b/4/a/5/highres_536566245.webp?w=1080"
+image-alt: "R-Ladies Rome"
+description: "In the second workshop of the series, Federica Gazzelloni explored heart-disease classification in R, moving from saved random forest results to fitting a neural network with Keras and evaluating predictions with mlr3."
+categories:
+  - R-Ladies Rome
+  - Machine Learning
+  - Epidemiology
+  - R
+  - mlr3
+  - Neural Networks
+  - Health Data
+---
+
+Registered Attendees (38 on Meetup + 28 on Luma)
+
+On October 23, 2026, **R-Ladies Rome** hosted **Machine Learning in Epidemiology with R — Part 2**, a workshop led by **Federica Gazzelloni**.
+
+Building on our [September introduction to machine learning](09282026_federicagazzelloni.qmd), this session moved from understanding how models learn to working through a clinical classification problem in R:
+
+> Can clinical measurements help us distinguish patients with and without heart disease?
+
+Using data from 270 patients, the workshop connected saved random forest results with the steps needed to prepare, train, and evaluate a neural network. The task was to classify existing heart disease, rather than predict a future cardiovascular event.
+
+## 🧩 Workshop Overview
+
+The workshop drew on Wright et al.'s (2026) *Machine Learning in Epidemiology* and followed a practical workflow using **R**, **Keras**, and **mlr3**.
+
+We started with the heart dataset and the predictions from a previously fitted random forest. Reading its correct classifications and mistakes gave us a reference for the next model, while keeping the focus on what predictions can tell us about the patients in the test data.
+
+From there, the materials introduced an `mlr3` classification task, reused the saved training and test groups, and prepared numerical inputs for a neural network. The Keras workflow covered building the network, fitting it, and examining training and validation loss before evaluating its predictions with `mlr3`.
+
+Throughout the workflow, we returned to three questions:
+
+- Which data are used to train the model, and which are kept for evaluation?
+- What do changes in training and validation loss tell us?
+- What can we conclude from comparing two models on the same test set?
+
+The comparison provides a worked example, not a general ranking of model families. Scores from one dataset and one split need to be interpreted in that setting, and predictive performance does not establish causation.
+
+## 🎥 Recording
+
+🎬 Watch the Recording
+
+{{< video https://youtu.be/Zi4eCdxLLIo >}}
+
+Follow the recording alongside the teaching notebook to revisit the heart-data example, work through the code, and examine how model training connects to evaluation.
+
+## 🧠 What You'll Learn
+
+By watching the recording and working through the materials, you will learn how to:
+
+- frame heart-disease classification as a supervised learning task
+- read saved random forest predictions and identify classification errors
+- define a classification task and reuse training and test groups with `mlr3`
+- prepare numerical inputs for a neural network
+- build and fit a neural network with Keras in R
+- interpret training and validation loss
+- evaluate predictions and compare results on the same test data
+- recognise the limits of a single model comparison
+
+## 📦 Resources & Materials
+
+- [Workshop repository: both parts, setup instructions, and code](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r)
+- [Part 2 session guide and installation instructions](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/README.md)
+- [Part 2 teaching notebook](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/ml-workflow-2.qmd)
+- [Part 2 presentation (PDF)](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/presentation/updated-workshop/heart-data-neural-networks.pdf)
+- [Data guide and source details](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/data/README.md)
+- [Recorded validation checks and local results](https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/outputs/VALIDATION.md)
+- [Part 1 recap and recording](09282026_federicagazzelloni.qmd)
+
+The Part 2 guide also includes optional follow-up activities on trees and resampling, hyperparameter tuning, and synthetic data. These extend the main lesson for anyone who wants to explore further.
+
+### References
+
+- Wright et al. (2026), [*Machine Learning in Epidemiology*](https://arxiv.org/abs/2602.16352).
+- Federica Gazzelloni (2025), *Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R*. CRC Press.
+
+## 🔊 About the Speaker
+
+**[Federica Gazzelloni](https://federicagazzelloni.com/)** is an actuary, statistician, data scientist, author, instructor, and organiser of R-Ladies Rome. Her work spans health metrics, statistical and actuarial modelling, machine learning, spatial analysis, and reproducible research. She is the author of *Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R*, published by CRC Press in 2025.
+
+## 💜 About the Tutorial
+
+This workshop is part of the **R-Ladies Rome Tutorials** series, where we focus on practical skills, reproducible workflows, and the reasoning behind the tools we use.
+
+Across the two sessions, the aim was to make the learning process easier to follow: from parameters and loss functions to fitting models, reading predictions, and questioning what an evaluation supports. The notebooks and scripts provide a way to revisit each step at your own pace.
+
+Thank you to everyone who joined and learned with us.
+
+Keep learning and exploring, subscribe to our [YouTube channel](https://www.youtube.com/@rladiesrome), and revisit past events on [rladiesrome.org](https://rladiesrome.org/).
+
+<center>[← Previous event](/talks/2026/meetup/09282026_federicagazzelloni.qmd) | [Back to 2026 events](/talks/2026/index.qmd)</center>
