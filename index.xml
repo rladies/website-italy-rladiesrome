@@ -17,7 +17,105 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sun, 27 Sep 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Machine Learning in Epidemiology with R — Part 2</title>
+  <dc:creator>Federica Gazzelloni</dc:creator>
+  <link>https://rladiesrome.org/talks/2026/meetup/10232026_federicagazzelloni.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Registered Attendees (38 on Meetup + 28 on Luma)</p>
+<p>On October 23, 2026, <strong>R-Ladies Rome</strong> hosted <strong>Machine Learning in Epidemiology with R — Part 2</strong>, a workshop led by <strong>Federica Gazzelloni</strong>.</p>
+<p>Building on our <a href="../../../talks/2026/meetup/09282026_federicagazzelloni.html">September introduction to machine learning</a>, this session moved from understanding how models learn to working through a clinical classification problem in R:</p>
+<blockquote class="blockquote">
+<p>Can clinical measurements help us distinguish patients with and without heart disease?</p>
+</blockquote>
+<p>Using data from 270 patients, the workshop connected saved random forest results with the steps needed to prepare, train, and evaluate a neural network. The task was to classify existing heart disease, rather than predict a future cardiovascular event.</p>
+<section id="workshop-overview" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-overview">🧩 Workshop Overview</h2>
+<p>The workshop drew on Wright et al.’s (2026) <em>Machine Learning in Epidemiology</em> and followed a practical workflow using <strong>R</strong>, <strong>Keras</strong>, and <strong>mlr3</strong>.</p>
+<p>We started with the heart dataset and the predictions from a previously fitted random forest. Reading its correct classifications and mistakes gave us a reference for the next model, while keeping the focus on what predictions can tell us about the patients in the test data.</p>
+<p>From there, the materials introduced an <code>mlr3</code> classification task, reused the saved training and test groups, and prepared numerical inputs for a neural network. The Keras workflow covered building the network, fitting it, and examining training and validation loss before evaluating its predictions with <code>mlr3</code>.</p>
+<p>Throughout the workflow, we returned to three questions:</p>
+<ul>
+<li>Which data are used to train the model, and which are kept for evaluation?</li>
+<li>What do changes in training and validation loss tell us?</li>
+<li>What can we conclude from comparing two models on the same test set?</li>
+</ul>
+<p>The comparison provides a worked example, not a general ranking of model families. Scores from one dataset and one split need to be interpreted in that setting, and predictive performance does not establish causation.</p>
+</section>
+<section id="recording" class="level2">
+<h2 class="anchored" data-anchor-id="recording">🎥 Recording</h2>
+<p>🎬 Watch the Recording</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Zi4eCdxLLIo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Follow the recording alongside the teaching notebook to revisit the heart-data example, work through the code, and examine how model training connects to evaluation.</p>
+</section>
+<section id="what-youll-learn" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-learn">🧠 What You’ll Learn</h2>
+<p>By watching the recording and working through the materials, you will learn how to:</p>
+<ul>
+<li>frame heart-disease classification as a supervised learning task</li>
+<li>read saved random forest predictions and identify classification errors</li>
+<li>define a classification task and reuse training and test groups with <code>mlr3</code></li>
+<li>prepare numerical inputs for a neural network</li>
+<li>build and fit a neural network with Keras in R</li>
+<li>interpret training and validation loss</li>
+<li>evaluate predictions and compare results on the same test data</li>
+<li>recognise the limits of a single model comparison</li>
+</ul>
+</section>
+<section id="resources-materials" class="level2">
+<h2 class="anchored" data-anchor-id="resources-materials">📦 Resources &amp; Materials</h2>
+<ul>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r">Workshop repository: both parts, setup instructions, and code</a></li>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/README.md">Part 2 session guide and installation instructions</a></li>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/ml-workflow-2.qmd">Part 2 teaching notebook</a></li>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/presentation/updated-workshop/heart-data-neural-networks.pdf">Part 2 presentation (PDF)</a></li>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/data/README.md">Data guide and source details</a></li>
+<li><a href="https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r/blob/main/part2/outputs/VALIDATION.md">Recorded validation checks and local results</a></li>
+<li><a href="../../../talks/2026/meetup/09282026_federicagazzelloni.html">Part 1 recap and recording</a></li>
+</ul>
+<p>The Part 2 guide also includes optional follow-up activities on trees and resampling, hyperparameter tuning, and synthetic data. These extend the main lesson for anyone who wants to explore further.</p>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li>Wright et al.&nbsp;(2026), <a href="https://arxiv.org/abs/2602.16352"><em>Machine Learning in Epidemiology</em></a>.</li>
+<li>Federica Gazzelloni (2025), <em>Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R</em>. CRC Press.</li>
+</ul>
+</section>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">🔊 About the Speaker</h2>
+<p><strong><a href="https://federicagazzelloni.com/">Federica Gazzelloni</a></strong> is an actuary, statistician, data scientist, author, instructor, and organiser of R-Ladies Rome. Her work spans health metrics, statistical and actuarial modelling, machine learning, spatial analysis, and reproducible research. She is the author of <em>Health Metrics and the Spread of Infectious Diseases: Machine Learning Applications and Spatial Modelling Analysis with R</em>, published by CRC Press in 2025.</p>
+</section>
+<section id="about-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-tutorial">💜 About the Tutorial</h2>
+<p>This workshop is part of the <strong>R-Ladies Rome Tutorials</strong> series, where we focus on practical skills, reproducible workflows, and the reasoning behind the tools we use.</p>
+<p>Across the two sessions, the aim was to make the learning process easier to follow: from parameters and loss functions to fitting models, reading predictions, and questioning what an evaluation supports. The notebooks and scripts provide a way to revisit each step at your own pace.</p>
+<p>Thank you to everyone who joined and learned with us.</p>
+<p>Keep learning and exploring, subscribe to our <a href="https://www.youtube.com/@rladiesrome">YouTube channel</a>, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>.</p>
+<center>
+<a href="../../../talks/2026/meetup/09282026_federicagazzelloni.html">← Previous event</a> | <a href="../../../talks/2026/index.html">Back to 2026 events</a>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>R-Ladies Rome</category>
+  <category>Machine Learning</category>
+  <category>Epidemiology</category>
+  <category>R</category>
+  <category>mlr3</category>
+  <category>Neural Networks</category>
+  <category>Health Data</category>
+  <guid>https://rladiesrome.org/talks/2026/meetup/10232026_federicagazzelloni.html</guid>
+  <pubDate>Thu, 22 Oct 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://secure.meetupstatic.com/photos/event/b/4/a/5/highres_536566245.webp?w=1080" medium="image"/>
+</item>
 <item>
   <title>Introduction to Machine Learning in Epidemiology with R</title>
   <dc:creator>Federica Gazzelloni</dc:creator>
@@ -100,7 +198,7 @@
 <p>Thank you to everyone who joined, asked questions, and coded along with us.</p>
 <p>Keep learning and exploring, subscribe to our YouTube channel, and revisit past events on <a href="https://rladiesrome.org/">rladiesrome.org</a>.</p>
 <center>
-<a href="../../../talks/2026/meetup/08192026_dereksollberger.html">← Previous event</a> | <a href="../../../talks/2026/index.html">Back to 2026 events</a>
+<a href="../../../talks/2026/meetup/08192026_dereksollberger.html">← Previous event</a> | <a href="../../../talks/2026/meetup/10232026_federicagazzelloni.html">Next event →</a>
 </center>
 
 
@@ -1559,69 +1657,6 @@ Figure&nbsp;2: Rome Data Science Networking Event @ INGV
   <guid>https://rladiesrome.org/talks/2025/meetup/03272025_FedericaGazzelloni.html</guid>
   <pubDate>Wed, 26 Mar 2025 23:00:00 GMT</pubDate>
   <media:content url="https://secure.meetupstatic.com/photos/event/3/9/3/6/600_526814646.webp?w=750" medium="image"/>
-</item>
-<item>
-  <title>Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive</title>
-  <link>https://rladiesrome.org/talks/2025/meetup/02212025_IsabellaVelasquez.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><code>Registered Attendees (192)</code></p>
-<section id="catch-the-recording" class="level2">
-<h2 class="anchored" data-anchor-id="catch-the-recording">Catch the Recording</h2>
-<p>We’re excited to share that the recording of <a href="https://www.linkedin.com/in/ivelasq/">Isabella Velásquez</a>’s insightful talk, <strong>“Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive”</strong>, is now available on our YouTube channel!</p>
-<section id="about-the-talk" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-talk">🎙 About the Talk</h3>
-<p>In this session, Isabella explores how <strong>Quarto Live</strong> and <strong>Shinylive</strong> allow data practitioners to create interactive <strong>R, Python, and Shiny applications without requiring a server</strong>. These tools enable seamless collaboration and accessibility for users who may not have R or Python installed.</p>
-<section id="key-takeaways" class="level4">
-<h4 class="anchored" data-anchor-id="key-takeaways">Key Takeaways:</h4>
-<ul>
-<li>🚀 How <strong>Quarto Live</strong> enables interactive code blocks within documents.<br>
-</li>
-<li>🌐 Running <strong>Shiny applications directly in the browser</strong> with Shinylive.<br>
-</li>
-<li>🔧 Practical applications for data science, education, and dashboarding.</li>
-</ul>
-<p>🎬 <code>Watch the Video Now</code> Simply click on the video below to catch up on the discussion:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/59DSo_jjTpI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-</section>
-<section id="about-the-speaker" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-speaker">🧑 💼 About the Speaker</h3>
-<p><a href="https://www.linkedin.com/in/ivelasq/">Isabella Velásquez</a> is the <strong>Senior Product Marketing Manager at Posit PBC</strong>, where she blends <strong>content strategy, data analysis, and programming</strong> to drive engagement in the data science community. Passionate about <strong>open-source</strong>, she actively contributes to making analytical tools more accessible to everyone.</p>
-</section>
-<section id="material-of-the-talk" class="level3">
-<h3 class="anchored" data-anchor-id="material-of-the-talk">Material of the talk</h3>
-<p><a href="https://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser" class="uri">https://ivelasq.github.io/2025-02-21_r-python-shiny-in-the-browser</a></p>
-</section>
-<section id="explore-more" class="level3">
-<h3 class="anchored" data-anchor-id="explore-more">📚 Explore More</h3>
-<p>For additional insights on Quarto Live and Shinylive, check out Isabella’s latest materials and tutorials:</p>
-<ul>
-<li><a href="https://repo.r-wasm.org/" class="uri">https://repo.r-wasm.org/</a></li>
-<li><a href="https://r-universe.dev/search" class="uri">https://r-universe.dev/search</a></li>
-<li><a href="https://docs.r-wasm.org/webr/latest/" class="uri">https://docs.r-wasm.org/webr/latest/</a></li>
-<li><a href="https://quarto.org" class="uri">https://quarto.org</a></li>
-</ul>
-<hr>
-<p>Stay tuned for more exciting events and recordings from R-Ladies Rome! Let us know your thoughts in the comments.</p>
-<center>
-<a href="../../../talks/2025/meetup/01092025_EliHolder.html">← Previous event</a> | <a href="../../../talks/2025/meetup/03272025_FedericaGazzelloni.html">Next event →</a>
-</center>
-
-
-</section>
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Quarto</category>
-  <category>Open Source</category>
-  <category>Shiny</category>
-  <guid>https://rladiesrome.org/talks/2025/meetup/02212025_IsabellaVelasquez.html</guid>
-  <pubDate>Thu, 20 Feb 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://secure.meetupstatic.com/photos/event/8/d/b/2/600_525876274.webp?w=750" medium="image"/>
 </item>
 </channel>
 </rss>
