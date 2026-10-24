@@ -6,6 +6,16 @@ date: 2026-10-23
 image: "https://secure.meetupstatic.com/photos/event/b/4/a/5/highres_536566245.webp?w=1080"
 image-alt: "R-Ladies Rome"
 description: "In the second workshop of the series, Federica Gazzelloni explored heart-disease classification in R, moving from saved random forest results to fitting a neural network with Keras and evaluating predictions with mlr3."
+teaching:
+  presenters:
+    - id: fgazzelloni
+      role: presenter
+  kind: workshop
+  topic: "AI & machine learning"
+  summary: "Read heart-data random forest results, then prepare, fit, and evaluate a neural network with Keras and mlr3."
+  materials:
+    - label: "Workshop guide and code"
+      url: "https://github.com/fgazzelloni/machine-learning-in-epidemiology-with-r"
 categories:
   - R-Ladies Rome
   - Machine Learning
